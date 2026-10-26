@@ -1,0 +1,67 @@
+# Từ vựng chủ đề 07 — Mô tả toà nhà
+# W|ID từ|chữ Hán                         từ thuộc chủ đề (thứ tự = thứ tự nghe)
+# E|ID câu|ID từ|câu|nghĩa Việt|nghĩa Anh|ngữ pháp   câu của từ (sinh bằng scripts/generate.py)
+
+W|T07-001|大楼
+E|07-E001|T07-001|这栋大楼一共有多少层？|Tòa nhà này có tất cả bao nhiêu tầng?|How many floors does this building have in total?|一共有多少…？
+E|07-E002|T07-001|大楼的大厅很干净。|Sảnh của tòa nhà rất sạch.|The lobby of the building is very clean.|名词 + 很 + 形容词
+W|T07-002|栋
+E|07-E003|T07-002|这一栋是写字楼。|Tòa này là cao ốc văn phòng.|This building is an office building.|这 + 量词 + 是…
+E|07-E004|T07-002|那栋大楼有电梯吗？|Tòa nhà kia có thang máy không?|Does that building have an elevator?|有…吗？
+W|T07-003|电梯
+E|07-E005|T07-003|电梯在哪儿？我没看见。|Thang máy ở đâu? Tôi không thấy.|Where is the elevator? I don't see it.|在哪儿？
+E|07-E006|T07-003|请等一下，电梯还没来。|Xin đợi một chút, thang máy chưa đến.|Please wait a moment, the elevator hasn't come yet.|还没…
+W|T07-004|货梯
+E|07-E007|T07-004|货梯在楼的后面。|Thang hàng ở phía sau tòa nhà.|The freight elevator is at the back of the building.|在…后面
+E|07-E008|T07-004|东西太多，用货梯吧。|Đồ nhiều quá, dùng thang hàng đi.|There's too much stuff, let's use the freight elevator.|…吧
+W|T07-005|楼梯
+E|07-E009|T07-005|楼梯在电梯左边。|Cầu thang ở bên trái thang máy.|The stairs are to the left of the elevator.|在…左边
+E|07-E010|T07-005|我走楼梯，不坐电梯。|Tôi đi cầu thang, không đi thang máy.|I'll take the stairs, not the elevator.|不 + 动词
+W|T07-006|写字楼
+E|07-E011|T07-006|这是新的写字楼，很漂亮。|Đây là cao ốc văn phòng mới, rất đẹp.|This is a new office building, very nice.|很 + 形容词
+E|07-E012|T07-006|写字楼里有餐厅吗？|Trong cao ốc văn phòng có nhà ăn không?|Is there a restaurant in the office building?|有…吗？
+W|T07-007|物业
+E|07-E013|T07-007|物业在几楼？我想问一下。|Ban quản lý ở tầng mấy? Tôi muốn hỏi một chút.|Which floor is the property management on? I'd like to ask something.|问一下
+E|07-E014|T07-007|有事可以找物业。|Có việc thì có thể tìm ban quản lý.|If you have an issue, you can contact property management.|可以 + 动词
+W|T07-008|停车位
+E|07-E015|T07-008|地下有停车位吗？|Dưới tầng hầm có chỗ đỗ xe không?|Are there parking spaces underground?|有…吗？
+E|07-E016|T07-008|停车位不多，早点儿来。|Chỗ đỗ xe không nhiều, đến sớm một chút.|There aren't many parking spaces, come a bit earlier.|一点儿
+W|T07-009|地下
+E|07-E017|T07-009|停车位在地下二层。|Chỗ đỗ xe ở tầng hầm thứ hai.|The parking spaces are on the second basement level.|在 + 地点
+E|07-E018|T07-009|地下有电梯吗？|Dưới tầng hầm có thang máy không?|Is there an elevator in the basement?|有…吗？
+W|T07-010|访客
+E|07-E019|T07-010|访客请先登记。|Khách đến thăm vui lòng đăng ký trước.|Visitors please register first.|请先 + động từ
+E|07-E020|T07-010|访客不能坐货梯。|Khách đến thăm không được đi thang máy chở hàng.|Visitors can't take the freight elevator.|不能 + động từ
+W|T07-011|登记
+E|07-E021|T07-011|请在大厅登记一下。|Vui lòng đăng ký ở sảnh một chút.|Please register in the lobby.|động từ + 一下
+E|07-E022|T07-011|你登记了吗？|Bạn đã đăng ký chưa?|Have you registered?|…了吗？
+W|T07-012|大厅
+E|07-E023|T07-012|大厅里有饮水机。|Trong sảnh có máy nước uống.|There's a water dispenser in the lobby.|有
+E|07-E024|T07-012|大厅的玻璃很干净。|Kính ở sảnh rất sạch.|The glass in the lobby is very clean.|很 + tính từ
+W|T07-013|饮水机
+E|07-E025|T07-013|饮水机在走廊旁边。|Máy nước uống ở cạnh hành lang.|The water dispenser is next to the hallway.|在…旁边
+E|07-E026|T07-013|饮水机坏了吗？|Máy nước uống bị hỏng rồi à?|Is the water dispenser broken?|…了吗？
+W|T07-014|玻璃
+E|07-E027|T07-014|这栋楼的玻璃门很安全。|Cửa kính của tòa nhà này rất an toàn.|The glass door of this building is very safe.|这栋楼的 + danh từ
+E|07-E028|T07-014|别靠玻璃太近！|Đừng dựa sát vào kính quá!|Don't lean too close to the glass!|别 + động từ
+W|T07-015|顶楼
+E|07-E029|T07-015|顶楼有餐厅吗？|Tầng thượng có nhà hàng không?|Is there a restaurant on the top floor?|有…吗？
+E|07-E030|T07-015|顶楼的公共区域很大。|Khu vực công cộng ở tầng thượng rất rộng.|The common area on the top floor is very large.|很 + tính từ
+W|T07-016|餐厅
+E|07-E031|T07-016|餐厅在顶楼，你上去吧。|Nhà hàng ở tầng thượng, bạn lên đi.|The restaurant is on the top floor, go up.|在 + 地点
+E|07-E032|T07-016|餐厅旁边有楼梯。|Cạnh nhà hàng có cầu thang.|There are stairs next to the restaurant.|…旁边有…
+W|T07-017|安全出口
+E|07-E033|T07-017|安全出口在走廊左边。|Lối thoát hiểm ở bên trái hành lang.|The emergency exit is on the left side of the corridor.|在 + 方位
+E|07-E034|T07-017|请别在安全出口停车！|Xin đừng đỗ xe ở lối thoát hiểm!|Please don't park at the emergency exit!|别 + động từ
+W|T07-018|走廊
+E|07-E035|T07-018|走廊的灯坏了吗？|Đèn hành lang bị hỏng rồi à?|Is the light in the corridor broken?|…了吗？
+E|07-E036|T07-018|走廊很长，玻璃也很干净。|Hành lang rất dài, kính cũng rất sạch.|The corridor is long, and the glass is clean too.|很 + tính từ
+W|T07-019|楼道
+E|07-E037|T07-019|楼道里请小声一点。|Trong hành lang cầu thang xin nói nhỏ một chút.|Please keep your voice down in the stairwell.|请 + động từ + 一点
+E|07-E038|T07-019|楼道里没有灯，请走楼梯。|Trong hành lang cầu thang không có đèn, xin đi cầu thang bộ.|There are no lights in the stairwell hallway, please use the stairs.|里没有…，请…
+W|T07-020|区域
+E|07-E039|T07-020|这个区域可以停车吗？|Khu vực này có thể đỗ xe không?|Can we park in this area?|可以…吗？
+E|07-E040|T07-020|这个区域不能停车。|Khu vực này không được đỗ xe.|You can't park in this area.|这个 + 名词 + 不能 + 动词
+W|T07-021|公共区域
+E|07-E041|T07-021|公共区域每天有人打扫。|Khu vực chung mỗi ngày đều có người dọn dẹp.|Someone cleans the common areas every day.|有人 + động từ
+E|07-E042|T07-021|请不要在公共区域放东西。|Xin đừng để đồ ở khu vực chung.|Please don't put things in the common areas.|请不要 + động từ

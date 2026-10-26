@@ -1,0 +1,49 @@
+# Chủ đề 02 — mẫu câu
+# S|ID|câu|nghĩa Việt|ngữ pháp   — câu đơn
+# D|ID|người nói|câu|nghĩa Việt|ngữ pháp — hội thoại; các lượt liền nhau là 1 hội thoại, dòng trống để tách
+
+S|02-S01|请把你的银行账号发给我。|Gửi tôi số tài khoản ngân hàng của anh nhé.|把 + tân ngữ + 发给
+S|02-S02|我已经给你转账了。|Tôi đã chuyển khoản cho anh rồi.|已经…了
+S|02-S03|钱到账了吗？|Tiền về tài khoản chưa?|…了吗？
+S|02-S04|我还没收到钱，请你再查一下。|Tôi vẫn chưa nhận được tiền, anh kiểm tra lại giúp.|还没 + động từ
+S|02-S05|转账要手续费吗？|Chuyển khoản có mất phí không?|要 = cần, mất
+S|02-S06|同一个银行转账不收手续费。|Chuyển cùng ngân hàng không thu phí.|不 + động từ
+S|02-S07|我要去银行取钱。|Tôi phải đi ngân hàng rút tiền.|去 + nơi + việc
+S|02-S08|我忘记密码了，怎么办？|Tôi quên mật khẩu rồi, làm sao đây?|怎么办？
+S|02-S09|一般第二天才能到账。|Thường thì hôm sau mới về tài khoản.|才 (mới, muộn)
+S|02-S10|转完账以后，请给我发一张截图。|Chuyển xong thì gửi tôi ảnh chụp màn hình nhé.|động từ + 完 … 以后
+S|02-S11|请再说一遍账号，我记一下。|Đọc lại số tài khoản giúp tôi, tôi ghi lại.|再 + động từ + 一遍
+S|02-S12|收款人的名字是什么？|Tên người nhận là gì?|…是什么？
+S|02-S13|你确认一下名字和账号对不对。|Anh xác nhận lại tên và số tài khoản có đúng không.|确认一下
+S|02-S14|我想在这家银行开一个账户。|Tôi muốn mở một tài khoản ở ngân hàng này.|在 + nơi + động từ
+S|02-S15|开账户需要带护照或者身份证。|Mở tài khoản cần mang hộ chiếu hoặc căn cước.|A 或者 B
+S|02-S16|请先在这张表格上填写你的信息。|Vui lòng điền thông tin của anh vào mẫu này trước.|在…上 + động từ
+S|02-S17|我的银行卡被机器吃了。|Thẻ ngân hàng của tôi bị máy nuốt rồi.|câu bị động 被
+S|02-S18|这张卡每天最多能取多少钱？|Thẻ này mỗi ngày rút tối đa được bao nhiêu?|最多 + 能
+S|02-S19|今天银行几点关门？|Hôm nay ngân hàng mấy giờ đóng cửa?|几点 + động từ
+S|02-S20|周末银行不办理这个业务。|Cuối tuần ngân hàng không làm nghiệp vụ này.|不 + 办理
+S|02-S21|房租请转到房东的账户里。|Tiền thuê nhà xin chuyển vào tài khoản chủ nhà.|转到 + nơi
+S|02-S22|我每个月十号自动转账给房东。|Ngày 10 hằng tháng tôi tự động chuyển khoản cho chủ nhà.|给 + người
+S|02-S23|手机上就可以转账，不用去银行。|Chuyển khoản ngay trên điện thoại, không cần ra ngân hàng.|不用 + động từ
+S|02-S24|这笔钱为什么还没到？|Sao khoản tiền này vẫn chưa đến?|为什么 + 还没
+S|02-S25|可能是网络有问题，你等一会儿再看看。|Có thể mạng có vấn đề, chờ một lát rồi xem lại.|可能 + 是
+S|02-S26|转错账了怎么办？|Chuyển nhầm tài khoản thì làm sao?|động từ + 错
+S|02-S27|你马上给银行打电话。|Anh gọi ngay cho ngân hàng.|给 + người + 打电话
+S|02-S28|我的卡里只剩下五百块了。|Thẻ tôi chỉ còn 500 tệ.|只剩下…了
+S|02-S29|我想把钱存一年。|Tôi muốn gửi tiết kiệm số tiền này một năm.|把 + 钱 + 存 + thời gian
+S|02-S30|请保管好你的银行卡和密码。|Hãy giữ kỹ thẻ ngân hàng và mật khẩu của anh.|động từ + 好
+
+D|02-D1-1|A|钱我已经转过去了，你收到了吗？|Tôi chuyển tiền qua rồi, anh nhận được chưa?|动词 + 过去
+D|02-D1-2|B|还没有，我等一下再查查。|Chưa, lát nữa tôi kiểm tra lại.|等一下 + 再
+
+D|02-D2-1|A|转账要多长时间到账？|Chuyển khoản bao lâu thì về?
+D|02-D2-2|B|同一个银行很快，别的银行可能要一天。|Cùng ngân hàng thì nhanh, ngân hàng khác có thể mất một ngày.|可能 + 要
+
+D|02-D3-1|A|你好，我想开一个账户。|Chào chị, tôi muốn mở một tài khoản.
+D|02-D3-2|B|好的，请给我您的护照，再填一下这张表。|Vâng, anh đưa hộ chiếu, rồi điền giúp mẫu này.|再 = rồi, tiếp đó
+
+D|02-D4-1|A|我转错账了，能取消吗？|Tôi chuyển nhầm rồi, hủy được không?|动词 + 错
+D|02-D4-2|B|已经到账的话就不能取消，你要联系对方。|Nếu tiền đã đến thì không hủy được, anh phải liên hệ bên kia.|…的话
+
+D|02-D5-1|A|请问账号是多少？|Xin hỏi số tài khoản là bao nhiêu?
+D|02-D5-2|B|我发短信给你，这样不会写错。|Tôi nhắn tin cho anh, như vậy không ghi sai.|这样 + 不会

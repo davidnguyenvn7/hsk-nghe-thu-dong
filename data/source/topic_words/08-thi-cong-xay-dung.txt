@@ -1,0 +1,73 @@
+# Từ vựng chủ đề 08 — Thi công xây dựng
+# W|ID từ|chữ Hán                         từ thuộc chủ đề (thứ tự = thứ tự nghe)
+# E|ID câu|ID từ|câu|nghĩa Việt|nghĩa Anh|ngữ pháp   câu của từ (sinh bằng scripts/generate.py)
+
+W|T08-001|施工
+E|08-E001|T08-001|施工的时候要小心一点。|Khi thi công phải cẩn thận một chút.|Be a bit careful during construction.|…的时候
+E|08-E002|T08-001|这里明天开始施工。|Ở đây mai bắt đầu thi công.|Construction starts here tomorrow.|开始 + động từ
+W|T08-002|工人
+E|08-E003|T08-002|工人今天下午会来刷墙。|Chiều nay công nhân sẽ đến sơn tường.|The workers will come to paint the wall this afternoon.|会 + động từ
+E|08-E004|T08-002|工人在铺木地板吗？|Công nhân đang lát sàn gỗ à?|Are the workers laying the wooden floor?|在 + động từ + 吗
+W|H2-417|墙
+E|08-E005|H2-417|这面墙要重新刷一下。|Bức tường này phải sơn lại một chút.|This wall needs to be repainted.|động từ + 一下
+E|08-E006|H2-417|墙上的插座太高了。|Ổ cắm trên tường cao quá.|The socket on the wall is too high.|名词 + 上
+W|T08-004|承重墙
+E|08-E007|T08-004|承重墙不能拆掉。|Tường chịu lực không được đập bỏ.|Load-bearing walls can't be demolished.|不能 + động từ
+E|08-E008|T08-004|那是承重墙，别动！|Đó là tường chịu lực, đừng động vào!|That's a load-bearing wall, don't touch it!|别 + động từ
+W|T08-005|拆
+E|08-E009|T08-005|先别拆，等报价出来。|Đừng tháo vội, đợi báo giá ra đã.|Don't take it apart yet, wait for the quote.|先别…，等…
+E|08-E010|T08-005|这面墙要拆吗？|Bức tường này có phải đập bỏ không?|Does this wall need to be torn down?|要…吗？
+W|T08-006|拆掉
+E|08-E011|T08-006|这面墙可以拆掉吗？|Bức tường này có thể đập bỏ không?|Can this wall be demolished?|可以 + động từ + 吗
+E|08-E012|T08-006|旧的瓷砖都拆掉了。|Gạch ốp cũ đều đã đập bỏ rồi.|All the old tiles have been removed.|都 + 了
+W|T08-007|地板
+E|08-E013|T08-007|地板有点脏，再刷一次。|Sàn hơi bẩn, sơn lại lần nữa.|The floor is a bit dirty, paint it once more.|再 + động từ + 一次
+E|08-E014|T08-007|地板什么时候能完工？|Khi nào sàn có thể hoàn công?|When can the floor be finished?|什么时候 + 能
+W|T08-008|木地板
+E|08-E015|T08-008|我们铺木地板吧。|Chúng ta lát sàn gỗ nhé.|Let's lay wooden flooring.|吧 (đề nghị)
+E|08-E016|T08-008|木地板的人工费贵吗？|Tiền công lát sàn gỗ có đắt không?|Is the labor cost for wooden flooring expensive?|…吗
+W|T08-009|瓷砖
+E|08-E017|T08-009|这种瓷砖多少钱一块？|Loại gạch men này bao nhiêu tiền một viên?|How much is one tile of this kind?|多少钱 + lượng từ
+E|08-E018|T08-009|卫生间的瓷砖还没铺完。|Gạch men nhà vệ sinh vẫn chưa lát xong.|The bathroom tiles aren't finished yet.|还没…完
+W|T08-010|铺
+E|08-E019|T08-010|客厅的地板明天开始铺。|Sàn phòng khách mai bắt đầu lát.|They'll start laying the living room floor tomorrow.|开始 + động từ
+E|08-E020|T08-010|木地板要铺得平一点。|Sàn gỗ phải lát phẳng một chút.|The wooden floor needs to be laid flatter.|động từ + 得 + tính từ + 一点
+W|T08-011|刷
+E|08-E021|T08-011|工人今天在刷第二遍墙。|Hôm nay thợ đang sơn lớp tường thứ hai.|The workers are painting the second coat on the wall today.|在 + động từ
+E|08-E022|T08-011|这面墙刷什么颜色？|Bức tường này sơn màu gì?|What color should we paint this wall?|疑问句：刷 + 什么颜色
+W|T08-012|防水
+E|08-E023|T08-012|防水没做好，以后会麻烦。|Chống thấm không làm tốt, sau này sẽ rắc rối.|If the waterproofing isn't done well, it'll be trouble later.|没…好
+E|08-E024|T08-012|防水做完要通风两天。|Làm xong chống thấm phải thông gió hai ngày.|After waterproofing, it needs two days of ventilation.|động từ + 完 要…
+W|T08-013|报价
+E|08-E025|T08-013|报价里包括材料费吗？|Trong báo giá có gồm tiền vật liệu không?|Does the quote include material costs?|包括…吗
+E|08-E026|T08-013|这个报价太高，能重新算吗？|Báo giá này cao quá, tính lại được không?|This quote is too high; can you recalculate it?|能…吗
+W|T08-014|人工费
+E|08-E027|T08-014|人工费按天算还是按工期算？|Tiền công tính theo ngày hay theo thời gian thi công?|Is labor cost calculated per day or per project duration?|按…还是按…
+E|08-E028|T08-014|人工费涨了，报价也得改。|Tiền công tăng rồi, báo giá cũng phải sửa.|Labor costs went up, so the quote has to change too.|…了，…也得…
+W|T08-015|材料费
+E|08-E029|T08-015|材料费大概占一半。|Tiền vật liệu chiếm khoảng một nửa.|Material costs are about half of it.|大概 + số lượng
+E|08-E030|T08-015|材料费先付，人工费完工再付。|Tiền vật liệu trả trước, tiền công xong việc mới trả.|Pay materials first, labor after completion.|先…再…
+W|T08-016|插座
+E|08-E031|T08-016|厨房要多留两个插座。|Nhà bếp phải để thêm hai ổ cắm.|Leave two extra sockets in the kitchen.|多 + động từ + lượng từ
+E|08-E032|T08-016|插座的位置要重新定一下。|Vị trí ổ cắm phải định lại một chút.|The socket positions need to be set again.|động từ + 一下
+W|T08-017|工期
+E|08-E033|T08-017|这个工期太短，做不完。|Tiến độ thi công này quá ngắn, không làm xong được.|This schedule is too short; it can't be finished.|太…，做不完
+E|08-E034|T08-017|这个工期太短了，工人很累。|Tiến độ thi công này quá ngắn, công nhân rất mệt.|This construction schedule is too short; the workers are very tired.|太…了
+W|T08-018|推迟
+E|08-E035|T08-018|材料没到，开工要推迟。|Vật liệu chưa đến, phải hoãn khởi công.|The materials haven't arrived, so the start has to be postponed.|要 + động từ
+E|08-E036|T08-018|下雨了，铺地板推迟到明天。|Mưa rồi, việc lát sàn lùi sang ngày mai.|It's raining, so laying the floor is postponed to tomorrow.|推迟到…
+W|T08-019|开工
+E|08-E037|T08-019|我们下周一开工，可以吗？|Thứ Hai tuần sau chúng tôi khởi công, được không?|We start work next Monday, is that okay?|可以吗？
+E|08-E038|T08-019|报价定了就马上开工。|Báo giá chốt xong là khởi công ngay.|Once the quote is settled, we'll start right away.|…就马上…
+W|T08-020|完工
+E|08-E039|T08-020|墙刷完就完工了。|Sơn tường xong là hoàn công.|Once the walls are painted, it's finished.|…就…了
+E|08-E040|T08-020|地板铺好就完工了。|Lát xong sàn là hoàn công rồi.|Once the floor is laid, it's finished.|…就…了
+W|T08-021|中期
+E|08-E041|T08-021|中期要检查一下防水。|Giữa kỳ phải kiểm tra chống thấm một chút.|At the mid-stage, we need to check the waterproofing.|要 + động từ + 一下
+E|08-E042|T08-021|中期的人工费先付一半。|Tiền công giữa kỳ trả trước một nửa.|Half of the mid-stage labor cost is paid first.|先 + động từ
+W|T08-022|通风
+E|08-E043|T08-022|刷完墙要通风几天。|Sơn tường xong phải thông gió vài ngày.|After painting the walls, ventilate for a few days.|要 + động từ + 几天
+E|08-E044|T08-022|这里不通风，工人不舒服。|Chỗ này không thông gió, thợ thấy khó chịu.|It's not ventilated here; the workers feel uncomfortable.|不 + động từ
+W|H2-719|重新
+E|08-E045|H2-719|这块瓷砖没铺好，重新铺。|Viên gạch này lát chưa đẹp, lát lại.|This tile isn't laid well; lay it again.|没…好，重新…
+E|08-E046|H2-719|地板拆掉了，要重新铺。|Sàn đã dỡ rồi, phải lát lại.|The floor has been torn up; it needs to be laid again.|要 + động từ

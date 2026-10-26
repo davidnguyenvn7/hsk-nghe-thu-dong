@@ -1,0 +1,49 @@
+# Chủ đề 05 — mẫu câu
+# S|ID|câu|nghĩa Việt|ngữ pháp   — câu đơn
+# D|ID|người nói|câu|nghĩa Việt|ngữ pháp — hội thoại; các lượt liền nhau là 1 hội thoại, dòng trống để tách
+
+S|05-S01|这是一套两室一厅的公寓。|Đây là căn hộ hai phòng ngủ một phòng khách.|…的 + danh từ
+S|05-S02|每个卧室都有空调。|Phòng ngủ nào cũng có máy lạnh.|每…都…
+S|05-S03|厨房比较小，但是很干净。|Bếp hơi nhỏ nhưng rất sạch.|比较 + tính từ，但是…
+S|05-S04|客厅的窗户很大，非常亮。|Cửa sổ phòng khách rất to, rất sáng.|非常 + tính từ
+S|05-S05|房子里有家具吗？|Trong nhà có nội thất không?|nơi + 有…吗？
+S|05-S06|冰箱、洗衣机都是新的。|Tủ lạnh, máy giặt đều mới.|是…的
+S|05-S07|阳台上可以晒衣服。|Trên ban công có thể phơi đồ.|nơi + 上
+S|05-S08|这里的环境很好，晚上也很安静。|Môi trường ở đây tốt, buổi tối cũng yên tĩnh.|也 + tính từ
+S|05-S09|卫生间比卧室小一点儿。|Nhà vệ sinh nhỏ hơn phòng ngủ một chút.|A 比 B + tính từ + 一点儿
+S|05-S10|这套公寓有多少平方米？|Căn hộ này bao nhiêu mét vuông?|有多少 + đơn vị
+S|05-S11|大概八十平方米，有两个卫生间。|Khoảng 80 mét vuông, có hai nhà vệ sinh.|大概 + số
+S|05-S12|主卧室有一个很大的衣柜。|Phòng ngủ chính có một tủ quần áo rất to.|有 + 一个 + tính từ + 的 + danh từ
+S|05-S13|厨房里可以做饭吗？|Trong bếp có nấu ăn được không?|可以 + động từ + 吗
+S|05-S14|这个公寓是朝南的，冬天很暖和。|Căn hộ này hướng nam, mùa đông rất ấm.|是…的；朝 + hướng
+S|05-S15|家具可以留下，也可以搬走。|Nội thất có thể để lại, cũng có thể dọn đi.|也可以
+S|05-S16|沙发有点儿旧，可以换一个吗？|Sofa hơi cũ, có thể đổi cái khác không?|有点儿 + tính từ
+S|05-S17|热水器坏了，不能洗澡。|Bình nóng lạnh hỏng rồi, không tắm được.|…了，不能…
+S|05-S18|小区里有游泳池和健身房。|Trong khu chung cư có hồ bơi và phòng gym.|nơi + 有 A 和 B
+S|05-S19|楼下有超市，买东西很方便。|Dưới lầu có siêu thị, mua đồ rất tiện.|很方便
+S|05-S20|这套房子在十二楼，看得见河。|Căn này ở tầng 12, nhìn thấy sông.|bổ ngữ khả năng 看得见
+S|05-S21|房间里有一点儿味道，要开窗户。|Trong phòng hơi có mùi, phải mở cửa sổ.|有一点儿 + danh từ
+S|05-S22|我喜欢家具少一点儿的房子。|Tôi thích nhà ít đồ đạc một chút.|tính từ + 一点儿的 + danh từ
+S|05-S23|这里的邻居都很友好。|Hàng xóm ở đây đều rất thân thiện.|都 + 很 + tính từ
+S|05-S24|晚上十点以后请不要太吵。|Sau 10 giờ tối xin đừng quá ồn.|不要太 + tính từ
+S|05-S25|垃圾每天早上七点收。|Rác thu lúc 7 giờ sáng mỗi ngày.|thời gian + động từ
+S|05-S26|快递可以放在一楼的保安那儿。|Hàng chuyển phát có thể để ở chỗ bảo vệ tầng 1.|放在 + người + 那儿
+S|05-S27|这个房间适合一个人住。|Phòng này phù hợp cho một người ở.|适合 + động từ
+S|05-S28|窗户外面就是公园，空气很好。|Ngoài cửa sổ là công viên, không khí rất tốt.|就是 (chính là)
+S|05-S29|这套公寓装修得很漂亮。|Căn hộ này trang trí rất đẹp.|动词 + 得 + 很 + tính từ
+S|05-S30|我想找一套带家具的公寓。|Tôi muốn tìm một căn hộ có sẵn nội thất.|带 + danh từ + 的
+
+D|05-D1-1|A|这套公寓有几个房间？|Căn hộ này có mấy phòng?
+D|05-D1-2|B|两室一厅，还有一个小书房。|Hai phòng ngủ một phòng khách, còn có một phòng làm việc nhỏ.|还有
+
+D|05-D2-1|A|家具和电器都包括吗？|Nội thất và đồ điện đều bao gồm chứ?
+D|05-D2-2|B|都包括，您带行李就可以住进来。|Đều bao gồm, anh mang hành lý là dọn vào ở được.|就可以
+
+D|05-D3-1|A|这里晚上吵不吵？|Ở đây buổi tối có ồn không?
+D|05-D3-2|B|不吵，房间不在马路边，很安静。|Không ồn, phòng không sát đường lớn, rất yên tĩnh.|tính từ + 不 + tính từ？
+
+D|05-D4-1|A|洗衣机在哪儿？|Máy giặt ở đâu?
+D|05-D4-2|B|在阳台上，旁边可以晒衣服。|Ở ngoài ban công, bên cạnh phơi đồ được.
+
+D|05-D5-1|A|空调好像不太冷。|Máy lạnh hình như không mát lắm.|好像 + 不太
+D|05-D5-2|B|我明天找人来看一下。|Mai tôi tìm người đến xem.|找人 + 来 + động từ

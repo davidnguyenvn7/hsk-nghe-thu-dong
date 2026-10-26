@@ -1,0 +1,67 @@
+# Từ vựng chủ đề 05 — Căn hộ
+# W|ID từ|chữ Hán                         từ thuộc chủ đề (thứ tự = thứ tự nghe)
+# E|ID câu|ID từ|câu|nghĩa Việt|nghĩa Anh|ngữ pháp   câu của từ (sinh bằng scripts/generate.py)
+
+W|T05-001|公寓
+E|05-E001|T05-001|这个公寓离公司很近。|Căn hộ này rất gần công ty.|This apartment is very close to the company.|离…很近
+E|05-E002|T05-001|你租的公寓有几个卧室？|Căn hộ bạn thuê có mấy phòng ngủ?|How many bedrooms does the apartment you rent have?|有几个…？
+W|T05-002|两室一厅
+E|05-E003|T05-002|我们想租一个两室一厅。|Chúng tôi muốn thuê một căn hai phòng ngủ một phòng khách.|We want to rent a two-bedroom, one-living-room apartment.|想 + 动词
+E|05-E004|T05-002|两室一厅的公寓贵不贵？|Căn hộ hai phòng ngủ một phòng khách có đắt không?|Is a two-bedroom, one-living-room apartment expensive?|…不…
+W|T05-003|卧室
+E|05-E005|T05-003|卧室的窗户太小了。|Cửa sổ phòng ngủ nhỏ quá.|The bedroom window is too small.|太…了
+E|05-E006|T05-003|请把垃圾从卧室拿出来。|Làm ơn mang rác từ phòng ngủ ra ngoài.|Please take the trash out of the bedroom.|把…出来
+W|T05-004|主卧室
+E|05-E007|T05-004|主卧室里有衣柜吗？|Trong phòng ngủ chính có tủ quần áo không?|Is there a wardrobe in the master bedroom?|有…吗？
+E|05-E008|T05-004|主卧室的空调好像坏了。|Máy lạnh phòng ngủ chính hình như hỏng rồi.|The air conditioner in the master bedroom seems broken.|好像…了
+W|T05-005|客厅
+E|05-E009|T05-005|客厅的电器都是新的。|Các thiết bị điện trong phòng khách đều mới.|The appliances in the living room are all new.|都是
+E|05-E010|T05-005|我们在客厅等快递吧。|Chúng ta đợi shipper ở phòng khách nhé.|Let's wait for the delivery in the living room.|在…吧
+W|T05-006|厨房
+E|05-E011|T05-006|厨房的热水器怎么用？|Bình nước nóng trong bếp dùng thế nào?|How do you use the water heater in the kitchen?|怎么用？
+E|05-E012|T05-006|厨房太脏了，冰箱也要洗一下。|Nhà bếp bẩn quá, tủ lạnh cũng phải rửa một chút.|The kitchen is too dirty; the fridge needs cleaning too.|…一下
+W|T05-007|书房
+E|05-E013|T05-007|书房可以当卧室用。|Phòng làm việc có thể dùng làm phòng ngủ.|The study can be used as a bedroom.|可以当…用
+E|05-E014|T05-007|我想在书房放一个衣柜。|Tôi muốn đặt một tủ quần áo trong phòng làm việc.|I want to put a wardrobe in the study.|在…放
+W|T05-008|阳台
+E|05-E015|T05-008|衣服晒在阳台上了。|Quần áo phơi ở ban công rồi.|The clothes are hanging out on the balcony.|在…上
+E|05-E016|T05-008|阳台外面有个游泳池。|Ngoài ban công có một bể bơi.|Outside the balcony there is a swimming pool.|外面有
+W|T05-009|窗户
+E|05-E017|T05-009|卧室的窗户太小了。|Cửa sổ phòng ngủ nhỏ quá.|The bedroom window is too small.|太…了
+E|05-E018|T05-009|请把客厅的窗户关一下。|Làm ơn đóng cửa sổ phòng khách một chút.|Please close the living room window.|把…+ động từ + 一下
+W|T05-010|冰箱
+E|05-E019|T05-010|厨房的冰箱里没有水了。|Trong tủ lạnh ở bếp không còn nước nữa.|There's no water left in the kitchen fridge.|没有…了
+E|05-E020|T05-010|你能把冰箱放到客厅吗？|Bạn có thể đặt tủ lạnh ở phòng khách không?|Can you put the fridge in the living room?|能…吗？
+W|T05-011|衣柜
+E|05-E021|T05-011|主卧室的衣柜很大。|Tủ quần áo ở phòng ngủ chính rất to.|The wardrobe in the master bedroom is very big.|很 + tính từ
+E|05-E022|T05-011|卧室的衣柜太大了，放不下。|Tủ quần áo trong phòng ngủ to quá, không để vừa.|The wardrobe in the bedroom is too big; it won't fit.|太…了
+W|T05-012|热水器
+E|05-E023|T05-012|公寓的热水器坏了。|Bình nóng lạnh của căn hộ bị hỏng rồi.|The apartment's water heater is broken.|坏了
+E|05-E024|T05-012|你帮我看看热水器吧。|Bạn xem giúp tôi cái bình nóng lạnh nhé.|Please take a look at the water heater for me.|帮我 + động từ
+W|T05-013|电器
+E|05-E025|T05-013|这些电器都是新的。|Những đồ điện này đều là đồ mới.|These appliances are all new.|都
+E|05-E026|T05-013|家里的电器不要太多。|Đồ điện trong nhà đừng nhiều quá.|Don't have too many appliances at home.|不要…太多
+W|T05-014|晒
+E|05-E027|T05-014|衣服可以晒在阳台。|Quần áo có thể phơi ở ban công.|You can hang the clothes to dry on the balcony.|可以 + động từ + 在
+E|05-E028|T05-014|今天外面下雨，别晒衣服了。|Hôm nay ngoài trời mưa, đừng phơi quần áo nữa.|It's raining outside today, don't hang clothes out.|别…了
+W|T05-015|小区
+E|05-E029|T05-015|这个小区有健身房吗？|Khu dân cư này có phòng gym không?|Does this residential area have a gym?|有…吗？
+E|05-E030|T05-015|我们小区的邻居都很好。|Hàng xóm trong khu dân cư của chúng tôi đều rất tốt.|The neighbors in our residential area are all very nice.|都 + tính từ
+W|T05-016|游泳池
+E|05-E031|T05-016|小区里有一个游泳池。|Trong khu dân cư có một hồ bơi.|There is a swimming pool in the residential area.|有
+E|05-E032|T05-016|游泳池离公寓远不远？|Hồ bơi cách căn hộ có xa không?|Is the swimming pool far from the apartment?|A 离 B 远不远？
+W|T05-017|健身房
+E|05-E033|T05-017|小区的健身房在几楼？|Phòng gym của khu chung cư ở tầng mấy?|Which floor is the gym in the residential complex on?|在几楼
+E|05-E034|T05-017|我每天去健身房半个小时。|Mỗi ngày tôi đến phòng gym nửa tiếng.|I go to the gym for half an hour every day.|每天 + động từ + thời lượng
+W|T05-018|邻居
+E|05-E035|T05-018|我的邻居很安静，也很好。|Hàng xóm của tôi rất yên tĩnh, cũng rất tốt.|My neighbors are quiet and also very nice.|很…也很…
+E|05-E036|T05-018|你认识楼上的邻居吗？|Bạn có quen hàng xóm ở tầng trên không?|Do you know the neighbors upstairs?|认识…吗？
+W|T05-019|垃圾
+E|05-E037|T05-019|垃圾请放在门外，谢谢！|Rác xin để ngoài cửa, cảm ơn!|Please put the trash outside the door, thanks!|请 + động từ
+E|05-E038|T05-019|客厅的垃圾太多了，你去一下。|Rác ở phòng khách nhiều quá, bạn đi đổ một chút nhé.|There's too much trash in the living room, go take it out.|太…了
+W|T05-020|快递
+E|05-E039|T05-020|你的快递在客厅，看见了吗？|Hàng chuyển phát của bạn ở phòng khách, thấy chưa?|Your package is in the living room, did you see it?|在 + địa điểm
+E|05-E040|T05-020|请帮我拿一下快递，好吗？|Xin giúp tôi lấy hàng chuyển phát một chút, được không?|Could you help me pick up the package?|帮我 + động từ + 一下
+W|T05-021|装修
+E|05-E041|T05-021|楼上的装修太吵了！|Việc sửa sang ở tầng trên ồn quá!|The renovation upstairs is too noisy!|太…了
+E|05-E042|T05-021|我们下个月开始装修公寓。|Tháng sau chúng tôi bắt đầu sửa sang căn hộ.|We'll start renovating the apartment next month.|开始 + động từ

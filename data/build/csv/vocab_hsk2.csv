@@ -1,0 +1,751 @@
+﻿id,chu_han,pinyin,nghia_viet,tu_loai,english,chu_de,vi_du,vi_du_pinyin,vi_du_nghia
+H2-001,啊,a,"à, á (trợ từ cảm thán)","ngữ khí từ, thán từ","modal particle ending sentence, showing affirmation, approval, or consent",,这个房子真大啊！,Zhège fángzi zhēn dà a!,Căn nhà này to thật đấy!
+H2-002,爱情,àiqíng,tình yêu (đôi lứa),danh từ,romance; love (romantic),,这是一个关于爱情的故事。,Zhè shì yí ge guānyú àiqíng de gùshi.,Đây là một câu chuyện về tình yêu.
+H2-003,爱人,àiren,vợ/chồng; người yêu,danh từ,spouse (PRC); lover (non-PRC),,我爱人在银行工作。,Wǒ àiren zài yínháng gōngzuò.,Vợ tôi làm việc ở ngân hàng.
+H2-004,安静,ānjìng,yên tĩnh,tính từ,quiet; peaceful; calm,04 05 06,这个小区晚上很安静。,Zhège xiǎoqū wǎnshang hěn ānjìng.,Khu này buổi tối rất yên tĩnh.
+H2-005,安全,ānquán,an toàn,"danh tính từ, tính từ, phó tính từ, danh từ",safe; secure; safety; security,07 08,这里的停车场很安全。,Zhèlǐ de tíngchēchǎng hěn ānquán.,Bãi đỗ xe ở đây rất an toàn.
+H2-006,白色,báisè,màu trắng,danh từ,white; fig. reactionary; anti-communist,08,办公室的墙是白色的。,Bàngōngshì de qiáng shì báisè de.,Tường văn phòng màu trắng.
+H2-007,班长,bānzhǎng,lớp trưởng; tổ trưởng,danh từ,class monitor; squad leader; team leader,,他是我们的班长。,Tā shì wǒmen de bānzhǎng.,Anh ấy là lớp trưởng của chúng tôi.
+H2-008,办,bàn,"làm, xử lý, giải quyết",động từ,to do; to manage; to handle,02,这件事我明天去办。,Zhè jiàn shì wǒ míngtiān qù bàn.,Việc này mai tôi đi làm.
+H2-009,办法,bànfǎ,"cách, biện pháp",danh từ,means; method; way (of doing sth),,你有什么好办法吗？,Nǐ yǒu shénme hǎo bànfǎ ma?,Anh có cách gì hay không?
+H2-010,办公室,bàngōngshì,văn phòng,danh từ,office; business premises; bureau,03 04 07 08 09 12,我们的办公室在八楼。,Wǒmen de bàngōngshì zài bā lóu.,Văn phòng chúng tôi ở tầng 8.
+H2-011,半夜,bànyè,nửa đêm,từ thời gian,midnight; in the middle of the night,,他半夜才回家。,Tā bànyè cái huíjiā.,Nửa đêm anh ấy mới về nhà.
+H2-012,帮助,bāngzhù,giúp đỡ; sự giúp đỡ,"động từ, danh động từ",assistance; aid; to help; to assist,,谢谢你的帮助。,Xièxie nǐ de bāngzhù.,Cảm ơn sự giúp đỡ của anh.
+H2-013,饱,bǎo,no (ăn no),"tính từ, phó tính từ, động từ",to eat till full; satisfied,,我吃饱了。,Wǒ chī bǎo le.,Tôi ăn no rồi.
+H2-014,报名,bàomíng,đăng ký (ghi danh),"động từ, danh động từ",to sign up; to enter one's name; to apply,,我想报名参加中文课。,Wǒ xiǎng bàomíng cānjiā Zhōngwén kè.,Tôi muốn đăng ký học tiếng Trung.
+H2-015,报纸,bàozhǐ,báo giấy,danh từ,newspaper; newsprint,,爸爸每天早上看报纸。,Bàba měi tiān zǎoshang kàn bàozhǐ.,Bố sáng nào cũng đọc báo.
+H2-016,北方,běifāng,"phương Bắc, miền Bắc","từ nơi chốn, phương vị từ",north; the northern part a country; China north of the Yellow River,,北方的冬天很冷。,Běifāng de dōngtiān hěn lěng.,Mùa đông miền Bắc rất lạnh.
+H2-017,背,bèi,"cõng, đeo (bēi); lưng, học thuộc (bèi)","động từ, danh từ",the back of a body or object; to turn one's back; to hide something from,,这个句子我已经背下来了。,Zhège jùzi wǒ yǐjīng bèi xiàlai le.,Câu này tôi đã học thuộc rồi.
+H2-018,比如,bǐrú,ví dụ như,động từ,for example; for instance; such as,,我喜欢运动，比如跑步和游泳。,"Wǒ xǐhuan yùndòng, bǐrú pǎobù hé yóuyǒng.","Tôi thích thể thao, ví dụ chạy bộ và bơi."
+H2-019,比如说,bǐrúshuō,ví dụ nói,động từ,for example,,比如说，你可以坐地铁去。,"Bǐrúshuō, nǐ kěyǐ zuò dìtiě qù.",Ví dụ như anh có thể đi metro.
+H2-020,笔,bǐ,bút,"lượng từ, danh từ",pen; pencil; writing brush,01 02,你有笔吗？借我用一下。,Nǐ yǒu bǐ ma? Jiè wǒ yòng yí xià.,Anh có bút không? Cho tôi mượn chút.
+H2-021,笔记,bǐjì,ghi chép; vở ghi,danh từ,to take down (in writing); notes; a type of literature consisting mainly of short sketches,,上课的时候要做笔记。,Shàngkè de shíhou yào zuò bǐjì.,Khi học phải ghi chép.
+H2-022,笔记本,bǐjìběn,sổ tay; máy tính xách tay,danh từ,notebook (stationery); notebook (computing),,我的笔记本电脑坏了。,Wǒ de bǐjìběn diànnǎo huài le.,Máy tính xách tay của tôi hỏng rồi.
+H2-023,必须,bìxū,"phải, bắt buộc",phó từ,to have to; must; compulsory,,明天你必须早点儿来。,Míngtiān nǐ bìxū zǎodiǎnr lái.,Mai anh phải đến sớm một chút.
+H2-024,边,biān,"bên, cạnh, mép","k, phó từ, danh từ",side; edge; margin,05 06 07,他坐在我的左边。,Tā zuò zài wǒ de zuǒbian.,Anh ấy ngồi bên trái tôi.
+H2-025,变,biàn,"thay đổi, biến thành",động từ,to change; to become different; to transform,,天气变冷了。,Tiānqì biàn lěng le.,Trời trở lạnh rồi.
+H2-026,变成,biànchéng,"biến thành, trở thành",động từ,to change into; to turn into; to become,,这个房间变成了办公室。,Zhège fángjiān biànchéng le bàngōngshì.,Căn phòng này đã biến thành văn phòng.
+H2-027,便宜,piányi,rẻ,"tính từ, động từ, danh tính từ",cheap; inexpensive; small advantages,03 11 12,这里的房租比较便宜。,Zhèlǐ de fángzū bǐjiào piányi.,Tiền thuê nhà ở đây khá rẻ.
+H2-028,遍,biàn,"lần, lượt (từ đầu đến cuối)","qv, động từ, phó từ, tính từ",variant of 遍,02 08,请再说一遍。,Qǐng zài shuō yí biàn.,Xin nói lại một lần nữa.
+H2-029,表,biǎo,"đồng hồ đeo tay; bảng, biểu","danh từ, g",exterior surface; family relationship via females; to show (one's opinion),02,我的表慢了五分钟。,Wǒ de biǎo màn le wǔ fēnzhōng.,Đồng hồ của tôi chậm 5 phút.
+H2-030,不错,bùcuò,"không tệ, khá tốt",tính từ,correct; right; not bad,,这套房子不错。,Zhè tào fángzi búcuò.,Căn nhà này khá tốt.
+H2-031,不但,bùdàn,không những,liên từ,not only (... but also ...),,这里不但便宜，而且很方便。,"Zhèlǐ búdàn piányi, érqiě hěn fāngbiàn.",Ở đây không những rẻ mà còn tiện.
+H2-032,不够,bùgòu,không đủ,tính từ,not enough; insufficient; inadequate,01 03,钱不够，我们再想想办法。,"Qián búgòu, wǒmen zài xiǎng xiǎng bànfǎ.","Tiền không đủ, chúng ta nghĩ cách khác."
+H2-033,不过,bùguò,nhưng mà; chỉ là,"liên từ, phó từ, trợ từ",only; merely; no more than,,房子很好，不过有点儿远。,"Fángzi hěn hǎo, búguò yǒudiǎnr yuǎn.","Nhà rất tốt, chỉ là hơi xa."
+H2-034,不好意思,bùhǎoyìsi,"ngại quá, xin lỗi","động từ, tính từ",to feel embarrassed; to find it embarrassing; to be sorry (for inconveniencing sb),01,不好意思，我来晚了。,"Bùhǎoyìsi, wǒ lái wǎn le.","Ngại quá, tôi đến muộn."
+H2-035,不久,bùjiǔ,không lâu,"số từ, phó từ, từ thời gian",not long (after); before too long; soon,,不久以后，这里会有地铁站。,"Bùjiǔ yǐhòu, zhèlǐ huì yǒu dìtiězhàn.","Không lâu nữa, ở đây sẽ có ga metro."
+H2-036,不满,bùmǎn,"bất mãn, không hài lòng","danh tính từ, tính từ, động từ",resentful; discontented; dissatisfied,,客人对服务很不满。,Kèrén duì fúwù hěn bùmǎn.,Khách rất không hài lòng với dịch vụ.
+H2-037,不如,bùrú,không bằng,"động từ, liên từ",not equal to; not as good as; inferior to,,坐出租车不如坐地铁快。,Zuò chūzūchē bùrú zuò dìtiě kuài.,Đi taxi không nhanh bằng đi metro.
+H2-038,不少,bùshǎo,"không ít, khá nhiều",số từ,many; a lot; not few,,这个月来看房的人不少。,Zhège yuè lái kànfáng de rén bùshǎo.,Tháng này người đến xem nhà khá nhiều.
+H2-039,不太,bùtài,không… lắm,tên người,Not too,03 05 06 08,这个价格不太合适。,Zhège jiàgé bútài héshì.,Giá này không hợp lý lắm.
+H2-040,不同,bùtóng,khác nhau,"tính từ, danh tính từ",different; distinct; not the same,,两个房间的大小不同。,Liǎng ge fángjiān de dàxiǎo bùtóng.,Hai phòng kích thước khác nhau.
+H2-041,不行,bùxíng,không được,tính từ,won't do; be out of the question; be no good,,今天不行，明天可以吗？,"Jīntiān bùxíng, míngtiān kěyǐ ma?","Hôm nay không được, mai được không?"
+H2-042,不要,bùyào,đừng; không cần,phó từ,don't!; must not,04 05 07 10,不要在这里停车。,Búyào zài zhèlǐ tíngchē.,Đừng đỗ xe ở đây.
+H2-043,不一定,bùyīdìng,chưa chắc,,not necessarily; maybe,,他不一定今天来。,Tā bùyídìng jīntiān lái.,Chưa chắc hôm nay anh ấy đến.
+H2-044,不一会儿,bùyíhuìr,chẳng mấy chốc,quán ngữ,Take a short while,,不一会儿，出租车就来了。,"Bùyíhuìr, chūzūchē jiù lái le.",Chẳng mấy chốc taxi đã đến.
+H2-045,部分,bùfen,"bộ phận, phần","danh từ, số từ",part; share; section,,房租的一部分是物业费。,Fángzū de yíbùfen shì wùyèfèi.,Một phần tiền thuê là phí quản lý.
+H2-046,才,cái,"mới (muộn, ít); tài năng","phó từ, liên từ, danh từ",ability; talent; sb of a certain type; a capable individual,10,他十点才到公司。,Tā shí diǎn cái dào gōngsī.,10 giờ anh ấy mới đến công ty.
+H2-047,菜单,càidān,thực đơn,danh từ,menu,,服务员，请给我菜单。,"Fúwùyuán, qǐng gěi wǒ càidān.","Phục vụ ơi, cho tôi thực đơn."
+H2-048,参观,cānguān,tham quan,"động từ, danh động từ",to look around; to tour; to visit,,我们去参观一下新办公室吧。,Wǒmen qù cānguān yí xià xīn bàngōngshì ba.,Chúng ta đi tham quan văn phòng mới đi.
+H2-049,参加,cānjiā,tham gia,động từ,to participate; to take part; to join,,明天我要参加一个会议。,Míngtiān wǒ yào cānjiā yí ge huìyì.,Mai tôi phải dự một cuộc họp.
+H2-050,草,cǎo,cỏ,danh từ,variant of 草,,公园里的草很绿。,Gōngyuán lǐ de cǎo hěn lǜ.,Cỏ trong công viên rất xanh.
+H2-051,草地,cǎodì,bãi cỏ,danh từ,lawn; meadow; sod,,请不要走草地。,Qǐng búyào zǒu cǎodì.,Xin đừng đi lên bãi cỏ.
+H2-052,层,céng,"tầng, lớp","qv, danh từ",to pile on top of one another; layer; stratum; floor (of a building); story,03 07,这栋楼有二十层。,Zhè dòng lóu yǒu èrshí céng.,Toà nhà này có 20 tầng.
+H2-053,查,chá,"tra, kiểm tra",động từ,to research; to check; to investigate,02,我查一下银行的地址。,Wǒ chá yí xià yínháng de dìzhǐ.,Để tôi tra địa chỉ ngân hàng.
+H2-054,差不多,chàbuduō,"xấp xỉ, gần như",quán ngữ,almost; nearly; more or less,11,两套房子的价格差不多。,Liǎng tào fángzi de jiàgé chàbuduō.,Giá hai căn nhà gần như nhau.
+H2-055,常见,chángjiàn,thường gặp,"tính từ, động từ",commonly seen; common; to see sth frequently,,这个问题很常见。,Zhège wèntí hěn chángjiàn.,Vấn đề này rất thường gặp.
+H2-056,常用,chángyòng,thường dùng,tính từ,in common usage,,这些是常用的词语。,Zhèxiē shì chángyòng de cíyǔ.,Đây là những từ thường dùng.
+H2-057,场,chǎng,"(lượng từ) trận, buổi; bãi, sân","qv, g",large place used for a specific purpose; stage; scene (of a play),,昨天下了一场大雨。,Zuótiān xià le yì chǎng dà yǔ.,Hôm qua mưa một trận lớn.
+H2-058,超过,chāoguò,vượt quá,động từ,to surpass; to exceed; to outstrip,,房租不能超过一万块。,Fángzū bù néng chāoguò yíwàn kuài.,Tiền thuê không được quá 10.000 tệ.
+H2-059,超市,chāoshì,siêu thị,danh từ,supermarket (abbr. for 超级市场),05 06,楼下就有一个超市。,Lóuxià jiù yǒu yí ge chāoshì.,Ngay dưới lầu có một siêu thị.
+H2-060,车辆,chēliàng,xe cộ,danh từ,vehicle,,这条路车辆很多。,Zhè tiáo lù chēliàng hěn duō.,Đường này xe cộ rất nhiều.
+H2-061,称,chēng,gọi là; cân,"động từ, g, danh động từ",to weigh; to state; to name,,大家都称他王老师。,Dàjiā dōu chēng tā wáng lǎoshī.,Mọi người đều gọi anh ấy là thầy Vương.
+H2-062,成,chéng,"thành, trở thành","động từ, lượng từ",surname Cheng,08,他把客厅改成了书房。,Tā bǎ kètīng gǎi chéng le shūfáng.,Anh ấy đổi phòng khách thành phòng làm việc.
+H2-063,成绩,chéngjì,"thành tích, điểm số",danh từ,achievement; performance records; grades,,他的考试成绩很好。,Tā de kǎoshì chéngjì hěn hǎo.,Điểm thi của anh ấy rất tốt.
+H2-064,成为,chéngwéi,trở thành,động từ,to become; to turn into,,她成为了公司的经理。,Tā chéngwéi le gōngsī de jīnglǐ.,Cô ấy đã trở thành giám đốc công ty.
+H2-065,出发,chūfā,"xuất phát, khởi hành",động từ,to set off; to start (on a journey),12,我们早上七点出发。,Wǒmen zǎoshang qī diǎn chūfā.,Chúng ta xuất phát lúc 7 giờ sáng.
+H2-066,出国,chūguó,ra nước ngoài,"động từ, danh động từ",to go abroad; to leave the country,,他明年要出国工作。,Tā míngnián yào chūguó gōngzuò.,Năm sau anh ấy ra nước ngoài làm việc.
+H2-067,出口,chūkǒu,lối ra; xuất khẩu,"động từ, danh động từ",an exit; to speak; to export,06,地铁站有四个出口。,Dìtiězhàn yǒu sì ge chūkǒu.,Ga metro có bốn lối ra.
+H2-068,出门,chūmén,ra khỏi nhà,"động từ, danh động từ",to go out; to leave home; to go on a journey,,出门的时候别忘了带钥匙。,Chūmén de shíhou bié wàng le dài yàoshi.,Ra khỏi nhà đừng quên mang chìa khoá.
+H2-069,出生,chūshēng,sinh ra,"động từ, danh động từ",to be born,,我是在河内出生的。,Wǒ shì zài hé nèi chūshēng de.,Tôi sinh ra ở Hà Nội.
+H2-070,出现,chūxiàn,xuất hiện,"động từ, danh động từ",to appear; to arise; to emerge,,电脑出现了问题。,Diànnǎo chūxiàn le wèntí.,Máy tính xuất hiện vấn đề.
+H2-071,出院,chūyuàn,xuất viện,"động từ, danh động từ",to leave hospital; to be discharged from hospital,,他下个星期可以出院。,Tā xià ge xīngqī kěyǐ chūyuàn.,Tuần sau anh ấy có thể xuất viện.
+H2-072,出租,chūzū,cho thuê,"động từ, danh động từ",to rent,03,这套房子要出租。,Zhè tào fángzi yào chūzū.,Căn nhà này muốn cho thuê.
+H2-073,出租车,chūzūchē,taxi,danh từ,taxi; (Tw) rental car,06 12,我们坐出租车去机场。,Wǒmen zuò chūzūchē qù jīchǎng.,Chúng ta đi taxi ra sân bay.
+H2-074,船,chuán,"thuyền, tàu",danh từ,variant of 船,,我们坐船去那个岛。,Wǒmen zuò chuán qù nàge dǎo.,Chúng ta đi thuyền ra hòn đảo đó.
+H2-075,吹,chuī,thổi,động từ,to blow; to play a wind instrument; to blast,,外面风吹得很大。,Wàimiàn fēng chuī dé hěn dà.,Bên ngoài gió thổi rất mạnh.
+H2-076,春节,chūnjié,Tết Nguyên đán,từ thời gian,Spring Festival (Chinese New Year),,春节的时候，很多人回家。,"Chūnjié de shíhou, hěn duō rén huíjiā.","Dịp Tết, rất nhiều người về quê."
+H2-077,春天,chūntiān,mùa xuân,từ thời gian,spring (season),,春天到了，天气暖和了。,"Chūntiān dào le, tiānqì nuǎnhuo le.","Mùa xuân đến, trời ấm lên."
+H2-078,词,cí,từ,danh từ,old variant of 词,,这个词是什么意思？,Zhège cí shì shénme yìsi?,Từ này nghĩa là gì?
+H2-079,词典,cídiǎn,từ điển,danh từ,dictionary; also written 辞典,,我用手机查词典。,Wǒ yòng shǒujī chá cídiǎn.,Tôi tra từ điển bằng điện thoại.
+H2-080,词语,cíyǔ,từ ngữ,danh từ,word (general term including monosyllables through to short phrases); term (e.g. technical term); expression,,这些词语要记住。,Zhèxiē cíyǔ yào jìzhu.,Những từ ngữ này phải nhớ.
+H2-081,从小,cóngxiǎo,từ nhỏ,phó từ,from childhood; from a young age,,他从小在这里长大。,Tā cóngxiǎo zài zhèlǐ zhǎngdà.,Anh ấy lớn lên ở đây từ nhỏ.
+H2-082,答应,dāying,"đồng ý, nhận lời",động từ,to answer; to respond; to answer positively; to agree; to accept; to promise,,房东答应给我们换空调。,Fángdōng dāying gěi wǒmen huàn kōngtiáo.,Chủ nhà đồng ý thay máy lạnh cho chúng tôi.
+H2-083,打工,dǎgōng,"làm thêm, làm thuê","động từ, danh động từ","to work a temporary or casual job; (of students) to have a job outside of class time, or during vacation",,他周末在饭馆打工。,Tā zhōumò zài fànguǎn dǎgōng.,Cuối tuần anh ấy làm thêm ở quán ăn.
+H2-084,打算,dǎsuàn,dự định,"động từ, danh từ, danh động từ",to plan; to intend; to calculate,03 04,你打算什么时候搬家？,Nǐ dǎsuàn shénme shíhou bānjiā?,Anh định khi nào chuyển nhà?
+H2-085,打印,dǎyìn,in (bằng máy in),"động từ, danh động từ",to affix a seal; to stamp; to print out (with a printer),04 09,请帮我打印这份合同。,Qǐng bāng wǒ dǎyìn zhè fèn hétong.,Làm ơn in giúp tôi bản hợp đồng này.
+H2-086,大部分,dàbùfen,phần lớn,"số từ, danh từ",in large part; the greater part; the majority,,大部分同事都坐地铁上班。,Dàbùfen tóngshì dōu zuò dìtiě shàngbān.,Phần lớn đồng nghiệp đi làm bằng metro.
+H2-087,大大,dàdà,"rất nhiều, hết sức","phó từ, tính từ",greatly; enormously; (dialect) dad,,地铁大大方便了我们的生活。,Dìtiě dàdà fāngbiàn le wǒmen de shēnghuó.,Metro giúp cuộc sống chúng tôi tiện hơn rất nhiều.
+H2-088,大多数,dàduōshù,đa số,số từ,(great) majority,,大多数人同意这个办法。,Dàduōshù rén tóngyì zhège bànfǎ.,Đa số người đồng ý cách này.
+H2-089,大海,dàhǎi,biển cả,danh từ,sea; ocean,,从窗户能看见大海。,Cóng chuānghu néng kànjiàn dàhǎi.,Từ cửa sổ có thể nhìn thấy biển.
+H2-090,大家,dàjiā,mọi người,"đại từ, danh từ",everyone; influential family; great expert,04,大家好，我是新来的。,"Dàjiā hǎo, wǒ shì xīn lái de.","Chào mọi người, tôi là người mới."
+H2-091,大量,dàliàng,số lượng lớn,số từ,great amount; large quantity; bulk,,这个工作需要大量时间。,Zhège gōngzuò xūyào dàliàng shíjiān.,Công việc này cần rất nhiều thời gian.
+H2-092,大门,dàmén,cổng chính,danh từ,"the Doors, US rock band",,大楼的大门晚上十点关。,Dàlóu de dàmén wǎnshang shí diǎn guān.,Cổng chính toà nhà đóng lúc 10 giờ tối.
+H2-093,大人,dàren,người lớn,danh từ,adult; grownup; title of respect toward superiors,,大人和孩子都可以参加。,Dàren hé háizi dōu kěyǐ cānjiā.,Người lớn và trẻ em đều tham gia được.
+H2-094,大声,dàshēng,lớn tiếng,phó từ,loud voice; in a loud voice; loudly,,请不要大声说话。,Qǐng búyào dàshēng shuōhuà.,Xin đừng nói chuyện lớn tiếng.
+H2-095,大小,dàxiǎo,"kích cỡ, to nhỏ",danh từ,dimension; magnitude; size,,这个房间大小正好。,Zhège fángjiān dàxiǎo zhènghǎo.,Phòng này kích cỡ vừa đúng.
+H2-096,大衣,dàyī,áo khoác dài,danh từ,overcoat; topcoat; cloak,,冬天要穿大衣。,Dōngtiān yào chuān dàyī.,Mùa đông phải mặc áo khoác dài.
+H2-097,大自然,dàzìrán,thiên nhiên,danh từ,nature (the natural world),,我喜欢大自然。,Wǒ xǐhuan dàzìrán.,Tôi thích thiên nhiên.
+H2-098,带,dài,"mang, đem; dẫn",động từ,band; belt; girdle,01 02 03 05,看房的时候要带身份证。,Kànfáng de shíhou yào dài shēnfènzhèng.,Khi xem nhà phải mang căn cước.
+H2-099,带来,dàilái,mang đến,động từ,to bring; (fig.) to bring about; to produce,,新地铁给我们带来了方便。,Xīn dìtiě gěi wǒmen dàilái le fāngbiàn.,Metro mới mang lại tiện lợi cho chúng tôi.
+H2-100,单位,dānwèi,đơn vị; cơ quan làm việc,danh từ,"unit (of measure); unit (group of people as a whole); work unit (place of employment, esp. in the PRC prior to economic reform)",,你在哪个单位工作？,Nǐ zài nǎge dānwèi gōngzuò?,Anh làm việc ở cơ quan nào?
+H2-101,但,dàn,nhưng,"liên từ, phó từ",but; yet; however; still; merely; only; just,,房子很新，但有点儿小。,"Fángzi hěn xīn, dàn yǒudiǎnr xiǎo.",Nhà rất mới nhưng hơi nhỏ.
+H2-102,但是,dànshì,nhưng,liên từ,but; however,05 06 11,我想去，但是没有时间。,"Wǒ xiǎng qù, dànshì méiyǒu shíjiān.",Tôi muốn đi nhưng không có thời gian.
+H2-103,蛋,dàn,trứng,danh từ,variant of 蜑,,早上我吃了两个鸡蛋。,Zǎoshang wǒ chī le liǎng ge jīdàn.,Sáng nay tôi ăn hai quả trứng.
+H2-104,当,dāng,"làm, đảm nhiệm; khi","giới từ, động từ",(onom.) dong; ding dong (bell),05,他想当老师。,Tā xiǎng dāng lǎoshī.,Anh ấy muốn làm giáo viên.
+H2-105,当时,dāngshí,lúc đó,từ thời gian,then; at that time; while,,当时我还不懂中文。,Dāngshí wǒ hái bù dǒng Zhōngwén.,Lúc đó tôi chưa biết tiếng Trung.
+H2-106,到处,dàochù,khắp nơi,phó từ,everywhere,,周末商场里到处都是人。,Zhōumò shāngchǎng lǐ dàochù dōu shì rén.,Cuối tuần trong trung tâm thương mại chỗ nào cũng là người.
+H2-107,倒,dǎo,"đổ, ngã (dǎo); rót, đảo ngược (dào)","động từ, phó từ",to fall; to collapse; to lie horizontally; to fail; to go bankrupt; to overthrow,,大风把树吹倒了。,Dà fēng bǎ shù chuī dào le.,Gió lớn thổi đổ cây rồi.
+H2-108,道,dào,"con đường; (lượng từ) đạo, món","qv, danh từ, động từ",road; path; principle,,这道菜很好吃。,Zhè dào cài hěn hǎochī.,Món này rất ngon.
+H2-109,道理,dàoli,"đạo lý, lý lẽ",danh từ,reason; argument; sense,,你说的很有道理。,Nǐ shuō de hěn yǒu dàoli.,Anh nói rất có lý.
+H2-110,道路,dàolù,đường sá,danh từ,road; path; way,,这条道路正在修。,Zhè tiáo dàolù zhèngzài xiū.,Con đường này đang sửa.
+H2-111,地球,dìqiú,trái đất,danh từ,the earth,,我们要保护地球。,Wǒmen yào bǎohù dìqiú.,Chúng ta phải bảo vệ trái đất.
+H2-112,地铁,dìtiě,"tàu điện ngầm, metro",danh từ,underground railway; subway; subway train,06 12,我每天坐地铁上班。,Wǒ měi tiān zuò dìtiě shàngbān.,Hằng ngày tôi đi metro đi làm.
+H2-113,地铁站,dìtiězhàn,ga metro,danh từ,subway station,06,地铁站就在公司对面。,Dìtiězhàn jiù zài gōngsī duìmiàn.,Ga metro ở ngay đối diện công ty.
+H2-114,的话,dehuà,nếu… thì,trợ từ,if (coming after a conditional clause),02 03 08 09,有问题的话，给我打电话。,"Yǒu wèntí dehuà, gěi wǒ dǎdiànhuà.",Nếu có vấn đề thì gọi cho tôi.
+H2-115,得,de,(trợ từ bổ ngữ) de; được (dé); phải (děi),"trợ từ, động từ","structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc",03 04 05 08 09 10 12,他中文说得很好。,Tā Zhōngwén shuō dé hěn hǎo.,Anh ấy nói tiếng Trung rất giỏi.
+H2-116,得出,déchū,rút ra (kết luận),động từ,to obtain (a result); to arrive at (a conclusion),,我们得出了一个结果。,Wǒmen déchū le yí ge jiéguǒ.,Chúng tôi rút ra được một kết quả.
+H2-117,灯,dēng,đèn,danh từ,lamp; light; lantern,04 07 08 09 12,请把灯打开。,Qǐng bǎ dēng dǎkāi.,Làm ơn bật đèn lên.
+H2-118,等到,děngdào,đợi đến khi,động từ,to wait until; by the time when (sth is ready etc),,等到下班以后再说吧。,Děngdào xiàbān yǐhòu zài shuō ba.,Đợi đến lúc tan làm rồi nói nhé.
+H2-119,等于,děngyú,"bằng, tương đương",động từ,to equal; to be tantamount to,,一千米等于一公里。,Yìqiān mǐ děngyú yì gōnglǐ.,Một nghìn mét bằng một kilômét.
+H2-120,低,dī,thấp,"tính từ, phó tính từ, động từ",low; beneath; to lower (one's head),11,这里的房租比市中心低。,Zhèlǐ de fángzū bǐ shìzhōngxīn dī.,Tiền thuê ở đây thấp hơn trung tâm.
+H2-121,点头,diǎntóu,gật đầu,động từ,to nod,,他点头说可以。,Tā diǎntóu shuō kěyǐ.,Anh ấy gật đầu nói được.
+H2-122,店,diàn,"cửa hàng, tiệm",danh từ,inn; old-style hotel; (bound form) shop; store,01 06,楼下新开了一家咖啡店。,Lóuxià xīn kāi le yì jiā kāfēi diàn.,Dưới lầu mới mở một quán cà phê.
+H2-123,掉,diào,"rơi, rớt; mất",động từ,to fall; to drop; to lag behind,,我的手机掉在出租车上了。,Wǒ de shǒujī diào zài chūzūchē shàng le.,Điện thoại tôi rơi trên taxi rồi.
+H2-124,东北,dōngběi,đông bắc,từ nơi chốn,Northeast China; Manchuria,,他是东北人。,Tā shì dōngběi rén.,Anh ấy là người Đông Bắc.
+H2-125,东方,dōngfāng,phương Đông,"từ nơi chốn, phương vị từ",the East; the Orient; two-character surname Dongfang,,太阳从东方出来。,Tàiyang cóng dōngfāng chūlái.,Mặt trời mọc từ phương Đông.
+H2-126,东南,dōngnán,đông nam,phương vị từ,southeast,,越南在中国的东南方。,Yuè nán zài Zhōngguó de dōngnánfāng.,Việt Nam ở phía đông nam Trung Quốc.
+H2-127,冬天,dōngtiān,mùa đông,từ thời gian,winter,05,冬天这里不太冷。,Dōngtiān zhèlǐ bútài lěng.,Mùa đông ở đây không lạnh lắm.
+H2-128,懂,dǒng,hiểu,động từ,to understand; to comprehend,,你懂我的意思吗？,Nǐ dǒng wǒ de yìsi ma?,Anh hiểu ý tôi không?
+H2-129,懂得,dǒngde,"hiểu, biết",động từ,to understand; to know; to comprehend,,他懂得怎么跟客人说话。,Tā dǒngde zěnme gēn kèrén shuōhuà.,Anh ấy biết cách nói chuyện với khách.
+H2-130,动物,dòngwù,động vật,danh từ,animal,,这个公寓不能养动物。,Zhège gōngyù bù néng yǎng dòngwù.,Căn hộ này không được nuôi động vật.
+H2-131,动物园,dòngwùyuán,vườn thú,danh từ,zoo,,周末我们去动物园吧。,Zhōumò wǒmen qù dòngwùyuán ba.,Cuối tuần mình đi sở thú nhé.
+H2-132,读音,dúyīn,"cách đọc, âm đọc",danh từ,pronunciation; literary (rather than colloquial) pronunciation of a Chinese character,,这个字的读音是什么？,Zhège zì de dúyīn shì shénme?,Chữ này đọc thế nào?
+H2-133,度,dù,"độ (nhiệt độ, góc)","qv, động từ, g",to pass; to spend (time); measure,,今天三十五度，很热。,"Jīntiān sānshíwǔ dù, hěn rè.","Hôm nay 35 độ, rất nóng."
+H2-134,短,duǎn,ngắn,tính từ,short; brief; to lack,08,这条路很短。,Zhè tiáo lù hěn duǎn.,Con đường này rất ngắn.
+H2-135,短信,duǎnxìn,tin nhắn SMS,,text message; SMS,02,我给你发短信。,Wǒ gěi nǐ fā duǎnxìn.,Tôi nhắn tin cho anh.
+H2-136,段,duàn,"đoạn, khúc","lượng từ, g",surname Duan,,这段路经常堵车。,Zhè duàn lù jīngcháng dǔchē.,Đoạn đường này thường kẹt xe.
+H2-137,队,duì,đội,"danh từ, lượng từ",squadron; team; group,,我们队有十个人。,Wǒmen duì yǒu shí gerén.,Đội chúng tôi có mười người.
+H2-138,队长,duìzhǎng,đội trưởng,danh từ,captain; team leader,,他是我们的队长。,Tā shì wǒmen de duìzhǎng.,Anh ấy là đội trưởng của chúng tôi.
+H2-139,对话,duìhuà,đối thoại,"danh động từ, động từ",to talk (with sb); dialogue; conversation,,请听下面的对话。,Qǐng tīng xiàmiàn de duìhuà.,Hãy nghe đoạn hội thoại sau.
+H2-140,对面,duìmiàn,đối diện,"phương vị từ, danh từ, động từ",(sitting) opposite; across (the street); directly in front,06,银行在超市对面。,Yínháng zài chāoshì duìmiàn.,Ngân hàng ở đối diện siêu thị.
+H2-141,多久,duōjiǔ,bao lâu,"đại từ, tính từ",(of time) how long?; (not) a long time,,你在这里住了多久？,Nǐ zài zhèlǐ zhù le duōjiǔ?,Anh sống ở đây bao lâu rồi?
+H2-142,多么,duōme,"biết bao, thật là","phó từ, tính từ",how (wonderful etc); what (a great idea etc); however (difficult it may be etc),,这里的风景多么美啊！,Zhèlǐ de fēngjǐng duōme měi a!,Phong cảnh ở đây đẹp biết bao!
+H2-143,多数,duōshù,đa số,số từ,majority; most,,多数房间都有窗户。,Duōshù fángjiān dōu yǒu chuānghu.,Đa số các phòng đều có cửa sổ.
+H2-144,多云,duōyún,nhiều mây,,cloudy (meteorology),,明天多云。,Míngtiān duōyún.,Ngày mai nhiều mây.
+H2-145,而且,érqiě,"mà còn, hơn nữa",liên từ,(not only ...) but also; moreover; in addition,,这个办公室很大，而且很便宜。,"Zhège bàngōngshì hěn dà, érqiě hěn piányi.","Văn phòng này rộng, hơn nữa còn rẻ."
+H2-146,发,fā,"gửi, phát","động từ, lượng từ",to send out; to show (one's feeling); to issue,02 04 06 10,请把合同发到我的邮箱。,Qǐng bǎ hétong fā dào wǒ de yóuxiāng.,Gửi hợp đồng vào hộp thư của tôi nhé.
+H2-147,发现,fāxiàn,phát hiện,"động từ, danh động từ",to notice; to become aware of; to discover; to find; to detect; a discovery,,我发现房间里有问题。,Wǒ fāxiàn fángjiān lǐ yǒu wèntí.,Tôi phát hiện trong phòng có vấn đề.
+H2-148,饭馆,fànguǎn,"quán ăn, nhà hàng",danh từ,restaurant,06,公司附近有很多饭馆。,Gōngsī fùjìn yǒu hěn duō fànguǎn.,Gần công ty có rất nhiều quán ăn.
+H2-149,方便,fāngbiàn,thuận tiện,"động từ, tính từ, danh tính từ",convenient; suitable; to facilitate,01 03 05 06 12,住在这里买东西很方便。,Zhù zài zhèlǐ mǎi dōngxī hěn fāngbiàn.,Sống ở đây mua sắm rất tiện.
+H2-150,方便面,fāngbiànmiàn,mì ăn liền,danh từ,instant noodles,,我晚上吃了一包方便面。,Wǒ wǎnshang chī le yì bāo fāngbiànmiàn.,Tối qua tôi ăn một gói mì tôm.
+H2-151,方法,fāngfǎ,phương pháp,danh từ,method; way; means,,这个方法很好。,Zhège fāngfǎ hěn hǎo.,Phương pháp này rất tốt.
+H2-152,方面,fāngmiàn,"phương diện, mặt",danh từ,respect; aspect; field,,在价格方面，我们可以商量。,"Zài jiàgé fāngmiàn, wǒmen kěyǐ shāngliang.","Về mặt giá cả, chúng ta có thể bàn."
+H2-153,方向,fāngxiàng,phương hướng,danh từ,direction; orientation,,地铁站在哪个方向？,Dìtiězhàn zài nǎge fāngxiàng?,Ga metro ở hướng nào?
+H2-154,放下,fàngxià,"đặt xuống, bỏ xuống",động từ,to lay down; to put down; to let go of,,请把箱子放下。,Qǐng bǎ xiāngzi fàngxià.,Làm ơn đặt thùng xuống.
+H2-155,放心,fàngxīn,yên tâm,"động từ, danh động từ",to feel relieved; to feel reassured; to be at ease,,你放心，我会准时到。,"Nǐ fàngxīn, wǒ huì zhǔn shí dào.","Anh yên tâm, tôi sẽ đến đúng giờ."
+H2-156,分开,fēnkāi,"tách ra, chia ra","động từ, danh động từ",to separate; to part,08,这两个房间要分开租。,Zhè liǎng ge fángjiān yào fēnkāi zū.,Hai phòng này phải thuê riêng.
+H2-157,分数,fēnshù,điểm số,danh từ,(exam) grade; mark; score,,考试分数出来了。,Kǎoshì fēnshù chūlái le.,Điểm thi có rồi.
+H2-158,分钟,fēnzhōng,phút,qt,minute,04 06 12,走路十分钟就到。,Zǒulù shí fēnzhōng jiù dào.,Đi bộ 10 phút là tới.
+H2-159,份,fèn,"phần, suất; (lượng từ) bản, tờ",lượng từ,"classifier for gifts, newspaper, magazine, papers, reports, contracts etc; variant of 分",,请准备两份合同。,Qǐng zhǔnbèi liǎng fèn hétong.,Xin chuẩn bị hai bản hợp đồng.
+H2-160,封,fēng,(lượng từ) bức (thư); niêm phong,"lượng từ, động từ, g",surname Feng,,我给房东写了一封信。,Wǒ gěi fángdōng xiě le yì fēng xìn.,Tôi đã viết một bức thư cho chủ nhà.
+H2-161,服务,fúwù,"phục vụ, dịch vụ","danh động từ, động từ",to serve; service,,这家酒店的服务很好。,Zhè jiā jiǔdiàn de fúwù hěn hǎo.,Dịch vụ của khách sạn này rất tốt.
+H2-162,复习,fùxí,ôn tập,"động từ, danh động từ",to review; revision,,今天晚上我要复习生词。,Jīntiān wǎnshang wǒ yào fùxí shēngcí.,Tối nay tôi phải ôn từ mới.
+H2-163,该,gāi,"nên, phải; đến lượt","động từ, đại từ",should; ought to; probably,,你该交房租了。,Nǐ gāi jiāo fángzū le.,Anh đến lúc phải đóng tiền nhà rồi.
+H2-164,改,gǎi,"sửa, đổi",động từ,to change; to alter; to transform,04 08,合同上的日期要改一下。,Hétong shàng de rìqī yào gǎi yí xià.,Ngày tháng trong hợp đồng cần sửa lại.
+H2-165,改变,gǎibiàn,thay đổi,"động từ, danh động từ",to change; to alter; to transform,,我们改变了计划。,Wǒmen gǎibiàn le jìhuà.,Chúng tôi đã thay đổi kế hoạch.
+H2-166,感到,gǎndào,cảm thấy,động từ,to feel; to sense; to perceive,,我感到很累。,Wǒ gǎndào hěn lèi.,Tôi cảm thấy rất mệt.
+H2-167,感动,gǎndòng,cảm động,"động từ, tính từ, danh động từ, danh tính từ",to move (sb); to touch (sb emotionally); moving,,他的话让我很感动。,Tā dehuà ràng wǒ hěn gǎndòng.,Lời anh ấy làm tôi rất cảm động.
+H2-168,感觉,gǎnjué,cảm giác; cảm thấy,"danh từ, động từ",feeling; impression; sensation; to feel; to perceive,,我感觉这个价格有点儿高。,Wǒ gǎnjué zhège jiàgé yǒudiǎnr gāo.,Tôi cảm thấy giá này hơi cao.
+H2-169,感谢,gǎnxiè,"cảm ơn, biết ơn","động từ, danh động từ",(express) thanks; gratitude; grateful,,感谢你的帮助。,Gǎnxiè nǐ de bāngzhù.,Cảm ơn sự giúp đỡ của anh.
+H2-170,干杯,gānbēi,cạn ly,động từ,to drink a toast; Cheers! (proposing a toast); Here's to you!,,为我们的合作干杯！,Wèi wǒmen de hézuò gānbēi!,Cạn ly vì sự hợp tác của chúng ta!
+H2-171,干活儿,gànhuór,làm việc (tay chân),động từ,erhua variant of 干活; (coll.) to work; (coll.) to be employed,,工人们正在干活儿。,Gōngrén men zhèngzài gànhuór.,Các công nhân đang làm việc.
+H2-172,刚,gāng,vừa mới,"phó từ, g",hard; firm; strong,07,我刚到公司。,Wǒ gāng dào gōngsī.,Tôi vừa đến công ty.
+H2-173,刚才,gāngcái,vừa nãy,từ thời gian,just now; a moment ago,09,刚才有人找你。,Gāngcái yǒurén zhǎo nǐ.,Vừa nãy có người tìm anh.
+H2-174,刚刚,gānggang,vừa mới,phó từ,just recently; just a moment ago,,房东刚刚给我打电话了。,Fángdōng gānggang gěi wǒ dǎdiànhuà le.,Chủ nhà vừa mới gọi cho tôi.
+H2-175,高级,gāojí,cao cấp,tính từ,high level; high grade; advanced,,这是一个高级公寓。,Zhè shì yí ge gāojí gōngyù.,Đây là một căn hộ cao cấp.
+H2-176,高中,gāozhōng,trung học phổ thông,danh từ,senior high school; abbr. for 高级中学,,我弟弟在上高中。,Wǒ dìdi zài shàng gāozhōng.,Em trai tôi đang học cấp ba.
+H2-177,个子,gèzi,"vóc dáng, chiều cao",danh từ,height; stature; build,,他个子很高。,Tā gèzi hěn gāo.,Anh ấy người rất cao.
+H2-178,更,gèng,"càng, hơn nữa",phó từ,more; even more; further,04 08 11 12,这套比那套更好。,Zhè tào bǐ nà tào gèng hǎo.,Căn này tốt hơn căn kia.
+H2-179,公共汽车,gōnggòngqìchē,xe buýt,,bus,12,我坐公共汽车回家。,Wǒ zuò gōnggòngqìchē huíjiā.,Tôi đi xe buýt về nhà.
+H2-180,公交车,gōngjiāochē,xe buýt,,public transport vehicle; town bus,12,公交车站就在前面。,Gōngjiāochēzhàn jiù zài qiánmiàn.,Trạm xe buýt ở ngay phía trước.
+H2-181,公斤,gōngjīn,kilôgam,lượng từ,kilogram (kg),,这个箱子有二十公斤。,Zhège xiāngzi yǒu èrshí gōngjīn.,Thùng này nặng 20 kg.
+H2-182,公里,gōnglǐ,kilômét,"lượng từ, danh từ",kilometer,06 10,公司离我家五公里。,Gōngsī lí wǒ jiā wǔ gōnglǐ.,Công ty cách nhà tôi 5 km.
+H2-183,公路,gōnglù,"quốc lộ, đường cái",danh từ,highway; road,,这条公路通到机场。,Zhè tiáo gōnglù tōng dào jīchǎng.,Con đường này dẫn tới sân bay.
+H2-184,公平,gōngpíng,công bằng,"tính từ, phó tính từ, danh tính từ",fair; impartial,11,这个价格很公平。,Zhège jiàgé hěn gōngpíng.,Giá này rất công bằng.
+H2-185,公司,gōngsī,công ty,danh từ,company; firm; corporation,01 02 03 04 05 06 07 09 10 11 12,我们公司在市中心。,Wǒmen gōngsī zài shìzhōngxīn.,Công ty chúng tôi ở trung tâm thành phố.
+H2-186,公园,gōngyuán,công viên,danh từ,park (for public recreation),05 06 07,小区旁边有一个公园。,Xiǎoqū pángbiān yǒu yí ge gōngyuán.,Cạnh khu dân cư có một công viên.
+H2-187,狗,gǒu,con chó,danh từ,dog,03,这里不能养狗。,Zhèlǐ bù néng yǎng gǒu.,Ở đây không được nuôi chó.
+H2-188,够,gòu,đủ,"động từ, phó từ",enough (sufficient); enough (too much); (coll.) (before adj.) really,10,两个房间够了。,Liǎng ge fángjiān gòu le.,Hai phòng là đủ rồi.
+H2-189,故事,gùshi,câu chuyện,danh từ,narrative; story; tale,,他给孩子讲故事。,Tā gěi háizi jiǎng gùshi.,Anh ấy kể chuyện cho con nghe.
+H2-190,故意,gùyì,cố ý,"phó từ, khu biệt từ",deliberately; on purpose,,对不起，我不是故意的。,"Duìbuqǐ, wǒ bú shì gùyì de.","Xin lỗi, tôi không cố ý."
+H2-191,顾客,gùkè,khách hàng,danh từ,customer; client,,顾客对价格很满意。,Gùkè duì jiàgé hěn mǎnyì.,Khách hàng rất hài lòng về giá.
+H2-192,关机,guānjī,tắt máy,động từ,to turn off (a machine or device); to finish shooting a film,,开会的时候请关机。,Kāihuì de shíhou qǐng guānjī.,Khi họp xin tắt máy.
+H2-193,关心,guānxīn,quan tâm,"động từ, danh động từ",to be concerned about; to care about,,谢谢你的关心。,Xièxie nǐ de guānxīn.,Cảm ơn anh đã quan tâm.
+H2-194,观点,guāndiǎn,quan điểm,danh từ,point of view; viewpoint; standpoint,,我同意你的观点。,Wǒ tóngyì nǐ de guāndiǎn.,Tôi đồng ý với quan điểm của anh.
+H2-195,广场,guǎngchǎng,quảng trường,danh từ,public square; plaza,,大楼前面有一个广场。,Dàlóu qiánmiàn yǒu yí ge guǎngchǎng.,Trước toà nhà có một quảng trường.
+H2-196,广告,guǎnggào,quảng cáo,danh từ,to advertise; a commercial; advertisement,,我在网上看到了租房广告。,Wǒ zài wǎngshàng kàndào le zūfáng guǎnggào.,Tôi thấy quảng cáo cho thuê nhà trên mạng.
+H2-197,国际,guójì,quốc tế,danh từ,international,,这是一家国际公司。,Zhè shì yì jiā guójì gōngsī.,Đây là một công ty quốc tế.
+H2-198,过来,guòlái,"qua đây, lại đây",động từ,to come over; to manage; to handle,03,你过来看看这个房间。,Nǐ guòlái kànkan zhège fángjiān.,Anh qua đây xem phòng này.
+H2-199,过年,guònián,ăn Tết,động từ,to celebrate the Chinese New Year,,过年的时候房租会涨吗？,Guònián de shíhou fángzū huì zhǎng ma?,Dịp Tết tiền thuê có tăng không?
+H2-200,过去,guòqù,quá khứ; đi qua đó,"động từ, từ thời gian",(in the) past; former; previous,02,过去这里没有地铁。,Guòqù zhèlǐ méiyǒu dìtiě.,Trước đây ở đây không có metro.
+H2-201,海,hǎi,biển,"danh từ, tên người",surname Hai,,我们的公寓离海很近。,Wǒmen de gōngyù lí hǎi hěn jìn.,Căn hộ của chúng tôi gần biển.
+H2-202,海边,hǎibiān,bờ biển,từ nơi chốn,coast; seaside; seashore,,周末我们去海边吧。,Zhōumò wǒmen qù hǎibiān ba.,Cuối tuần mình đi biển nhé.
+H2-203,喊,hǎn,"hét, gọi to",động từ,to yell; to shout; to call out for (a person),,外面有人喊你。,Wàimiàn yǒurén hǎn nǐ.,Bên ngoài có người gọi anh.
+H2-204,好处,hǎochu,"lợi ích, cái lợi",danh từ,benefit; advantage; merit; gain; profit; also pr. [hǎo chù],,住在市中心有很多好处。,Zhù zài shìzhōngxīn yǒu hěn duō hǎochu.,Sống ở trung tâm có nhiều cái lợi.
+H2-205,好多,hǎoduō,rất nhiều,số từ,many; quite a lot; much better,,好多人在排队。,Hǎoduō rén zài páiduì.,Rất nhiều người đang xếp hàng.
+H2-206,好久,hǎojiǔ,rất lâu,số từ,quite a while,,好久不见！,Hǎojiǔ bú jiàn!,Lâu quá không gặp!
+H2-207,好人,hǎorén,người tốt,danh từ,"good person; healthy person; person who tries not to offend anyone, even at the expense of principle",,房东是个好人。,Fángdōng shì gè hǎorén.,Chủ nhà là người tốt.
+H2-208,好事,hǎoshì,chuyện tốt,danh từ,"good action, deed, thing or work (also sarcastic, ""a fine thing indeed""); charity; happy occasion",,这是一件好事。,Zhè shì yí jiàn hǎoshì.,Đây là một chuyện tốt.
+H2-209,好像,hǎoxiàng,hình như,động từ,as if; to seem like,05,他好像不在办公室。,Tā hǎoxiàng bú zài bàngōngshì.,Hình như anh ấy không có ở văn phòng.
+H2-210,合适,héshì,"phù hợp, vừa",tính từ,suitable; fitting; appropriate,11,这个价格很合适。,Zhège jiàgé hěn héshì.,Giá này rất hợp lý.
+H2-211,河,hé,sông,danh từ,river,05 06,公寓旁边有一条河。,Gōngyù pángbiān yǒu yì tiáo hé.,Cạnh căn hộ có một con sông.
+H2-212,黑,hēi,đen; tối,"tính từ, g, khu biệt từ",abbr. for Heilongjiang province 黑龙江,,外面天黑了。,Wàimiàn tiān hēi le.,Bên ngoài trời tối rồi.
+H2-213,黑板,hēibǎn,bảng đen,danh từ,blackboard,,老师在黑板上写字。,Lǎoshī zài hēibǎn shàng xiě zì.,Thầy giáo viết chữ lên bảng.
+H2-214,黑色,hēisè,màu đen,danh từ,black,,我的车是黑色的。,Wǒ de chē shì hēisè de.,Xe của tôi màu đen.
+H2-215,红,hóng,đỏ,"tính từ, động từ, g",surname Hong,12,红灯的时候要停车。,Hóng dēng de shíhou yào tíngchē.,Khi đèn đỏ phải dừng xe.
+H2-216,红色,hóngsè,màu đỏ,danh từ,red (color); revolutionary,,大门是红色的。,Dàmén shì hóngsè de.,Cổng chính màu đỏ.
+H2-217,后来,hòulái,"sau đó, về sau",từ thời gian,afterwards; later; newly arrived,,后来我们搬到了这里。,Hòulái wǒmen bān dào le zhèlǐ.,Sau đó chúng tôi chuyển đến đây.
+H2-218,忽然,hūrán,bỗng nhiên,phó từ,suddenly; all of a sudden,,忽然停电了。,Hūrán tíngdiàn le.,Bỗng nhiên mất điện.
+H2-219,湖,hú,hồ,"danh từ, khu biệt từ",lake,,公园里有一个湖。,Gōngyuán lǐ yǒu yí ge hú.,Trong công viên có một cái hồ.
+H2-220,护照,hùzhào,hộ chiếu,danh từ,passport,02,租房要用护照。,Zūfáng yào yòng hùzhào.,Thuê nhà phải dùng hộ chiếu.
+H2-221,花园,huāyuán,vườn hoa,danh từ,garden,,这个小区有一个大花园。,Zhège xiǎoqū yǒu yí ge dà huāyuán.,Khu này có một vườn hoa lớn.
+H2-222,画,huà,vẽ; bức tranh,"danh từ, động từ, lượng từ",to draw; to paint; picture; painting; to draw (a line) (variant of 划),,墙上有一张画。,Qiáng shàng yǒu yì zhāng huà.,Trên tường có một bức tranh.
+H2-223,画儿,huàr,bức tranh,,picture; drawing; painting,,这幅画儿很漂亮。,Zhèfú huàr hěn piàoliang.,Bức tranh này rất đẹp.
+H2-224,画家,huàjiā,họa sĩ,danh từ,painter,,他是一位有名的画家。,Tā shì yí wèi yǒumíng de huàjiā.,Ông ấy là một hoạ sĩ nổi tiếng.
+H2-225,坏处,huàichu,"tác hại, cái hại",danh từ,harm; troubles,,住得太远有很多坏处。,Zhù dé tài yuǎn yǒu hěn duō huàichu.,Ở quá xa có nhiều cái bất lợi.
+H2-226,坏人,huàirén,người xấu,danh từ,bad person; villain,,晚上有保安，不用怕坏人。,"Wǎnshang yǒu bǎo'ān, búyòng pà huàirén.","Buổi tối có bảo vệ, không cần sợ người xấu."
+H2-227,换,huàn,"đổi, thay",động từ,to exchange; to change (clothes etc); to substitute,01 04 05 08 09 12,我想换一个大一点儿的房子。,Wǒ xiǎng huàn yí ge dà yīdiǎnr de fángzi.,Tôi muốn đổi một căn nhà lớn hơn chút.
+H2-228,欢迎,huānyíng,"hoan nghênh, chào mừng","động từ, danh động từ",to welcome; welcome,,欢迎来我们公司！,Huānyíng lái wǒmen gōngsī!,Chào mừng đến công ty chúng tôi!
+H2-229,黄,huáng,vàng (màu),"tên người, tính từ, khu biệt từ",surname Huang or Hwang,,树叶黄了。,Shùyè huáng le.,Lá cây vàng rồi.
+H2-230,黄色,huángsè,màu vàng,danh từ,yellow (color); pornographic,,出租车是黄色的。,Chūzūchē shì huángsè de.,Taxi màu vàng.
+H2-231,回国,huíguó,về nước,động từ,to return to one's home country,,他下个月回国。,Tā xià ge yuè huíguó.,Tháng sau anh ấy về nước.
+H2-232,活动,huódòng,hoạt động,"danh động từ, động từ",to exercise; to move about; to operate,,公司周末有一个活动。,Gōngsī zhōumò yǒu yí ge huódòng.,Cuối tuần công ty có một hoạt động.
+H2-233,或,huò,hoặc,"liên từ, phó từ",maybe; perhaps; might,,你可以用现金或信用卡。,Nǐ kěyǐ yòng xiànjīn huò xìnyòngkǎ.,Anh có thể dùng tiền mặt hoặc thẻ tín dụng.
+H2-234,或者,huòzhě,hoặc là,"liên từ, phó từ",or; possibly; maybe; perhaps,02,今天或者明天都可以。,Jīntiān huòzhě míngtiān dōu kěyǐ.,Hôm nay hoặc ngày mai đều được.
+H2-235,机会,jīhuì,cơ hội,danh từ,opportunity; chance; occasion,,这是一个好机会。,Zhè shì yí ge hǎo jīhuì.,Đây là một cơ hội tốt.
+H2-236,鸡,jī,con gà,danh từ,fowl; chicken; (slang) prostitute,,我晚上想吃鸡。,Wǒ wǎnshang xiǎng chī jī.,Tối nay tôi muốn ăn gà.
+H2-237,级,jí,"cấp, bậc","lượng từ, danh từ",level; grade; rank,07,这个电梯能到几级？,Zhège diàntī néng dào jǐ jí?,Thang máy này lên được tầng mấy?
+H2-238,急,jí,"gấp, vội; sốt ruột","động từ, phó tính từ, tính từ",urgent; pressing; rapid,12,别急，慢慢来。,"Bié jí, mànmàn lái.","Đừng vội, từ từ thôi."
+H2-239,计划,jìhuà,kế hoạch,"danh từ, động từ",plan; project; program,08,我们的计划是下个月搬家。,Wǒmen de jìhuà shì xià ge yuè bānjiā.,Kế hoạch của chúng tôi là tháng sau chuyển nhà.
+H2-240,计算机,jìsuànjī,máy tính,danh từ,computer; (Tw) calculator,,他在一家计算机公司工作。,Tā zài yì jiā jìsuànjī gōngsī gōngzuò.,Anh ấy làm ở một công ty máy tính.
+H2-241,加,jiā,"cộng, thêm","động từ, khu biệt từ",Canada (abbr. for 大); surname Jia,10,房租再加五百块。,Fángzū zài jiā wǔbǎi kuài.,Tiền thuê thêm 500 tệ nữa.
+H2-242,加油,jiāyóu,cố lên; đổ xăng,"động từ, danh động từ",to add oil; to top up with gas; to refuel,,加油！你一定可以的。,Jiāyóu! Nǐ yídìng kěyǐ de.,Cố lên! Anh nhất định làm được.
+H2-243,家庭,jiātíng,gia đình,danh từ,family; household,,这套房子适合一个家庭住。,Zhè tào fángzi shìhé yí ge jiātíng zhù.,Căn nhà này hợp cho một gia đình ở.
+H2-244,家长,jiāzhǎng,phụ huynh,danh từ,head of a household; family head; patriarch,,家长们在学校门口等孩子。,Jiāzhǎng men zài xuéxiào ménkǒu děng háizi.,Phụ huynh đợi con ở cổng trường.
+H2-245,假,jiǎ,giả (jiǎ); kỳ nghỉ (jià),"tính từ, phó tính từ, danh từ, g",fake; false; artificial,,这张钱是假的。,Zhè zhāng qián shì jiǎ de.,Tờ tiền này là giả.
+H2-246,假期,jiàqī,kỳ nghỉ,từ thời gian,vacation,,假期你打算去哪儿？,Jiàqī nǐ dǎsuàn qù nǎr?,Kỳ nghỉ anh định đi đâu?
+H2-247,检查,jiǎnchá,kiểm tra,"động từ, danh động từ",inspection; to examine; to inspect,07 08 09 10,请检查一下合同。,Qǐng jiǎnchá yí xià hétong.,Xin kiểm tra lại hợp đồng.
+H2-248,见到,jiàndào,"gặp được, thấy",động từ,to see,,很高兴见到你。,Hěn gāoxìng jiàndào nǐ.,Rất vui được gặp anh.
+H2-249,见过,jiànguo,"đã gặp, đã thấy",,seen,,我以前见过他。,Wǒ yǐqián jiànguo tā.,Trước đây tôi từng gặp anh ấy.
+H2-250,件,jiàn,"(lượng từ) cái, chiếc, việc","lượng từ, g","item; component; classifier for events, things, clothes etc",,我有一件事想问你。,Wǒ yǒu yí jiàn shì xiǎng wèn nǐ.,Tôi có một việc muốn hỏi anh.
+H2-251,健康,jiànkāng,sức khỏe; khỏe mạnh,"tính từ, danh tính từ, phó tính từ",health; healthy,,身体健康最重要。,Shēntǐ jiànkāng zuì zhòngyào.,Sức khỏe là quan trọng nhất.
+H2-252,讲,jiǎng,"nói, giảng",động từ,to speak; to explain; to negotiate,,请你讲慢一点儿。,Qǐng nǐ jiǎng màn yīdiǎnr.,Anh nói chậm một chút.
+H2-253,讲话,jiǎnghuà,"phát biểu, nói chuyện","danh từ, động từ",a speech; to speak; to talk,,经理正在讲话。,Jīnglǐ zhèngzài jiǎnghuà.,Giám đốc đang phát biểu.
+H2-254,交,jiāo,"nộp, giao, đóng (tiền)","động từ, g",to hand over; to deliver; to pay (money),01 03,房租每个月五号交。,Fángzū měi ge yuè wǔ hào jiāo.,Tiền nhà đóng vào ngày 5 hằng tháng.
+H2-255,交给,jiāogěi,giao cho,động từ,to give; to deliver; to hand over,02,请把钥匙交给保安。,Qǐng bǎ yàoshi jiāogěi bǎo'ān.,Hãy giao chìa khoá cho bảo vệ.
+H2-256,交朋友,jiāopéngyou,kết bạn,động từ,to make friends; (dialect) to start an affair with sb,,我喜欢交朋友。,Wǒ xǐhuan jiāopéngyou.,Tôi thích kết bạn.
+H2-257,交通,jiāotōng,giao thông,danh từ,to be connected; traffic; transportation,06,这里交通很方便。,Zhèlǐ jiāotōng hěn fāngbiàn.,Ở đây giao thông rất thuận tiện.
+H2-258,角,jiǎo,góc; hào (1/10 tệ),"danh từ, lượng từ, g",angle; corner; horn,,一块钱等于十角。,Yí kuài qián děngyú shí jiǎo.,Một đồng bằng mười hào.
+H2-259,角度,jiǎodù,góc độ,danh từ,angle; point of view,,从这个角度看，房间很大。,"Cóng zhège jiǎodù kàn, fángjiān hěn dà.","Nhìn từ góc này, căn phòng rất rộng."
+H2-260,饺子,jiǎozi,sủi cảo,danh từ,dumpling; pot-sticker,,过年的时候我们吃饺子。,Guònián de shíhou wǒmen chī jiǎozi.,Dịp Tết chúng tôi ăn sủi cảo.
+H2-261,脚,jiǎo,bàn chân,"danh từ, lượng từ",foot; leg (of an animal or an object); base (of an object),,走了一天，脚很疼。,"Zǒu le yì tiān, jiǎo hěn téng.","Đi cả ngày, chân rất đau."
+H2-262,叫作,jiàozuò,gọi là,động từ,to call; to be called,,这种房子叫作公寓。,Zhè zhǒng fángzi jiàozuò gōngyù.,Loại nhà này gọi là căn hộ.
+H2-263,教师,jiàoshī,giáo viên,danh từ,teacher,,她是一名中文教师。,Tā shì yì míng Zhōngwén jiàoshī.,Cô ấy là giáo viên tiếng Trung.
+H2-264,教室,jiàoshì,phòng học,danh từ,classroom,,教室在二楼。,Jiàoshì zài èr lóu.,Phòng học ở tầng 2.
+H2-265,教学,jiàoxué,dạy học,"danh động từ, danh từ, động từ",teaching; instruction,,这所学校的教学很好。,Zhè suǒ xuéxiào de jiàoxué hěn hǎo.,Việc giảng dạy của trường này rất tốt.
+H2-266,教育,jiàoyù,giáo dục,"danh động từ, động từ",to educate; to teach; education,,他很重视孩子的教育。,Tā hěn zhòngshì háizi de jiàoyù.,Anh ấy rất coi trọng việc giáo dục con cái.
+H2-267,接,jiē,"đón; nhận, nghe (điện thoại)",động từ,to receive; to answer (the phone); to meet or welcome sb,,我去机场接你。,Wǒ qù jīchǎng jiē nǐ.,Tôi ra sân bay đón anh.
+H2-268,接到,jiēdào,nhận được,động từ,to receive (letter etc),,我接到了房东的电话。,Wǒ jiēdào le fángdōng de diànhuà.,Tôi nhận được điện thoại của chủ nhà.
+H2-269,接受,jiēshòu,"tiếp nhận, chấp nhận","động từ, danh động từ",to accept; to receive,11,我们接受这个价格。,Wǒmen jiēshòu zhège jiàgé.,Chúng tôi chấp nhận giá này.
+H2-270,接下来,jiēxiàlai,tiếp theo,"động từ, liên từ",to accept; to take; next,,接下来我们看看厨房。,Jiēxiàlai wǒmen kànkan chúfáng.,Tiếp theo chúng ta xem nhà bếp.
+H2-271,接着,jiēzhe,"tiếp theo, tiếp tục","liên từ, động từ",to catch and hold on; to continue; to go on to do sth,,他说完了，你接着说。,"Tā shuō wán le, nǐ jiēzhe shuō.","Anh ấy nói xong rồi, anh nói tiếp đi."
+H2-272,街,jiē,"phố, đường phố",danh từ,street,06,这条街晚上很热闹。,Zhè tiáo jiē wǎnshang hěn rènào.,Con phố này buổi tối rất náo nhiệt.
+H2-273,节,jié,"tiết, ngày lễ; (lượng từ) tiết học","danh từ, lượng từ, g, động từ",joint; node; (bound form) section; segment; solar term (one of the 24 divisions of the year in the traditional Chinese calendar),,今天我有两节课。,Jīntiān wǒ yǒu liǎng jié kè.,Hôm nay tôi có hai tiết học.
+H2-274,节目,jiémù,chương trình,danh từ,program; item (on a program),,这个节目很有意思。,Zhège jiémù hěn yǒuyìsi.,Chương trình này rất thú vị.
+H2-275,节日,jiérì,ngày lễ,danh từ,holiday; festival,,春节是最重要的节日。,Chūnjié shì zuì zhòngyào de jiérì.,Tết là ngày lễ quan trọng nhất.
+H2-276,结果,jiéguǒ,kết quả,"danh từ, phó từ",outcome; result; conclusion,,结果我们没租那套房子。,Jiéguǒ wǒmen méi zū nà tào fángzi.,Kết quả chúng tôi không thuê căn đó.
+H2-277,借,jiè,"mượn, vay; cho mượn","động từ, giới từ",to lend; to borrow; by means of,01,可以借我一把椅子吗？,Kěyǐ jiè wǒ yì bǎ yǐzi ma?,Cho tôi mượn một cái ghế được không?
+H2-278,今后,jīnhòu,từ nay về sau,từ thời gian,hereafter; henceforth; in the future,,今后请多多关照。,Jīnhòu qǐng duō duō guān zhào.,Từ nay mong được giúp đỡ nhiều.
+H2-279,斤,jīn,"cân (0,5 kg)",lượng từ,catty; (PRC) weight equal to 500 g; (Tw) weight equal to 600 g,,苹果多少钱一斤？,Píngguǒ duōshǎo qián yì jīn?,Táo bao nhiêu tiền một cân?
+H2-280,近,jìn,gần,"tính từ, động từ",near; close to; approximately,03 04 05 06 07 10,我家离公司很近。,Wǒ jiā lí gōngsī hěn jìn.,Nhà tôi gần công ty.
+H2-281,进入,jìnrù,"đi vào, bước vào",động từ,to enter; to join; to go into,,进入大楼要刷卡。,Jìnrù dàlóu yào shuākǎ.,Vào toà nhà phải quẹt thẻ.
+H2-282,进行,jìnxíng,tiến hành,"động từ, danh động từ",to advance; to conduct; underway,,会议正在进行。,Huìyì zhèngzài jìnxíng.,Cuộc họp đang diễn ra.
+H2-283,经常,jīngcháng,thường xuyên,"phó từ, khu biệt từ",frequently; constantly; regularly; often; day-to-day; everyday; daily,12,这条路经常堵车。,Zhè tiáo lù jīngcháng dǔchē.,Con đường này thường xuyên kẹt xe.
+H2-284,经过,jīngguò,đi qua; trải qua; quá trình,"giới từ, động từ, danh từ",to pass; to go through; process,,去公司要经过一座桥。,Qù gōngsī yào jīngguò yí zuò qiáo.,Đến công ty phải đi qua một cây cầu.
+H2-285,经理,jīnglǐ,"giám đốc, quản lý",danh từ,manager; director,04,经理今天不在。,Jīnglǐ jīntiān bú zài.,Hôm nay giám đốc không có ở đây.
+H2-286,酒,jiǔ,rượu,danh từ,wine (esp. rice wine); liquor; spirits,,我不喝酒。,Wǒ bù hē jiǔ.,Tôi không uống rượu.
+H2-287,酒店,jiǔdiàn,khách sạn,danh từ,wine shop; pub (public house); hotel,,这家酒店离机场很近。,Zhè jiā jiǔdiàn lí jīchǎng hěn jìn.,Khách sạn này gần sân bay.
+H2-288,就要,jiùyào,sắp sửa,phó từ,will; shall; to be going to,,会议就要开始了。,Huìyì jiùyào kāishǐ le.,Cuộc họp sắp bắt đầu rồi.
+H2-289,举,jǔ,"giơ lên, nâng","động từ, g",variant of 举,,有问题请举手。,Yǒu wèntí qǐng jǔshǒu.,Có câu hỏi xin giơ tay.
+H2-290,举手,jǔshǒu,giơ tay,"động từ, danh động từ",to raise a hand; to put up one's hand (as signal),,同意的请举手。,Tóngyì de qǐng jǔshǒu.,Ai đồng ý xin giơ tay.
+H2-291,举行,jǔxíng,"tổ chức (cuộc họp, lễ)",động từ,"to hold (a meeting, ceremony etc)",,会议在大会议室举行。,Huìyì zài dà huìyìshì jǔxíng.,Cuộc họp tổ chức ở phòng họp lớn.
+H2-292,句,jù,câu,"lượng từ, g",sentence; clause; phrase,,请你再说一句。,Qǐng nǐ zài shuō yí jù.,Anh nói thêm một câu nữa.
+H2-293,句子,jùzi,câu,danh từ,sentence,,这个句子很难。,Zhège jùzi hěn nán.,Câu này rất khó.
+H2-294,卡,kǎ,thẻ,"danh từ, động từ, g",to stop; to block; (computing) (coll.) slow,02,请用这张卡付钱。,Qǐng yòng zhè zhāng kǎ fùqián.,Hãy trả tiền bằng thẻ này.
+H2-295,开机,kāijī,"mở máy, bật máy",động từ,to start an engine; to boot up (a computer); to press Ctrl-Alt-Delete,,电脑开机很慢。,Diànnǎo kāijī hěn màn.,Máy tính khởi động rất chậm.
+H2-296,开心,kāixīn,vui vẻ,"tính từ, động từ, danh tính từ",to feel happy; to rejoice; to have a great time,,今天我很开心。,Jīntiān wǒ hěn kāixīn.,Hôm nay tôi rất vui.
+H2-297,开学,kāixué,khai giảng,"động từ, danh động từ",foundation of a University or College; school opening; the start of a new term,,九月开学。,Jiǔ yuè kāixué.,Tháng chín khai giảng.
+H2-298,看法,kànfǎ,"cách nhìn, ý kiến",danh từ,way of looking at a thing; view; opinion,,你对这个房子有什么看法？,Nǐ duì zhège fángzi yǒu shénme kànfǎ?,Anh có ý kiến gì về căn nhà này?
+H2-299,考生,kǎoshēng,thí sinh,danh từ,exam candidate; student whose name has been put forward for an exam,,考生请准时进教室。,Kǎoshēng qǐng zhǔn shí jìn jiàoshì.,Thí sinh xin vào phòng thi đúng giờ.
+H2-300,靠,kào,dựa vào; sát gần,"động từ, giới từ",to lean against or on; to stand by the side of; to come near to,07,我的工位靠窗户。,Wǒ de gōngwèi kào chuānghu.,Chỗ ngồi của tôi sát cửa sổ.
+H2-301,科,kē,"khoa, môn",danh từ,branch of study; administrative section; division,,他在公司的财务科工作。,Tā zài gōngsī de cáiwùkē gōngzuò.,Anh ấy làm ở phòng tài vụ của công ty.
+H2-302,科学,kēxué,khoa học,"danh từ, tính từ, phó tính từ",science; scientific knowledge; scientific,,这个方法很科学。,Zhège fāngfǎ hěn kēxué.,Phương pháp này rất khoa học.
+H2-303,科学家,kēxuéjiā,nhà khoa học,danh từ,scientist,,他想当科学家。,Tā xiǎng dāng kēxuéjiā.,Cậu ấy muốn làm nhà khoa học.
+H2-304,可爱,kě'ài,đáng yêu,tính từ,adorable; cute; lovely,,这只小狗很可爱。,Zhè zhǐ xiǎo gǒu hěn kě'ài.,Chú chó con này rất đáng yêu.
+H2-305,可能,kěnéng,có thể; khả năng,"động từ, danh từ",might (happen); possible; probable,02 03 06 08 09,明天可能下雨。,Míngtiān kěnéng xiàyǔ.,Mai có thể mưa.
+H2-306,可怕,kěpà,đáng sợ,tính từ,awful; dreadful; fearful,,堵车的时候真可怕。,Dǔchē de shíhou zhēn kěpà.,Lúc kẹt xe thật kinh khủng.
+H2-307,可是,kěshì,nhưng mà,"liên từ, phó từ, động từ",but; however; (used for emphasis) indeed,,房子很好，可是太贵了。,"Fángzi hěn hǎo, kěshì tài guì le.",Nhà rất tốt nhưng đắt quá.
+H2-308,可以,kěyǐ,"có thể, được",động từ,can; may; possible,01 02 03 04 05 07 08 10 11 12,这里可以停车吗？,Zhèlǐ kěyǐ tíngchē ma?,Ở đây đỗ xe được không?
+H2-309,克,kè,gam,"g, lượng từ, khu biệt từ, động từ","abbr. for 克罗地亚, Croatia; (Tw) abbr. for 克罗埃西亚, Croatia",,这个面包三百克。,Zhège miànbāo sānbǎi kè.,Ổ bánh mì này 300 gam.
+H2-310,刻,kè,khắc (15 phút),"động từ, qt",quarter (hour); moment; to carve,,现在三点一刻。,Xiànzài sān diǎn yí kè.,Bây giờ là 3 giờ 15.
+H2-311,客人,kèrén,khách,danh từ,visitor; guest; customer,,今天公司来了几位客人。,Jīntiān gōngsī lái le jǐ wèi kèrén.,Hôm nay công ty có mấy vị khách đến.
+H2-312,课堂,kètáng,"lớp học, giờ học",danh từ,classroom,,课堂上不能用手机。,Kètáng shàng bù néng yòng shǒujī.,Trong giờ học không được dùng điện thoại.
+H2-313,空气,kōngqì,không khí,danh từ,air; atmosphere,05,这里的空气很好。,Zhèlǐ de kōngqì hěn hǎo.,Không khí ở đây rất tốt.
+H2-314,哭,kū,khóc,động từ,to cry; to weep,,孩子一直在哭。,Háizi yìzhí zài kū.,Đứa trẻ cứ khóc mãi.
+H2-315,快餐,kuàicān,đồ ăn nhanh,danh từ,fast food; snack; quick meal,,中午我们吃快餐吧。,Zhōngwǔ wǒmen chī kuàicān ba.,Trưa nay mình ăn đồ ăn nhanh nhé.
+H2-316,快点儿,kuàidiǎnr,nhanh lên,,erhua variant of 快点; to do smh more quickly; Hurry up!,,快点儿，车来了！,"Kuàidiǎnr, chē lái le!","Nhanh lên, xe tới rồi!"
+H2-317,快乐,kuàilè,"vui vẻ, hạnh phúc","tính từ, danh tính từ",happy; joyful,,祝你生日快乐！,Zhù nǐ shēngrì kuàilè!,Chúc anh sinh nhật vui vẻ!
+H2-318,快要,kuàiyào,sắp,phó từ,nearly at the point of (doing sth); about to (do sth),,房子快要装修好了。,Fángzi kuàiyào zhuāngxiū hǎo le.,Nhà sắp sửa xong rồi.
+H2-319,筷子,kuàizi,đũa,danh từ,chopsticks,,请给我一双筷子。,Qǐng gěi wǒ yì shuāng kuàizi.,Cho tôi một đôi đũa.
+H2-320,拉,lā,kéo,"động từ, khu biệt từ",to pull; to play (a bowed instrument); to drag,,请把门拉开。,Qǐng bǎ mén lā kāi.,Làm ơn kéo cửa ra.
+H2-321,来自,láizì,đến từ,động từ,to come from (a place); From: (in email header),,我来自越南。,Wǒ láizì yuè nán.,Tôi đến từ Việt Nam.
+H2-322,蓝,lán,xanh lam,"tính từ, g",surname Lan,,今天的天很蓝。,Jīntiān de tiān hěn lán.,Bầu trời hôm nay rất xanh.
+H2-323,蓝色,lánsè,màu xanh lam,danh từ,blue (color),,我喜欢蓝色的沙发。,Wǒ xǐhuan lánsè de shāfā.,Tôi thích sofa màu xanh lam.
+H2-324,篮球,lánqiú,bóng rổ,danh từ,basketball,,下班以后我去打篮球。,Xiàbān yǐhòu wǒ qù dǎ lánqiú.,Tan làm tôi đi chơi bóng rổ.
+H2-325,老年,lǎonián,tuổi già,"từ thời gian, danh từ",elderly; old age; autumn of one's years,,这个小区老年人很多。,Zhège xiǎoqū lǎonián rén hěn duō.,Khu này rất nhiều người già.
+H2-326,老朋友,lǎopéngyou,bạn cũ,danh từ,old friend; (slang) period; menstruation,,他是我的老朋友。,Tā shì wǒ de lǎopéngyou.,Anh ấy là bạn cũ của tôi.
+H2-327,老是,lǎoshi,"luôn luôn, cứ",phó từ,always,,他老是迟到。,Tā lǎoshi chídào.,Anh ấy cứ hay đến muộn.
+H2-328,离,lí,cách (khoảng cách),"động từ, giới từ",surname Li,03 04 05 06 10,公寓离地铁站很近。,Gōngyù lí dìtiězhàn hěn jìn.,Căn hộ cách ga metro rất gần.
+H2-329,离开,líkāi,rời khỏi,động từ,to depart; to leave,,我明天离开这里。,Wǒ míngtiān líkāi zhèlǐ.,Mai tôi rời khỏi đây.
+H2-330,礼物,lǐwù,quà,danh từ,gift; present,,这是给你的礼物。,Zhè shì gěi nǐ de lǐwù.,Đây là quà tặng anh.
+H2-331,里头,lǐtou,bên trong,phương vị từ,inside; interior,,房子里头很干净。,Fángzi lǐtou hěn gānjìng.,Bên trong nhà rất sạch.
+H2-332,理想,lǐxiǎng,lý tưởng,"danh từ, tính từ",an ideal; a dream; ideal,,这个地方很理想。,Zhège dìfāng hěn lǐxiǎng.,Chỗ này rất lý tưởng.
+H2-333,例如,lìrú,ví dụ như,động từ,for example; for instance; such as,,附近有很多店，例如超市和饭馆。,"Fùjìn yǒu hěn duō diàn, lìrú chāoshì hé fànguǎn.","Gần đây có nhiều cửa hàng, ví dụ siêu thị và quán ăn."
+H2-334,例子,lìzi,ví dụ,danh từ,case; (for) instance; example,,请给我举个例子。,Qǐng gěi wǒ jǔ gè lìzi.,Cho tôi một ví dụ.
+H2-335,脸,liǎn,mặt,"danh từ, lượng từ",face,,你的脸怎么红了？,Nǐ de liǎn zěnme hóng le?,Sao mặt anh đỏ thế?
+H2-336,练,liàn,luyện,động từ,to practice; to train; to drill,,我每天练中文口语。,Wǒ měi tiān liàn Zhōngwén kǒuyǔ.,Ngày nào tôi cũng luyện nói tiếng Trung.
+H2-337,练习,liànxí,luyện tập; bài tập,"động từ, danh động từ",to practice; exercise; drill,,多练习就会说得好。,Duō liànxí jiù huì shuō dé hǎo.,Luyện tập nhiều sẽ nói giỏi.
+H2-338,凉,liáng,"mát, lạnh","tính từ, động từ, phó tính từ, khu biệt từ, g","the five Liang of the Sixteen Kingdoms, namely: Former Liang 前凉 (314-376), Later Liang 后凉 (386-403), Northern Liang 北凉 (398-439), Southern Liang 南凉 (397-414), Western Liang 西凉 (400-421)",,水有点儿凉。,Shuǐ yǒudiǎnr liáng.,Nước hơi lạnh.
+H2-339,凉快,liángkuai,mát mẻ,tính từ,nice and cold; pleasantly cool,,今天很凉快。,Jīntiān hěn liángkuai.,Hôm nay rất mát mẻ.
+H2-340,亮,liàng,sáng,"động từ, tính từ",bright; clear; resonant,04 05 08,这个房间很亮。,Zhège fángjiān hěn liàng.,Phòng này rất sáng.
+H2-341,辆,liàng,(lượng từ) chiếc (xe),lượng từ,classifier for vehicles,10 12,楼下停着一辆车。,Lóuxià tíng zhe yí liàng chē.,Dưới lầu có đỗ một chiếc xe.
+H2-342,零下,língxià,dưới không độ,từ nơi chốn,below zero,,北京冬天常常零下。,Běijīng dōngtiān chángcháng língxià.,Mùa đông Bắc Kinh thường dưới 0 độ.
+H2-343,流,liú,chảy,"động từ, g",to flow; to disseminate; to circulate or spread,,水从上面流下来。,Shuǐ cóng shàngmiàn liú xiàlai.,Nước chảy từ trên xuống.
+H2-344,流利,liúlì,lưu loát,"tính từ, phó tính từ",fluent,,他的中文很流利。,Tā de Zhōngwén hěn liúlì.,Tiếng Trung của anh ấy rất lưu loát.
+H2-345,流行,liúxíng,thịnh hành,"động từ, danh động từ","(of a contagious disease etc) to spread; to propagate; (of a style of clothing, song etc) popular",,现在很流行用手机付钱。,Xiànzài hěn liúxíng yòng shǒujī fùqián.,Bây giờ rất thịnh hành trả tiền bằng điện thoại.
+H2-346,留,liú,"giữ lại, ở lại",động từ,old variant of 留,08 11,请留一下你的电话。,Qǐng liú yí xià nǐ de diànhuà.,Xin để lại số điện thoại của anh.
+H2-347,留下,liúxià,"để lại, ở lại",động từ,to leave behind; to stay behind; to remain,01 05,他留下了一张纸条。,Tā liúxià le yì zhāng zhǐ tiáo.,Anh ấy để lại một mẩu giấy.
+H2-348,留学生,liúxuéshēng,du học sinh,danh từ,student studying abroad; (foreign) exchange student,,这里住了很多留学生。,Zhèlǐ zhù le hěn duō liúxuéshēng.,Ở đây có nhiều du học sinh sống.
+H2-349,路边,lùbiān,lề đường,từ nơi chốn,curb; roadside; wayside,07,请在路边停车。,Qǐng zài lùbiān tíngchē.,Xin dừng xe bên lề đường.
+H2-350,旅客,lǚkè,"hành khách, du khách",danh từ,traveler; tourist,,旅客们在等飞机。,Lǚkè men zài děng fēijī.,Hành khách đang đợi máy bay.
+H2-351,旅行,lǚxíng,"du lịch, đi chơi xa","động từ, danh động từ",to travel; journey; trip,,我们打算去中国旅行。,Wǒmen dǎsuàn qù Zhōngguó lǚxíng.,Chúng tôi định đi du lịch Trung Quốc.
+H2-352,旅游,lǚyóu,du lịch,"danh động từ, động từ",trip; journey; tourism,,这里有很多旅游的人。,Zhèlǐ yǒu hěn duō lǚyóu de rén.,Ở đây có nhiều người du lịch.
+H2-353,绿,lǜ,xanh lá,"tính từ, danh tính từ",green; (slang) (derived from 绿帽子) to cheat on (one's spouse or boyfriend or girlfriend),,绿灯亮了，可以走了。,"Lǜ dēng liàng le, kěyǐ zǒu le.","Đèn xanh rồi, đi được rồi."
+H2-354,绿色,lǜsè,màu xanh lá,danh từ,green,,绿色的门是我们公司。,Lǜsè de mén shì wǒmen gōngsī.,Cánh cửa màu xanh là công ty chúng tôi.
+H2-355,卖,mài,bán,động từ,to sell; to betray; to spare no effort,,这套房子卖不卖？,Zhè tào fángzi mài bú mài?,Căn nhà này có bán không?
+H2-356,满,mǎn,đầy,"tính từ, động từ, phó từ, khu biệt từ",Manchu ethnic group,,电梯里满了，等下一趟吧。,"Diàntī lǐ mǎn le, děng xià yítàng ba.","Thang máy đầy rồi, đợi chuyến sau nhé."
+H2-357,满意,mǎnyì,hài lòng,"động từ, danh động từ",satisfied; pleased; to one's satisfaction,03,你对房间满意吗？,Nǐ duì fángjiān mǎnyì ma?,Anh có hài lòng với căn phòng không?
+H2-358,猫,māo,con mèo,"danh từ, động từ",cat; (dialect) to hide oneself; (coll.) modem,03,邻居家有一只猫。,Línjū jiā yǒu yì zhǐ māo.,Nhà hàng xóm có một con mèo.
+H2-359,米,mǐ,gạo; mét,"danh từ, lượng từ",surname Mi,06 12,房间长五米。,Fángjiān zhǎng wǔ mǐ.,Căn phòng dài 5 mét.
+H2-360,面,miàn,mặt; mì,"danh từ, lượng từ, động từ, g",face; side; surface,08,大楼的南面是公园。,Dàlóu de nán miàn shì gōngyuán.,Phía nam toà nhà là công viên.
+H2-361,面前,miànqián,trước mặt,phương vị từ,in front of; facing; (in the) presence (of),,他站在我面前。,Tā zhàn zài wǒ miànqián.,Anh ấy đứng trước mặt tôi.
+H2-362,名,míng,tên; hạng,"lượng từ, g",name; noun (part of speech); place (e.g. among winners),02,请写上你的名。,Qǐng xiě shàng nǐ de míng.,Xin ghi tên của anh.
+H2-363,名称,míngchēng,tên gọi,danh từ,name (of a thing); name (of an organization),,公司的名称是什么？,Gōngsī de míngchēng shì shénme?,Tên công ty là gì?
+H2-364,名单,míngdān,danh sách,danh từ,list of names,,请把参加会议的名单给我。,Qǐng bǎ cānjiā huìyì de míngdān gěi wǒ.,Đưa tôi danh sách người dự họp.
+H2-365,明星,míngxīng,ngôi sao (người nổi tiếng),danh từ,star; celebrity,,这个小区住着一位明星。,Zhège xiǎoqū zhù zhe yí wèi míngxīng.,Khu này có một ngôi sao sống.
+H2-366,目的,mùdì,mục đích,danh từ,purpose; aim; goal; target; objective,,你来这里的目的是什么？,Nǐ lái zhèlǐ de mùdì shì shénme?,Mục đích anh đến đây là gì?
+H2-367,拿出,náchū,lấy ra,động từ,to take out; to put out; to provide,05,请拿出你的护照。,Qǐng náchū nǐ de hùzhào.,Xin lấy hộ chiếu của anh ra.
+H2-368,拿到,nádào,lấy được,động từ,to get; to obtain,,我已经拿到钥匙了。,Wǒ yǐjīng nádào yàoshi le.,Tôi đã lấy được chìa khoá rồi.
+H2-369,那会儿,nàhuìr,lúc đó,đại từ,at that time (in the past or the future); also pr. [nèi huì r],,那会儿我还在上学。,Nàhuìr wǒ hái zài shàngxué.,Lúc đó tôi còn đang đi học.
+H2-370,那么,nàme,như vậy; vậy thì,"đại từ, liên từ",like that; in that way; or so,12,那么我们明天见。,Nàme wǒmen míngtiān jiàn.,Vậy thì mai chúng ta gặp.
+H2-371,那时,nàshí,lúc đó,đại từ,then; at that time; in those days,,那时这里还没有大楼。,Nàshí zhèlǐ hái méiyǒu dàlóu.,Lúc đó ở đây chưa có toà nhà.
+H2-372,那时候,nàshíhou,lúc đó,,at that time,,那时候房租很便宜。,Nàshíhou fángzū hěn piányi.,Hồi đó tiền thuê nhà rất rẻ.
+H2-373,那样,nàyàng,như thế,đại từ,that kind; that sort,,你那样说不对。,Nǐ nàyàng shuō búduì.,Anh nói như thế không đúng.
+H2-374,南方,nánfāng,"phương Nam, miền Nam","từ nơi chốn, phương vị từ",south; the southern part of the country; the South,,南方的天气很热。,Nánfāng de tiānqì hěn rè.,Thời tiết miền Nam rất nóng.
+H2-375,难过,nánguò,buồn,tính từ,to feel sad; to feel unwell; (of life) to be difficult,,听到这个消息我很难过。,Tīngdào zhège xiāoxi wǒ hěn nánguò.,Nghe tin này tôi rất buồn.
+H2-376,难看,nánkàn,"xấu, khó coi",tính từ,ugly; unsightly,,这个颜色有点儿难看。,Zhège yánsè yǒudiǎnr nánkàn.,Màu này hơi xấu.
+H2-377,难受,nánshòu,khó chịu,tính từ,to feel unwell; to suffer pain; to be difficult to bear,,天太热了，很难受。,"Tiān tài rè le, hěn nánshòu.","Trời nóng quá, rất khó chịu."
+H2-378,难题,nántí,vấn đề khó,danh từ,difficult problem,,这是一个难题。,Zhè shì yí ge nántí.,Đây là một vấn đề khó.
+H2-379,难听,nántīng,khó nghe,"tính từ, động từ",unpleasant to hear; coarse; vulgar,,这个声音很难听。,Zhège shēngyīn hěn nántīng.,Tiếng này rất khó nghe.
+H2-380,能够,nénggòu,có thể,động từ,to be capable of; to be able to; can,,我能够自己解决。,Wǒ nénggòu zìjǐ jiějué.,Tôi có thể tự giải quyết.
+H2-381,年级,niánjí,"lớp, năm học",danh từ,"grade; year (in school, college etc)",,我女儿上三年级。,Wǒ nǚ'ér shàng sān niánjí.,Con gái tôi học lớp ba.
+H2-382,年轻,niánqīng,trẻ,tính từ,young,,房东很年轻。,Fángdōng hěn niánqīng.,Chủ nhà rất trẻ.
+H2-383,鸟,niǎo,chim,danh từ,"bird; ""bird"" radical in Chinese characters (Kangxi radical 196); (dialect) to pay attention to",,早上能听到鸟叫。,Zǎoshang néng tīngdào niǎo jiào.,Buổi sáng có thể nghe chim hót.
+H2-384,弄,nòng,"làm, sửa",động từ,to do; to manage; to handle,10,我把电脑弄坏了。,Wǒ bǎ diànnǎo nòng huài le.,Tôi làm hỏng máy tính rồi.
+H2-385,努力,nǔlì,cố gắng,"phó tính từ, danh tính từ, tính từ",to make an effort; to try hard; to strive; hard-working; conscientious,,他工作很努力。,Tā gōngzuò hěn nǔlì.,Anh ấy làm việc rất chăm chỉ.
+H2-386,爬,pá,bò; leo,động từ,to crawl; to climb; to get up or sit up,,电梯坏了，我们只能爬楼梯。,"Diàntī huài le, wǒmen zhǐnéng pá lóutī.","Thang máy hỏng, chúng tôi chỉ có thể leo cầu thang."
+H2-387,爬山,páshān,leo núi,"động từ, danh động từ",to climb a mountain; to mountaineer; hiking,,周末我们去爬山。,Zhōumò wǒmen qù páshān.,Cuối tuần chúng tôi đi leo núi.
+H2-388,怕,pà,sợ,động từ,surname Pa,,我怕堵车，所以早点儿出门。,"Wǒ pà dǔchē, suǒyǐ zǎodiǎnr chūmén.",Tôi sợ kẹt xe nên ra khỏi nhà sớm.
+H2-389,排,pái,hàng; xếp,"động từ, lượng từ, danh từ",a row; a line; to set in order,,我们坐在第一排。,Wǒmen zuò zài dì yī pái.,Chúng tôi ngồi ở hàng đầu.
+H2-390,排队,páiduì,xếp hàng,"động từ, danh động từ",to line up,,请大家排队。,Qǐng dàjiā páiduì.,Mọi người xếp hàng nhé.
+H2-391,排球,páiqiú,bóng chuyền,danh từ,volleyball,,她喜欢打排球。,Tā xǐhuan dǎ páiqiú.,Cô ấy thích chơi bóng chuyền.
+H2-392,碰,pèng,"chạm, va",động từ,variant of 碰,10,小心，别碰到头。,"Xiǎoxīn, bié pèngdào tóu.","Cẩn thận, đừng đụng đầu."
+H2-393,碰到,pèngdào,gặp phải,động từ,to come across; to run into; to meet,,我在电梯里碰到了经理。,Wǒ zài diàntī lǐ pèngdào le jīnglǐ.,Tôi gặp giám đốc trong thang máy.
+H2-394,碰见,pèngjiàn,tình cờ gặp,động từ,to run into; to meet (unexpectedly); to bump into,,昨天我在超市碰见了房东。,Zuótiān wǒ zài chāoshì pèngjiàn le fángdōng.,Hôm qua tôi tình cờ gặp chủ nhà ở siêu thị.
+H2-395,篇,piān,(lượng từ) bài (văn),"lượng từ, g",sheet; piece of writing; bound set of bamboo slips used for record keeping (old),,这篇文章很长。,Zhè piān wénzhāng hěn zhǎng.,Bài viết này rất dài.
+H2-396,片,piàn,"miếng, tấm","lượng từ, g",thin piece; flake; a slice,,这片地方以后会很热闹。,Zhè piàn dìfāng yǐhòu huì hěn rènào.,Khu vực này sau này sẽ rất sầm uất.
+H2-397,漂亮,piàoliang,đẹp,tính từ,pretty; beautiful,05 07,这个公寓真漂亮。,Zhège gōngyù zhēn piàoliang.,Căn hộ này đẹp thật.
+H2-398,平,píng,bằng phẳng,"tính từ, động từ",surname Ping,08,这条路很平。,Zhè tiáo lù hěn píng.,Con đường này rất bằng phẳng.
+H2-399,平安,píng'ān,bình an,"tính từ, danh tính từ, phó tính từ, danh từ, danh từ riêng",safe and sound; well; without mishap,,祝你一路平安。,Zhù nǐ yílùpíng'ān.,Chúc anh thượng lộ bình an.
+H2-400,平常,píngcháng,bình thường; thường ngày,"tính từ, phó từ, từ thời gian, danh từ",ordinary; common; usually,,我平常七点起床。,Wǒ píngcháng qī diǎn qǐchuáng.,Bình thường tôi dậy lúc 7 giờ.
+H2-401,平等,píngděng,bình đẳng,"tính từ, phó tính từ, danh tính từ",equal; equality,,大家都是平等的。,Dàjiā dōu shì píngděng de.,Mọi người đều bình đẳng.
+H2-402,平时,píngshí,ngày thường,từ thời gian,ordinarily; in normal times; in peacetime,,平时这里人不多。,Píngshí zhèlǐ rén bù duō.,Ngày thường ở đây không đông người.
+H2-403,瓶,píng,"chai, bình","lượng từ, danh từ",bottle; vase; pitcher,,请给我一瓶水。,Qǐng gěi wǒ yì píng shuǐ.,Cho tôi một chai nước.
+H2-404,瓶子,píngzi,cái chai,danh từ,bottle,,这个瓶子是空的。,Zhège píngzi shì kōng de.,Cái chai này rỗng.
+H2-405,普通,pǔtōng,"phổ thông, bình thường",tính từ,common; ordinary; general,,这是一套普通的公寓。,Zhè shì yí tào pǔtōng de gōngyù.,Đây là một căn hộ bình thường.
+H2-406,普通话,pǔtōnghuà,tiếng phổ thông,danh từ,Mandarin (common language); Putonghua (common speech of the Chinese language); ordinary speech,,他的普通话说得很好。,Tā de pǔtōnghuà shuō dé hěn hǎo.,Anh ấy nói tiếng phổ thông rất tốt.
+H2-407,其他,qítā,khác,đại từ,other; (sth or sb) else; the rest,,其他问题明天再说。,Qítā wèntí míngtiān zài shuō.,Các vấn đề khác mai bàn tiếp.
+H2-408,其中,qízhōng,trong đó,đại từ,among; in; included among these,,三套房子，其中一套有阳台。,"Sān tào fángzi, qízhōng yí tào yǒu yángtái.","Ba căn nhà, trong đó một căn có ban công."
+H2-409,骑,qí,"cưỡi, đi (xe)",động từ,"to sit astride; to ride (a horse, bike etc); classifier for saddle horses",12,我骑车去上班。,Wǒ qíchē qù shàngbān.,Tôi đi xe đi làm.
+H2-410,骑车,qíchē,"đi xe (đạp, máy)",động từ,to ride a bike (motorbike or bicycle),,骑车的时候要小心。,Qíchē de shíhou yào xiǎoxīn.,Khi đi xe phải cẩn thận.
+H2-411,起飞,qǐfēi,cất cánh,"động từ, danh động từ",(of an aircraft) to take off,,飞机几点起飞？,Fēijī jǐ diǎn qǐfēi?,Máy bay mấy giờ cất cánh?
+H2-412,气,qì,khí; giận,"danh từ, động từ",gas; air; smell; weather,,他很生气。,Tā hěn shēngqì.,Anh ấy rất tức giận.
+H2-413,气温,qìwēn,nhiệt độ không khí,danh từ,air temperature,,今天气温很高。,Jīntiān qìwēn hěn gāo.,Hôm nay nhiệt độ rất cao.
+H2-414,千,qiān,nghìn,"số từ, từ thời gian",thousand,,房租一个月八千块。,Fángzū yí ge yuè bāqiān kuài.,Tiền thuê một tháng 8.000 tệ.
+H2-415,千克,qiānkè,kilôgam,lượng từ,kilogram,,这个箱子五十千克。,Zhège xiāngzi wǔshíqiān kè.,Thùng này 50 kg.
+H2-416,前年,qiánnián,năm kia,từ thời gian,the year before last,,前年我们搬到了这里。,Qiánnián wǒmen bān dào le zhèlǐ.,Năm kia chúng tôi chuyển đến đây.
+H2-417,墙,qiáng,tường,danh từ,"variant of 墙, wall",08,墙上可以挂画吗？,Qiáng shàng kěyǐ guà huà ma?,Trên tường có được treo tranh không?
+H2-418,青年,qīngnián,thanh niên,danh từ,youth; youthful years; young person,,很多青年人喜欢住公寓。,Hěn duō qīngnián rén xǐhuan zhù gōngyù.,Nhiều thanh niên thích ở căn hộ.
+H2-419,青少年,qīngshàonián,thanh thiếu niên,danh từ,adolescent; youth; teenager,,这个活动是给青少年的。,Zhège huódòng shì gěi qīngshàonián de.,Hoạt động này dành cho thanh thiếu niên.
+H2-420,轻,qīng,nhẹ,"tính từ, phó tính từ, động từ, g",light; easy; gentle,,这个箱子很轻。,Zhège xiāngzi hěn qīng.,Thùng này rất nhẹ.
+H2-421,清楚,qīngchu,rõ ràng,"tính từ, động từ, phó tính từ",clear; distinct; to understand thoroughly,01 02 03 09 10,我听不清楚，请再说一遍。,"Wǒ tīng bù qīngchu, qǐng zài shuō yí biàn.","Tôi nghe không rõ, xin nói lại lần nữa."
+H2-422,晴,qíng,"nắng, quang đãng",động từ,clear; fine (weather),,明天天晴。,Míngtiān tiān qíng.,Mai trời nắng.
+H2-423,晴天,qíngtiān,trời nắng,danh từ,clear sky; sunny day,,晴天的时候可以看到很远。,Qíngtiān de shíhou kěyǐ kàndào hěn yuǎn.,Trời nắng có thể nhìn rất xa.
+H2-424,请客,qǐngkè,"mời khách, khao",động từ,to give a dinner party; to entertain guests; to invite to dinner,,今天我请客。,Jīntiān wǒ qǐngkè.,Hôm nay tôi mời.
+H2-425,请求,qǐngqiú,"yêu cầu, thỉnh cầu","động từ, danh từ",to request; to ask; request,,我有一个请求。,Wǒ yǒu yí ge qǐngqiú.,Tôi có một yêu cầu.
+H2-426,秋天,qiūtiān,mùa thu,từ thời gian,autumn,,秋天是最好的季节。,Qiūtiān shì zuìhǎo de jìjié.,Mùa thu là mùa đẹp nhất.
+H2-427,求,qiú,"cầu xin, nhờ",động từ,to seek; to look for; to request,,我求你帮我一个忙。,Wǒ qiú nǐ bāng wǒ yí ge máng.,Tôi nhờ anh giúp một việc.
+H2-428,球场,qiúchǎng,sân bóng,danh từ,stadium; sports ground; court,,小区里有一个球场。,Xiǎoqū lǐ yǒu yí ge qiúchǎng.,Trong khu có một sân bóng.
+H2-429,球队,qiúduì,đội bóng,danh từ,"sports team (basketball, soccer, football etc)",,他是我们球队的。,Tā shì wǒmen qiúduì de.,Anh ấy là người của đội bóng chúng tôi.
+H2-430,球鞋,qiúxié,giày thể thao,danh từ,athletic shoes,,我买了一双新球鞋。,Wǒ mǎi le yì shuāng xīn qiúxié.,Tôi mua một đôi giày thể thao mới.
+H2-431,取,qǔ,"lấy, rút",động từ,to take; to get; to choose,01 02,我去银行取钱。,Wǒ qù yínháng qǔqián.,Tôi đi ngân hàng rút tiền.
+H2-432,取得,qǔdé,đạt được,động từ,to acquire; to get; to obtain,,公司取得了很好的成绩。,Gōngsī qǔdé le hěn hǎo de chéngjì.,Công ty đạt được thành tích rất tốt.
+H2-433,全,quán,toàn bộ,"phó từ, tính từ",surname Quan,02 07 09,东西全到了。,Dōngxī quán dào le.,Đồ đến đủ cả rồi.
+H2-434,全部,quánbù,toàn bộ,số từ,whole; all,03,房租全部付了。,Fángzū quánbù fù le.,Tiền thuê đã trả hết.
+H2-435,全国,quánguó,toàn quốc,danh từ,whole nation; nationwide; countrywide,,这家银行在全国都有。,Zhè jiā yínháng zài quánguó dōu yǒu.,Ngân hàng này có ở khắp cả nước.
+H2-436,全家,quánjiā,cả nhà,danh từ,whole family,,我们全家都搬到了胡志明市。,Wǒmen quánjiā dōu bān dào le húzhìmíngshì.,Cả nhà tôi đã chuyển vào TP.HCM.
+H2-437,全年,quánnián,cả năm,danh từ,the whole year; all year long,,这里全年都很热。,Zhèlǐ quánnián dōu hěn rè.,Ở đây quanh năm đều nóng.
+H2-438,全身,quánshēn,toàn thân,danh từ,the whole body; (typography) em,,下雨了，我全身都湿了。,"Xiàyǔ le, wǒ quánshēn dōu shī le.","Trời mưa, tôi ướt hết cả người."
+H2-439,全体,quántǐ,toàn thể,danh từ,all; entire,,全体员工下午开会。,Quántǐ yuángōng xiàwǔ kāihuì.,Toàn thể nhân viên họp buổi chiều.
+H2-440,然后,ránhòu,sau đó,liên từ,then; after that; afterwards,08,先看房，然后签合同。,"Xiān kànfáng, ránhòu qiānhétong.","Xem nhà trước, sau đó ký hợp đồng."
+H2-441,让,ràng,"để, bảo; nhường",động từ,to yield; to permit; to let sb do sth,04 11,房东让我们先交押金。,Fángdōng ràng wǒmen xiān jiāo yājīn.,Chủ nhà bảo chúng tôi nộp cọc trước.
+H2-442,热情,rèqíng,nhiệt tình,"danh tính từ, tính từ, phó tính từ",cordial; enthusiastic; passion,,这里的人很热情。,Zhèlǐ de rén hěn rèqíng.,Người ở đây rất nhiệt tình.
+H2-443,人口,rénkǒu,dân số,danh từ,population; people,,这个城市人口很多。,Zhège chéngshì rénkǒu hěn duō.,Thành phố này dân số rất đông.
+H2-444,人们,rénmen,mọi người,danh từ,people,,人们都在等公交车。,Rénmen dōu zài děng gōngjiāochē.,Mọi người đều đang đợi xe buýt.
+H2-445,人数,rénshù,số người,danh từ,number of people,,参加会议的人数是二十。,Cānjiā huìyì de rénshù shì èrshí.,Số người dự họp là 20.
+H2-446,认为,rènwéi,cho rằng,động từ,to believe; to think; to consider; to feel,,我认为这个价格可以。,Wǒ rènwéi zhège jiàgé kěyǐ.,Tôi cho rằng giá này được.
+H2-447,日报,rìbào,nhật báo,danh từ,daily newspaper,,他在看今天的日报。,Tā zài kàn jīntiān de rìbào.,Anh ấy đang đọc nhật báo hôm nay.
+H2-448,日子,rìzi,"ngày, cuộc sống",danh từ,day; a (calendar) date; days of one's life,,搬家的日子定了吗？,Bānjiā de rìzi dìng le ma?,Ngày chuyển nhà chốt chưa?
+H2-449,如果,rúguǒ,nếu,"liên từ, động từ",if; in case; in the event that,03 08 11,如果你有时间，我们一起去。,"Rúguǒ nǐ yǒushí jiān, wǒmen yìqǐ qù.","Nếu anh có thời gian, chúng ta cùng đi."
+H2-450,入口,rùkǒu,lối vào,"danh từ, động từ",entrance; to import,,停车场的入口在后面。,Tíngchēchǎng de rùkǒu zài hòumiàn.,Lối vào bãi xe ở phía sau.
+H2-451,商量,shāngliang,bàn bạc,động từ,to consult; to talk over; to discuss,11,我们再商量一下。,Wǒmen zài shāngliang yí xià.,Chúng ta bàn thêm chút nữa.
+H2-452,商人,shāngrén,thương nhân,danh từ,merchant; businessman,,他是一个商人。,Tā shì yí ge shāngrén.,Anh ấy là một thương nhân.
+H2-453,上周,shàngzhōu,tuần trước,từ thời gian,last week,,上周我们看了三套房子。,Shàngzhōu wǒmen kàn le sān tào fángzi.,Tuần trước chúng tôi xem ba căn nhà.
+H2-454,少年,shàonián,thiếu niên,danh từ,early youth; youngster; (literary) youth,,他少年的时候住在北京。,Tā shàonián de shíhou zhù zài Běijīng.,Hồi thiếu niên anh ấy sống ở Bắc Kinh.
+H2-455,少数,shǎoshù,số ít,số từ,small number; few; minority,,只有少数人反对。,Zhǐyǒu shǎoshù rén fǎnduì.,Chỉ có số ít người phản đối.
+H2-456,身边,shēnbiān,bên cạnh,từ nơi chốn,at one's side; on hand,,手机不在我身边。,Shǒujī bú zài wǒ shēnbiān.,Điện thoại không có bên cạnh tôi.
+H2-457,什么样,shénmeyàng,"như thế nào, kiểu gì",đại từ,what kind?; what sort?,03,你想租什么样的房子？,Nǐ xiǎng zū shénmeyàng de fángzi?,Anh muốn thuê nhà như thế nào?
+H2-458,生,shēng,sinh; sống,"động từ, g, tính từ",to be born; to give birth; life,,她生了一个女儿。,Tā shēng le yí ge nǚ'ér.,Cô ấy sinh một bé gái.
+H2-459,生词,shēngcí,từ mới,danh từ,new word (in textbook); word that is unfamiliar or not yet studied,,今天学了十个生词。,Jīntiān xué le shí ge shēngcí.,Hôm nay học 10 từ mới.
+H2-460,生活,shēnghuó,cuộc sống; sống,"danh động từ, động từ",to live; life; livelihood,,这里的生活很方便。,Zhèlǐ de shēnghuó hěn fāngbiàn.,Cuộc sống ở đây rất tiện.
+H2-461,声音,shēngyīn,"âm thanh, giọng",danh từ,voice; sound,08 09,外面的声音太大了。,Wàimiàn de shēngyīn tài dà le.,Tiếng bên ngoài lớn quá.
+H2-462,省,shěng,tỉnh; tiết kiệm,"danh từ, động từ",to save; to economize; to be frugal; to omit; to delete; to leave out; province,,住得近可以省很多时间。,Zhù dé jìn kěyǐ shěng hěn duō shíjiān.,Ở gần có thể tiết kiệm nhiều thời gian.
+H2-463,十分,shífēn,rất,phó từ,very; completely; utterly,,这个地方十分方便。,Zhège dìfāng shífēn fāngbiàn.,Chỗ này vô cùng tiện lợi.
+H2-464,实际,shíjì,thực tế,"danh từ, tính từ, phó tính từ",reality; practice; practical,,实际面积比广告上小。,Shíjì miànjī bǐ guǎnggào shàng xiǎo.,Diện tích thực tế nhỏ hơn trên quảng cáo.
+H2-465,实习,shíxí,thực tập,"danh động từ, động từ",to practice; field work; to intern,,他在我们公司实习。,Tā zài wǒmen gōngsī shíxí.,Cậu ấy thực tập ở công ty chúng tôi.
+H2-466,实现,shíxiàn,thực hiện,"động từ, danh động từ",to achieve; to implement; to realize,,我的计划终于实现了。,Wǒ de jìhuà zhōngyú shíxiàn le.,Kế hoạch của tôi cuối cùng đã thành hiện thực.
+H2-467,实在,shízài,thật sự,"phó từ, tính từ",really; actually; indeed,,实在对不起。,Shízài duìbuqǐ.,Thật sự xin lỗi.
+H2-468,食物,shíwù,thức ăn,danh từ,food,,冰箱里有很多食物。,Bīngxiāng lǐ yǒu hěn duō shíwù.,Trong tủ lạnh có nhiều thức ăn.
+H2-469,使用,shǐyòng,sử dụng,"động từ, danh động từ",to use; to employ; to apply,,这台机器怎么使用？,Zhè tái jīqì zěnme shǐyòng?,Máy này sử dụng thế nào?
+H2-470,市,shì,thành phố,danh từ,market; city,,胡志明市很大。,Húzhìmíngshì hěn dà.,TP. Hồ Chí Minh rất lớn.
+H2-471,市长,shìzhǎng,thị trưởng,danh từ,mayor,,市长来参观新地铁。,Shìzhǎng lái cānguān xīn dìtiě.,Thị trưởng đến tham quan metro mới.
+H2-472,事情,shìqing,sự việc,danh từ,affair; matter; thing; business,04,我有一件事情要告诉你。,Wǒ yǒu yí jiàn shìqing yào gàosù nǐ.,Tôi có một chuyện muốn nói với anh.
+H2-473,收,shōu,"thu, nhận",động từ,to receive; to accept; to collect,01 02 05 10,这家店不收信用卡。,Zhè jiā diàn bù shōu xìnyòngkǎ.,Cửa hàng này không nhận thẻ tín dụng.
+H2-474,收到,shōudào,nhận được,động từ,to receive,02,我收到你的邮件了。,Wǒ shōudào nǐ de yóujiàn le.,Tôi nhận được email của anh rồi.
+H2-475,收入,shōurù,thu nhập,"danh từ, động từ",to take in; income; revenue,,他的收入很高。,Tā de shōurù hěn gāo.,Thu nhập của anh ấy rất cao.
+H2-476,手表,shǒubiǎo,đồng hồ đeo tay,danh từ,wristwatch,,我的手表停了。,Wǒ de shǒubiǎo tíng le.,Đồng hồ của tôi dừng rồi.
+H2-477,受到,shòudào,"nhận được, bị",động từ,"to receive (praise, an education, punishment etc); to be ...ed (praised, educated, punished etc)",,这个小区受到很多人的欢迎。,Zhège xiǎoqū shòudào hěn duō rén de huānyíng.,Khu này được nhiều người ưa chuộng.
+H2-478,舒服,shūfu,"thoải mái, dễ chịu",tính từ,comfortable; feeling well,08,这个沙发很舒服。,Zhège shāfā hěn shūfu.,Ghế sofa này rất thoải mái.
+H2-479,熟,shú,chín; quen,"tính từ, phó tính từ",ripe; mature; thoroughly cooked; done; familiar; acquainted,,我对这里不太熟。,Wǒ duì zhèlǐ bútài shú.,Tôi không thạo khu này lắm.
+H2-480,数,shù,đếm (shǔ); số (shù),"số từ, danh từ, động từ",number; figure; several; a few,01,请数一下有几个箱子。,Qǐng shù yí xià yǒu jǐ ge xiāngzi.,Đếm xem có mấy thùng.
+H2-481,数字,shùzì,chữ số,danh từ,numeral; digit; number,,请写清楚这个数字。,Qǐng xiě qīngchu zhège shùzì.,Xin ghi rõ con số này.
+H2-482,水平,shuǐpíng,trình độ,danh từ,level (of achievement etc); standard; horizontal,,他的中文水平很高。,Tā de Zhōngwén shuǐpíng hěn gāo.,Trình độ tiếng Trung của anh ấy rất cao.
+H2-483,顺利,shùnlì,thuận lợi,"tính từ, phó tính từ",smoothly; without a hitch,,祝你工作顺利！,Zhù nǐ gōngzuò shùnlì!,Chúc anh công việc thuận lợi!
+H2-484,说明,shuōmíng,"giải thích, thuyết minh","động từ, danh động từ, danh từ",to explain; to illustrate; to indicate,03,请说明一下房租包括什么。,Qǐng shuōmíng yí xià fángzū bāokuò shénme.,Xin giải thích tiền thuê gồm những gì.
+H2-485,司机,sījī,tài xế,danh từ,chauffeur; driver,12,司机师傅，请开慢一点儿。,"Sījī shīfu, qǐng kāi màn yīdiǎnr.","Bác tài, xin lái chậm một chút."
+H2-486,送到,sòngdào,giao đến,động từ,Deliver,10,东西明天送到。,Dōngxī míngtiān sòngdào.,Đồ mai giao đến.
+H2-487,送给,sònggěi,tặng cho,động từ,to send; to give as a present,,这本书送给你。,Zhè běn shū sònggěi nǐ.,Quyển sách này tặng anh.
+H2-488,算,suàn,tính; coi như,"động từ, phó từ",to regard as; to figure; to calculate,01 08,我们算一下一共多少钱。,Wǒmen suàn yí xià yígòng duōshǎo qián.,Chúng ta tính xem tổng cộng bao nhiêu tiền.
+H2-489,虽然,suīrán,tuy,liên từ,although; even though (often used correlatively with 是 or 是 etc),06 11,虽然很远，但是很便宜。,"Suīrán hěn yuǎn, dànshì hěn piányi.",Tuy xa nhưng rất rẻ.
+H2-490,随便,suíbiàn,tùy ý,"phó tính từ, tính từ, động từ",as one wishes; as one pleases; at random,,随便坐。,Suíbiàn zuò.,Cứ ngồi tự nhiên.
+H2-491,随时,suíshí,bất cứ lúc nào,phó từ,at any time; at all times; at the right time; whenever necessary,,有问题随时给我打电话。,Yǒu wèntí suíshí gěi wǒ dǎdiànhuà.,Có vấn đề cứ gọi tôi bất cứ lúc nào.
+H2-492,所以,suǒyǐ,cho nên,liên từ,therefore; as a result; so,07 08,下雨了，所以堵车。,"Xiàyǔ le, suǒyǐ dǔchē.",Trời mưa nên kẹt xe.
+H2-493,所有,suǒyǒu,tất cả,"khu biệt từ, động từ",all; to have; to possess; to own,09,所有的房间都有空调。,Suǒyǒu de fángjiān dōu yǒu kōngtiáo.,Tất cả các phòng đều có máy lạnh.
+H2-494,它,tā,nó (vật),đại từ,it,,这是我的猫，它很可爱。,"Zhè shì wǒ de māo, tā hěn kě'ài.","Đây là mèo của tôi, nó rất đáng yêu."
+H2-495,它们,tāmen,chúng nó (vật),đại từ,they (for inanimate objects),,这些箱子，它们都很重。,"Zhèxiē xiāngzi, tāmen dōu hěn zhòng.","Mấy thùng này, chúng đều rất nặng."
+H2-496,太太,tàitai,"bà, vợ",danh từ,married woman; Mrs.; Madam,,王太太是我的邻居。,Wáng tàitai shì wǒ de línjū.,Bà Vương là hàng xóm của tôi.
+H2-497,太阳,tàiyang,mặt trời,danh từ,sun; abbr. for 太阳穴,,今天太阳很大。,Jīntiān tàiyang hěn dà.,Hôm nay nắng rất gắt.
+H2-498,态度,tàidu,thái độ,danh từ,manner; bearing; attitude,,服务员的态度很好。,Fúwùyuán de tàidu hěn hǎo.,Thái độ của nhân viên phục vụ rất tốt.
+H2-499,讨论,tǎolùn,thảo luận,"động từ, danh động từ",to discuss; to talk over,,我们讨论一下价格。,Wǒmen tǎolùn yí xià jiàgé.,Chúng ta thảo luận về giá cả.
+H2-500,套,tào,"bộ, căn (lượng từ); bọc","lượng từ, động từ, g",to cover; to encase; cover,03 05 11,我想租一套公寓。,Wǒ xiǎng zū yí tào gōngyù.,Tôi muốn thuê một căn hộ.
+H2-501,特别,tèbié,đặc biệt,"phó từ, tính từ",unusual; special; very; especially; particularly; expressly; for a specific purpose,,这里的环境特别好。,Zhèlǐ de huánjìng tèbié hǎo.,Môi trường ở đây đặc biệt tốt.
+H2-502,特点,tèdiǎn,đặc điểm,danh từ,characteristic (feature); trait; feature,,这个房子的特点是安静。,Zhège fángzi de tèdiǎn shì ānjìng.,Đặc điểm của căn nhà này là yên tĩnh.
+H2-503,疼,téng,đau,"động từ, tính từ",(it) hurts; sore; to love dearly,,我头疼，今天不去上班了。,"Wǒ tóu téng, jīntiān bú qù shàngbān le.","Tôi đau đầu, hôm nay không đi làm."
+H2-504,提,tí,xách; đề cập,động từ,to carry (hanging down from the hand); to lift; to put forward,,我帮你提箱子。,Wǒ bāng nǐ tí xiāngzi.,Tôi xách thùng giúp anh.
+H2-505,提出,tíchū,"đưa ra, đề xuất",động từ,to raise (an issue); to propose; to put forward,,房东提出了新的要求。,Fángdōng tíchū le xīn de yāoqiú.,Chủ nhà đưa ra yêu cầu mới.
+H2-506,提到,tídào,nhắc đến,động từ,to mention; to raise (a subject); to refer to,,他提到了押金的问题。,Tā tídào le yājīn de wèntí.,Anh ấy nhắc đến vấn đề tiền cọc.
+H2-507,提高,tígāo,nâng cao,"động từ, danh động từ",to raise; to increase; to improve,,我想提高我的中文水平。,Wǒ xiǎng tígāo wǒ de Zhōngwén shuǐpíng.,Tôi muốn nâng cao trình độ tiếng Trung.
+H2-508,题,tí,"đề, câu hỏi (bài tập)","danh từ, động từ",surname Ti,,这道题我不会。,Zhè dào tí wǒ bú huì.,Câu này tôi không biết làm.
+H2-509,体育,tǐyù,"thể dục, thể thao",danh từ,sports; physical education,,他喜欢看体育节目。,Tā xǐhuan kàn tǐyù jiémù.,Anh ấy thích xem chương trình thể thao.
+H2-510,体育场,tǐyùchǎng,sân vận động,danh từ,stadium,,体育场就在附近。,Tǐyùchǎng jiù zài fùjìn.,Sân vận động ở ngay gần đây.
+H2-511,体育馆,tǐyùguǎn,nhà thi đấu,danh từ,gym; gymnasium; stadium,,学校有一个新的体育馆。,Xuéxiào yǒu yí ge xīn de tǐyùguǎn.,Trường có một nhà thi đấu mới.
+H2-512,天上,tiānshàng,trên trời,từ nơi chốn,celestial; heavenly,,天上有很多星星。,Tiānshàng yǒu hěn duō xīngxing.,Trên trời có rất nhiều sao.
+H2-513,条,tiáo,"(lượng từ) con, cái, điều (vật dài)",lượng từ,strip; item; article,06 09 12,这条路通到市中心。,Zhè tiáo lù tōng dào shìzhōngxīn.,Con đường này dẫn đến trung tâm.
+H2-514,条件,tiáojiàn,điều kiện,danh từ,condition; circumstance; term; factor; requirement; prerequisite; qualification; situation; state; condition,11,这套房子的条件很好。,Zhè tào fángzi de tiáojiàn hěn hǎo.,Điều kiện của căn nhà này rất tốt.
+H2-515,听讲,tīngjiǎng,nghe giảng,động từ,to attend a lecture; to listen to a talk,,上课的时候要认真听讲。,Shàngkè de shíhou yào rènzhēn tīngjiǎng.,Trong giờ học phải chăm chú nghe giảng.
+H2-516,听说,tīngshuō,nghe nói,động từ,to hear (sth said); one hears (that); hearsay,,听说这里要建地铁站。,Tīngshuō zhèlǐ yào jiàn dìtiězhàn.,Nghe nói ở đây sắp xây ga metro.
+H2-517,停,tíng,dừng; đỗ (xe),động từ,to stop; to halt; to park (a car),08 12,车停在楼下。,Chē tíng zài lóuxià.,Xe đỗ dưới lầu.
+H2-518,停车,tíngchē,"đỗ xe, dừng xe","động từ, danh động từ",to pull up (stop one's vehicle); to park; (of a machine) to stop working,07 11 12,这里不能停车。,Zhèlǐ bù néng tíngchē.,Ở đây không được đỗ xe.
+H2-519,停车场,tíngchēchǎng,bãi đỗ xe,danh từ,parking lot; car park,06 07 12,停车场在地下。,Tíngchēchǎng zài dìxià.,Bãi đỗ xe ở dưới tầng hầm.
+H2-520,挺,tǐng,"khá, rất","phó từ, động từ, g, lượng từ",straight; erect; to stick out (a part of the body),,这个价格挺合适的。,Zhège jiàgé tǐng héshì de.,Giá này khá hợp lý.
+H2-521,挺好,tǐnghǎo,khá tốt,,very good,,我觉得这个房子挺好。,Wǒ juéde zhège fángzi tǐnghǎo.,Tôi thấy căn nhà này khá tốt.
+H2-522,通,tōng,"thông, thông suốt","động từ, tính từ, qv",to go through; to know well; (suffix) expert,,这条路不通。,Zhè tiáo lù bù tōng.,Con đường này không thông.
+H2-523,通过,tōngguò,thông qua; đi qua,"giới từ, động từ, danh động từ",to pass through; to get through; to adopt (a resolution); to pass (legislation); to pass (a test),,我们通过朋友找到了这套房子。,Wǒmen tōngguò péngyou zhǎodào le zhè tào fángzi.,Chúng tôi tìm được căn nhà này qua bạn bè.
+H2-524,通知,tōngzhī,thông báo,"danh từ, động từ",to notify; to inform; notice,03,物业通知明天停水。,Wùyè tōngzhī míngtiān tíng shuǐ.,Ban quản lý thông báo mai cúp nước.
+H2-525,同时,tóngshí,đồng thời,"liên từ, danh từ, phó từ",at the same time; simultaneously,,他同时做两份工作。,Tā tóngshí zuò liǎng fèn gōngzuò.,Anh ấy làm hai công việc cùng lúc.
+H2-526,同事,tóngshì,đồng nghiệp,danh từ,colleague; co-worker,04,我和同事一起吃午饭。,Wǒ hé tóngshì yìqǐ chī wǔfàn.,Tôi ăn trưa cùng đồng nghiệp.
+H2-527,同样,tóngyàng,"giống nhau, như nhau","khu biệt từ, phó từ",same; equal; equivalent,,同样的房子，这里更便宜。,"Tóngyàng de fángzi, zhèlǐ gèng piányi.","Cùng loại nhà, ở đây rẻ hơn."
+H2-528,头,tóu,đầu,"danh từ, lượng từ, số từ, k",head; hair style; the top,,他头发很短。,Tā tóufa hěn duǎn.,Tóc anh ấy rất ngắn.
+H2-529,头发,tóufa,tóc,danh từ,hair (on the head),,我要去理头发。,Wǒ yào qù lǐtóufa.,Tôi phải đi cắt tóc.
+H2-530,图片,túpiàn,hình ảnh,danh từ,picture; photograph,,网上的图片很漂亮。,Wǎngshàng de túpiàn hěn piàoliang.,Ảnh trên mạng rất đẹp.
+H2-531,推,tuī,đẩy,động từ,to push; to cut; to refuse,,请推门进来。,Qǐng tuī mén jìnlái.,Đẩy cửa vào nhé.
+H2-532,腿,tuǐ,chân,danh từ,leg,09,走了很多路，腿很累。,"Zǒu le hěn duō lù, tuǐ hěn lèi.","Đi nhiều đường, chân mỏi quá."
+H2-533,外地,wàidì,"nơi khác, tỉnh khác",từ nơi chốn,parts of the country other than where one is,,他是从外地来的。,Tā shì cóng wàidì lái de.,Anh ấy từ tỉnh khác đến.
+H2-534,外卖,wàimài,đồ ăn giao tận nơi,,(of a restaurant) to provide a takeout or home delivery meal; takeout (business); takeout (meal),,中午我们叫外卖吧。,Zhōngwǔ wǒmen jiào wàimài ba.,Trưa nay mình gọi đồ ăn ngoài nhé.
+H2-535,完,wán,"xong, hết",động từ,to finish; to be over; whole,02 08,我看完合同了。,Wǒ kàn wán hétong le.,Tôi xem xong hợp đồng rồi.
+H2-536,完成,wánchéng,hoàn thành,"động từ, danh động từ",to complete; to accomplish,08,工作已经完成了。,Gōngzuò yǐjīng wánchéng le.,Công việc đã hoàn thành rồi.
+H2-537,完全,wánquán,hoàn toàn,"phó tính từ, tính từ",complete; whole; totally; entirely,,我完全同意。,Wǒ wánquán tóngyì.,Tôi hoàn toàn đồng ý.
+H2-538,晚安,wǎn'ān,chúc ngủ ngon,động từ,Good night!; Good evening!,,晚安，明天见。,"Wǎn'ān, míngtiān jiàn.","Chúc ngủ ngon, mai gặp."
+H2-539,晚报,wǎnbào,báo chiều,danh từ,evening newspaper; (in a newspaper's name) Evening News,,爸爸在看晚报。,Bàba zài kàn wǎnbào.,Bố đang đọc báo chiều.
+H2-540,晚餐,wǎncān,bữa tối,danh từ,evening meal; dinner,,晚餐在七点。,Wǎncān zài qī diǎn.,Bữa tối lúc 7 giờ.
+H2-541,晚会,wǎnhuì,"dạ hội, buổi tiệc tối",danh từ,evening party,,公司今天晚上有晚会。,Gōngsī jīntiān wǎnshang yǒu wǎnhuì.,Tối nay công ty có tiệc.
+H2-542,碗,wǎn,cái bát,"danh từ, lượng từ",variant of 碗,,请给我一个碗。,Qǐng gěi wǒ yí ge wǎn.,Cho tôi một cái bát.
+H2-543,万,wàn,vạn (mười nghìn),"số từ, từ thời gian",surname Wan,,这套房子一个月一万块。,Zhè tào fángzi yí ge yuè yíwàn kuài.,Căn nhà này một tháng 10.000 tệ.
+H2-544,网,wǎng,"mạng, lưới","danh từ, động từ",net; network,04,这里能上网吗？,Zhèlǐ néng shàngwǎng ma?,Ở đây lên mạng được không?
+H2-545,网球,wǎngqiú,quần vợt,danh từ,tennis; tennis ball,,周末我打网球。,Zhōumò wǒ dǎ wǎngqiú.,Cuối tuần tôi chơi quần vợt.
+H2-546,网站,wǎngzhàn,trang web,danh từ,website; network station; node,,我在网站上看到了这套房子。,Wǒ zài wǎngzhàn shàng kàndào le zhè tào fángzi.,Tôi thấy căn nhà này trên trang web.
+H2-547,往,wǎng,"về phía, hướng","giới từ, động từ",to go (in a direction); to; towards,06 12,往左走就是银行。,Wǎng zuǒ zǒu jiùshì yínháng.,Đi về bên trái là ngân hàng.
+H2-548,为,wèi,"vì, cho (wèi); làm, là (wéi)","giới từ, động từ",because of; for; to,,我为你高兴。,Wǒ wèi nǐ gāoxìng.,Tôi mừng cho anh.
+H2-549,为什么,wèishénme,tại sao,đại từ,why?; for what reason?,02 04 08 09,你为什么不坐地铁？,Nǐ wèishénme bú zuò dìtiě?,Sao anh không đi metro?
+H2-550,位,wèi,"vị (lượng từ người, lịch sự); vị trí","lượng từ, g",position; location; place,09 11,这位是我们的经理。,Zhè wèi shì wǒmen de jīnglǐ.,Vị này là giám đốc của chúng tôi.
+H2-551,味道,wèidao,mùi vị,danh từ,flavor; taste; (fig.) feeling (of ...); sense (of ...); hint (of ...); (fig.) interest; delight,05,房间里有什么味道？,Fángjiān lǐ yǒu shénme wèidao?,Trong phòng có mùi gì vậy?
+H2-552,喂,wéi,alô,"động từ, thán từ",hello (when answering the phone),09,喂，你好，请问是王先生吗？,"Wèi, nǐ hǎo, qǐngwèn shì wáng xiānsheng ma?","Alô, chào anh, xin hỏi có phải anh Vương không?"
+H2-553,温度,wēndù,nhiệt độ,danh từ,temperature,,空调温度太低了。,Kōngtiáo wēndù tài dī le.,Nhiệt độ máy lạnh thấp quá.
+H2-554,闻,wén,ngửi,động từ,surname Wen,,你闻一闻，有没有味道？,"Nǐ wén yì wén, yǒu méiyǒu wèidao?",Anh ngửi thử xem có mùi không?
+H2-555,问路,wènlù,hỏi đường,động từ,to ask for directions; to ask the way (to some place),,我不认识路，要问路。,"Wǒ bú rènshi lù, yào wènlù.","Tôi không biết đường, phải hỏi đường."
+H2-556,问题,wèntí,"câu hỏi, vấn đề",danh từ,question; problem; issue,01 02 08 09 11,有问题请问我。,Yǒu wèntí qǐngwèn wǒ.,Có câu hỏi xin hỏi tôi.
+H2-557,午餐,wǔcān,bữa trưa,"danh từ, động từ",lunch; luncheon,,午餐公司提供。,Wǔcān gōngsī tígōng.,Bữa trưa công ty cung cấp.
+H2-558,午睡,wǔshuì,ngủ trưa,động từ,to take a nap; siesta,,我中午习惯午睡。,Wǒ zhōngwǔ xíguàn wǔshuì.,Trưa tôi quen ngủ trưa.
+H2-559,习惯,xíguàn,thói quen; quen,"danh từ, động từ",habit; custom; usual practice,,我已经习惯了这里的生活。,Wǒ yǐjīng xíguàn le zhèlǐ de shēnghuó.,Tôi đã quen với cuộc sống ở đây.
+H2-560,洗衣机,xǐyījī,máy giặt,danh từ,washing machine; washer,05,洗衣机在阳台上。,Xǐyījī zài yángtái shàng.,Máy giặt ở ngoài ban công.
+H2-561,洗澡,xǐzǎo,tắm,"động từ, danh động từ",to bathe; to take a shower,05,我每天晚上洗澡。,Wǒ měi tiān wǎnshang xǐzǎo.,Tối nào tôi cũng tắm.
+H2-562,西北,xīběi,tây bắc,"từ nơi chốn, địa danh, phương vị từ","Northwest China (Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang)",,风从西北吹过来。,Fēng cóng xīběi chuī guòlái.,Gió thổi từ hướng tây bắc.
+H2-563,西餐,xīcān,món Âu,danh từ,Western-style food,,楼下有一家西餐厅。,Lóuxià yǒu yì jiā xīcāntīng.,Dưới lầu có một nhà hàng món Âu.
+H2-564,西方,xīfāng,phương Tây,"từ nơi chốn, phương vị từ",the West; the Occident; Western countries,,他在西方国家留学。,Tā zài xīfāng guójiā liúxué.,Anh ấy du học ở nước phương Tây.
+H2-565,西南,xīnán,tây nam,"từ nơi chốn, phương vị từ, địa danh",southwest,,公司在城市的西南边。,Gōngsī zài chéngshì de xīnán biān.,Công ty ở phía tây nam thành phố.
+H2-566,西医,xīyī,Tây y,danh từ,Western medicine; a doctor trained in Western medicine,,我生病了，去看西医。,"Wǒ shēngbìng le, qù kàn xīyī.","Tôi ốm, đi khám Tây y."
+H2-567,下雪,xiàxuě,tuyết rơi,động từ,to snow,,胡志明市不下雪。,Húzhìmíngshì bú xiàxuě.,TP.HCM không có tuyết.
+H2-568,下周,xiàzhōu,tuần sau,,next week,04 08 10,下周一我们签合同。,Xiàzhōu yì wǒmen qiānhétong.,Thứ hai tuần sau chúng ta ký hợp đồng.
+H2-569,夏天,xiàtiān,mùa hè,từ thời gian,summer,,夏天这里经常下雨。,Xiàtiān zhèlǐ jīngcháng xiàyǔ.,Mùa hè ở đây thường mưa.
+H2-570,相机,xiàngjī,máy ảnh,danh từ,camera (abbr. for 照相机); at the opportune moment; as the circumstances allow,,我用相机拍了房间的照片。,Wǒ yòng xiàngjī pāi le fángjiān de zhàopiàn.,Tôi chụp ảnh căn phòng bằng máy ảnh.
+H2-571,相同,xiāngtóng,giống nhau,tính từ,identical; same,,两个房间的面积相同。,Liǎng ge fángjiān de miànjī xiāngtóng.,Diện tích hai phòng giống nhau.
+H2-572,相信,xiāngxìn,tin tưởng,động từ,to be convinced (that sth is true); to believe; to accept sth as true,,我相信你。,Wǒ xiāngxìn nǐ.,Tôi tin anh.
+H2-573,响,xiǎng,"reo, kêu (chuông)","động từ, tính từ, lượng từ",echo; sound; noise,,电话响了。,Diànhuà xiǎng le.,Điện thoại reo rồi.
+H2-574,想到,xiǎngdào,nghĩ đến,động từ,to think of; to call to mind; to anticipate,,我没想到房租这么贵。,Wǒ méi xiǎngdào fángzū zhème guì.,Tôi không ngờ tiền thuê đắt thế.
+H2-575,想法,xiǎngfǎ,"suy nghĩ, ý tưởng","danh từ, động từ",way of thinking; opinion; notion; to think of a way (to do sth),,你有什么想法？,Nǐ yǒu shénme xiǎngfǎ?,Anh có suy nghĩ gì?
+H2-576,想起,xiǎngqǐ,nhớ ra,động từ,to recall; to think of; to call to mind,,我想起来了，钥匙在桌子上。,"Wǒ xiǎngqǐ lái le, yàoshi zài zhuōzi shàng.","Tôi nhớ ra rồi, chìa khoá ở trên bàn."
+H2-577,向,xiàng,"về phía, hướng về","giới từ, động từ, g",surname Xiang,,向前走一百米。,Xiàng qián zǒu yìbǎi mǐ.,Đi về phía trước 100 mét.
+H2-578,像,xiàng,giống,"động từ, giới từ, danh từ, phó từ",to resemble; to be like; to look as if,,这个房间像酒店一样。,Zhège fángjiān xiàng jiǔdiàn yíyàng.,Căn phòng này giống như khách sạn.
+H2-579,小声,xiǎoshēng,nhỏ tiếng,"động từ, phó từ, phó tính từ",in a low voice; (speak) in whispers,07,请小声一点儿。,Qǐng xiǎoshēng yīdiǎnr.,Xin nói nhỏ một chút.
+H2-580,小时候,xiǎoshíhou,lúc nhỏ,"từ thời gian, danh từ",in one's childhood,,我小时候住在农村。,Wǒ xiǎoshíhou zhù zài nóngcūn.,Hồi nhỏ tôi sống ở nông thôn.
+H2-581,小说,xiǎoshuō,tiểu thuyết,danh từ,novel; fiction,,我在地铁上看小说。,Wǒ zài dìtiě shàng kàn xiǎoshuō.,Tôi đọc tiểu thuyết trên metro.
+H2-582,小心,xiǎoxīn,cẩn thận,"tính từ, động từ, phó tính từ",to be careful; to take care,06 08 10 12,下雨了，开车小心。,"Xiàyǔ le, kāichē xiǎoxīn.","Trời mưa, lái xe cẩn thận."
+H2-583,小组,xiǎozǔ,nhóm,danh từ,group,,我们分成三个小组。,Wǒmen fēn chéng sān ge xiǎozǔ.,Chúng ta chia thành ba nhóm.
+H2-584,校园,xiàoyuán,khuôn viên trường,danh từ,campus,,大学的校园很大。,Dàxué de xiàoyuán hěn dà.,Khuôn viên trường đại học rất rộng.
+H2-585,校长,xiàozhǎng,hiệu trưởng,danh từ,"(college, university) president; headmaster",,校长今天来参观。,Xiàozhǎng jīntiān lái cānguān.,Hôm nay hiệu trưởng đến thăm.
+H2-586,笑话,xiàohua,truyện cười; chê cười,danh từ,joke; jest; to laugh at; to mock,,他给我们讲了一个笑话。,Tā gěi wǒmen jiǎng le yí ge xiàohua.,Anh ấy kể cho chúng tôi một chuyện cười.
+H2-587,笑话儿,xiàohuar,truyện cười,,Joke,,这个笑话儿真好笑。,Zhège xiàohuar zhēn hǎo xiào.,Chuyện cười này buồn cười thật.
+H2-588,鞋,xié,giày,danh từ,shoe,,进门请换鞋。,Jìn mén qǐng huàn xié.,Vào nhà xin thay giày.
+H2-589,心里,xīnli,trong lòng,từ nơi chốn,chest; heart; mind,,我心里很高兴。,Wǒ xīnli hěn gāoxìng.,Trong lòng tôi rất vui.
+H2-590,心情,xīnqíng,tâm trạng,danh từ,mood; frame of mind,,今天我的心情很好。,Jīntiān wǒ de xīnqíng hěn hǎo.,Hôm nay tâm trạng tôi rất tốt.
+H2-591,心中,xīnzhōng,trong lòng,từ nơi chốn,central point; in one's thoughts; in one's heart,,他是我心中最好的老师。,Tā shì wǒ xīnzhōng zuìhǎo de lǎoshī.,Ông ấy là người thầy tốt nhất trong lòng tôi.
+H2-592,新闻,xīnwén,tin tức,danh từ,news,,你看今天的新闻了吗？,Nǐ kàn jīntiān de xīnwén le ma?,Anh xem tin tức hôm nay chưa?
+H2-593,信,xìn,thư; tin,"danh từ, động từ",letter; mail; to trust,,我收到了一封信。,Wǒ shōudào le yì fēng xìn.,Tôi nhận được một bức thư.
+H2-594,信号,xìnhào,tín hiệu,danh từ,signal,,地下停车场没有信号。,Dìxià tíngchēchǎng méiyǒu xìnhào.,Bãi xe tầng hầm không có sóng.
+H2-595,信息,xìnxī,thông tin,danh từ,information; news; message,02,请留下你的联系信息。,Qǐng liúxià nǐ de liánxì xìnxī.,Xin để lại thông tin liên lạc của anh.
+H2-596,信心,xìnxīn,"lòng tin, tự tin",danh từ,confidence; faith (in sb or sth),,我对这个项目很有信心。,Wǒ duì zhège xiàngmù hěn yǒu xìnxīn.,Tôi rất tự tin vào dự án này.
+H2-597,信用卡,xìnyòngkǎ,thẻ tín dụng,danh từ,credit card,01,这里可以用信用卡。,Zhèlǐ kěyǐ yòng xìnyòngkǎ.,Ở đây dùng được thẻ tín dụng.
+H2-598,星星,xīngxing,ngôi sao,danh từ,(coll.) a star; the stars in the sky,,晚上可以看到星星。,Wǎnshang kěyǐ kàndào xīngxing.,Buổi tối có thể nhìn thấy sao.
+H2-599,行动,xíngdòng,hành động,"danh động từ, động từ",operation; action; to move about,,我们马上行动。,Wǒmen mǎshàng xíngdòng.,Chúng ta hành động ngay.
+H2-600,行人,xíngrén,người đi bộ,danh từ,pedestrian; traveler on foot; passer-by,,行人过马路要看红绿灯。,Xíngrén guòmǎlù yào kàn hónglǜdēng.,Người đi bộ qua đường phải xem đèn giao thông.
+H2-601,行为,xíngwéi,hành vi,danh từ,action; conduct; behavior,,这种行为不好。,Zhè zhǒng xíngwéi bù hǎo.,Hành vi này không tốt.
+H2-602,姓,xìng,họ; mang họ,"động từ, danh từ",family name; surname; to be surnamed,,您贵姓？——我姓王。,Nín guì xìng?——wǒ xìng wáng.,Anh họ gì? — Tôi họ Vương.
+H2-603,姓名,xìngmíng,họ tên,danh từ,surname and given name; full name,02,请写上您的姓名。,Qǐng xiě shàng nín de xìngmíng.,Xin ghi họ tên của anh.
+H2-604,休假,xiūjià,nghỉ phép,"động từ, danh động từ, danh từ",to go on vacation; to have a holiday; to take leave,,经理下周休假。,Jīnglǐ xiàzhōu xiūjià.,Tuần sau giám đốc nghỉ phép.
+H2-605,许多,xǔduō,rất nhiều,số từ,many; a lot of; much,,这里有许多饭馆。,Zhèlǐ yǒu xǔduō fànguǎn.,Ở đây có rất nhiều quán ăn.
+H2-606,选,xuǎn,chọn,"động từ, g",to choose; to pick; to select,,你选哪一套？,Nǐ xuǎn nǎ yí tào?,Anh chọn căn nào?
+H2-607,学期,xuéqī,học kỳ,danh từ,term; semester,,这个学期很忙。,Zhège xuéqī hěn máng.,Học kỳ này rất bận.
+H2-608,雪,xuě,tuyết,danh từ,surname Xue,,你见过雪吗？,Nǐ jiànguo xuě ma?,Anh từng thấy tuyết chưa?
+H2-609,颜色,yánsè,màu sắc,danh từ,color; countenance; appearance,08,你喜欢什么颜色？,Nǐ xǐhuan shénme yánsè?,Anh thích màu gì?
+H2-610,眼,yǎn,mắt,"danh từ, lượng từ",eye; small hole; crux (of a matter),,他看了我一眼。,Tā kàn le wǒ yì yǎn.,Anh ấy liếc nhìn tôi một cái.
+H2-611,眼睛,yǎnjing,mắt,danh từ,eye,,她的眼睛很大。,Tā de yǎnjing hěn dà.,Mắt cô ấy rất to.
+H2-612,养,yǎng,nuôi,động từ,to raise (animals); to bring up (children); to keep (pets),03,我想养一只猫。,Wǒ xiǎng yǎng yì zhǐ māo.,Tôi muốn nuôi một con mèo.
+H2-613,样子,yàngzi,"dáng vẻ, kiểu",danh từ,appearance; manner; pattern,,这个房子的样子很新。,Zhège fángzi de yàngzi hěn xīn.,Căn nhà này trông rất mới.
+H2-614,药,yào,thuốc,danh từ,leaf of the iris; variant of 药,,你吃药了吗？,Nǐ chī yào le ma?,Anh uống thuốc chưa?
+H2-615,药店,yàodiàn,hiệu thuốc,danh từ,pharmacy,,小区门口有一家药店。,Xiǎoqū ménkǒu yǒu yì jiā yàodiàn.,Cổng khu có một hiệu thuốc.
+H2-616,药片,yàopiàn,viên thuốc,danh từ,a (medicine) pill or tablet,,这种药片一天吃两次。,Zhè zhǒng yàopiàn yì tiān chī liǎng cì.,Loại thuốc viên này ngày uống hai lần.
+H2-617,药水,yàoshuǐ,thuốc nước,danh từ,"Yaksu in North Korea, near the border with Liaoning and Jiling province",,这瓶药水很苦。,Zhè píng yàoshuǐ hěnkǔ.,Chai thuốc nước này rất đắng.
+H2-618,要求,yāoqiú,yêu cầu,"động từ, danh từ",to request; to require; requirement,03,你有什么要求？,Nǐ yǒu shénme yāoqiú?,Anh có yêu cầu gì?
+H2-619,也许,yěxǔ,có lẽ,phó từ,perhaps; maybe,,他也许已经到了。,Tā yěxǔ yǐjīng dào le.,Có lẽ anh ấy đến rồi.
+H2-620,夜,yè,đêm,"tg, qt",variant of 夜,,夜里这里很安静。,Yèli zhèlǐ hěn ānjìng.,Ban đêm ở đây rất yên tĩnh.
+H2-621,夜里,yèli,ban đêm,từ thời gian,during the night; at night; nighttime,,夜里不要大声说话。,Yèli búyào dàshēng shuōhuà.,Ban đêm đừng nói to.
+H2-622,一般,yībān,thông thường; bình thường,"tính từ, phó tính từ, trợ từ",same; ordinary; so-so,02,我一般八点出门。,Wǒ yìbān bā diǎn chūmén.,Tôi thường ra khỏi nhà lúc 8 giờ.
+H2-623,一部分,yībùfen,một phần,số từ,portion; part of; subset,,一部分钱已经付了。,Yíbùfen qián yǐjīng fù le.,Một phần tiền đã trả rồi.
+H2-624,一点点,yīdiǎndiǎn,một chút xíu,"từ thời gian, số từ",a little bit,,我只会说一点点中文。,Wǒ zhǐ huì shuō yīdiǎndiǎn Zhōngwén.,Tôi chỉ biết nói chút xíu tiếng Trung.
+H2-625,一定,yīdìng,nhất định,"phó từ, khu biệt từ",surely; certainly; necessarily,09 12,我一定准时到。,Wǒ yídìng zhǔn shí dào.,Tôi nhất định đến đúng giờ.
+H2-626,一共,yīgòng,tổng cộng,phó từ,altogether,01 04 07 10,一共多少钱？,Yígòng duōshǎo qián?,Tổng cộng bao nhiêu tiền?
+H2-627,一路平安,yīlùpíng'ān,thượng lộ bình an,,to have a pleasant journey; Bon voyage!,,祝你一路平安！,Zhù nǐ yílùpíng'ān!,Chúc anh thượng lộ bình an!
+H2-628,一路顺风,yīlùshùnfēng,thuận buồm xuôi gió,động từ,to have a pleasant journey (idiom),,祝您一路顺风！,Zhù nín yílùshùnfēng!,Chúc anh thuận buồm xuôi gió!
+H2-629,一生,yīshēng,cả đời,danh từ,all one's life; throughout one's life,,这是我一生中最重要的一天。,Zhè shì wǒ yìshēng zhōng zuì zhòngyào de yì tiān.,Đây là ngày quan trọng nhất đời tôi.
+H2-630,一直,yīzhí,luôn luôn; thẳng,phó từ,straight (in a straight line); continuously; always; all the way through,06 09,一直往前走就到了。,Yìzhí wǎng qián zǒu jiù dào le.,Cứ đi thẳng là tới.
+H2-631,已经,yǐjīng,đã,phó từ,already,01 02 06 09 10 11,我已经交了押金。,Wǒ yǐjīng jiāo le yājīn.,Tôi đã nộp tiền cọc rồi.
+H2-632,以后,yǐhòu,"sau này, sau khi",phương vị từ,after; later; afterwards,01 02 03 04 05 07 08 09 10 11 12,下班以后我去健身房。,Xiàbān yǐhòu wǒ qù jiànshēnfáng.,Tan làm xong tôi đi phòng gym.
+H2-633,以前,yǐqián,"trước đây, trước khi",phương vị từ,before; formerly; previous,03 04 10,以前这里是一个市场。,Yǐqián zhèlǐ shì yí ge shìchǎng.,Trước đây chỗ này là một khu chợ.
+H2-634,以上,yǐshàng,trở lên,phương vị từ,that level or higher; that amount or more; the above-mentioned,07,二十岁以上的人可以参加。,Èrshí suì yǐshàng de rén kěyǐ cānjiā.,Người từ 20 tuổi trở lên được tham gia.
+H2-635,以外,yǐwài,ngoài ra,phương vị từ,apart from; other than; except for,,除了房租以外，还要交物业费。,"Chúle fángzū yǐwài, hái yào jiāo wùyèfèi.",Ngoài tiền thuê ra còn phải nộp phí quản lý.
+H2-636,以为,yǐwéi,tưởng là,động từ,to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.),,我以为你不来了。,Wǒ yǐwéi nǐ bù lái le.,Tôi tưởng anh không đến nữa.
+H2-637,以下,yǐxià,trở xuống; dưới đây,phương vị từ,that level or lower; that amount or less; the following,,以下是我们的要求。,Yǐxià shì wǒmen de yāoqiú.,Dưới đây là yêu cầu của chúng tôi.
+H2-638,椅子,yǐzi,ghế,danh từ,chair,04 09 10,办公室需要十把椅子。,Bàngōngshì xūyào shí bǎ yǐzi.,Văn phòng cần mười cái ghế.
+H2-639,亿,yì,trăm triệu,số từ,100 million,,这栋大楼花了十亿。,Zhè dòng dàlóu huā le shíyì.,Toà nhà này tốn một tỷ.
+H2-640,意见,yìjiàn,ý kiến,danh từ,idea; opinion; suggestion,,你有什么意见？,Nǐ yǒu shénme yìjiàn?,Anh có ý kiến gì?
+H2-641,意思,yìsi,ý nghĩa,"danh từ, động từ",idea; opinion; meaning,,这句话是什么意思？,Zhè jù huà shì shénme yìsi?,Câu này nghĩa là gì?
+H2-642,因为,yīnwèi,bởi vì,"giới từ, liên từ",because; owing to; on account of,07 08,因为下雨，所以我迟到了。,"Yīnwèi xiàyǔ, suǒyǐ wǒ chídào le.",Vì trời mưa nên tôi đến muộn.
+H2-643,阴,yīn,"râm, âm u","tính từ, g, phó tính từ, khu biệt từ",surname Yin,,今天天阴了。,Jīntiān tiān yīn le.,Hôm nay trời âm u.
+H2-644,阴天,yīntiān,trời âm u,danh từ,cloudy day; overcast sky,,阴天的时候房间有点儿暗。,Yīntiān de shíhou fángjiān yǒudiǎnr àn.,Trời âm u thì phòng hơi tối.
+H2-645,音节,yīnjié,âm tiết,danh từ,syllable,,这个词有两个音节。,Zhège cí yǒu liǎng ge yīnjié.,Từ này có hai âm tiết.
+H2-646,音乐,yīnyuè,âm nhạc,danh từ,music,,我喜欢听音乐。,Wǒ xǐhuan tīng yīnyuè.,Tôi thích nghe nhạc.
+H2-647,音乐会,yīnyuèhuì,buổi hòa nhạc,danh từ,concert,,晚上我们去听音乐会。,Wǎnshang wǒmen qù tīng yīnyuèhuì.,Tối nay chúng tôi đi nghe hoà nhạc.
+H2-648,银行,yínháng,ngân hàng,danh từ,bank,02 06,银行几点开门？,Yínháng jǐ diǎn kāi mén?,Ngân hàng mấy giờ mở cửa?
+H2-649,银行卡,yínhángkǎ,thẻ ngân hàng,,bank card; ATM card,02,请输入银行卡密码。,Qǐng shūrù yínhángkǎ mìmǎ.,Xin nhập mật khẩu thẻ ngân hàng.
+H2-650,应该,yīnggāi,nên,động từ,ought to; should; must,,你应该早点儿告诉我。,Nǐ yīnggāi zǎodiǎnr gàosù wǒ.,Anh nên nói với tôi sớm hơn.
+H2-651,英文,yīngwén,tiếng Anh,danh từ riêng,English (language),,合同有英文的吗？,Hétong yǒu yīngwén de ma?,Hợp đồng có bản tiếng Anh không?
+H2-652,英语,yīngyǔ,tiếng Anh,danh từ riêng,English (language),,他英语说得很好。,Tā yīngyǔ shuō dé hěn hǎo.,Anh ấy nói tiếng Anh rất giỏi.
+H2-653,影片,yǐngpiàn,phim,danh từ,a copy of a film; film; motion picture; movie,,这部影片很好看。,Zhè bù yǐngpiàn hěn hǎokàn.,Bộ phim này rất hay.
+H2-654,影响,yǐngxiǎng,ảnh hưởng,"động từ, danh động từ",influence; effect; to influence,,堵车影响了我的工作。,Dǔchē yǐngxiǎng le wǒ de gōngzuò.,Kẹt xe ảnh hưởng đến công việc của tôi.
+H2-655,永远,yǒngyuǎn,mãi mãi,"phó từ, khu biệt từ",forever; eternal,,我永远不会忘记这里。,Wǒ yǒngyuǎn bú huì wàngjì zhèlǐ.,Tôi mãi mãi không quên nơi này.
+H2-656,油,yóu,dầu,danh từ,oil; fat; grease,,车没油了。,Chē méi yóu le.,Xe hết xăng rồi.
+H2-657,游客,yóukè,du khách,danh từ,traveler; tourist; (online gaming) guest player,,这里游客很多。,Zhèlǐ yóukè hěn duō.,Ở đây rất đông du khách.
+H2-658,有点儿,yǒudiǎnr,"hơi, có chút",,slightly; a little; somewhat,05 06 07 11 12,这个房间有点儿小。,Zhège fángjiān yǒudiǎnr xiǎo.,Phòng này hơi nhỏ.
+H2-659,有空儿,yǒukòngr,rảnh,,available,,你明天有空儿吗？,Nǐ míngtiān yǒukòngr ma?,Mai anh có rảnh không?
+H2-660,有人,yǒurén,có người,"đại từ, tên người",someone; people; anyone,04 07,有人在敲门。,Yǒurén zài qiāomén.,Có người đang gõ cửa.
+H2-661,有一点儿,yǒuyīdiǎnr,có một chút,,a bit; a little,05,价格有一点儿高。,Jiàgé yǒuyīdiǎnr gāo.,Giá có một chút cao.
+H2-662,有意思,yǒuyìsi,thú vị,quán ngữ,interesting; meaningful; enjoyable,,这个工作很有意思。,Zhège gōngzuò hěn yǒuyìsi.,Công việc này rất thú vị.
+H2-663,又,yòu,lại,"phó từ, liên từ",(once) again; also; both... and...,01 04 09 12,电梯又坏了。,Diàntī yòu huài le.,Thang máy lại hỏng rồi.
+H2-664,友好,yǒuhǎo,"hữu nghị, thân thiện","tính từ, phó tính từ","Youhao district of Yichun city 市, Heilongjiang",05,邻居们都很友好。,Línjū men dōu hěn yǒuhǎo.,Hàng xóm đều rất thân thiện.
+H2-665,鱼,yú,cá,danh từ,surname Yu,,我喜欢吃鱼。,Wǒ xǐhuan chī yú.,Tôi thích ăn cá.
+H2-666,语言,yǔyán,ngôn ngữ,danh từ,language,,语言不同，但是可以交流。,"Yǔyán bùtóng, dànshì kěyǐ jiāoliú.",Ngôn ngữ khác nhau nhưng vẫn giao lưu được.
+H2-667,原来,yuánlái,hóa ra; ban đầu,"phó từ, khu biệt từ",original; former; originally,,原来你也住在这里！,Yuánlái nǐ yě zhù zài zhèlǐ!,Hoá ra anh cũng sống ở đây!
+H2-668,原因,yuányīn,nguyên nhân,danh từ,cause; origin; root cause,,迟到的原因是堵车。,Chídào de yuányīn shì dǔchē.,Nguyên nhân đến muộn là kẹt xe.
+H2-669,院,yuàn,sân; viện,"danh từ, g",courtyard; institution,,房子前面有一个小院。,Fángzi qiánmiàn yǒu yí ge xiǎo yuàn.,Trước nhà có một khoảng sân nhỏ.
+H2-670,院长,yuànzhǎng,viện trưởng,danh từ,the head of an institution whose name ends in 院; chair of a board; president of a university,,医院的院长很年轻。,Yīyuàn de yuànzhǎng hěn niánqīng.,Viện trưởng bệnh viện rất trẻ.
+H2-671,院子,yuànzi,sân,danh từ,courtyard; garden; yard,,院子里可以停车。,Yuànzi lǐ kěyǐ tíngchē.,Trong sân có thể đỗ xe.
+H2-672,愿意,yuànyì,"bằng lòng, muốn",động từ,to wish; to want; ready,,你愿意跟我们合作吗？,Nǐ yuànyì gēn wǒmen hézuò ma?,Anh có muốn hợp tác với chúng tôi không?
+H2-673,月份,yuèfèn,tháng,"từ thời gian, danh từ",month,,几月份可以搬进来？,Jǐ yuèfèn kěyǐ bān jìnlái?,Tháng mấy có thể dọn vào?
+H2-674,月亮,yuèliang,mặt trăng,danh từ,the moon,,今天晚上的月亮很圆。,Jīntiān wǎnshang de yuèliang hěn yuán.,Trăng tối nay rất tròn.
+H2-675,越,yuè,càng,"phó từ, g, khu biệt từ",generic word for peoples or states of south China or south Asia at different historical periods; abbr. for Vietnam 越南,12,雨越下越大。,Yǔ yuè xià yuè dà.,Mưa càng lúc càng to.
+H2-676,越来越,yuèláiyuè,càng ngày càng,phó từ,more and more,12,房租越来越贵了。,Fángzū yuèláiyuè guì le.,Tiền thuê càng ngày càng đắt.
+H2-677,云,yún,mây,"danh từ, g, khu biệt từ",(classical) to say,,天上一片云也没有。,Tiānshàng yí piàn yún yě méiyǒu.,Trên trời không có lấy một gợn mây.
+H2-678,运动,yùndòng,"vận động, thể thao","danh động từ, danh từ, động từ",to move; to exercise; sports,,你每天运动吗？,Nǐ měi tiān yùndòng ma?,Anh có vận động mỗi ngày không?
+H2-679,咱,zán,chúng ta (khẩu ngữ),đại từ,variant of 咱,,咱俩一起去吧。,Zánliǎ yìqǐ qù ba.,Hai chúng ta cùng đi nhé.
+H2-680,咱们,zánmen,chúng ta,đại từ,we or us (including both the speaker and the person(s) spoken to); (dialect) I or me; (dialect) (in a coaxing or familiar way) you,,咱们明天见。,Zánmen míngtiān jiàn.,Mai chúng ta gặp nhé.
+H2-681,脏,zāng,bẩn,"tính từ, g",dirty; filthy; to get (sth) dirty,05 08,地板有点儿脏。,Dìbǎn yǒudiǎnr zàng.,Sàn nhà hơi bẩn.
+H2-682,早餐,zǎocān,bữa sáng,danh từ,breakfast,,酒店有免费早餐。,Jiǔdiàn yǒu miǎnfèi zǎocān.,Khách sạn có bữa sáng miễn phí.
+H2-683,早晨,zǎochén,sáng sớm,từ thời gian,early morning; also pr. [zǎo chen],,早晨的空气很好。,Zǎochén de kōngqì hěn hǎo.,Không khí buổi sáng sớm rất tốt.
+H2-684,早就,zǎojiù,từ lâu đã,phó từ,already at an earlier time,,我早就知道了。,Wǒ zǎojiù zhīdào le.,Tôi biết từ lâu rồi.
+H2-685,怎么办,zěnmebàn,làm sao bây giờ,"đại từ, động từ",what's to be done,02 10,钥匙丢了，怎么办？,"Yàoshi diū le, zěnmebàn?","Mất chìa khoá rồi, làm sao bây giờ?"
+H2-686,怎么样,zěnmeyàng,thế nào,đại từ,how?; how about?; how was it?,11,这个房子怎么样？,Zhège fángzi zěnmeyàng?,Căn nhà này thế nào?
+H2-687,怎样,zěnyàng,như thế nào,đại từ,how; what kind,,怎样才能找到好房子？,Zěnyàng cáinéng zhǎodào hǎo fángzi?,Làm thế nào mới tìm được nhà tốt?
+H2-688,占,zhàn,chiếm,động từ,variant of 占,08,这张桌子占了很大地方。,Zhè zhāng zhuōzi zhàn le hěn dà dìfāng.,Cái bàn này chiếm nhiều chỗ.
+H2-689,站住,zhànzhù,đứng lại,động từ,to stand,,请站住，这里不能进。,"Qǐng zhànzhù, zhèlǐ bù néng jìn.","Xin đứng lại, ở đây không được vào."
+H2-690,长,cháng,dài (cháng); lớn lên (zhǎng),"tính từ, động từ, phó tính từ, g",length; long; forever,07,这条路很长。,Zhè tiáo lù hěn zhǎng.,Con đường này rất dài.
+H2-691,长大,zhǎngdà,lớn lên,động từ,to grow up,,我在这个城市长大。,Wǒ zài zhège chéngshì zhǎngdà.,Tôi lớn lên ở thành phố này.
+H2-692,找出,zhǎochū,tìm ra,,to find; to search out,,我们要找出问题在哪儿。,Wǒmen yào zhǎochū wèntí zài nǎr.,Chúng ta phải tìm ra vấn đề ở đâu.
+H2-693,照顾,zhàogu,chăm sóc,"động từ, danh động từ",to take care of; to show consideration; to attend to,,谢谢你照顾我的猫。,Xièxie nǐ zhàogu wǒ de māo.,Cảm ơn anh chăm sóc mèo cho tôi.
+H2-694,照片,zhàopiàn,ảnh,danh từ,photograph; picture,,请发几张房间的照片给我。,Qǐng fā jǐ zhāng fángjiān de zhàopiàn gěi wǒ.,Gửi tôi vài tấm ảnh căn phòng.
+H2-695,照相,zhàoxiàng,chụp ảnh,"động từ, danh động từ",to take a photograph,,这里可以照相吗？,Zhèlǐ kěyǐ zhàoxiàng ma?,Ở đây chụp ảnh được không?
+H2-696,这么,zhème,như thế này,đại từ,so much; this much; how much?,08 11,房租怎么这么贵？,Fángzū zěnme zhème guì?,Sao tiền thuê đắt thế này?
+H2-697,这时,zhèshí,lúc này,đại từ,at this time; at this moment,,这时，电话响了。,"Zhèshí, diànhuà xiǎng le.",Lúc này điện thoại reo.
+H2-698,这时候,zhè shíhou,lúc này,"đại từ, từ thời gian",At this moment,,这时候路上车很多。,Zhèshíhou lùshang chē hěn duō.,Giờ này trên đường xe rất đông.
+H2-699,这样,zhèyàng,như thế này,đại từ,this kind of; so; this way,02 11,这样吧，我们明天再看。,"Zhèyàng ba, wǒmen míngtiān zài kàn.","Thế này nhé, mai chúng ta xem lại."
+H2-700,真正,zhēnzhèng,thật sự,"khu biệt từ, phó từ",genuine; real; true; really; indeed,,这才是真正的好房子。,Zhè cái shì zhēnzhèng de hǎo fángzi.,Đây mới là căn nhà tốt thật sự.
+H2-701,正常,zhèngcháng,bình thường,"tính từ, phó tính từ",regular; normal; ordinary,,电梯现在正常了。,Diàntī xiànzài zhèngcháng le.,Thang máy giờ bình thường rồi.
+H2-702,正好,zhènghǎo,vừa đúng,từ trạng thái,just (in time); just right; just enough,,你来得正好。,Nǐ lái dé zhènghǎo.,Anh đến thật đúng lúc.
+H2-703,正确,zhèngquè,chính xác,"tính từ, phó tính từ",correct; sound; right; proper,,你的回答是正确的。,Nǐ de huídá shì zhèngquè de.,Câu trả lời của anh là đúng.
+H2-704,正是,zhèngshì,chính là,động từ,is precisely,,这正是我想要的房子。,Zhè zhèngshì wǒ xiǎng yào de fángzi.,Đây chính là căn nhà tôi muốn.
+H2-705,直接,zhíjiē,trực tiếp,"phó tính từ, tính từ",direct (opposite: indirect 间接); immediate; straightforward,03,你直接跟房东说吧。,Nǐ zhíjiē gēn fángdōng shuō ba.,Anh nói thẳng với chủ nhà đi.
+H2-706,只,zhǐ,"chỉ (zhǐ); con (lượng từ, zhī)","phó từ, lượng từ",only; merely; just,01 02,我只要一个房间。,Wǒ zhǐyào yí ge fángjiān.,Tôi chỉ cần một phòng.
+H2-707,只能,zhǐnéng,chỉ có thể,động từ,can only; obliged to do sth; to have no other choice,10 11,电梯坏了，只能走楼梯。,"Diàntī huài le, zhǐnéng zǒu lóutī.","Thang máy hỏng, chỉ có thể đi cầu thang."
+H2-708,只要,zhǐyào,chỉ cần,liên từ,if only; so long as,,只要价格合适，我就租。,"Zhǐyào jiàgé héshì, wǒ jiù zū.",Chỉ cần giá hợp lý là tôi thuê.
+H2-709,纸,zhǐ,giấy,"danh từ, lượng từ",variant of 纸,09,请给我一张纸。,Qǐng gěi wǒ yì zhāng zhǐ.,Cho tôi một tờ giấy.
+H2-710,中餐,zhōngcān,món Trung; bữa trưa,danh từ,lunch; Chinese meal; Chinese food,,你喜欢吃中餐吗？,Nǐ xǐhuan chī zhōngcān ma?,Anh có thích món Trung không?
+H2-711,中级,zhōngjí,trung cấp,khu biệt từ,middle level (in a hierarchy),,我在学中级中文。,Wǒ zài xué zhōngjí Zhōngwén.,Tôi đang học tiếng Trung trung cấp.
+H2-712,中年,zhōngnián,trung niên,từ thời gian,middle age,,他是一个中年人。,Tā shì yí ge zhōngnián rén.,Ông ấy là người trung niên.
+H2-713,中小学,zhōngxiǎoxué,tiểu học và trung học,danh từ,middle and elementary school,,附近有中小学。,Fùjìn yǒu zhōngxiǎoxué.,Gần đây có trường tiểu học và trung học.
+H2-714,中心,zhōngxīn,trung tâm,danh từ,center; heart; core,,公司在城市中心。,Gōngsī zài chéngshì zhōngxīn.,Công ty ở trung tâm thành phố.
+H2-715,中医,zhōngyī,Đông y,danh từ,traditional Chinese medical science; a doctor trained in Chinese medicine,,我想去看中医。,Wǒ xiǎng qù kàn zhōngyī.,Tôi muốn đi khám Đông y.
+H2-716,重点,zhòngdiǎn,trọng điểm,"danh từ, phó từ",important point; main point; focus; key (project etc); to focus on; to put the emphasis on,,这是今天会议的重点。,Zhè shì jīntiān huìyì de zhòngdiǎn.,Đây là trọng điểm cuộc họp hôm nay.
+H2-717,重复,chóngfù,lặp lại,"động từ, danh động từ, tính từ",to repeat; to duplicate,,请重复一遍。,Qǐng chóngfù yí biàn.,Xin nhắc lại một lần.
+H2-718,重视,zhòngshì,coi trọng,"động từ, danh động từ",to attach importance to sth; to value,,公司很重视安全。,Gōngsī hěn zhòngshì ānquán.,Công ty rất coi trọng an toàn.
+H2-719,重新,chóngxīn,"làm lại, lại từ đầu",phó từ,again; once more; re-,08 09,这里要重新做。,Zhèlǐ yào chóngxīn zuò.,Chỗ này phải làm lại.
+H2-720,周,zhōu,tuần,"qt, tên người, g, danh từ, tg",surname Zhou; Zhou Dynasty (1046-256 BC),03 11,这周我很忙。,Zhè zhōu wǒ hěn máng.,Tuần này tôi rất bận.
+H2-721,周末,zhōumò,cuối tuần,từ thời gian,weekend,02 04 08,周末你有空吗？,Zhōumò nǐ yǒu kōng ma?,Cuối tuần anh rảnh không?
+H2-722,周年,zhōunián,"tròn năm, kỷ niệm năm",lượng từ,anniversary; annual,,今天是公司成立十周年。,Jīntiān shì gōngsī chénglì shí zhōunián.,Hôm nay là kỷ niệm 10 năm thành lập công ty.
+H2-723,主人,zhǔrén,"chủ nhân, chủ nhà",danh từ,master; host; owner,,这里的主人很热情。,Zhèlǐ de zhǔrén hěn rèqíng.,Chủ nhà ở đây rất nhiệt tình.
+H2-724,主要,zhǔyào,chủ yếu,"khu biệt từ, phó từ",main; principal; major,08,主要的问题是价格。,Zhǔyào de wèntí shì jiàgé.,Vấn đề chính là giá cả.
+H2-725,住房,zhùfáng,nhà ở,danh từ,housing,,这个城市住房很贵。,Zhège chéngshì zhùfáng hěn guì.,Nhà ở thành phố này rất đắt.
+H2-726,住院,zhùyuàn,nằm viện,"động từ, danh động từ",to be in hospital; to be hospitalized,,他生病住院了。,Tā shēngbìng zhùyuàn le.,Anh ấy ốm phải nằm viện.
+H2-727,装,zhuāng,"lắp, đựng; giả vờ",động từ,adornment; to adorn; dress,08 10,我要装一个新空调。,Wǒ yào zhuāng yí ge xīn kōngtiáo.,Tôi muốn lắp một máy lạnh mới.
+H2-728,准确,zhǔnquè,chính xác,"tính từ, phó tính từ",accurate; exact; precise,,请给我一个准确的时间。,Qǐng gěi wǒ yí ge zhǔnquè de shíjiān.,Cho tôi một thời gian chính xác.
+H2-729,字典,zìdiǎn,từ điển chữ,danh từ,"Chinese character dictionary (containing entries for single characters, contrasted with a 词典, which has entries for words of one or more characters); (coll.) dictionary",,我买了一本中文字典。,Wǒ mǎi le yì běn Zhōngwén zìdiǎn.,Tôi mua một quyển từ điển tiếng Trung.
+H2-730,自己,zìjǐ,"tự mình, bản thân","đại từ, động từ",oneself; one's own,09,我自己去看房。,Wǒ zìjǐ qù kànfáng.,Tôi tự đi xem nhà.
+H2-731,自行车,zìxíngchē,xe đạp,danh từ,bicycle; bike,,我骑自行车上班。,Wǒ qí zìxíngchē shàngbān.,Tôi đi xe đạp đi làm.
+H2-732,自由,zìyóu,tự do,"tính từ, danh tính từ, phó tính từ",freedom; liberty; free; unrestricted,,周末时间很自由。,Zhōumò shíjiān hěn zìyóu.,Thời gian cuối tuần rất tự do.
+H2-733,走过,zǒuguò,đi qua,động từ,to walk past; to pass by,,我们走过一座桥。,Wǒmen zǒuguò yí zuò qiáo.,Chúng tôi đi qua một cây cầu.
+H2-734,走进,zǒujìn,đi vào,động từ,to enter,,他走进了办公室。,Tā zǒujìn le bàngōngshì.,Anh ấy bước vào văn phòng.
+H2-735,走开,zǒukāi,đi chỗ khác,động từ,to leave; to walk away; to beat it,,请走开，这里很危险。,"Qǐng zǒukāi, zhèlǐ hěn wēixiǎn.","Xin tránh ra, ở đây rất nguy hiểm."
+H2-736,租,zū,thuê,"động từ, g",to hire; to rent; to charter,03 05 11,我想租一个办公室。,Wǒ xiǎng zū yí ge bàngōngshì.,Tôi muốn thuê một văn phòng.
+H2-737,组,zǔ,"nhóm, tổ","danh từ, lượng từ, g, động từ",surname Zu,,我们组有五个人。,Wǒmen zǔ yǒu wǔ gerén.,Nhóm chúng tôi có năm người.
+H2-738,组成,zǔchéng,tạo thành,"động từ, danh động từ",to form; to make up; to constitute,,这个公司由三个部门组成。,Zhège gōngsī yóu sān ge bùmén zǔchéng.,Công ty này gồm ba bộ phận.
+H2-739,组长,zǔzhǎng,tổ trưởng,danh từ,group leader,,组长让我们明天早点儿来。,Zǔzhǎng ràng wǒmen míngtiān zǎodiǎnr lái.,Tổ trưởng bảo mai chúng tôi đến sớm.
+H2-740,嘴,zuǐ,miệng,danh từ,mouth; beak; nozzle,,他张开嘴笑了。,Tā zhāng kāi zuǐ xiào le.,Anh ấy há miệng cười.
+H2-741,最近,zuìjìn,gần đây,từ thời gian,recently; soon; nearest,06,最近房租涨了。,Zuìjìn fángzū zhǎng le.,Gần đây tiền thuê tăng rồi.
+H2-742,作家,zuòjiā,nhà văn,danh từ,author,,她是一位作家。,Tā shì yí wèi zuòjiā.,Bà ấy là một nhà văn.
+H2-743,作文,zuòwén,bài văn,danh từ,to write an essay; composition (student essay),,老师让我们写一篇作文。,Lǎoshī ràng wǒmen xiě yì piān zuòwén.,Cô giáo bảo chúng tôi viết một bài văn.
+H2-744,作业,zuòyè,bài tập,"danh từ, động từ, danh động từ",school assignment; homework; work,,孩子在做作业。,Háizi zài zuò zuòyè.,Con đang làm bài tập.
+H2-745,作用,zuòyòng,tác dụng,"danh từ, động từ",to act on; to affect; action,,这个按钮有什么作用？,Zhège ànniǔ yǒu shénme zuòyòng?,Cái nút này có tác dụng gì?
+H2-746,座,zuò,"(lượng từ) tòa, ngọn; chỗ ngồi","lượng từ, g",seat; base; stand,,这座大楼很高。,Zhè zuò dàlóu hěn gāo.,Toà nhà này rất cao.
+H2-747,座位,zuòwèi,chỗ ngồi,danh từ,seat,,地铁上没有座位了。,Dìtiě shàng méiyǒu zuòwèi le.,Trên metro hết chỗ ngồi rồi.
+H2-748,做到,zuòdào,làm được,động từ,to accomplish; to achieve,,你说的我一定做到。,Nǐ shuō de wǒ yídìng zuòdào.,Điều anh nói tôi nhất định làm được.
+H2-749,做法,zuòfǎ,cách làm,danh từ,way of handling sth; method for making; work method,,你的做法很好。,Nǐ de zuòfǎ hěn hǎo.,Cách làm của anh rất tốt.
+H2-750,做饭,zuòfàn,nấu cơm,động từ,to prepare a meal; to cook,05,我晚上在家做饭。,Wǒ wǎnshang zàijiā zuòfàn.,Tối tôi nấu cơm ở nhà.

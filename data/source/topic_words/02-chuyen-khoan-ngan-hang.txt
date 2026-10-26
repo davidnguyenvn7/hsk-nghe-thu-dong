@@ -1,0 +1,49 @@
+# Từ vựng chủ đề 02 — Chuyển khoản ngân hàng
+# W|ID từ|chữ Hán                         từ thuộc chủ đề (thứ tự = thứ tự nghe)
+# E|ID câu|ID từ|câu|nghĩa Việt|nghĩa Anh|ngữ pháp   câu của từ (sinh bằng scripts/generate.py)
+
+W|T02-001|转账
+E|02-E001|T02-001|你转账以后请发截图给我。|Bạn chuyển khoản xong thì gửi ảnh chụp màn hình cho tôi nhé.|After you transfer the money, please send me a screenshot.|以后请…
+E|02-E002|T02-001|请帮我转账到这个账号。|Xin giúp tôi chuyển khoản vào tài khoản này.|Please help me transfer money to this account.|请帮我 + động từ
+W|T02-002|账号
+E|02-E003|T02-002|请再确认一下收款人的账号。|Anh vui lòng kiểm tra lại số tài khoản người nhận.|Please double-check the recipient's account number.|一下
+E|02-E004|T02-002|这个账号对不对？我看不清楚。|Số tài khoản này có đúng không? Tôi nhìn không rõ.|Is this account number correct? I can't see it clearly.|对不对
+W|T02-003|账户
+E|02-E005|T02-003|我想开一个公司账户。|Tôi muốn mở một tài khoản công ty.|I'd like to open a company account.|开 + 一个 + tài khoản
+E|02-E006|T02-003|你的账户里还有钱吗？|Trong tài khoản của bạn còn tiền không?|Is there still money in your account?|còn…吗
+W|T02-004|到账
+E|02-E007|T02-004|钱已经到账了，你查一下。|Tiền đã về tài khoản rồi, bạn kiểm tra nhé.|The money has arrived; please check.|已经…了
+E|02-E008|T02-004|转账什么时候能到账？|Chuyển khoản khi nào thì tiền về?|When will the transfer arrive?|什么时候能…
+W|T02-005|取钱
+E|02-E009|T02-005|这台机器不能取钱。|Máy này không rút được tiền.|This machine can't be used to withdraw money.|不能 + động từ
+E|02-E010|T02-005|我想去银行取钱。|Tôi muốn đến ngân hàng rút tiền.|I want to go to the bank to withdraw money.|想 + 去 + nơi + động từ
+W|T02-006|存钱
+E|02-E011|T02-006|我想存钱到这个账户。|Tôi muốn gửi tiền vào tài khoản này.|I want to deposit money into this account.|存钱到…
+E|02-E012|T02-006|你先存钱，再办业务。|Bạn gửi tiền trước, rồi làm thủ tục.|Deposit the money first, then do the paperwork.|先…再…
+W|T02-007|密码
+E|02-E013|T02-007|密码不对，请再输入一次。|Mật khẩu không đúng, vui lòng nhập lại một lần.|The password is wrong; please enter it again.|再 + động từ + 一次
+E|02-E014|T02-007|别忘了保管好你的密码。|Đừng quên giữ kỹ mật khẩu của bạn.|Don't forget to keep your password safe.|别忘了
+W|T02-008|手续费
+E|02-E015|T02-008|转账要手续费吗？|Chuyển khoản có mất phí không?|Is there a fee for the transfer?|要…吗
+E|02-E016|T02-008|请问这个业务有手续费吗？|Xin hỏi nghiệp vụ này có phí giao dịch không?|Excuse me, does this service have a transaction fee?|有…吗？
+W|T02-009|截图
+E|02-E017|T02-009|请把转账截图发给我。|Vui lòng gửi ảnh chụp màn hình chuyển khoản cho tôi.|Please send me the screenshot of the transfer.|把 + tân ngữ + động từ
+E|02-E018|T02-009|到账以后发截图确认一下。|Sau khi tiền vào tài khoản thì gửi ảnh chụp màn hình xác nhận nhé.|After it arrives, send a screenshot to confirm.|以后 + động từ
+W|T02-010|收款人
+E|02-E019|T02-010|收款人的账号你填对了吗？|Bạn đã điền đúng số tài khoản người nhận tiền chưa?|Did you fill in the payee's account number correctly?|对了吗？
+E|02-E020|T02-010|收款人名字要写全名。|Tên người nhận tiền phải viết đầy đủ.|The payee's name must be written in full.|要 + động từ
+W|T02-011|确认
+E|02-E021|T02-011|请你再确认一下账号。|Bạn hãy xác nhận lại số tài khoản một lần nữa.|Please confirm the account number again.|再 + động từ + 一下
+E|02-E022|T02-011|收到钱以后请确认。|Sau khi nhận được tiền thì vui lòng xác nhận.|Please confirm after you receive the money.|以后 + 请
+W|T02-012|填写
+E|02-E023|T02-012|请在这里填写收款人姓名。|Vui lòng điền tên người nhận tiền ở đây.|Please fill in the payee's name here.|在这里 + động từ
+E|02-E024|T02-012|表格填写好了就交给我。|Điền xong biểu mẫu thì đưa cho tôi.|Hand it to me once you've finished filling in the form.|好了就…
+W|T02-013|业务
+E|02-E025|T02-013|我想办转账业务。|Tôi muốn làm nghiệp vụ chuyển khoản.|I'd like to do a transfer transaction.|办 + 业务
+E|02-E026|T02-013|这个业务今天能办完吗？|Nghiệp vụ này hôm nay làm xong được không?|Can this transaction be finished today?|能…吗？
+W|H3-938|自动
+E|02-E027|H3-938|钱会自动到账吗？|Tiền có tự động vào tài khoản không?|Will the money arrive automatically?|会 + 自动 + động từ + 吗？
+E|02-E028|H3-938|这个账户可以自动转账。|Tài khoản này có thể tự động chuyển khoản.|This account can transfer automatically.|可以 + 自动 + động từ
+W|T02-015|保管
+E|02-E029|T02-015|密码要好好保管。|Mật khẩu phải giữ gìn cẩn thận.|You must keep your password safe.|要 + 好好 + động từ
+E|02-E030|T02-015|截图请保管好，别给别人。|Ảnh chụp màn hình hãy giữ cẩn thận, đừng đưa cho người khác.|Keep the screenshot safe, don't give it to others.|别 + động từ + 给

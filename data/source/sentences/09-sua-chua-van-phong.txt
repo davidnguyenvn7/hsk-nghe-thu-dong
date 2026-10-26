@@ -1,0 +1,49 @@
+# Chủ đề 09 — mẫu câu
+# S|ID|câu|nghĩa Việt|ngữ pháp   — câu đơn
+# D|ID|người nói|câu|nghĩa Việt|ngữ pháp — hội thoại; các lượt liền nhau là 1 hội thoại, dòng trống để tách
+
+S|09-S01|打印机坏了，不能用了。|Máy in hỏng rồi, không dùng được nữa.|…了 (thay đổi trạng thái)
+S|09-S02|空调不冷了，请你来看一下。|Máy lạnh không mát nữa, anh qua xem giúp.|不…了 (không… nữa)
+S|09-S03|师傅，你什么时候能来修？|Anh thợ ơi, khi nào anh qua sửa được?|能 + 来 + động từ
+S|09-S04|洗手间漏水了。|Nhà vệ sinh bị rò nước rồi.|…了
+S|09-S05|电脑有问题，打不开了。|Máy tính có vấn đề, không mở lên được.|bổ ngữ khả năng 打不开
+S|09-S06|这个灯要换一个新的。|Bóng đèn này phải thay cái mới.|换 + 一个新的
+S|09-S07|网络太慢了，能帮我检查一下吗？|Mạng chậm quá, kiểm tra giúp tôi được không?|太…了
+S|09-S08|问题已经解决了，谢谢你。|Vấn đề giải quyết xong rồi, cảm ơn anh.|已经…了
+S|09-S09|修好了吗？要多少钱？|Sửa xong chưa? Hết bao nhiêu tiền?|động từ + 好了
+S|09-S10|会议室的投影仪没有声音。|Máy chiếu phòng họp không có tiếng.|没有 + danh từ
+S|09-S11|这个插座没有电。|Ổ cắm này không có điện.|没有电
+S|09-S12|刚才突然停电了。|Vừa nãy đột nhiên mất điện.|突然 + động từ
+S|09-S13|门锁坏了，关不上。|Khoá cửa hỏng rồi, đóng không được.|bổ ngữ khả năng 关不上
+S|09-S14|椅子坏了一条腿，很危险。|Ghế gãy một chân, rất nguy hiểm.|động từ + 了 + số lượng
+S|09-S15|复印机里面的纸卡住了。|Giấy bị kẹt trong máy photo.|卡住了
+S|09-S16|打印出来的字不清楚。|Chữ in ra không rõ.|động từ + 出来
+S|09-S17|可能是没有墨了。|Có thể là hết mực rồi.|可能是…
+S|09-S18|空调一直在滴水。|Máy lạnh cứ nhỏ nước mãi.|一直在 + động từ
+S|09-S19|这个问题我自己解决不了。|Vấn đề này tôi tự giải quyết không được.|动词 + 不了
+S|09-S20|请你找物业派人来修。|Anh nhờ ban quản lý cử người đến sửa.|派 + người + 来 + động từ
+S|09-S21|师傅说下午三点左右到。|Anh thợ nói khoảng 3 giờ chiều đến.|…左右
+S|09-S22|修空调要多长时间？|Sửa máy lạnh mất bao lâu?|要 + 多长时间
+S|09-S23|这个零件要从外面买。|Linh kiện này phải mua bên ngoài.|从 + nơi + 买
+S|09-S24|保修期内修理是免费的。|Trong thời gian bảo hành sửa miễn phí.|是…的
+S|09-S25|这台电脑已经过了保修期。|Máy tính này đã hết hạn bảo hành.|过了 + 期
+S|09-S26|修不好的话就换一台新的吧。|Nếu sửa không được thì thay cái mới đi.|…的话就…吧
+S|09-S27|请先关掉电源，再检查。|Tắt nguồn trước rồi hãy kiểm tra.|先…再…
+S|09-S28|水管坏了，地上全是水。|Ống nước hỏng, dưới sàn toàn là nước.|全是 + danh từ
+S|09-S29|上次修过以后又坏了。|Lần trước sửa rồi mà lại hỏng.|又 + động từ + 了
+S|09-S30|麻烦你今天一定要来。|Phiền anh hôm nay nhất định phải đến.|一定要 + động từ
+
+D|09-D1-1|A|喂，物业吗？我们办公室的空调坏了。|Alô, ban quản lý phải không? Máy lạnh văn phòng chúng tôi hỏng rồi.
+D|09-D1-2|B|好的，我们马上派人上去看。|Vâng, chúng tôi cử người lên xem ngay.|派人 + 上去
+
+D|09-D2-1|A|师傅，打印机修得好吗？|Anh thợ, máy in sửa được không?|bổ ngữ khả năng 修得好
+D|09-D2-2|B|能修，换一个零件就行了。|Sửa được, thay một linh kiện là xong.|就行了
+
+D|09-D3-1|A|修一下要多少钱？|Sửa hết bao nhiêu tiền?
+D|09-D3-2|B|上门费五十，零件另算。|Phí đến tận nơi 50, linh kiện tính riêng.
+
+D|09-D4-1|A|怎么又停电了？|Sao lại mất điện nữa vậy?|怎么又…了
+D|09-D4-2|B|大楼在检查电路，半个小时以后就好。|Toà nhà đang kiểm tra đường điện, nửa tiếng nữa là có.|以后就好
+
+D|09-D5-1|A|网络还是很慢。|Mạng vẫn còn chậm.|还是 (vẫn)
+D|09-D5-2|B|我重新设置一下，你再试试。|Tôi cài đặt lại, anh thử lại xem.|重新 + V；再试试

@@ -1,0 +1,40 @@
+# Từ vựng chủ đề 10 — Vận chuyển đồ đạc
+# W|ID từ|chữ Hán                         từ thuộc chủ đề (thứ tự = thứ tự nghe)
+# E|ID câu|ID từ|câu|nghĩa Việt|nghĩa Anh|ngữ pháp   câu của từ (sinh bằng scripts/generate.py)
+
+W|T10-001|搬家公司
+E|10-E001|T10-001|你打给搬家公司问问吧。|Bạn gọi cho công ty chuyển nhà hỏi thử đi.|Call the moving company and ask.|打给 + 人/公司 + 问问
+E|10-E002|T10-001|搬家公司明天早上来搬电视。|Công ty chuyển nhà mai sáng đến chuyển tivi.|The moving company is coming tomorrow morning to move the TV.|来 + 动词
+W|T10-002|货车
+E|10-E003|T10-002|货车什么时候到楼下？|Xe tải khi nào đến dưới nhà?|When will the truck arrive downstairs?|什么时候 + 到
+E|10-E004|T10-002|货车太小，装不下这些箱子。|Xe tải nhỏ quá, không chứa hết mấy cái thùng này.|The truck is too small; it can't fit these boxes.|装不下
+W|T10-003|箱子
+E|10-E005|T10-003|这个箱子太重了，两个人搬。|Cái thùng này nặng quá, hai người khiêng đi.|This box is too heavy; two people should carry it.|太…了
+E|10-E006|T10-003|箱子都包好了吗？|Thùng nào cũng gói kỹ chưa?|Are all the boxes wrapped up well?|都…了吗
+W|T10-004|搬走
+E|10-E007|T10-004|旧的电视也搬走吗？|Cái tivi cũ cũng dọn đi à?|Are we moving the old TV too?|也…吗
+E|10-E008|T10-004|这些箱子下午就搬走。|Mấy cái thùng này chiều nay dọn đi.|These boxes will be moved out this afternoon.|就 + 动词
+W|T10-005|包好
+E|10-E009|T10-005|电视请包好，别弄坏了。|Tivi làm ơn gói kỹ, đừng làm hỏng.|Please wrap the TV well; don't break it.|请 + 动词 + 好，别…
+E|10-E010|T10-005|东西还没包好，等一下。|Đồ chưa gói kỹ, đợi chút.|The things aren't wrapped yet; wait a moment.|还没…
+W|T10-006|拆开
+E|10-E011|T10-006|这个箱子先别拆开。|Cái thùng này khoan tháo ra đã.|Don't open this box yet.|先别 + 动词
+E|10-E012|T10-006|电视要拆开才搬得走。|Tivi phải tháo rời ra mới chuyển đi được.|The TV has to be taken apart before it can be moved.|才 + 动词 + 得…
+W|T10-007|扔掉
+E|10-E013|T10-007|这些旧东西扔掉吧。|Mấy đồ cũ này vứt đi đi.|Throw away these old things.|吧 (khuyên bảo)
+E|10-E014|T10-007|别扔掉，还能用呢！|Đừng vứt đi, còn dùng được mà!|Don't throw it away; it's still usable!|别…，还…呢
+W|T10-008|包裹
+E|10-E015|T10-008|这个包裹很重要，包好一点。|Bưu kiện này quan trọng, gói kỹ một chút.|This parcel is important; wrap it a bit better.|形容词 + 一点
+E|10-E016|T10-008|包裹到了，你点一下。|Bưu kiện đến rồi, bạn điểm danh thử đi.|The parcel has arrived; check it off.|点一下
+W|T10-009|电视
+E|10-E017|T10-009|电视太重要，请包好。|Tivi quan trọng lắm, làm ơn gói kỹ.|The TV is very important, please wrap it well.|请 + động từ
+E|10-E018|T10-009|电视别扔掉，先搬走。|Đừng vứt tivi đi, chuyển nó trước đã.|Don't throw the TV away, move it first.|别 + động từ
+W|T10-010|搬家费
+E|10-E019|T10-010|搬家费多少？贵不贵？|Phí chuyển nhà bao nhiêu? Có đắt không?|How much is the moving fee? Is it expensive?|多少钱 / 贵不贵
+E|10-E020|T10-010|搬家费我明天给你。|Phí chuyển nhà mai tôi trả cho anh.|I'll give you the moving fee tomorrow.|给 + người + vật
+W|T10-011|郡
+E|10-E021|T10-011|我家在郡三，很近。|Nhà tôi ở Quận Ba, rất gần.|My home is in District Three, very close.|在 + địa điểm
+E|10-E022|T10-011|货车现在去郡七吗？|Xe tải giờ đi Quận Bảy không?|Is the truck going to District Seven now?|去 + địa điểm + 吗
+W|T10-012|点一下
+E|10-E023|T10-012|你点一下箱子，够吗？|Anh đếm lại thùng đi, đủ không?|Count the boxes, is it enough?|động từ + 一下
+E|10-E024|T10-012|我们点一下包裹再搬。|Chúng ta đếm lại đồ rồi hãy chuyển.|Let's count the packages before moving.|再 + động từ

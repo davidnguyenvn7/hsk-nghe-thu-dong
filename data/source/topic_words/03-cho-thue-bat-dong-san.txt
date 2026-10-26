@@ -1,0 +1,70 @@
+# Từ vựng chủ đề 03 — Cho thuê bất động sản
+# W|ID từ|chữ Hán                         từ thuộc chủ đề (thứ tự = thứ tự nghe)
+# E|ID câu|ID từ|câu|nghĩa Việt|nghĩa Anh|ngữ pháp   câu của từ (sinh bằng scripts/generate.py)
+
+W|H3-183|房租
+E|03-E001|H3-183|这个月的房租多少钱？|Tiền thuê nhà tháng này bao nhiêu tiền?|How much is the rent this month?|多少钱
+E|03-E002|H3-183|房租太贵了，我预算不够。|Tiền thuê nhà đắt quá, ngân sách của tôi không đủ.|The rent is too expensive; it's over my budget.|太…了
+W|H3-181|房东
+E|03-E003|H3-181|房东说房租不能少。|Chủ nhà nói tiền thuê không thể giảm.|The landlord says the rent can't be lowered.|说 + 从句
+E|03-E004|H3-181|你什么时候见房东？|Khi nào bạn gặp chủ nhà?|When are you meeting the landlord?|什么时候
+W|T03-003|押金
+E|03-E005|T03-003|押金什么时候退给我？|Khi nào thì trả lại tiền cọc cho tôi?|When will the deposit be returned to me?|什么时候
+E|03-E006|T03-003|退租以后房东退押金。|Sau khi trả nhà, chủ nhà trả lại tiền cọc.|After I move out, the landlord returns the deposit.|以后
+W|T03-004|押一付三
+E|03-E007|T03-004|这里都是押一付三吗？|Ở đây đều là cọc một trả ba phải không?|Is it all one-month deposit and three months' rent here?|都是…吗
+E|03-E008|T03-004|押一付三，我钱不够。|Cọc một trả ba, tôi không đủ tiền.|One-month deposit and three months' rent — I don't have enough money.|钱不够
+W|T03-005|合同
+E|03-E009|T03-005|合同上写了什么？|Trên hợp đồng ghi những gì?|What's written on the contract?|上写了
+E|03-E010|T03-005|我想先看一下合同。|Tôi muốn xem hợp đồng trước một chút.|I'd like to look at the contract first.|先…一下
+W|T03-006|签合同
+E|03-E011|T03-006|我们明天下午签合同。|Chiều mai chúng ta ký hợp đồng.|We'll sign the contract tomorrow afternoon.|时间 + 动作
+E|03-E012|T03-006|看房以后可以签合同吗？|Sau khi xem nhà có thể ký hợp đồng không?|Can we sign the contract after viewing the place?|以后可以…吗
+W|T03-007|包括
+E|03-E013|T03-007|房租包括水电费吗？|Tiền thuê nhà có bao gồm tiền điện nước không?|Does the rent include utilities?|包括…吗
+E|03-E014|T03-007|这个价格包括物业费。|Giá này bao gồm phí quản lý.|This price includes the property fee.|包括
+W|T03-008|水电费
+E|03-E015|T03-008|水电费另算，一个月两百。|Tiền điện nước tính riêng, một tháng hai trăm.|Utilities are separate — two hundred a month.|另算
+E|03-E016|T03-008|水电费怎么交？|Tiền điện nước nộp thế nào?|How do I pay the utilities?|怎么 + 动词
+W|T03-009|物业费
+E|03-E017|T03-009|物业费一个月多少钱？|Phí quản lý một tháng bao nhiêu tiền?|How much is the property management fee per month?|多少钱 (bao nhiêu tiền)
+E|03-E018|T03-009|物业费包括在房租里吗？|Phí quản lý có bao gồm trong tiền thuê nhà không?|Is the property fee included in the rent?|包括在…里 (bao gồm trong…)
+W|T03-010|网费
+E|03-E019|T03-010|网费另算，一个月五十。|Tiền mạng tính riêng, một tháng năm mươi.|The internet fee is separate, fifty a month.|另算 (tính riêng)
+E|03-E020|T03-010|房租里包括网费吗？|Tiền nhà có bao gồm tiền mạng không?|Does the rent include the internet fee?|包括 (bao gồm)
+W|T03-011|退租
+E|03-E021|T03-011|我想下个月退租。|Tôi muốn trả nhà vào tháng sau.|I want to end the lease next month.|想 + 动词 (muốn làm gì)
+E|03-E022|T03-011|退租要提前一个月说。|Trả nhà phải báo trước một tháng.|To end the lease you must notify one month in advance.|要 + 动词 (phải làm gì)
+W|T03-012|到期
+E|03-E023|T03-012|合同什么时候到期？|Hợp đồng hết hạn khi nào?|When does the contract expire?|什么时候 (khi nào)
+E|03-E024|T03-012|合同下个月到期。|Hợp đồng hết hạn vào tháng sau.|The contract expires next month.|时间词 + 到期
+W|T03-013|预算
+E|03-E025|T03-013|我的预算三千以内。|Ngân sách của tôi trong vòng ba nghìn.|My budget is within three thousand.|以内 (trong vòng)
+E|03-E026|T03-013|我的预算不太高，能看便宜点的吗？|Ngân sách của tôi không cao lắm, xem căn rẻ hơn được không?|My budget isn't very high, can I look at a cheaper one?|能…吗？
+W|T03-014|以内
+E|03-E027|T03-014|预算两千五以内可以吗？|Ngân sách trong vòng hai nghìn năm trăm được không?|Is a budget within two thousand five hundred okay?|以内 (trong vòng)
+E|03-E028|T03-014|我想找三千以内的房子。|Tôi muốn tìm nhà trong vòng ba nghìn.|I want to find an apartment within three thousand.|找 + 数量 + 以内的
+W|T03-015|中介
+E|03-E029|T03-015|这个中介很专业。|Môi giới này rất chuyên nghiệp.|This agent is very professional.|很 + 形容词 (rất…)
+E|03-E030|T03-015|你找中介看房了吗？|Bạn đã nhờ môi giới đi xem nhà chưa?|Did you ask an agent to show you the place?|了吗 (hỏi hoàn thành)
+W|T03-016|中介费
+E|03-E031|T03-016|中介费要多少？|Phí môi giới là bao nhiêu?|How much is the agency fee?|要多少 (bao nhiêu)
+E|03-E032|T03-016|中介费是一个月房租。|Phí môi giới là một tháng tiền nhà.|The agency fee is one month's rent.|是 + 数量 (là…)
+W|T03-017|宠物
+E|03-E033|T03-017|房东说这里不能养宠物。|Chủ nhà nói ở đây không được nuôi thú cưng.|The landlord says pets aren't allowed here.|不能 + động từ
+E|03-E034|T03-017|合同里写了可以养宠物吗？|Trong hợp đồng có ghi là được nuôi thú cưng không?|Does the contract say pets are allowed?|里写了…吗？
+W|T03-018|租金
+E|03-E035|T03-018|这个房子的租金是多少？|Tiền thuê của căn nhà này là bao nhiêu?|How much is the rent for this place?|是多少？
+E|03-E036|T03-018|租金包括物业费吗？|Tiền thuê có bao gồm phí quản lý không?|Does the rent include the property fee?|包括…吗？
+W|T03-019|涨
+E|03-E037|T03-019|房东说明年房租要涨。|Chủ nhà nói sang năm tiền nhà sẽ tăng.|The landlord says the rent will go up next year.|要 + động từ
+E|03-E038|T03-019|租金涨得太多，我预算不够。|Tiền thuê tăng nhiều quá, ngân sách của tôi không đủ.|The rent went up too much; it's over my budget.|…得太多
+W|T03-020|看房
+E|03-E039|T03-020|我想明天下午看房，可以吗？|Tôi muốn xem nhà chiều mai, được không?|I'd like to view the place tomorrow afternoon, is that okay?|想 + động từ + 可以吗？
+E|03-E040|T03-020|看房以前要先交钱吗？|Trước khi xem nhà có phải nộp tiền trước không?|Do I have to pay before viewing the place?|以前要…吗？
+W|T03-021|预约
+E|03-E041|T03-021|看房要提前预约吗？|Xem nhà có phải đặt hẹn trước không?|Do I need to book an appointment to view the place?|要…吗？
+E|03-E042|T03-021|我跟中介预约了周六看房。|Tôi đã đặt hẹn với môi giới xem nhà thứ Bảy.|I booked a Saturday viewing with the agent.|跟…预约了…
+W|T03-022|另算
+E|03-E043|T03-022|水电费和网费另算。|Tiền điện nước và tiền mạng tính riêng.|Water, electricity and internet are charged separately.|A和B另算
+E|03-E044|T03-022|中介费另算，不在租金里。|Phí môi giới tính riêng, không nằm trong tiền thuê.|The agency fee is separate; it's not in the rent.|不在…里

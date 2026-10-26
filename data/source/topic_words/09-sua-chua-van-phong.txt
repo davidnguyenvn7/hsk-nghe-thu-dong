@@ -1,0 +1,64 @@
+# Từ vựng chủ đề 09 — Sửa đồ văn phòng
+# W|ID từ|chữ Hán                         từ thuộc chủ đề (thứ tự = thứ tự nghe)
+# E|ID câu|ID từ|câu|nghĩa Việt|nghĩa Anh|ngữ pháp   câu của từ (sinh bằng scripts/generate.py)
+
+W|T09-001|修理
+E|09-E001|T09-001|空调坏了，要修理一下。|Máy lạnh hỏng rồi, phải sửa một chút.|The air conditioner is broken; it needs fixing.|要 + động từ + 一下
+E|09-E002|T09-001|修理这个要多少钱？|Sửa cái này tốn bao nhiêu tiền?|How much does it cost to repair this?|疑问句 要多少钱
+W|T09-002|师傅
+E|09-E003|T09-002|师傅明天上午上门。|Sáng mai bác thợ sẽ đến tận nơi.|The repairman will come tomorrow morning.|时间词 + 上门
+E|09-E004|T09-002|请派一位师傅来看看。|Xin cử một bác thợ đến xem.|Please send a repairman to take a look.|请 + 派 + 量词 + 名词
+W|T09-003|漏水
+E|09-E005|T09-003|水管漏水了，快关掉！|Ống nước bị rò rồi, mau khóa lại!|The water pipe is leaking — turn it off quickly!|了 + 快…！
+E|09-E006|T09-003|洗手间有点漏水。|Nhà vệ sinh hơi bị rò nước.|The bathroom is leaking a little.|有点 + 动词
+W|T09-004|停电
+E|09-E007|T09-004|下午停电，电梯不能用。|Chiều nay mất điện, thang máy không dùng được.|There's a power outage this afternoon, so the elevator can't be used.|停电，…不能用
+E|09-E008|T09-004|为什么又停电了？|Sao lại mất điện nữa rồi?|Why is the power out again?|为什么又…了
+W|T09-005|投影仪
+E|09-E009|T09-005|投影仪没电，开不了。|Máy chiếu không có điện, không bật được.|The projector has no power and won't turn on.|没电，动词 + 不了
+E|09-E010|T09-005|请人看一下投影仪吧。|Nhờ người xem giúp cái máy chiếu đi.|Let's have someone look at the projector.|请人 + 看一下
+W|T09-006|门锁
+E|09-E011|T09-006|门锁坏了，进不去。|Khóa cửa hỏng rồi, không vào được.|The door lock is broken; I can't get in.|坏了，动词 + 不进去
+E|09-E012|T09-006|门锁卡住了，打不开。|Khóa cửa bị kẹt, không mở được.|The door lock is stuck and won't open.|卡住了，打不开
+W|T09-007|复印机
+E|09-E013|T09-007|复印机没墨了，要换。|Máy photo hết mực rồi, phải thay.|The copier is out of toner and needs a change.|没…了，要 + 动词
+E|09-E014|T09-007|这台复印机能修好吗？|Cái máy photo này sửa được không?|Can this copier be fixed?|能 + 动词 + 好吗
+W|T09-008|卡住
+E|09-E015|T09-008|纸卡住了，关掉再开。|Giấy bị kẹt rồi, tắt đi rồi bật lại.|The paper is jammed; turn it off and on again.|动词 + 住，再 + 动词
+E|09-E016|T09-008|电源卡住了，动不了。|Nguồn điện bị kẹt, không động được.|The power switch is stuck and won't move.|卡住了，动词 + 不了
+W|T09-009|墨
+E|09-E017|T09-009|复印机没有墨了，请换一下。|Máy photocopy hết mực rồi, nhờ thay giúp.|The copier is out of toner; please change it.|没有…了
+E|09-E018|T09-009|打印机要换墨，你买了吗？|Máy in cần thay mực, bạn mua chưa?|The printer needs new toner; did you buy it?|要 + động từ
+W|T09-010|滴水
+E|09-E019|T09-010|水管一直滴水，快叫师傅来。|Ống nước cứ nhỏ nước, mau gọi thợ đến.|The water pipe keeps dripping; call a repairman quickly.|一直 + động từ
+E|09-E020|T09-010|空调滴水，会不会漏水？|Máy lạnh nhỏ nước, có bị rò nước không?|The AC is dripping; is it leaking water?|会不会…？
+W|T09-011|零件
+E|09-E021|T09-011|这个零件坏了，要派人送来。|Linh kiện này hỏng rồi, phải cho người mang đến.|This part is broken; we need someone to bring a new one.|要 + 派人 + động từ
+E|09-E022|T09-011|零件到了，师傅就能修好。|Linh kiện đến rồi thì thợ sửa được ngay.|Once the part arrives, the repairman can fix it.|…就…
+W|T09-012|保修期
+E|09-E023|T09-012|这台机器还在保修期，免费修。|Máy này vẫn còn trong thời hạn bảo hành, sửa miễn phí.|This machine is still under warranty, so repairs are free.|还在…
+E|09-E024|T09-012|保修期过了，上门费要自己付。|Hết thời hạn bảo hành rồi, phí đến tận nơi phải tự trả.|The warranty has expired, so you pay the call-out fee yourself.|要 + 自己 + động từ
+W|T09-013|免费
+E|09-E025|T09-013|保修期内修理是免费的。|Trong thời hạn bảo hành, sửa chữa là miễn phí.|Repairs are free within the warranty period.|是…的
+E|09-E026|T09-013|师傅说检查免费，换零件要钱。|Thợ nói kiểm tra miễn phí, thay linh kiện thì mất tiền.|The repairman says the check is free, but parts cost money.|…，…
+W|T09-014|电源
+E|09-E027|T09-014|电源没开，投影仪当然不动。|Chưa bật nguồn điện, máy chiếu đương nhiên không chạy.|The power isn't on, so of course the projector won't work.|当然
+E|09-E028|T09-014|请先关掉电源，再修电路。|Xin tắt nguồn điện trước rồi hãy sửa mạch điện.|Please switch off the power before fixing the circuit.|先…再…
+W|T09-015|关掉
+E|09-E029|T09-015|下班前记得关掉复印机。|Trước khi tan làm nhớ tắt máy photocopy.|Remember to turn off the copier before leaving work.|记得 + động từ
+E|09-E030|T09-015|停电了，请关掉所有电源。|Mất điện rồi, xin tắt hết nguồn điện.|The power is out; please switch off all the power.|所有
+W|T09-016|水管
+E|09-E031|T09-016|水管漏水了，地上全是水。|Ống nước bị rò rồi, sàn toàn là nước.|The water pipe is leaking; the floor is all wet.|全是
+E|09-E032|T09-016|水管坏了，得派人来修。|Ống nước hỏng rồi, phải cho người đến sửa.|The water pipe is broken; we have to send someone to fix it.|得 + động từ
+W|T09-017|上门费
+E|09-E033|T09-017|上门费多少钱？|Phí đến tận nơi là bao nhiêu?|How much is the call-out fee?|多少钱
+E|09-E034|T09-017|保修期内不用付上门费。|Trong thời gian bảo hành không phải trả phí đến tận nơi.|You don't pay a call-out fee during the warranty period.|不用 + động từ
+W|T09-018|电路
+E|09-E035|T09-018|电路坏了，先关掉电源。|Đường điện hỏng rồi, trước tiên hãy tắt nguồn điện.|The circuit is broken; turn off the power first.|先…
+E|09-E036|T09-018|师傅在检查电路，可能停电。|Thợ đang kiểm tra đường điện, có thể sẽ mất điện.|The technician is checking the circuit; there may be a power cut.|在 + động từ
+W|T09-019|设置
+E|09-E037|T09-019|请你帮我设置一下打印机。|Bạn giúp tôi cài đặt máy in một chút nhé.|Please help me set up the printer.|帮我 + động từ + 一下
+E|09-E038|T09-019|这个设置不对，复印机卡住了。|Cài đặt này không đúng, máy photocopy bị kẹt rồi.|This setting is wrong; the copier is jammed.|不对
+W|T09-020|派人
+E|09-E039|T09-020|你们能派人来看看漏水吗？|Các anh có thể cử người đến xem chỗ rò nước không?|Can you send someone to look at the leak?|能…吗？
+E|09-E040|T09-020|公司下午派人来修水管。|Công ty cử người đến sửa ống nước vào chiều nay.|The company is sending someone to fix the water pipe this afternoon.|派人来 + động từ

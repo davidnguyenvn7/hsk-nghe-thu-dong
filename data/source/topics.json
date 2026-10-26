@@ -1,0 +1,14 @@
+[
+  {"id": "01", "slug": "giao-dich-tien", "name_vi": "Giao dịch tiền", "name_zh": "付钱", "desc": "Trả tiền, thối tiền, tiền mặt, quét mã, biên lai, vay mượn"},
+  {"id": "02", "slug": "chuyen-khoan-ngan-hang", "name_vi": "Chuyển khoản ngân hàng", "name_zh": "银行转账", "desc": "Số tài khoản, chuyển khoản, rút tiền, mở tài khoản, phí"},
+  {"id": "03", "slug": "cho-thue-bat-dong-san", "name_vi": "Cho thuê bất động sản", "name_zh": "租房", "desc": "Tiền thuê, cọc, hợp đồng, thời hạn, xem nhà, môi giới"},
+  {"id": "04", "slug": "van-phong", "name_vi": "Văn phòng", "name_zh": "办公室", "desc": "Diện tích, chỗ ngồi, phòng họp, giờ làm, đồng nghiệp"},
+  {"id": "05", "slug": "can-ho", "name_vi": "Căn hộ", "name_zh": "公寓", "desc": "Phòng ngủ, bếp, ban công, nội thất, tiện ích, hàng xóm"},
+  {"id": "06", "slug": "vi-tri-duong-di", "name_vi": "Vị trí & đường đi", "name_zh": "位置", "desc": "Gần xa, phương hướng, chỉ đường, khoảng cách, thời gian di chuyển"},
+  {"id": "07", "slug": "toa-nha", "name_vi": "Mô tả toà nhà", "name_zh": "大楼", "desc": "Số tầng, thang máy, bảo vệ, bãi xe, phí quản lý, sảnh"},
+  {"id": "08", "slug": "thi-cong-xay-dung", "name_vi": "Thi công xây dựng", "name_zh": "装修施工", "desc": "Báo giá, vật liệu, tiến độ, thợ, tường, sàn, an toàn"},
+  {"id": "09", "slug": "sua-chua-van-phong", "name_vi": "Sửa đồ văn phòng", "name_zh": "维修", "desc": "Máy in, máy lạnh, điện, nước, mạng, bảo hành, gọi thợ"},
+  {"id": "10", "slug": "van-chuyen-do-dac", "name_vi": "Vận chuyển đồ đạc", "name_zh": "搬家", "desc": "Chuyển nhà, xe tải, thùng đồ, khuân vác, giao hàng"},
+  {"id": "11", "slug": "dam-phan-gia", "name_vi": "Đàm phán giá", "name_zh": "讲价", "desc": "Mặc cả, giảm giá, điều kiện, nhượng bộ, chốt giá"},
+  {"id": "12", "slug": "giao-thong-do-thi", "name_vi": "Giao thông đô thị", "name_zh": "城市交通", "desc": "Metro, xe buýt, taxi, xe máy, kẹt xe, đỗ xe"}
+]

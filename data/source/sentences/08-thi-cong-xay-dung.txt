@@ -1,0 +1,49 @@
+# Chủ đề 08 — mẫu câu
+# S|ID|câu|nghĩa Việt|ngữ pháp   — câu đơn
+# D|ID|người nói|câu|nghĩa Việt|ngữ pháp — hội thoại; các lượt liền nhau là 1 hội thoại, dòng trống để tách
+
+S|08-S01|装修什么时候开始？|Khi nào bắt đầu thi công?|什么时候 + động từ
+S|08-S02|装修大概需要一个月。|Thi công khoảng một tháng.|需要 + thời gian
+S|08-S03|工人明天早上八点来。|Thợ đến lúc 8 giờ sáng mai.|thời gian trước động từ
+S|08-S04|墙要刷成白色。|Tường phải sơn thành màu trắng.|động từ + 成
+S|08-S05|先做水电，然后再铺地板。|Làm điện nước trước, sau đó mới lát sàn.|先…然后再…
+S|08-S06|材料都准备好了吗？|Vật liệu chuẩn bị xong hết chưa?|động từ + 好
+S|08-S07|施工的时候请注意安全。|Khi thi công xin chú ý an toàn.|…的时候
+S|08-S08|晚上六点以后不能施工。|Sau 6 giờ tối không được thi công.|…以后 + 不能
+S|08-S09|完成以后，我们一起检查一下。|Làm xong chúng ta cùng kiểm tra.|一起 + V + 一下
+S|08-S10|这面墙要拆掉吗？|Bức tường này có phải đập bỏ không?|động từ + 掉
+S|08-S11|这面墙不能拆，是承重墙。|Bức tường này không đập được, là tường chịu lực.|不能 + động từ
+S|08-S12|我们想把两个房间改成一个大办公室。|Chúng tôi muốn gộp hai phòng thành một văn phòng lớn.|把 A 改成 B
+S|08-S13|请先给我一个报价。|Xin gửi tôi bảng báo giá trước.|给 + người + vật
+S|08-S14|这个报价包括材料费吗？|Báo giá này đã gồm tiền vật liệu chưa?|包括…吗？
+S|08-S15|人工费和材料费是分开算的。|Tiền công và tiền vật liệu tính riêng.|是…的
+S|08-S16|地板用木地板还是瓷砖？|Sàn dùng sàn gỗ hay gạch men?|A 还是 B？
+S|08-S17|卫生间的地板要防水。|Sàn nhà vệ sinh phải chống thấm.|要 + động từ
+S|08-S18|工人每天几点上班？|Thợ mỗi ngày mấy giờ vào làm?|几点 + động từ
+S|08-S19|周末可以施工吗？|Cuối tuần có thi công được không?|可以…吗？
+S|08-S20|楼上的邻居说声音太大了。|Hàng xóm tầng trên nói tiếng ồn quá lớn.|太…了
+S|08-S21|装修垃圾要放在指定的地方。|Rác xây dựng phải để đúng nơi quy định.|放在 + nơi
+S|08-S22|这里的灯要换成更亮的。|Đèn chỗ này phải thay loại sáng hơn.|换成 + tính từ + 的
+S|08-S23|插座要多装几个。|Ổ cắm phải lắp thêm vài cái.|多 + động từ + 几个
+S|08-S24|工期可能要推迟一个星期。|Tiến độ có thể phải lùi một tuần.|推迟 + thời gian
+S|08-S25|为什么比计划慢了这么多？|Sao chậm hơn kế hoạch nhiều vậy?|比…慢了 + 这么多
+S|08-S26|因为材料还没到，所以停了两天。|Vì vật liệu chưa về nên ngừng hai ngày.|因为…所以…
+S|08-S27|这里做得不太好，要重新做。|Chỗ này làm chưa tốt, phải làm lại.|重新 + động từ
+S|08-S28|颜色跟我们说的不一样。|Màu khác với cái chúng tôi đã nói.|跟…不一样
+S|08-S29|装修完以后要开窗通风一个月。|Sửa xong phải mở cửa cho thoáng một tháng.|V + 完 + 以后
+S|08-S30|钱分三次付：开工、中期和完工。|Tiền trả ba đợt: khởi công, giữa kỳ và hoàn thành.|分 + số + 次
+
+D|08-D1-1|A|装修要多长时间？|Thi công mất bao lâu?
+D|08-D1-2|B|如果材料没问题，大概四个星期。|Nếu vật liệu không có vấn đề, khoảng bốn tuần.|如果…，大概…
+
+D|08-D2-1|A|这个价格包括材料吗？|Giá này gồm vật liệu chưa?
+D|08-D2-2|B|包括主要材料，灯和家具另算。|Gồm vật liệu chính, đèn và nội thất tính riêng.|另 + động từ
+
+D|08-D3-1|A|工人明天几点到？|Mai thợ mấy giờ đến?
+D|08-D3-2|B|八点到，五点半结束，中午休息一个小时。|8 giờ đến, 5 rưỡi xong, trưa nghỉ một tiếng.
+
+D|08-D4-1|A|这面墙可以拆吗？|Bức tường này đập được không?
+D|08-D4-2|B|我先看一下，是承重墙的话就不能拆。|Để tôi xem trước, nếu là tường chịu lực thì không đập được.|…的话就…
+
+D|08-D5-1|A|你看，这里的颜色不对。|Anh xem, màu chỗ này không đúng.
+D|08-D5-2|B|对不起，我们明天马上改。|Xin lỗi, mai chúng tôi sửa ngay.|马上 + động từ

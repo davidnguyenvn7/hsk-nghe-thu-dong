@@ -1,0 +1,245 @@
+# Từ chuyên ngành theo chủ đề (phần lớn ngoài HSK 3, cần cho công việc)
+# Định dạng:  ID|chữ Hán|pinyin (cách âm tiết bằng dấu cách)|nghĩa Việt|nghĩa Anh (tuỳ chọn)
+# ID: T{chủ đề}-{nnn}, không bao giờ tái sử dụng.
+# Cấp HSK được build.py tự gán; từ nào hoá ra đã thuộc HSK 1–3 sẽ hiện cấp tương ứng.
+
+## 01 Giao dịch tiền
+T01-001|现金|xiàn jīn|tiền mặt
+T01-002|零钱|líng qián|tiền lẻ
+T01-003|找钱|zhǎo qián|thối tiền
+T01-004|付钱|fù qián|trả tiền
+T01-005|付款|fù kuǎn|thanh toán
+T01-006|收据|shōu jù|biên lai
+T01-007|发票|fā piào|hoá đơn
+T01-008|扫码|sǎo mǎ|quét mã
+T01-009|刷卡|shuā kǎ|quẹt thẻ
+T01-010|金额|jīn é|số tiền
+T01-011|服务费|fú wù fèi|phí dịch vụ
+T01-012|越南盾|yuè nán dùn|đồng Việt Nam
+T01-013|报销|bào xiāo|thanh toán lại (chi phí công)
+T01-014|剩下|shèng xià|còn lại
+T01-015|记录|jì lù|ghi chép, lịch sử
+T01-016|月底|yuè dǐ|cuối tháng
+T01-017|算账|suàn zhàng|tính sổ
+T01-018|百分之|bǎi fēn zhī|phần trăm
+
+## 02 Chuyển khoản ngân hàng
+T02-001|转账|zhuǎn zhàng|chuyển khoản
+T02-002|账号|zhàng hào|số tài khoản
+T02-003|账户|zhàng hù|tài khoản
+T02-004|到账|dào zhàng|tiền về tài khoản
+T02-005|取钱|qǔ qián|rút tiền
+T02-006|存钱|cún qián|gửi tiền
+T02-007|密码|mì mǎ|mật khẩu
+T02-008|手续费|shǒu xù fèi|phí giao dịch
+T02-009|截图|jié tú|ảnh chụp màn hình
+T02-010|收款人|shōu kuǎn rén|người nhận tiền
+T02-011|确认|què rèn|xác nhận
+T02-012|填写|tián xiě|điền (mẫu)
+T02-013|业务|yè wù|nghiệp vụ
+T02-014|自动|zì dòng|tự động
+T02-015|保管|bǎo guǎn|giữ gìn, bảo quản
+
+## 03 Cho thuê bất động sản
+T03-001|房租|fáng zū|tiền thuê nhà
+T03-002|房东|fáng dōng|chủ nhà
+T03-003|押金|yā jīn|tiền cọc
+T03-004|押一付三|yā yī fù sān|cọc một trả ba
+T03-005|合同|hé tong|hợp đồng
+T03-006|签合同|qiān hé tong|ký hợp đồng
+T03-007|包括|bāo kuò|bao gồm
+T03-008|水电费|shuǐ diàn fèi|tiền điện nước
+T03-009|物业费|wù yè fèi|phí quản lý
+T03-010|网费|wǎng fèi|tiền mạng
+T03-011|退租|tuì zū|trả nhà (chấm dứt thuê)
+T03-012|到期|dào qī|hết hạn
+T03-013|预算|yù suàn|ngân sách
+T03-014|以内|yǐ nèi|trong vòng
+T03-015|中介|zhōng jiè|môi giới
+T03-016|中介费|zhōng jiè fèi|phí môi giới
+T03-017|宠物|chǒng wù|thú cưng
+T03-018|租金|zū jīn|tiền thuê
+T03-019|涨|zhǎng|tăng (giá)
+T03-020|看房|kàn fáng|xem nhà
+T03-021|预约|yù yuē|đặt hẹn
+T03-022|另算|lìng suàn|tính riêng
+
+## 04 Văn phòng
+T04-001|工位|gōng wèi|chỗ ngồi làm việc
+T04-002|平方米|píng fāng mǐ|mét vuông
+T04-003|会议室|huì yì shì|phòng họp
+T04-004|人事部|rén shì bù|phòng nhân sự
+T04-005|加班|jiā bān|làm thêm giờ
+T04-006|下班|xià bān|tan làm
+T04-007|材料|cái liào|tài liệu; vật liệu
+T04-008|打印机|dǎ yìn jī|máy in
+T04-009|网络|wǎng luò|mạng
+T04-010|抽烟|chōu yān|hút thuốc
+T04-011|招|zhāo|tuyển (người)
+T04-012|客户|kè hù|khách hàng
+T04-013|办公楼|bàn gōng lóu|toà văn phòng
+T04-014|连上|lián shàng|kết nối vào
+T04-015|键|jiàn|phím, nút
+
+## 05 Căn hộ
+T05-001|公寓|gōng yù|căn hộ
+T05-002|两室一厅|liǎng shì yì tīng|hai phòng ngủ một phòng khách
+T05-003|卧室|wò shì|phòng ngủ
+T05-004|主卧室|zhǔ wò shì|phòng ngủ chính
+T05-005|客厅|kè tīng|phòng khách
+T05-006|厨房|chú fáng|nhà bếp
+T05-007|书房|shū fáng|phòng làm việc, phòng sách
+T05-008|阳台|yáng tái|ban công
+T05-009|窗户|chuāng hu|cửa sổ
+T05-010|冰箱|bīng xiāng|tủ lạnh
+T05-011|衣柜|yī guì|tủ quần áo
+T05-012|热水器|rè shuǐ qì|bình nóng lạnh
+T05-013|电器|diàn qì|đồ điện
+T05-014|晒|shài|phơi
+T05-015|小区|xiǎo qū|khu dân cư
+T05-016|游泳池|yóu yǒng chí|hồ bơi
+T05-017|健身房|jiàn shēn fáng|phòng gym
+T05-018|邻居|lín jū|hàng xóm
+T05-019|垃圾|lā jī|rác
+T05-020|快递|kuài dì|hàng chuyển phát
+T05-021|装修|zhuāng xiū|sửa sang, hoàn thiện nội thất
+
+## 06 Vị trí & đường đi
+T06-001|附近|fù jìn|gần đây
+T06-002|位置|wèi zhì|vị trí
+T06-003|路口|lù kǒu|ngã tư, giao lộ
+T06-004|红绿灯|hóng lǜ dēng|đèn giao thông
+T06-005|商场|shāng chǎng|trung tâm thương mại
+T06-006|市中心|shì zhōng xīn|trung tâm thành phố
+T06-007|号线|hào xiàn|tuyến (metro)
+T06-008|出口|chū kǒu|lối ra
+T06-009|过马路|guò mǎ lù|qua đường
+T06-010|尽头|jìn tóu|cuối (đường)
+T06-011|南门|nán mén|cổng nam
+T06-012|地址|dì zhǐ|địa chỉ
+T06-013|公交车站|gōng jiāo chē zhàn|trạm xe buýt
+
+## 07 Mô tả toà nhà
+T07-001|大楼|dà lóu|toà nhà, cao ốc
+T07-002|栋|dòng|(lượng từ) toà, căn
+T07-003|电梯|diàn tī|thang máy
+T07-004|货梯|huò tī|thang hàng
+T07-005|楼梯|lóu tī|cầu thang
+T07-006|写字楼|xiě zì lóu|cao ốc văn phòng
+T07-007|物业|wù yè|ban quản lý toà nhà
+T07-008|停车位|tíng chē wèi|chỗ đỗ xe
+T07-009|地下|dì xià|tầng hầm, dưới đất
+T07-010|访客|fǎng kè|khách đến thăm
+T07-011|登记|dēng jì|đăng ký
+T07-012|大厅|dà tīng|sảnh
+T07-013|饮水机|yǐn shuǐ jī|máy nước uống
+T07-014|玻璃|bō li|kính
+T07-015|顶楼|dǐng lóu|tầng thượng
+T07-016|餐厅|cān tīng|nhà hàng
+T07-017|安全出口|ān quán chū kǒu|lối thoát hiểm
+T07-018|走廊|zǒu láng|hành lang
+T07-019|楼道|lóu dào|hành lang cầu thang
+T07-020|区域|qū yù|khu vực
+T07-021|公共区域|gōng gòng qū yù|khu vực chung
+
+## 08 Thi công xây dựng
+T08-001|施工|shī gōng|thi công
+T08-002|工人|gōng rén|công nhân, thợ
+T08-003|墙|qiáng|tường
+T08-004|承重墙|chéng zhòng qiáng|tường chịu lực
+T08-005|拆|chāi|tháo, đập bỏ
+T08-006|拆掉|chāi diào|đập bỏ
+T08-007|地板|dì bǎn|sàn nhà
+T08-008|木地板|mù dì bǎn|sàn gỗ
+T08-009|瓷砖|cí zhuān|gạch men
+T08-010|铺|pū|lát, trải
+T08-011|刷|shuā|sơn, quét
+T08-012|防水|fáng shuǐ|chống thấm
+T08-013|报价|bào jià|báo giá
+T08-014|人工费|rén gōng fèi|tiền công
+T08-015|材料费|cái liào fèi|tiền vật liệu
+T08-016|插座|chā zuò|ổ cắm
+T08-017|工期|gōng qī|tiến độ thi công
+T08-018|推迟|tuī chí|lùi lại, hoãn
+T08-019|开工|kāi gōng|khởi công
+T08-020|完工|wán gōng|hoàn công
+T08-021|中期|zhōng qī|giữa kỳ
+T08-022|通风|tōng fēng|thông gió
+T08-023|重新|chóng xīn|làm lại
+
+## 09 Sửa đồ văn phòng
+T09-001|修理|xiū lǐ|sửa chữa
+T09-002|师傅|shī fu|bác thợ, anh tài
+T09-003|漏水|lòu shuǐ|rò nước
+T09-004|停电|tíng diàn|mất điện
+T09-005|投影仪|tóu yǐng yí|máy chiếu
+T09-006|门锁|mén suǒ|khoá cửa
+T09-007|复印机|fù yìn jī|máy photo
+T09-008|卡住|kǎ zhù|bị kẹt
+T09-009|墨|mò|mực
+T09-010|滴水|dī shuǐ|nhỏ nước
+T09-011|零件|líng jiàn|linh kiện
+T09-012|保修期|bǎo xiū qī|thời hạn bảo hành
+T09-013|免费|miǎn fèi|miễn phí
+T09-014|电源|diàn yuán|nguồn điện
+T09-015|关掉|guān diào|tắt
+T09-016|水管|shuǐ guǎn|ống nước
+T09-017|上门费|shàng mén fèi|phí đến tận nơi
+T09-018|电路|diàn lù|đường điện
+T09-019|设置|shè zhì|cài đặt
+T09-020|派人|pài rén|cử người
+
+## 10 Vận chuyển đồ đạc
+T10-001|搬家公司|bān jiā gōng sī|công ty chuyển nhà
+T10-002|货车|huò chē|xe tải
+T10-003|箱子|xiāng zi|thùng
+T10-004|搬走|bān zǒu|dọn đi
+T10-005|包好|bāo hǎo|gói kỹ
+T10-006|拆开|chāi kāi|tháo rời
+T10-007|扔掉|rēng diào|vứt đi
+T10-008|包裹|bāo guǒ|bưu kiện
+T10-009|电视|diàn shì|ti vi
+T10-010|搬家费|bān jiā fèi|phí chuyển nhà
+T10-011|郡|jùn|quận (ở TP.HCM)
+T10-012|点一下|diǎn yí xià|đếm lại, kiểm đếm
+
+## 11 Đàm phán giá
+T11-001|打折|dǎ zhé|giảm giá
+T11-002|打九折|dǎ jiǔ zhé|giảm 10%
+T11-003|考虑|kǎo lǜ|cân nhắc
+T11-004|最低|zuì dī|thấp nhất
+T11-005|市场价|shì chǎng jià|giá thị trường
+T11-006|让一步|ràng yí bù|nhượng một bước
+T11-007|免|miǎn|miễn
+T11-008|合作愉快|hé zuò yú kuài|hợp tác vui vẻ
+T11-009|没办法|méi bàn fǎ|hết cách, chịu thôi
+
+## 12 Giao thông đô thị
+T12-001|堵车|dǔ chē|kẹt xe
+T12-002|摩托车|mó tuō chē|xe máy
+T12-003|迟到|chí dào|đến muộn
+T12-004|打车|dǎ chē|bắt taxi
+T12-005|叫车|jiào chē|gọi xe
+T12-006|单行道|dān xíng dào|đường một chiều
+T12-007|头盔|tóu kuī|mũ bảo hiểm
+T12-008|戴|dài|đội, đeo
+T12-009|下车|xià chē|xuống xe
+T12-010|打表|dǎ biǎo|tính theo đồng hồ (taxi)
+T12-011|火车站|huǒ chē zhàn|ga tàu hoả
+T12-012|大学城|dà xué chéng|làng đại học
+T12-013|交通事故|jiāo tōng shì gù|tai nạn giao thông
+T12-014|厉害|lì hai|dữ dội, ghê gớm
+T12-015|不然|bù rán|nếu không thì
+
+## 00 Dùng chung (xuất hiện ở nhiều chủ đề)
+T00-001|账|zhàng|sổ sách, tài khoản
+T00-002|签|qiān|ký
+T00-003|填|tián|điền
+T00-004|堵|dǔ|tắc, kẹt
+T00-005|定|dìng|chốt, quyết định
+T00-006|指定|zhǐ dìng|chỉ định, quy định
+T00-007|开窗|kāi chuāng|mở cửa sổ
+T00-008|打扫|dǎ sǎo|dọn dẹp
+T00-009|王|wáng|họ Vương
+T00-010|同一|tóng yī|cùng một
+T00-011|说一声|shuō yì shēng|báo một tiếng

@@ -1,0 +1,100 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "vocab.json — từ HSK 3.0 cấp 2–3",
+ "type": "array",
+ "items": {
+  "type": "object",
+  "required": [
+   "id",
+   "hanzi",
+   "pinyin",
+   "level",
+   "vi",
+   "topics",
+   "examples",
+   "example"
+  ],
+  "properties": {
+   "id": {
+    "type": "string",
+    "pattern": "^H[23]-\\d{3}$"
+   },
+   "hanzi": {
+    "type": "string"
+   },
+   "pinyin": {
+    "type": "string"
+   },
+   "level": {
+    "enum": [
+     2,
+     3
+    ]
+   },
+   "pos": {
+    "type": "array",
+    "items": {
+     "type": "string"
+    }
+   },
+   "vi": {
+    "type": "string"
+   },
+   "en": {
+    "type": "string"
+   },
+   "pinyin_alt": {
+    "type": "array",
+    "items": {
+     "type": "string"
+    }
+   },
+   "freq_rank": {
+    "type": [
+     "integer",
+     "null"
+    ]
+   },
+   "topics": {
+    "type": "array",
+    "items": {
+     "type": "string"
+    },
+    "description": "chủ đề có câu chứa từ này"
+   },
+   "examples": {
+    "type": "array",
+    "items": {
+     "type": "string"
+    },
+    "description": "tối đa 3 id câu chủ đề chứa từ này"
+   },
+   "example": {
+    "oneOf": [
+     {
+      "type": "null"
+     },
+     {
+      "type": "object",
+      "required": [
+       "zh",
+       "pinyin",
+       "vi"
+      ],
+      "properties": {
+       "zh": {
+        "type": "string"
+       },
+       "pinyin": {
+        "type": "string"
+       },
+       "vi": {
+        "type": "string"
+       }
+      }
+     }
+    ]
+   }
+  }
+ }
+}

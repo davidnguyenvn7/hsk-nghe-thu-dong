@@ -1,0 +1,889 @@
+﻿id,chu_de,loai,nguoi_noi,chu_han,pinyin,nghia_viet,ngu_phap,cap_cao_nhat,tu_ngoai_hsk3
+01-S01,Giao dịch tiền,Câu đơn,,一共多少钱？,Yígòng duōshǎo qián?,Tổng cộng bao nhiêu tiền?,一共 + 多少钱,2,
+01-S02,Giao dịch tiền,Câu đơn,,这个多少钱一个？,Zhège duōshǎo qián yí ge?,Cái này bao nhiêu tiền một cái?,多少钱 + 一 + lượng từ,1,
+01-S03,Giao dịch tiền,Câu đơn,,一共三百五十块。,Yígòng sānbǎiwǔshí kuài.,Tổng cộng 350 tệ.,一共 + số tiền,2,
+01-S04,Giao dịch tiền,Câu đơn,,我可以用信用卡吗？,Wǒ kěyǐ yòng xìnyòngkǎ ma?,Tôi dùng thẻ tín dụng được không?,可以…吗？,2,
+01-S05,Giao dịch tiền,Câu đơn,,对不起，我们只收现金。,"Duìbuqǐ, wǒmen zhǐ shōu xiànjīn.","Xin lỗi, chúng tôi chỉ nhận tiền mặt.",只 + động từ,3,
+01-S06,Giao dịch tiền,Câu đơn,,可以扫码付钱吗？,Kěyǐ sǎomǎ fùqián ma?,Có thể quét mã trả tiền không?,可以…吗？,4,付钱 扫码
+01-S07,Giao dịch tiền,Câu đơn,,我给你五百块，请找我五十。,"Wǒ gěi nǐ wǔbǎi kuài, qǐng zhǎo wǒ wǔshí.","Tôi đưa anh 500 tệ, thối lại tôi 50 nhé.",给 + người + vật,1,
+01-S08,Giao dịch tiền,Câu đơn,,你有零钱吗？,Nǐ yǒu língqián ma?,Anh có tiền lẻ không?,有…吗？,4,零钱
+01-S09,Giao dịch tiền,Câu đơn,,不好意思，我没有零钱。,"Bùhǎoyìsi, wǒ méiyǒu língqián.","Ngại quá, tôi không có tiền lẻ.",没有 + danh từ,4,零钱
+01-S10,Giao dịch tiền,Câu đơn,,请给我一张收据。,Qǐng gěi wǒ yì zhāng shōujù.,Làm ơn đưa tôi một tờ biên lai.,lượng từ 张,4,收据
+01-S11,Giao dịch tiền,Câu đơn,,这个月我花了很多钱。,Zhège yuè wǒ huā le hěn duō qián.,Tháng này tôi tiêu rất nhiều tiền.,động từ + 了,1,
+01-S12,Giao dịch tiền,Câu đơn,,我借了他两千块，下个月还给他。,"Wǒ jiè le tā liǎngqiān kuài, xià ge yuè huángěi tā.","Tôi mượn anh ấy 2.000 tệ, tháng sau trả lại.",借 / 还给,2,
+01-S13,Giao dịch tiền,Câu đơn,,钱不够，我再去取一点儿。,"Qián búgòu, wǒ zài qù qǔ yīdiǎnr.","Tiền không đủ, tôi đi rút thêm một ít.",不够；再 + động từ,2,
+01-S14,Giao dịch tiền,Câu đơn,,你数一下，看看对不对。,"Nǐ shù yí xià, kànkan duì búduì.",Anh đếm thử xem có đúng không.,động từ + 一下,2,
+01-S15,Giao dịch tiền,Câu đơn,,现在很多人不带现金了。,Xiànzài hěn duō rén bú dài xiànjīn le.,Bây giờ nhiều người không mang tiền mặt nữa.,不…了 (không… nữa),3,
+01-S16,Giao dịch tiền,Câu đơn,,用手机付钱又快又方便。,Yòng shǒujī fùqián yòu kuài yòu fāngbiàn.,Trả tiền bằng điện thoại vừa nhanh vừa tiện.,又…又…,4,付钱
+01-S17,Giao dịch tiền,Câu đơn,,这些钱是我这个月的工资。,Zhèxiē qián shì wǒ zhège yuè de gōngzī.,Số tiền này là lương tháng này của tôi.,这些 + danh từ,3,
+01-S18,Giao dịch tiền,Câu đơn,,我每个月都要交房租和水电费。,Wǒ měi ge yuè dōu yào jiāo fángzū hé shuǐdiànfèi.,Tháng nào tôi cũng phải đóng tiền nhà và điện nước.,每…都…,4,水电费
+01-S19,Giao dịch tiền,Câu đơn,,这笔钱什么时候能给我？,Zhè bǐ qián shénme shíhou néng gěi wǒ?,Khoản tiền này khi nào đưa tôi được?,lượng từ 笔 (khoản),2,
+01-S20,Giao dịch tiền,Câu đơn,,我们先付一半，剩下的下个月付。,"Wǒmen xiān fù yíbàn, shèngxià de xià ge yuè fù.","Chúng tôi trả trước một nửa, phần còn lại tháng sau trả.",先…，剩下的…,4,剩下
+01-S21,Giao dịch tiền,Câu đơn,,这个价格包括服务费吗？,Zhège jiàgé bāokuò fúwùfèi ma?,Giá này đã gồm phí dịch vụ chưa?,包括…吗？,4,包括 服务费
+01-S22,Giao dịch tiền,Câu đơn,,服务费是另外收的。,Fúwùfèi shì lìngwài shōu de.,Phí dịch vụ thu riêng.,是…的 (nhấn mạnh),4,服务费
+01-S23,Giao dịch tiền,Câu đơn,,一百块人民币大概是多少越南盾？,Yìbǎi kuài rénmínbì dàgài shì duōshǎo yuènándùn?,100 nhân dân tệ khoảng bao nhiêu đồng Việt Nam?,大概 + 是 + số lượng,4,越南盾
+01-S24,Giao dịch tiền,Câu đơn,,今天美元的价格比昨天高。,Jīntiān měiyuán de jiàgé bǐ zuótiān gāo.,Hôm nay giá đô la Mỹ cao hơn hôm qua.,A 比 B + tính từ,3,
+01-S25,Giao dịch tiền,Câu đơn,,我想换一些人民币。,Wǒ xiǎng huàn yìxiē rénmínbì.,Tôi muốn đổi một ít nhân dân tệ.,想 + động từ,3,
+01-S26,Giao dịch tiền,Câu đơn,,这些钱你先拿着，不够再说。,"Zhèxiē qián nǐ xiān ná zhe, búgòu zài shuō.","Anh cầm số tiền này trước, không đủ thì tính sau.",动词 + 着；再说,2,
+01-S27,Giao dịch tiền,Câu đơn,,那家店只收现金，不能刷卡。,"Nà jiā diàn zhǐ shōu xiànjīn, bù néng shuākǎ.","Tiệm đó chỉ nhận tiền mặt, không quẹt thẻ được.",不能 + động từ,4,刷卡
+01-S28,Giao dịch tiền,Câu đơn,,请你在这儿写上金额和日期。,Qǐng nǐ zài zhèr xiě shàng jīné hé rìqī.,Anh ghi số tiền và ngày tháng vào đây giúp.,động từ + 上,4,金额
+01-S29,Giao dịch tiền,Câu đơn,,钱已经付了，这是付款记录。,"Qián yǐjīng fù le, zhè shì fùkuǎn jìlù.","Tiền đã trả rồi, đây là lịch sử thanh toán.",已经…了,4,付款
+01-S30,Giao dịch tiền,Câu đơn,,我们每个月月底算一次账。,Wǒmen měi ge yuè yuèdǐ suàn yí cì zhàng.,Cuối mỗi tháng chúng tôi tính sổ một lần.,động từ + 一次 + tân ngữ,4,月底 账
+01-D1-1,Giao dịch tiền,Hội thoại,A,一共多少钱？,Yígòng duōshǎo qián?,Tổng cộng bao nhiêu?,,2,
+01-D1-2,Giao dịch tiền,Hội thoại,B,一共两百八十块。现金还是扫码？,Yígòng liǎngbǎibāshí kuài. Xiànjīn háishi sǎomǎ?,Tổng 280 tệ. Tiền mặt hay quét mã?,A 还是 B？,4,扫码
+01-D2-1,Giao dịch tiền,Hội thoại,A,我给你三百，你找我二十。,"Wǒ gěi nǐ sānbǎi, nǐ zhǎo wǒ èrshí.","Tôi đưa 300, anh thối tôi 20.",,1,
+01-D2-2,Giao dịch tiền,Hội thoại,B,好的，这是找您的钱，请拿好。,"Hǎo de, zhè shì zhǎo nín de qián, qǐng ná hǎo.","Vâng, đây là tiền thối, anh cầm cẩn thận.",拿好,1,
+01-D3-1,Giao dịch tiền,Hội thoại,A,你能借我一千块吗？我月底还你。,Nǐ néng jiè wǒ yìqiān kuài ma? Wǒ yuèdǐ huánnǐ.,Cho tôi mượn 1.000 tệ được không? Cuối tháng tôi trả.,能…吗？,4,月底
+01-D3-2,Giao dịch tiền,Hội thoại,B,没问题，你什么时候方便就什么时候还。,"Méi wèntí, nǐ shénme shíhou fāngbiàn jiù shénme shíhou hái.","Không sao, lúc nào anh tiện thì trả.",什么时候…就什么时候…,2,
+01-D4-1,Giao dịch tiền,Hội thoại,A,可以开收据吗？公司要报销。,Kěyǐ kāi shōujù ma? Gōngsī yào bàoxiāo.,Xuất biên lai được không? Công ty cần thanh toán lại.,,4,报销 收据
+01-D4-2,Giao dịch tiền,Hội thoại,B,可以，请等一下，我马上给你开。,"Kěyǐ, qǐng děng yí xià, wǒ mǎshàng gěi nǐ kāi.","Được, chờ một chút, tôi xuất ngay cho anh.",马上 + động từ,2,
+01-D5-1,Giao dịch tiền,Hội thoại,A,这个价格包括服务费吗？,Zhège jiàgé bāokuò fúwùfèi ma?,Giá này gồm phí dịch vụ chưa?,,4,包括 服务费
+01-D5-2,Giao dịch tiền,Hội thoại,B,不包括，服务费要另外付百分之十。,"Bù bāokuò, fúwùfèi yào lìngwài fù bǎifēnzhī shí.","Chưa gồm, phí dịch vụ trả thêm 10%.",百分之 + số,4,包括 服务费 百分之
+01-E001,Giao dịch tiền,Câu theo từ,,我可以用现金付钱吗？,Wǒ kěyǐ yòng xiànjīn fùqián ma?,Tôi có thể trả bằng tiền mặt không?,用 + N + 动词,4,付钱
+01-E002,Giao dịch tiền,Câu theo từ,,月底现金不够，可以刷卡吗？,"Yuèdǐ xiànjīn búgòu, kěyǐ shuākǎ ma?","Cuối tháng không đủ tiền mặt, có thể quẹt thẻ không?",可以…吗？,4,刷卡 月底
+01-E003,Giao dịch tiền,Câu theo từ,,你有零钱吗？我找不开。,Nǐ yǒu língqián ma? Wǒ zhǎo bù kāi.,Bạn có tiền lẻ không? Tôi không có tiền để thối.,找不开,4,零钱
+01-E004,Giao dịch tiền,Câu theo từ,,请给我一些零钱，现金太多。,"Qǐng gěi wǒ yìxiē língqián, xiànjīn tài duō.","Cho tôi ít tiền lẻ, tiền mặt nhiều quá.",请给我…,4,零钱
+01-E005,Giao dịch tiền,Câu theo từ,,不用找钱了，谢谢！,"Búyòng zhǎoqián le, xièxie!","Không cần thối tiền đâu, cảm ơn!",不用…了,4,找钱
+01-E006,Giao dịch tiền,Câu theo từ,,请给我找钱，谢谢。,"Qǐng gěi wǒ zhǎoqián, xièxie.","Xin thối tiền cho tôi, cảm ơn.",请 + động từ + tân ngữ,4,找钱
+01-E007,Giao dịch tiền,Câu theo từ,,服务费要在哪里付钱？,Fúwùfèi yào zài nǎlǐ fùqián?,Phí dịch vụ phải trả tiền ở đâu?,在哪里 + 动词,4,付钱 服务费
+01-E008,Giao dịch tiền,Câu theo từ,,我先付钱，再拿收据。,"Wǒ xiān fùqián, zài ná shōujù.","Tôi trả tiền trước, rồi lấy biên lai.",先…再…,4,付钱 收据
+01-E009,Giao dịch tiền,Câu theo từ,,扫码付款可以报销吗？,Sǎomǎ fùkuǎn kěyǐ bàoxiāo ma?,Quét mã thanh toán có được hoàn tiền không?,可以…吗？,4,付款 扫码 报销
+01-E010,Giao dịch tiền,Câu theo từ,,付款以后请给我发票。,Fùkuǎn yǐhòu qǐng gěi wǒ fāpiào.,Sau khi thanh toán xin cho tôi hoá đơn.,以后,4,付款 发票
+01-E011,Giao dịch tiền,Câu theo từ,,收据上写金额了吗？,Shōujù shàng xiě jīné le ma?,Trên biên lai có ghi số tiền chưa?,…了吗？,4,收据 金额
+01-E012,Giao dịch tiền,Câu theo từ,,这张收据请留下来记录。,Zhè zhāng shōujù qǐng liúxià lái jìlù.,Xin giữ lại biên lai này để ghi chép.,留下来,4,收据
+01-E013,Giao dịch tiền,Câu theo từ,,月底报销需要发票。,Yuèdǐ bàoxiāo xūyào fāpiào.,Cuối tháng hoàn tiền cần hoá đơn.,需要 + N,4,发票 报销 月底
+01-E014,Giao dịch tiền,Câu theo từ,,发票金额不对，请算账。,"Fāpiào jīné búduì, qǐng suànzhàng.","Số tiền trên hoá đơn không đúng, xin tính lại.",不对,4,发票 算账 金额
+01-E015,Giao dịch tiền,Câu theo từ,,这里可以扫码付钱吗？,Zhèlǐ kěyǐ sǎomǎ fùqián ma?,Ở đây có thể quét mã trả tiền không?,可以…吗？,4,付钱 扫码
+01-E016,Giao dịch tiền,Câu theo từ,,扫码以后剩下的钱是零钱。,Sǎomǎ yǐhòu shèngxià de qián shì língqián.,"Sau khi quét mã, tiền còn lại là tiền lẻ.",以后,4,剩下 扫码 零钱
+01-E017,Giao dịch tiền,Câu theo từ,,这里可以刷卡吗？,Zhèlǐ kěyǐ shuākǎ ma?,Ở đây có thể quẹt thẻ không?,可以…吗？,4,刷卡
+01-E018,Giao dịch tiền,Câu theo từ,,我不想刷卡，我用现金。,"Wǒ bù xiǎng shuākǎ, wǒ yòng xiànjīn.","Tôi không muốn quẹt thẻ, tôi dùng tiền mặt.",不想…,4,刷卡
+01-E019,Giao dịch tiền,Câu theo từ,,这个金额对吗？,Zhège jīné duì ma?,Số tiền này đúng không?,…对吗？,4,金额
+01-E020,Giao dịch tiền,Câu theo từ,,请写清楚付款金额。,Qǐng xiě qīngchu fùkuǎn jīné.,Vui lòng ghi rõ số tiền thanh toán.,请 + động từ + rõ,4,付款 金额
+01-E021,Giao dịch tiền,Câu theo từ,,服务费是多少？,Fúwùfèi shì duōshǎo?,Phí dịch vụ là bao nhiêu?,是多少？,4,服务费
+01-E022,Giao dịch tiền,Câu theo từ,,这个服务费太贵了。,Zhège fúwùfèi tài guì le.,Phí dịch vụ này đắt quá.,太…了,4,服务费
+01-E023,Giao dịch tiền,Câu theo từ,,一共五十万越南盾。,Yígòng wǔshíwàn yuènándùn.,Tổng cộng năm trăm nghìn đồng Việt Nam.,一共…,4,越南盾
+01-E024,Giao dịch tiền,Câu theo từ,,你有越南盾现金吗？,Nǐ yǒu yuènándùn xiànjīn ma?,Bạn có tiền mặt đồng Việt Nam không?,有…吗？,4,越南盾
+01-E025,Giao dịch tiền,Câu theo từ,,这个可以报销吗？,Zhège kěyǐ bàoxiāo ma?,Cái này có thể thanh toán lại không?,可以…吗？,4,报销
+01-E026,Giao dịch tiền,Câu theo từ,,记得拿发票去报销。,Jìde ná fāpiào qù bàoxiāo.,Nhớ lấy hóa đơn đi thanh toán lại.,记得 + động từ,4,发票 报销
+01-E027,Giao dịch tiền,Câu theo từ,,剩下的钱不用找了。,Shèngxià de qián búyòng zhǎo le.,Tiền còn lại không cần thối.,剩下的…,4,剩下
+01-E028,Giao dịch tiền,Câu theo từ,,付现金以后，剩下的钱不多了。,"Fù xiànjīn yǐhòu, shèngxià de qián bù duō le.","Sau khi trả tiền mặt, số tiền còn lại không nhiều.",以后，剩下的…,4,剩下
+01-E029,Giao dịch tiền,Câu theo từ,,请记录一下付款金额。,Qǐng jìlù yí xià fùkuǎn jīné.,Vui lòng ghi lại số tiền thanh toán.,động từ + 一下,4,付款 金额
+01-E030,Giao dịch tiền,Câu theo từ,,每笔钱都要有记录。,Měi bǐ qián dōu yào yǒu jìlù.,Mỗi khoản tiền đều phải có ghi chép.,每…都要…,3,
+01-E031,Giao dịch tiền,Câu theo từ,,月底我们一起算账。,Yuèdǐ wǒmen yìqǐ suànzhàng.,Cuối tháng chúng ta cùng tính sổ.,一起 + động từ,4,月底 算账
+01-E032,Giao dịch tiền,Câu theo từ,,月底要交收据和发票。,Yuèdǐ yào jiāo shōujù hé fāpiào.,Cuối tháng phải nộp biên lai và hóa đơn.,要 + động từ,4,发票 收据 月底
+01-E033,Giao dịch tiền,Câu theo từ,,月底我们一起算账吧。,Yuèdǐ wǒmen yìqǐ suànzhàng ba.,Cuối tháng chúng ta cùng tính sổ nhé.,一起 + động từ + 吧,4,月底 算账
+01-E034,Giao dịch tiền,Câu theo từ,,等一下，我要先算账。,"Děng yí xià, wǒ yào xiān suànzhàng.","Đợi một chút, tôi phải tính sổ trước đã.",先…再… (rút gọn: 先 + động từ),4,算账
+01-E035,Giao dịch tiền,Câu theo từ,,服务费是百分之十。,Fúwùfèi shì bǎifēnzhī shí.,Phí dịch vụ là mười phần trăm.,A 是 百分之 + số,4,服务费 百分之
+01-E036,Giao dịch tiền,Câu theo từ,,现金付款能少百分之五吗？,Xiànjīn fùkuǎn néng shǎo bǎifēnzhī wǔ ma?,Trả tiền mặt có bớt được năm phần trăm không?,能…吗？,4,付款 百分之
+02-S01,Chuyển khoản ngân hàng,Câu đơn,,请把你的银行账号发给我。,Qǐng bǎ nǐ de yínháng zhànghào fā gěi wǒ.,Gửi tôi số tài khoản ngân hàng của anh nhé.,把 + tân ngữ + 发给,4,账号
+02-S02,Chuyển khoản ngân hàng,Câu đơn,,我已经给你转账了。,Wǒ yǐjīng gěi nǐ zhuǎnzhàng le.,Tôi đã chuyển khoản cho anh rồi.,已经…了,4,转账
+02-S03,Chuyển khoản ngân hàng,Câu đơn,,钱到账了吗？,Qián dàozhàng le ma?,Tiền về tài khoản chưa?,…了吗？,4,到账
+02-S04,Chuyển khoản ngân hàng,Câu đơn,,我还没收到钱，请你再查一下。,"Wǒ hái méi shōudào qián, qǐng nǐ zài chá yí xià.","Tôi vẫn chưa nhận được tiền, anh kiểm tra lại giúp.",还没 + động từ,2,
+02-S05,Chuyển khoản ngân hàng,Câu đơn,,转账要手续费吗？,Zhuǎnzhàng yào shǒuxùfèi ma?,Chuyển khoản có mất phí không?,"要 = cần, mất",4,手续费 转账
+02-S06,Chuyển khoản ngân hàng,Câu đơn,,同一个银行转账不收手续费。,Tóngyí ge yínháng zhuǎnzhàng bù shōu shǒuxùfèi.,Chuyển cùng ngân hàng không thu phí.,不 + động từ,4,同一 手续费 转账
+02-S07,Chuyển khoản ngân hàng,Câu đơn,,我要去银行取钱。,Wǒ yào qù yínháng qǔqián.,Tôi phải đi ngân hàng rút tiền.,去 + nơi + việc,4,取钱
+02-S08,Chuyển khoản ngân hàng,Câu đơn,,我忘记密码了，怎么办？,"Wǒ wàngjì mìmǎ le, zěnmebàn?","Tôi quên mật khẩu rồi, làm sao đây?",怎么办？,4,密码
+02-S09,Chuyển khoản ngân hàng,Câu đơn,,一般第二天才能到账。,Yìbān dì'èr tiān cáinéng dàozhàng.,Thường thì hôm sau mới về tài khoản.,"才 (mới, muộn)",4,到账
+02-S10,Chuyển khoản ngân hàng,Câu đơn,,转完账以后，请给我发一张截图。,"Zhuǎn wán zhàng yǐhòu, qǐng gěi wǒ fā yì zhāng jiétú.",Chuyển xong thì gửi tôi ảnh chụp màn hình nhé.,động từ + 完 … 以后,4,截图 账
+02-S11,Chuyển khoản ngân hàng,Câu đơn,,请再说一遍账号，我记一下。,"Qǐng zài shuō yí biàn zhànghào, wǒ jì yí xià.","Đọc lại số tài khoản giúp tôi, tôi ghi lại.",再 + động từ + 一遍,4,账号
+02-S12,Chuyển khoản ngân hàng,Câu đơn,,收款人的名字是什么？,Shōukuǎnrén de míngzi shì shénme?,Tên người nhận là gì?,…是什么？,4,收款人
+02-S13,Chuyển khoản ngân hàng,Câu đơn,,你确认一下名字和账号对不对。,Nǐ quèrèn yí xià míngzi hé zhànghào duì búduì.,Anh xác nhận lại tên và số tài khoản có đúng không.,确认一下,4,确认 账号
+02-S14,Chuyển khoản ngân hàng,Câu đơn,,我想在这家银行开一个账户。,Wǒ xiǎng zài zhè jiā yínháng kāi yí ge zhànghù.,Tôi muốn mở một tài khoản ở ngân hàng này.,在 + nơi + động từ,4,账户
+02-S15,Chuyển khoản ngân hàng,Câu đơn,,开账户需要带护照或者身份证。,Kāi zhànghù xūyào dài hùzhào huòzhě shēnfènzhèng.,Mở tài khoản cần mang hộ chiếu hoặc căn cước.,A 或者 B,4,账户
+02-S16,Chuyển khoản ngân hàng,Câu đơn,,请先在这张表格上填写你的信息。,Qǐng xiān zài zhè zhāng biǎogé shàng tiánxiě nǐ de xìnxī.,Vui lòng điền thông tin của anh vào mẫu này trước.,在…上 + động từ,4,填写
+02-S17,Chuyển khoản ngân hàng,Câu đơn,,我的银行卡被机器吃了。,Wǒ de yínhángkǎ bèi jīqì chī le.,Thẻ ngân hàng của tôi bị máy nuốt rồi.,câu bị động 被,3,
+02-S18,Chuyển khoản ngân hàng,Câu đơn,,这张卡每天最多能取多少钱？,Zhè zhāng kǎ měi tiān zuì duō néng qǔ duōshǎo qián?,Thẻ này mỗi ngày rút tối đa được bao nhiêu?,最多 + 能,3,
+02-S19,Chuyển khoản ngân hàng,Câu đơn,,今天银行几点关门？,Jīntiān yínháng jǐ diǎn guān mén?,Hôm nay ngân hàng mấy giờ đóng cửa?,几点 + động từ,2,
+02-S20,Chuyển khoản ngân hàng,Câu đơn,,周末银行不办理这个业务。,Zhōumò yínháng bú bànlǐ zhège yèwù.,Cuối tuần ngân hàng không làm nghiệp vụ này.,不 + 办理,4,业务
+02-S21,Chuyển khoản ngân hàng,Câu đơn,,房租请转到房东的账户里。,Fángzū qǐng zhuǎn dào fángdōng de zhànghù lǐ.,Tiền thuê nhà xin chuyển vào tài khoản chủ nhà.,转到 + nơi,4,账户
+02-S22,Chuyển khoản ngân hàng,Câu đơn,,我每个月十号自动转账给房东。,Wǒ měi ge yuè shí hào zìdòng zhuǎnzhàng gěi fángdōng.,Ngày 10 hằng tháng tôi tự động chuyển khoản cho chủ nhà.,给 + người,4,转账
+02-S23,Chuyển khoản ngân hàng,Câu đơn,,手机上就可以转账，不用去银行。,"Shǒujī shàng jiù kěyǐ zhuǎnzhàng, búyòng qù yínháng.","Chuyển khoản ngay trên điện thoại, không cần ra ngân hàng.",不用 + động từ,4,转账
+02-S24,Chuyển khoản ngân hàng,Câu đơn,,这笔钱为什么还没到？,Zhè bǐ qián wèishénme hái méi dào?,Sao khoản tiền này vẫn chưa đến?,为什么 + 还没,2,
+02-S25,Chuyển khoản ngân hàng,Câu đơn,,可能是网络有问题，你等一会儿再看看。,"Kěnéng shì wǎngluò yǒu wèntí, nǐ děng yíhuìr zài kànkan.","Có thể mạng có vấn đề, chờ một lát rồi xem lại.",可能 + 是,4,网络
+02-S26,Chuyển khoản ngân hàng,Câu đơn,,转错账了怎么办？,Zhuǎn cuò zhàng le zěnmebàn?,Chuyển nhầm tài khoản thì làm sao?,động từ + 错,4,账
+02-S27,Chuyển khoản ngân hàng,Câu đơn,,你马上给银行打电话。,Nǐ mǎshàng gěi yínháng dǎdiànhuà.,Anh gọi ngay cho ngân hàng.,给 + người + 打电话,2,
+02-S28,Chuyển khoản ngân hàng,Câu đơn,,我的卡里只剩下五百块了。,Wǒ de kǎ lǐ zhǐ shèngxià wǔbǎi kuài le.,Thẻ tôi chỉ còn 500 tệ.,只剩下…了,4,剩下
+02-S29,Chuyển khoản ngân hàng,Câu đơn,,我想把钱存一年。,Wǒ xiǎng bǎ qián cún yī nián.,Tôi muốn gửi tiết kiệm số tiền này một năm.,把 + 钱 + 存 + thời gian,3,
+02-S30,Chuyển khoản ngân hàng,Câu đơn,,请保管好你的银行卡和密码。,Qǐng bǎoguǎn hǎo nǐ de yínhángkǎ hé mìmǎ.,Hãy giữ kỹ thẻ ngân hàng và mật khẩu của anh.,động từ + 好,4,保管 密码
+02-D1-1,Chuyển khoản ngân hàng,Hội thoại,A,钱我已经转过去了，你收到了吗？,"Qián wǒ yǐjīng zhuǎn guòqù le, nǐ shōudào le ma?","Tôi chuyển tiền qua rồi, anh nhận được chưa?",动词 + 过去,3,
+02-D1-2,Chuyển khoản ngân hàng,Hội thoại,B,还没有，我等一下再查查。,"Hái méiyǒu, wǒ děng yí xià zài chácha.","Chưa, lát nữa tôi kiểm tra lại.",等一下 + 再,2,
+02-D2-1,Chuyển khoản ngân hàng,Hội thoại,A,转账要多长时间到账？,Zhuǎnzhàng yào duōcháng shíjiān dàozhàng?,Chuyển khoản bao lâu thì về?,,4,到账 转账
+02-D2-2,Chuyển khoản ngân hàng,Hội thoại,B,同一个银行很快，别的银行可能要一天。,"Tóngyí ge yínháng hěn kuài, biéde yínháng kěnéng yào yì tiān.","Cùng ngân hàng thì nhanh, ngân hàng khác có thể mất một ngày.",可能 + 要,4,同一
+02-D3-1,Chuyển khoản ngân hàng,Hội thoại,A,你好，我想开一个账户。,"Nǐ hǎo, wǒ xiǎng kāi yí ge zhànghù.","Chào chị, tôi muốn mở một tài khoản.",,4,账户
+02-D3-2,Chuyển khoản ngân hàng,Hội thoại,B,好的，请给我您的护照，再填一下这张表。,"Hǎo de, qǐng gěi wǒ nín de hùzhào, zài tián yí xià zhè zhāng biǎo.","Vâng, anh đưa hộ chiếu, rồi điền giúp mẫu này.","再 = rồi, tiếp đó",4,填
+02-D4-1,Chuyển khoản ngân hàng,Hội thoại,A,我转错账了，能取消吗？,"Wǒ zhuǎn cuò zhàng le, néng qǔxiāo ma?","Tôi chuyển nhầm rồi, hủy được không?",动词 + 错,4,账
+02-D4-2,Chuyển khoản ngân hàng,Hội thoại,B,已经到账的话就不能取消，你要联系对方。,"Yǐjīng dàozhàng dehuà jiù bù néng qǔxiāo, nǐ yào liánxì duìfāng.","Nếu tiền đã đến thì không hủy được, anh phải liên hệ bên kia.",…的话,4,到账
+02-D5-1,Chuyển khoản ngân hàng,Hội thoại,A,请问账号是多少？,Qǐngwèn zhànghào shì duōshǎo?,Xin hỏi số tài khoản là bao nhiêu?,,4,账号
+02-D5-2,Chuyển khoản ngân hàng,Hội thoại,B,我发短信给你，这样不会写错。,"Wǒ fā duǎnxìn gěi nǐ, zhèyàng bú huì xiě cuò.","Tôi nhắn tin cho anh, như vậy không ghi sai.",这样 + 不会,2,
+02-E001,Chuyển khoản ngân hàng,Câu theo từ,,你转账以后请发截图给我。,Nǐ zhuǎnzhàng yǐhòu qǐng fā jiétú gěi wǒ.,Bạn chuyển khoản xong thì gửi ảnh chụp màn hình cho tôi nhé.,以后请…,4,截图 转账
+02-E002,Chuyển khoản ngân hàng,Câu theo từ,,请帮我转账到这个账号。,Qǐng bāng wǒ zhuǎnzhàng dào zhège zhànghào.,Xin giúp tôi chuyển khoản vào tài khoản này.,请帮我 + động từ,4,账号 转账
+02-E003,Chuyển khoản ngân hàng,Câu theo từ,,请再确认一下收款人的账号。,Qǐng zài quèrèn yí xià shōukuǎnrén de zhànghào.,Anh vui lòng kiểm tra lại số tài khoản người nhận.,一下,4,收款人 确认 账号
+02-E004,Chuyển khoản ngân hàng,Câu theo từ,,这个账号对不对？我看不清楚。,Zhège zhànghào duì búduì? Wǒ kàn bù qīngchu.,Số tài khoản này có đúng không? Tôi nhìn không rõ.,对不对,4,账号
+02-E005,Chuyển khoản ngân hàng,Câu theo từ,,我想开一个公司账户。,Wǒ xiǎng kāi yí ge gōngsī zhànghù.,Tôi muốn mở một tài khoản công ty.,开 + 一个 + tài khoản,4,账户
+02-E006,Chuyển khoản ngân hàng,Câu theo từ,,你的账户里还有钱吗？,Nǐ de zhànghù lǐ háiyǒu qián ma?,Trong tài khoản của bạn còn tiền không?,còn…吗,4,账户
+02-E007,Chuyển khoản ngân hàng,Câu theo từ,,钱已经到账了，你查一下。,"Qián yǐjīng dàozhàng le, nǐ chá yí xià.","Tiền đã về tài khoản rồi, bạn kiểm tra nhé.",已经…了,4,到账
+02-E008,Chuyển khoản ngân hàng,Câu theo từ,,转账什么时候能到账？,Zhuǎnzhàng shénme shíhou néng dàozhàng?,Chuyển khoản khi nào thì tiền về?,什么时候能…,4,到账 转账
+02-E009,Chuyển khoản ngân hàng,Câu theo từ,,这台机器不能取钱。,Zhè tái jīqì bù néng qǔqián.,Máy này không rút được tiền.,不能 + động từ,4,取钱
+02-E010,Chuyển khoản ngân hàng,Câu theo từ,,我想去银行取钱。,Wǒ xiǎng qù yínháng qǔqián.,Tôi muốn đến ngân hàng rút tiền.,想 + 去 + nơi + động từ,4,取钱
+02-E011,Chuyển khoản ngân hàng,Câu theo từ,,我想存钱到这个账户。,Wǒ xiǎng cúnqián dào zhège zhànghù.,Tôi muốn gửi tiền vào tài khoản này.,存钱到…,4,存钱 账户
+02-E012,Chuyển khoản ngân hàng,Câu theo từ,,你先存钱，再办业务。,"Nǐ xiān cúnqián, zài bàn yèwù.","Bạn gửi tiền trước, rồi làm thủ tục.",先…再…,4,业务 存钱
+02-E013,Chuyển khoản ngân hàng,Câu theo từ,,密码不对，请再输入一次。,"Mìmǎ búduì, qǐng zài shūrù yí cì.","Mật khẩu không đúng, vui lòng nhập lại một lần.",再 + động từ + 一次,4,密码
+02-E014,Chuyển khoản ngân hàng,Câu theo từ,,别忘了保管好你的密码。,Bié wàng le bǎoguǎn hǎo nǐ de mìmǎ.,Đừng quên giữ kỹ mật khẩu của bạn.,别忘了,4,保管 密码
+02-E015,Chuyển khoản ngân hàng,Câu theo từ,,转账要手续费吗？,Zhuǎnzhàng yào shǒuxùfèi ma?,Chuyển khoản có mất phí không?,要…吗,4,手续费 转账
+02-E016,Chuyển khoản ngân hàng,Câu theo từ,,请问这个业务有手续费吗？,Qǐngwèn zhège yèwù yǒu shǒuxùfèi ma?,Xin hỏi nghiệp vụ này có phí giao dịch không?,有…吗？,4,业务 手续费
+02-E017,Chuyển khoản ngân hàng,Câu theo từ,,请把转账截图发给我。,Qǐng bǎ zhuǎnzhàng jiétú fā gěi wǒ.,Vui lòng gửi ảnh chụp màn hình chuyển khoản cho tôi.,把 + tân ngữ + động từ,4,截图 转账
+02-E018,Chuyển khoản ngân hàng,Câu theo từ,,到账以后发截图确认一下。,Dàozhàng yǐhòu fā jiétú quèrèn yí xià.,Sau khi tiền vào tài khoản thì gửi ảnh chụp màn hình xác nhận nhé.,以后 + động từ,4,到账 截图 确认
+02-E019,Chuyển khoản ngân hàng,Câu theo từ,,收款人的账号你填对了吗？,Shōukuǎnrén de zhànghào nǐ tián duì le ma?,Bạn đã điền đúng số tài khoản người nhận tiền chưa?,对了吗？,4,填 收款人 账号
+02-E020,Chuyển khoản ngân hàng,Câu theo từ,,收款人名字要写全名。,Shōukuǎnrén míngzi yào xiě quán míng.,Tên người nhận tiền phải viết đầy đủ.,要 + động từ,4,收款人
+02-E021,Chuyển khoản ngân hàng,Câu theo từ,,请你再确认一下账号。,Qǐng nǐ zài quèrèn yí xià zhànghào.,Bạn hãy xác nhận lại số tài khoản một lần nữa.,再 + động từ + 一下,4,确认 账号
+02-E022,Chuyển khoản ngân hàng,Câu theo từ,,收到钱以后请确认。,Shōudào qián yǐhòu qǐng quèrèn.,Sau khi nhận được tiền thì vui lòng xác nhận.,以后 + 请,4,确认
+02-E023,Chuyển khoản ngân hàng,Câu theo từ,,请在这里填写收款人姓名。,Qǐng zài zhèlǐ tiánxiě shōukuǎnrén xìngmíng.,Vui lòng điền tên người nhận tiền ở đây.,在这里 + động từ,4,填写 收款人
+02-E024,Chuyển khoản ngân hàng,Câu theo từ,,表格填写好了就交给我。,Biǎogé tiánxiě hǎo le jiù jiāogěi wǒ.,Điền xong biểu mẫu thì đưa cho tôi.,好了就…,4,填写
+02-E025,Chuyển khoản ngân hàng,Câu theo từ,,我想办转账业务。,Wǒ xiǎng bàn zhuǎnzhàng yèwù.,Tôi muốn làm nghiệp vụ chuyển khoản.,办 + 业务,4,业务 转账
+02-E026,Chuyển khoản ngân hàng,Câu theo từ,,这个业务今天能办完吗？,Zhège yèwù jīntiān néng bàn wán ma?,Nghiệp vụ này hôm nay làm xong được không?,能…吗？,4,业务
+02-E027,Chuyển khoản ngân hàng,Câu theo từ,,钱会自动到账吗？,Qián huì zìdòng dàozhàng ma?,Tiền có tự động vào tài khoản không?,会 + 自动 + động từ + 吗？,4,到账
+02-E028,Chuyển khoản ngân hàng,Câu theo từ,,这个账户可以自动转账。,Zhège zhànghù kěyǐ zìdòng zhuǎnzhàng.,Tài khoản này có thể tự động chuyển khoản.,可以 + 自动 + động từ,4,账户 转账
+02-E029,Chuyển khoản ngân hàng,Câu theo từ,,密码要好好保管。,Mìmǎ yào hǎohǎo bǎoguǎn.,Mật khẩu phải giữ gìn cẩn thận.,要 + 好好 + động từ,4,保管 密码
+02-E030,Chuyển khoản ngân hàng,Câu theo từ,,截图请保管好，别给别人。,"Jiétú qǐng bǎoguǎn hǎo, bié gěi biéren.","Ảnh chụp màn hình hãy giữ cẩn thận, đừng đưa cho người khác.",别 + động từ + 给,4,保管 截图
+03-S01,Cho thuê bất động sản,Câu đơn,,这套房子一个月房租多少钱？,Zhè tào fángzi yí ge yuè fángzū duōshǎo qián?,Căn này tiền thuê một tháng bao nhiêu?,lượng từ 套,3,
+03-S02,Cho thuê bất động sản,Câu đơn,,押一付三，押金是一个月的房租。,"Yāyífùsān, yājīn shì yí ge yuè de fángzū.","Cọc một trả ba, tiền cọc bằng một tháng tiền thuê.",押一付三,4,押一付三 押金
+03-S03,Cho thuê bất động sản,Câu đơn,,你打算租多长时间？,Nǐ dǎsuàn zū duōcháng shíjiān?,Anh định thuê bao lâu?,打算 + động từ,2,
+03-S04,Cho thuê bất động sản,Câu đơn,,最少要租一年。,Zuì shǎo yào zū yī nián.,Tối thiểu phải thuê một năm.,最少 + 要,2,
+03-S05,Cho thuê bất động sản,Câu đơn,,水电费不包括在房租里。,Shuǐdiànfèi bù bāokuò zài fángzū lǐ.,Tiền điện nước không bao gồm trong tiền thuê.,包括 + 在…里,4,包括 水电费
+03-S06,Cho thuê bất động sản,Câu đơn,,如果你满意，我们明天就可以签合同。,"Rúguǒ nǐ mǎnyì, wǒmen míngtiān jiù kěyǐ qiānhétong.","Nếu anh hài lòng, mai mình ký hợp đồng luôn.",如果…就…,4,签合同
+03-S07,Cho thuê bất động sản,Câu đơn,,我什么时候可以搬进来？,Wǒ shénme shíhou kěyǐ bān jìnlái?,Khi nào tôi có thể dọn vào?,động từ + 进来,3,
+03-S08,Cho thuê bất động sản,Câu đơn,,房租每个月五号以前付。,Fángzū měi ge yuè wǔ hào yǐqián fù.,Tiền thuê trả trước ngày 5 hằng tháng.,…以前,3,
+03-S09,Cho thuê bất động sản,Câu đơn,,我想先看看房子，再决定。,"Wǒ xiǎng xiān kànkan fángzi, zài juédìng.",Tôi muốn xem nhà trước rồi mới quyết định.,先…再…,3,
+03-S10,Cho thuê bất động sản,Câu đơn,,这套房子现在还在出租吗？,Zhè tào fángzi xiànzài hái zài chūzū ma?,Căn này bây giờ còn cho thuê không?,还在 + động từ,2,
+03-S11,Cho thuê bất động sản,Câu đơn,,我想租一套离公司近的房子。,Wǒ xiǎng zū yí tào lí gōngsī jìn de fángzi.,Tôi muốn thuê một căn gần công ty.,离…近 + 的 + danh từ,2,
+03-S12,Cho thuê bất động sản,Câu đơn,,我的预算是每个月一万块以内。,Wǒ de yùsuàn shì měi ge yuè yíwàn kuài yǐnèi.,Ngân sách của tôi là trong vòng 10.000 tệ mỗi tháng.,…以内,4,以内 预算
+03-S13,Cho thuê bất động sản,Câu đơn,,房东要求先交三个月的房租。,Fángdōng yāoqiú xiān jiāo sān ge yuè de fángzū.,Chủ nhà yêu cầu nộp trước ba tháng tiền thuê.,要求 + 先,3,
+03-S14,Cho thuê bất động sản,Câu đơn,,合同到期以后，押金会全部退给你。,"Hétong dàoqī yǐhòu, yājīn huì quánbù tuì gěi nǐ.","Hết hạn hợp đồng, tiền cọc sẽ trả lại anh toàn bộ.",会 + động từ (sẽ),4,到期 合同 押金
+03-S15,Cho thuê bất động sản,Câu đơn,,如果提前退租，押金就不退了。,"Rúguǒ tíqián tuìzū, yājīn jiù bú tuì le.",Nếu trả nhà trước hạn thì không hoàn cọc.,如果…就…了,4,押金 退租
+03-S16,Cho thuê bất động sản,Câu đơn,,可以养宠物吗？,Kěyǐ yǎng chǒngwù ma?,Có được nuôi thú cưng không?,可以 + động từ + 吗,4,宠物
+03-S17,Cho thuê bất động sản,Câu đơn,,房东说不能养猫和狗。,Fángdōng shuō bù néng yǎng māo hé gǒu.,Chủ nhà nói không được nuôi chó mèo.,说 + mệnh đề,3,
+03-S18,Cho thuê bất động sản,Câu đơn,,这个价格包括物业费和网费。,Zhège jiàgé bāokuò wùyèfèi hé wǎngfèi.,Giá này đã gồm phí quản lý và tiền mạng.,包括,4,包括 物业费 网费
+03-S19,Cho thuê bất động sản,Câu đơn,,我们公司想租一层办公室。,Wǒmen gōngsī xiǎng zū yì céng bàngōngshì.,Công ty chúng tôi muốn thuê một tầng văn phòng.,量词 层,2,
+03-S20,Cho thuê bất động sản,Câu đơn,,租金每年会涨百分之五。,Zūjīn měi nián huì zhǎng bǎifēnzhī wǔ.,Tiền thuê mỗi năm sẽ tăng 5%.,涨 + 百分之,4,涨 百分之 租金
+03-S21,Cho thuê bất động sản,Câu đơn,,合同上写得很清楚。,Hétong shàng xiě dé hěn qīngchu.,Trong hợp đồng ghi rất rõ.,动词 + 得 + 很 + tính từ,4,合同
+03-S22,Cho thuê bất động sản,Câu đơn,,签合同的时候要带身份证。,Qiānhétong de shíhou yào dài shēnfènzhèng.,Khi ký hợp đồng phải mang căn cước.,…的时候,4,签合同
+03-S23,Cho thuê bất động sản,Câu đơn,,房子里的家具都可以用。,Fángzi lǐ de jiājù dōu kěyǐ yòng.,Đồ nội thất trong nhà đều dùng được.,都 + 可以,3,
+03-S24,Cho thuê bất động sản,Câu đơn,,这里的房子很好租，下个月可能就没有了。,"Zhèlǐ de fángzi hěn hǎo zū, xià ge yuè kěnéng jiù méiyǒu le.","Nhà ở đây dễ cho thuê lắm, tháng sau có thể hết rồi.",很好 + động từ (dễ…),2,
+03-S25,Cho thuê bất động sản,Câu đơn,,我们是直接跟房东签，没有中介费。,"Wǒmen shì zhíjiē gēn fángdōng qiān, méiyǒu zhōngjièfèi.","Mình ký trực tiếp với chủ nhà, không có phí môi giới.",跟 + người + động từ,4,中介费 签
+03-S26,Cho thuê bất động sản,Câu đơn,,中介费是一个月的房租。,Zhōngjièfèi shì yí ge yuè de fángzū.,Phí môi giới bằng một tháng tiền thuê.,是 + số lượng,4,中介费
+03-S27,Cho thuê bất động sản,Câu đơn,,您需要什么样的房子？,Nín xūyào shénmeyàng de fángzi?,Anh cần nhà như thế nào?,什么样的 + danh từ,3,
+03-S28,Cho thuê bất động sản,Câu đơn,,我需要两个卧室，最好有阳台。,"Wǒ xūyào liǎng ge wòshì, zuìhǎo yǒu yángtái.","Tôi cần hai phòng ngủ, tốt nhất có ban công.",最好 + động từ,4,卧室 阳台
+03-S29,Cho thuê bất động sản,Câu đơn,,看房要提前一天预约。,Kànfáng yào tíqián yì tiān yùyuē.,Xem nhà phải hẹn trước một ngày.,提前 + thời gian + động từ,4,看房 预约
+03-S30,Cho thuê bất động sản,Câu đơn,,这个房子我很喜欢，就租这套吧。,"Zhège fángzi wǒ hěn xǐhuan, jiù zū zhè tào ba.","Căn này tôi rất thích, thuê căn này luôn nhé.",就…吧 (quyết định),2,
+03-D1-1,Cho thuê bất động sản,Hội thoại,A,这套公寓还在出租吗？,Zhè tào gōngyù hái zài chūzū ma?,Căn hộ này còn cho thuê không?,,4,公寓
+03-D1-2,Cho thuê bất động sản,Hội thoại,B,还在。您什么时候方便来看房？,Hái zài. Nín shénme shíhou fāngbiàn lái kànfáng?,Vẫn còn. Khi nào anh tiện qua xem nhà?,什么时候 + 方便,4,看房
+03-D2-1,Cho thuê bất động sản,Hội thoại,A,房租多少钱一个月？,Fángzū duōshǎo qián yí ge yuè?,Tiền thuê bao nhiêu một tháng?,,3,
+03-D2-2,Cho thuê bất động sản,Hội thoại,B,八千五，押一付三，水电另算。,"Bāqiānwǔ, yāyífùsān, shuǐ diàn lìngsuàn.","8.500, cọc một trả ba, điện nước tính riêng.",另 + động từ,4,另算 押一付三
+03-D3-1,Cho thuê bất động sản,Hội thoại,A,最少要租多长时间？,Zuì shǎo yào zū duōcháng shíjiān?,Tối thiểu thuê bao lâu?,,2,
+03-D3-2,Cho thuê bất động sản,Hội thoại,B,最少半年，租一年的话可以便宜一点儿。,"Zuì shǎo bànnián, zū yī nián dehuà kěyǐ piányi yīdiǎnr.","Ít nhất nửa năm, thuê một năm thì rẻ hơn chút.",…的话,2,
+03-D4-1,Cho thuê bất động sản,Hội thoại,A,如果我提前搬走，押金能退吗？,"Rúguǒ wǒ tíqián bānzǒu, yājīn néng tuì ma?","Nếu tôi dọn đi trước hạn, có hoàn cọc không?",,4,押金 搬走
+03-D4-2,Cho thuê bất động sản,Hội thoại,B,提前一个月通知房东，押金就可以退。,"Tíqián yí ge yuè tōngzhī fángdōng, yājīn jiù kěyǐ tuì.",Báo chủ nhà trước một tháng thì được hoàn cọc.,就 (thì),4,押金
+03-D5-1,Cho thuê bất động sản,Hội thoại,A,合同什么时候签？,Hétong shénme shíhou qiān?,Khi nào ký hợp đồng?,,4,合同 签
+03-D5-2,Cho thuê bất động sản,Hội thoại,B,您明天上午带身份证过来就行。,Nín míngtiān shàngwǔ dài shēnfènzhèng guòlái jiù xíng.,Sáng mai anh mang căn cước qua là được.,就行,3,
+03-E001,Cho thuê bất động sản,Câu theo từ,,这个月的房租多少钱？,Zhège yuè de fángzū duōshǎo qián?,Tiền thuê nhà tháng này bao nhiêu tiền?,多少钱,3,
+03-E002,Cho thuê bất động sản,Câu theo từ,,房租太贵了，我预算不够。,"Fángzū tài guì le, wǒ yùsuàn búgòu.","Tiền thuê nhà đắt quá, ngân sách của tôi không đủ.",太…了,4,预算
+03-E003,Cho thuê bất động sản,Câu theo từ,,房东说房租不能少。,Fángdōng shuō fángzū bù néng shǎo.,Chủ nhà nói tiền thuê không thể giảm.,说 + 从句,3,
+03-E004,Cho thuê bất động sản,Câu theo từ,,你什么时候见房东？,Nǐ shénme shíhou jiàn fángdōng?,Khi nào bạn gặp chủ nhà?,什么时候,3,
+03-E005,Cho thuê bất động sản,Câu theo từ,,押金什么时候退给我？,Yājīn shénme shíhou tuì gěi wǒ?,Khi nào thì trả lại tiền cọc cho tôi?,什么时候,4,押金
+03-E006,Cho thuê bất động sản,Câu theo từ,,退租以后房东退押金。,Tuìzū yǐhòu fángdōng tuì yājīn.,"Sau khi trả nhà, chủ nhà trả lại tiền cọc.",以后,4,押金 退租
+03-E007,Cho thuê bất động sản,Câu theo từ,,这里都是押一付三吗？,Zhèlǐ dōu shì yāyífùsān ma?,Ở đây đều là cọc một trả ba phải không?,都是…吗,4,押一付三
+03-E008,Cho thuê bất động sản,Câu theo từ,,押一付三，我钱不够。,"Yāyífùsān, wǒ qián búgòu.","Cọc một trả ba, tôi không đủ tiền.",钱不够,4,押一付三
+03-E009,Cho thuê bất động sản,Câu theo từ,,合同上写了什么？,Hétong shàng xiě le shénme?,Trên hợp đồng ghi những gì?,上写了,4,合同
+03-E010,Cho thuê bất động sản,Câu theo từ,,我想先看一下合同。,Wǒ xiǎng xiān kàn yí xià hétong.,Tôi muốn xem hợp đồng trước một chút.,先…一下,4,合同
+03-E011,Cho thuê bất động sản,Câu theo từ,,我们明天下午签合同。,Wǒmen míngtiān xiàwǔ qiānhétong.,Chiều mai chúng ta ký hợp đồng.,时间 + 动作,4,签合同
+03-E012,Cho thuê bất động sản,Câu theo từ,,看房以后可以签合同吗？,Kànfáng yǐhòu kěyǐ qiānhétong ma?,Sau khi xem nhà có thể ký hợp đồng không?,以后可以…吗,4,看房 签合同
+03-E013,Cho thuê bất động sản,Câu theo từ,,房租包括水电费吗？,Fángzū bāokuò shuǐdiànfèi ma?,Tiền thuê nhà có bao gồm tiền điện nước không?,包括…吗,4,包括 水电费
+03-E014,Cho thuê bất động sản,Câu theo từ,,这个价格包括物业费。,Zhège jiàgé bāokuò wùyèfèi.,Giá này bao gồm phí quản lý.,包括,4,包括 物业费
+03-E015,Cho thuê bất động sản,Câu theo từ,,水电费另算，一个月两百。,"Shuǐdiànfèi lìngsuàn, yí ge yuè liǎngbǎi.","Tiền điện nước tính riêng, một tháng hai trăm.",另算,4,另算 水电费
+03-E016,Cho thuê bất động sản,Câu theo từ,,水电费怎么交？,Shuǐdiànfèi zěnme jiāo?,Tiền điện nước nộp thế nào?,怎么 + 动词,4,水电费
+03-E017,Cho thuê bất động sản,Câu theo từ,,物业费一个月多少钱？,Wùyèfèi yí ge yuè duōshǎo qián?,Phí quản lý một tháng bao nhiêu tiền?,多少钱 (bao nhiêu tiền),4,物业费
+03-E018,Cho thuê bất động sản,Câu theo từ,,物业费包括在房租里吗？,Wùyèfèi bāokuò zài fángzū lǐ ma?,Phí quản lý có bao gồm trong tiền thuê nhà không?,包括在…里 (bao gồm trong…),4,包括 物业费
+03-E019,Cho thuê bất động sản,Câu theo từ,,网费另算，一个月五十。,"Wǎngfèi lìngsuàn, yí ge yuè wǔshí.","Tiền mạng tính riêng, một tháng năm mươi.",另算 (tính riêng),4,另算 网费
+03-E020,Cho thuê bất động sản,Câu theo từ,,房租里包括网费吗？,Fángzū lǐ bāokuò wǎngfèi ma?,Tiền nhà có bao gồm tiền mạng không?,包括 (bao gồm),4,包括 网费
+03-E021,Cho thuê bất động sản,Câu theo từ,,我想下个月退租。,Wǒ xiǎng xià ge yuè tuìzū.,Tôi muốn trả nhà vào tháng sau.,想 + 动词 (muốn làm gì),4,退租
+03-E022,Cho thuê bất động sản,Câu theo từ,,退租要提前一个月说。,Tuìzū yào tíqián yí ge yuè shuō.,Trả nhà phải báo trước một tháng.,要 + 动词 (phải làm gì),4,退租
+03-E023,Cho thuê bất động sản,Câu theo từ,,合同什么时候到期？,Hétong shénme shíhou dàoqī?,Hợp đồng hết hạn khi nào?,什么时候 (khi nào),4,到期 合同
+03-E024,Cho thuê bất động sản,Câu theo từ,,合同下个月到期。,Hétong xià ge yuè dàoqī.,Hợp đồng hết hạn vào tháng sau.,时间词 + 到期,4,到期 合同
+03-E025,Cho thuê bất động sản,Câu theo từ,,我的预算三千以内。,Wǒ de yùsuàn sānqiān yǐnèi.,Ngân sách của tôi trong vòng ba nghìn.,以内 (trong vòng),4,以内 预算
+03-E026,Cho thuê bất động sản,Câu theo từ,,我的预算不太高，能看便宜点的吗？,"Wǒ de yùsuàn bútài gāo, néng kàn piányi diǎn de ma?","Ngân sách của tôi không cao lắm, xem căn rẻ hơn được không?",能…吗？,4,预算
+03-E027,Cho thuê bất động sản,Câu theo từ,,预算两千五以内可以吗？,Yùsuàn liǎngqiānwǔ yǐnèi kěyǐ ma?,Ngân sách trong vòng hai nghìn năm trăm được không?,以内 (trong vòng),4,以内 预算
+03-E028,Cho thuê bất động sản,Câu theo từ,,我想找三千以内的房子。,Wǒ xiǎng zhǎo sānqiān yǐnèi de fángzi.,Tôi muốn tìm nhà trong vòng ba nghìn.,找 + 数量 + 以内的,4,以内
+03-E029,Cho thuê bất động sản,Câu theo từ,,这个中介很专业。,Zhège zhōngjiè hěn zhuānyè.,Môi giới này rất chuyên nghiệp.,很 + 形容词 (rất…),4,中介
+03-E030,Cho thuê bất động sản,Câu theo từ,,你找中介看房了吗？,Nǐ zhǎo zhōngjiè kànfáng le ma?,Bạn đã nhờ môi giới đi xem nhà chưa?,了吗 (hỏi hoàn thành),4,中介 看房
+03-E031,Cho thuê bất động sản,Câu theo từ,,中介费要多少？,Zhōngjièfèi yào duōshǎo?,Phí môi giới là bao nhiêu?,要多少 (bao nhiêu),4,中介费
+03-E032,Cho thuê bất động sản,Câu theo từ,,中介费是一个月房租。,Zhōngjièfèi shì yí ge yuè fángzū.,Phí môi giới là một tháng tiền nhà.,是 + 数量 (là…),4,中介费
+03-E033,Cho thuê bất động sản,Câu theo từ,,房东说这里不能养宠物。,Fángdōng shuō zhèlǐ bù néng yǎng chǒngwù.,Chủ nhà nói ở đây không được nuôi thú cưng.,不能 + động từ,4,宠物
+03-E034,Cho thuê bất động sản,Câu theo từ,,合同里写了可以养宠物吗？,Hétong lǐ xiě le kěyǐ yǎng chǒngwù ma?,Trong hợp đồng có ghi là được nuôi thú cưng không?,里写了…吗？,4,合同 宠物
+03-E035,Cho thuê bất động sản,Câu theo từ,,这个房子的租金是多少？,Zhège fángzi de zūjīn shì duōshǎo?,Tiền thuê của căn nhà này là bao nhiêu?,是多少？,4,租金
+03-E036,Cho thuê bất động sản,Câu theo từ,,租金包括物业费吗？,Zūjīn bāokuò wùyèfèi ma?,Tiền thuê có bao gồm phí quản lý không?,包括…吗？,4,包括 物业费 租金
+03-E037,Cho thuê bất động sản,Câu theo từ,,房东说明年房租要涨。,Fángdōng shuōmíng nián fángzū yào zhǎng.,Chủ nhà nói sang năm tiền nhà sẽ tăng.,要 + động từ,4,涨
+03-E038,Cho thuê bất động sản,Câu theo từ,,租金涨得太多，我预算不够。,"Zūjīn zhǎng dé tài duō, wǒ yùsuàn búgòu.","Tiền thuê tăng nhiều quá, ngân sách của tôi không đủ.",…得太多,4,涨 租金 预算
+03-E039,Cho thuê bất động sản,Câu theo từ,,我想明天下午看房，可以吗？,"Wǒ xiǎng míngtiān xiàwǔ kànfáng, kěyǐ ma?","Tôi muốn xem nhà chiều mai, được không?",想 + động từ + 可以吗？,4,看房
+03-E040,Cho thuê bất động sản,Câu theo từ,,看房以前要先交钱吗？,Kànfáng yǐqián yào xiān jiāo qián ma?,Trước khi xem nhà có phải nộp tiền trước không?,以前要…吗？,4,看房
+03-E041,Cho thuê bất động sản,Câu theo từ,,看房要提前预约吗？,Kànfáng yào tíqián yùyuē ma?,Xem nhà có phải đặt hẹn trước không?,要…吗？,4,看房 预约
+03-E042,Cho thuê bất động sản,Câu theo từ,,我跟中介预约了周六看房。,Wǒ gēn zhōngjiè yùyuē le zhōu liù kànfáng.,Tôi đã đặt hẹn với môi giới xem nhà thứ Bảy.,跟…预约了…,4,中介 看房 预约
+03-E043,Cho thuê bất động sản,Câu theo từ,,水电费和网费另算。,Shuǐdiànfèi hé wǎngfèi lìngsuàn.,Tiền điện nước và tiền mạng tính riêng.,A和B另算,4,另算 水电费 网费
+03-E044,Cho thuê bất động sản,Câu theo từ,,中介费另算，不在租金里。,"Zhōngjièfèi lìngsuàn, bú zài zūjīn lǐ.","Phí môi giới tính riêng, không nằm trong tiền thuê.",不在…里,4,中介费 另算 租金
+04-S01,Văn phòng,Câu đơn,,这个办公室有多大？,Zhège bàngōngshì yǒu duō dà?,Văn phòng này rộng bao nhiêu?,有多 + tính từ？,2,
+04-S02,Văn phòng,Câu đơn,,办公室一共一百二十平方米。,Bàngōngshì yígòng yìbǎi'èrshí píngfāngmǐ.,Văn phòng tổng cộng 120 mét vuông.,一共 + số,4,平方米
+04-S03,Văn phòng,Câu đơn,,这里可以放二十个工位。,Zhèlǐ kěyǐ fàng èrshí ge gōngwèi.,Ở đây đặt được 20 chỗ làm việc.,可以 + động từ,4,工位
+04-S04,Văn phòng,Câu đơn,,经理正在开会，请等一下。,"Jīnglǐ zhèngzài kāihuì, qǐng děng yí xià.","Giám đốc đang họp, xin chờ một chút.",正在 + động từ,2,
+04-S05,Văn phòng,Câu đơn,,我们公司九点上班，六点下班。,"Wǒmen gōngsī jiǔ diǎn shàngbān, liù diǎn xiàbān.","Công ty chúng tôi 9 giờ vào làm, 6 giờ tan làm.",giờ + động từ,2,
+04-S06,Văn phòng,Câu đơn,,这个办公室又安静又干净。,Zhège bàngōngshì yòu ānjìng yòu gānjìng.,Văn phòng này vừa yên tĩnh vừa sạch sẽ.,又…又…,2,
+04-S07,Văn phòng,Câu đơn,,会议室在三楼。,Huìyìshì zài sān lóu.,Phòng họp ở tầng 3.,在 + nơi,4,会议室
+04-S08,Văn phòng,Câu đơn,,办公室里有桌子、椅子和空调。,"Bàngōngshì lǐ yǒu zhuōzi, yǐzi hé kōngtiáo.","Trong văn phòng có bàn, ghế và máy lạnh.",nơi + 有 + vật,3,
+04-S09,Văn phòng,Câu đơn,,周末可以来办公室加班吗？,Zhōumò kěyǐ lái bàngōngshì jiābān ma?,Cuối tuần có thể đến văn phòng làm thêm không?,来 + nơi + việc,4,加班
+04-S10,Văn phòng,Câu đơn,,请问人事部在哪儿？,Qǐngwèn rénshìbù zài nǎr?,Xin hỏi phòng nhân sự ở đâu?,在哪儿？,4,人事部
+04-S11,Văn phòng,Câu đơn,,这个会议室能坐二十个人。,Zhège huìyìshì néng zuò èrshí gerén.,Phòng họp này ngồi được 20 người.,能 + động từ + số lượng,4,会议室
+04-S12,Văn phòng,Câu đơn,,下午两点在大会议室开会。,Xiàwǔ liǎng diǎn zài dà huìyìshì kāihuì.,2 giờ chiều họp ở phòng họp lớn.,thời gian + 在 + nơi + việc,4,会议室
+04-S13,Văn phòng,Câu đơn,,开会以前请把材料打印好。,Kāihuì yǐqián qǐng bǎ cáiliào dǎyìn hǎo.,Trước khi họp hãy in sẵn tài liệu.,把 + vật + động từ + 好,4,材料
+04-S14,Văn phòng,Câu đơn,,打印机在办公室的后面。,Dǎyìnjī zài bàngōngshì de hòumiàn.,Máy in ở phía sau văn phòng.,…的后面,4,打印机
+04-S15,Văn phòng,Câu đơn,,我的电脑放在哪张桌子上？,Wǒ de diànnǎo fàng zài nǎ zhāng zhuōzi shàng?,Máy tính của tôi đặt trên bàn nào?,放在…上,3,
+04-S16,Văn phòng,Câu đơn,,这是你的工位，旁边是小王。,"Zhè shì nǐ de gōngwèi, pángbiān shì xiǎo wáng.","Đây là chỗ ngồi của bạn, bên cạnh là Tiểu Vương.",旁边是…,4,工位 王
+04-S17,Văn phòng,Câu đơn,,办公室的网络密码是多少？,Bàngōngshì de wǎngluò mìmǎ shì duōshǎo?,Mật khẩu mạng của văn phòng là gì?,是多少？,4,密码 网络
+04-S18,Văn phòng,Câu đơn,,请大家下班以前关好空调和灯。,Qǐng dàjiā xiàbān yǐqián guān hǎo kōngtiáo hé dēng.,Mọi người tắt máy lạnh và đèn trước khi về nhé.,动词 + 好,3,
+04-S19,Văn phòng,Câu đơn,,我们需要一个能坐十个人的办公室。,Wǒmen xūyào yí ge néng zuò shí gerén de bàngōngshì.,Chúng tôi cần một văn phòng ngồi được 10 người.,能 + V 的 + danh từ,3,
+04-S20,Văn phòng,Câu đơn,,这个办公室阳光很好，很亮。,"Zhège bàngōngshì yángguāng hěn hǎo, hěn liàng.","Văn phòng này nhiều nắng, rất sáng.",很 + tính từ,3,
+04-S21,Văn phòng,Câu đơn,,办公室里不能抽烟。,Bàngōngshì lǐ bù néng chōuyān.,Trong văn phòng không được hút thuốc.,不能 + động từ,4,抽烟
+04-S22,Văn phòng,Câu đơn,,新同事下周一来报到。,Xīn tóngshì xiàzhōu yì lái bàodào.,Đồng nghiệp mới thứ hai tuần sau đến nhận việc.,来 + 报到,3,
+04-S23,Văn phòng,Câu đơn,,经理让我把这个文件发给大家。,Jīnglǐ ràng wǒ bǎ zhège wénjiàn fā gěi dàjiā.,Giám đốc bảo tôi gửi tài liệu này cho mọi người.,让 + người + làm gì,3,
+04-S24,Văn phòng,Câu đơn,,我今天要早点儿下班，有事情。,"Wǒ jīntiān yào zǎodiǎnr xiàbān, yǒu shìqing.","Hôm nay tôi phải về sớm một chút, có việc.",早点儿 + động từ,2,
+04-S25,Văn phòng,Câu đơn,,这个月我们部门要招三个人。,Zhège yuè wǒmen bùmén yào zhāo sān gerén.,Tháng này bộ phận chúng tôi cần tuyển ba người.,要 + động từ,4,招
+04-S26,Văn phòng,Câu đơn,,请你安排一下明天的会议。,Qǐng nǐ ānpái yí xià míngtiān de huìyì.,Anh sắp xếp giúp cuộc họp ngày mai.,安排一下,3,
+04-S27,Văn phòng,Câu đơn,,会议改到下午三点了。,Huìyì gǎi dào xiàwǔ sān diǎn le.,Cuộc họp đổi sang 3 giờ chiều rồi.,改到 + thời gian,3,
+04-S28,Văn phòng,Câu đơn,,办公室每天晚上都有人打扫。,Bàngōngshì měi tiān wǎnshang dōu yǒurén dǎsǎo.,Tối nào văn phòng cũng có người dọn dẹp.,每天…都…,4,打扫
+04-S29,Văn phòng,Câu đơn,,这里离客户的公司比较近。,Zhèlǐ lí kèhù de gōngsī bǐjiào jìn.,Ở đây tương đối gần công ty khách hàng.,离…比较近,4,客户
+04-S30,Văn phòng,Câu đơn,,我们打算明年换一个更大的办公室。,Wǒmen dǎsuàn míngnián huàn yí ge gèng dà de bàngōngshì.,Năm sau chúng tôi định đổi văn phòng lớn hơn.,更 + tính từ,2,
+04-D1-1,Văn phòng,Hội thoại,A,请问王经理在吗？,Qǐngwèn wáng jīnglǐ zài ma?,Xin hỏi giám đốc Vương có ở đây không?,,4,王
+04-D1-2,Văn phòng,Hội thoại,B,他正在开会，您可以等十分钟吗？,"Tā zhèngzài kāihuì, nín kěyǐ děng shí fēnzhōng ma?","Anh ấy đang họp, anh chờ 10 phút được không?",正在 + động từ,2,
+04-D2-1,Văn phòng,Hội thoại,A,会议室现在有人用吗？,Huìyìshì xiànzài yǒurén yòng ma?,Phòng họp bây giờ có ai dùng không?,,4,会议室
+04-D2-2,Văn phòng,Hội thoại,B,有，三点以后就空了。,"Yǒu, sān diǎn yǐhòu jiù kōng le.","Có, sau 3 giờ thì trống.",以后 + 就,3,
+04-D3-1,Văn phòng,Hội thoại,A,这台打印机怎么用？,Zhè tái dǎyìnjī zěnme yòng?,Máy in này dùng thế nào?,,4,打印机
+04-D3-2,Văn phòng,Hội thoại,B,先把电脑连上网络，再按这个键。,"Xiān bǎ diànnǎo liánshàng wǎngluò, zài àn zhège jiàn.","Kết nối máy tính vào mạng trước, rồi bấm nút này.",先…再…,4,网络 连上 键
+04-D4-1,Văn phòng,Hội thoại,A,我的工位在哪儿？,Wǒ de gōngwèi zài nǎr?,Chỗ ngồi của tôi ở đâu?,,4,工位
+04-D4-2,Văn phòng,Hội thoại,B,在窗户旁边，第二张桌子。,"Zài chuānghu pángbiān, dì'èr zhāng zhuōzi.","Cạnh cửa sổ, cái bàn thứ hai.",第 + số,4,窗户
+04-D5-1,Văn phòng,Hội thoại,A,明天的会议几点开始？,Míngtiān de huìyì jǐ diǎn kāishǐ?,Cuộc họp ngày mai mấy giờ bắt đầu?,,3,
+04-D5-2,Văn phòng,Hội thoại,B,上午九点半，请大家不要迟到。,"Shàngwǔ jiǔ diǎn bàn, qǐng dàjiā búyào chídào.","9 giờ rưỡi sáng, mọi người đừng đến trễ.",不要 + động từ,4,迟到
+04-E001,Văn phòng,Câu theo từ,,我的工位在会议室旁边。,Wǒ de gōngwèi zài huìyìshì pángbiān.,Chỗ ngồi làm việc của tôi ở cạnh phòng họp.,在…旁边,4,会议室 工位
+04-E002,Văn phòng,Câu theo từ,,你帮我打扫一下工位吧。,Nǐ bāng wǒ dǎsǎo yí xià gōngwèi ba.,Bạn giúp tôi dọn chỗ ngồi làm việc một chút nhé.,động từ + 一下,4,工位 打扫
+04-E003,Văn phòng,Câu theo từ,,这个办公楼有多少平方米？,Zhège bàngōnglóu yǒu duōshǎo píngfāngmǐ?,Tòa nhà văn phòng này rộng bao nhiêu mét vuông?,多少 + 平方米,4,办公楼 平方米
+04-E004,Văn phòng,Câu theo từ,,办公室只有二十平方米。,Bàngōngshì zhǐyǒu èrshí píngfāngmǐ.,Văn phòng chỉ có hai mươi mét vuông.,只有…,4,平方米
+04-E005,Văn phòng,Câu theo từ,,会议室在网络那边。,Huìyìshì zài wǎngluò nàbian.,Phòng họp ở phía bên kia mạng.,在…那边,4,会议室 网络
+04-E006,Văn phòng,Câu theo từ,,客户在会议室等你。,Kèhù zài huìyìshì děng nǐ.,Khách hàng đang đợi bạn ở phòng họp.,在 + địa điểm + 等,4,会议室 客户
+04-E007,Văn phòng,Câu theo từ,,人事部在二楼。,Rénshìbù zài èr lóu.,Phòng nhân sự ở tầng hai.,在 + số tầng,4,人事部
+04-E008,Văn phòng,Câu theo từ,,你去人事部拿材料吧。,Nǐ qù rénshìbù ná cáiliào ba.,Bạn đến phòng nhân sự lấy tài liệu đi.,去 + địa điểm + 拿,4,人事部 材料
+04-E009,Văn phòng,Câu theo từ,,今天我要加班到九点。,Jīntiān wǒ yào jiābān dào jiǔ diǎn.,Hôm nay tôi phải làm thêm giờ đến chín giờ.,加班到…,4,加班
+04-E010,Văn phòng,Câu theo từ,,你为什么总是加班？,Nǐ wèishénme zǒngshì jiābān?,Tại sao bạn lúc nào cũng làm thêm giờ?,为什么…？,4,加班
+04-E011,Văn phòng,Câu theo từ,,下班以后我们一起去吃饭吧。,Xiàbān yǐhòu wǒmen yìqǐ qù chīfàn ba.,Sau khi tan làm chúng ta cùng đi ăn nhé.,以后…吧,2,
+04-E012,Văn phòng,Câu theo từ,,他五点下班，你呢？,"Tā wǔ diǎn xiàbān, nǐ ne?","Anh ấy tan làm lúc năm giờ, còn bạn?",…呢？,1,
+04-E013,Văn phòng,Câu theo từ,,这些材料请给客户。,Zhèxiē cáiliào qǐng gěi kèhù.,Tài liệu này xin đưa cho khách hàng.,请 + động từ,4,客户 材料
+04-E014,Văn phòng,Câu theo từ,,材料在打印机上。,Cáiliào zài dǎyìnjī shàng.,Tài liệu ở trên máy in.,在…上,4,打印机 材料
+04-E015,Văn phòng,Câu theo từ,,打印机连上网了吗？,Dǎyìnjī liánshàng wǎng le ma?,Máy in đã kết nối mạng chưa?,…了吗？,4,打印机 连上
+04-E016,Văn phòng,Câu theo từ,,这个打印机不能用。,Zhège dǎyìnjī bù néng yòng.,Máy in này không dùng được.,不能用,4,打印机
+04-E017,Văn phòng,Câu theo từ,,会议室网络不好，我们换地方吧。,"Huìyìshì wǎngluò bù hǎo, wǒmen huàn dìfāng ba.","Mạng ở phòng họp không tốt, mình đổi chỗ đi.",吧 (rủ rê),4,会议室 网络
+04-E018,Văn phòng,Câu theo từ,,网络太慢，打印机也用不了。,"Wǎngluò tài màn, dǎyìnjī yě yòng bù le.","Mạng chậm quá, máy in cũng không dùng được.",太…了,4,打印机 网络
+04-E019,Văn phòng,Câu theo từ,,办公楼里不能抽烟。,Bàngōnglóu lǐ bù néng chōuyān.,Trong toà văn phòng không được hút thuốc.,不能 + động từ,4,办公楼 抽烟
+04-E020,Văn phòng,Câu theo từ,,你加班的时候别抽烟，好吗？,"Nǐ jiābān de shíhou bié chōuyān, hǎo ma?","Lúc anh tăng ca đừng hút thuốc, được không?",别…，好吗？,4,加班 抽烟
+04-E021,Văn phòng,Câu theo từ,,人事部这个月招三个人。,Rénshìbù zhège yuè zhāo sān gerén.,Tháng này phòng nhân sự tuyển ba người.,数量词 + 人,4,人事部 招
+04-E022,Văn phòng,Câu theo từ,,你们还招人吗？我想问一下。,Nǐmen hái zhāo rén ma? Wǒ xiǎng wèn yí xià.,Các anh còn tuyển người không? Tôi muốn hỏi chút.,还…吗？,4,招
+04-E023,Văn phòng,Câu theo từ,,客户下午来会议室，请准备材料。,"Kèhù xiàwǔ lái huìyìshì, qǐng zhǔnbèi cáiliào.","Chiều khách hàng đến phòng họp, xin chuẩn bị tài liệu.",请 + động từ,4,会议室 客户 材料
+04-E024,Văn phòng,Câu theo từ,,我今天要见客户，得早下班。,"Wǒ jīntiān yào jiàn kèhù, dé zǎo xiàbān.",Hôm nay tôi phải gặp khách hàng nên phải về sớm.,得 (phải),4,客户
+04-E025,Văn phòng,Câu theo từ,,这栋办公楼真大，有多少平方米？,"Zhè dòng bàngōnglóu zhēn dà, yǒu duōshǎo píngfāngmǐ?","Toà văn phòng này to thật, rộng bao nhiêu mét vuông?",多少 + lượng từ,4,办公楼 平方米 栋
+04-E026,Văn phòng,Câu theo từ,,我们的办公楼在市中心。,Wǒmen de bàngōnglóu zài shìzhōngxīn.,Toà văn phòng của chúng tôi ở trung tâm thành phố.,在 + địa điểm,4,办公楼 市中心
+04-E027,Văn phòng,Câu theo từ,,网络连上了吗？我这台上不了网。,Wǎngluò liánshàng le ma? Wǒ zhè tái shàng bù le wǎng.,Đã kết nối mạng chưa? Máy tôi không lên mạng được.,động từ + 了 + 吗,4,网络 连上
+04-E028,Văn phòng,Câu theo từ,,你按这个键就能连上网络。,Nǐ àn zhège jiàn jiù néng liánshàng wǎngluò.,Anh bấm phím này là kết nối được mạng.,就 (thì/là),4,网络 连上 键
+04-E029,Văn phòng,Câu theo từ,,你按一下这个键，打印机就开了。,"Nǐ àn yí xià zhège jiàn, dǎyìnjī jiù kāi le.",Anh bấm phím này một cái là máy in mở.,động từ + 一下,4,打印机 键
+04-E030,Văn phòng,Câu theo từ,,这个键坏了，网络连不上。,"Zhège jiàn huài le, wǎngluò lián bú shàng.","Phím này hỏng rồi, không kết nối được mạng.",kết quả bổ ngữ 连不上,4,网络 键
+05-S01,Căn hộ,Câu đơn,,这是一套两室一厅的公寓。,Zhè shì yí tào liǎngshìyìtīng de gōngyù.,Đây là căn hộ hai phòng ngủ một phòng khách.,…的 + danh từ,4,两室一厅 公寓
+05-S02,Căn hộ,Câu đơn,,每个卧室都有空调。,Měi ge wòshì dōu yǒu kōngtiáo.,Phòng ngủ nào cũng có máy lạnh.,每…都…,4,卧室
+05-S03,Căn hộ,Câu đơn,,厨房比较小，但是很干净。,"Chúfáng bǐjiào xiǎo, dànshì hěn gānjìng.",Bếp hơi nhỏ nhưng rất sạch.,比较 + tính từ，但是…,4,厨房
+05-S04,Căn hộ,Câu đơn,,客厅的窗户很大，非常亮。,"Kètīng de chuānghu hěn dà, fēicháng liàng.","Cửa sổ phòng khách rất to, rất sáng.",非常 + tính từ,4,客厅 窗户
+05-S05,Căn hộ,Câu đơn,,房子里有家具吗？,Fángzi lǐ yǒu jiājù ma?,Trong nhà có nội thất không?,nơi + 有…吗？,3,
+05-S06,Căn hộ,Câu đơn,,冰箱、洗衣机都是新的。,"Bīngxiāng, xǐyījī dōu shì xīn de.","Tủ lạnh, máy giặt đều mới.",是…的,4,冰箱
+05-S07,Căn hộ,Câu đơn,,阳台上可以晒衣服。,Yángtái shàng kěyǐ shài yīfu.,Trên ban công có thể phơi đồ.,nơi + 上,4,晒 阳台
+05-S08,Căn hộ,Câu đơn,,这里的环境很好，晚上也很安静。,"Zhèlǐ de huánjìng hěn hǎo, wǎnshang yě hěn ānjìng.","Môi trường ở đây tốt, buổi tối cũng yên tĩnh.",也 + tính từ,3,
+05-S09,Căn hộ,Câu đơn,,卫生间比卧室小一点儿。,Wèishēngjiān bǐ wòshì xiǎo yīdiǎnr.,Nhà vệ sinh nhỏ hơn phòng ngủ một chút.,A 比 B + tính từ + 一点儿,4,卧室
+05-S10,Căn hộ,Câu đơn,,这套公寓有多少平方米？,Zhè tào gōngyù yǒu duōshǎo píngfāngmǐ?,Căn hộ này bao nhiêu mét vuông?,有多少 + đơn vị,4,公寓 平方米
+05-S11,Căn hộ,Câu đơn,,大概八十平方米，有两个卫生间。,"Dàgài bāshí píngfāngmǐ, yǒu liǎng ge wèishēngjiān.","Khoảng 80 mét vuông, có hai nhà vệ sinh.",大概 + số,4,平方米
+05-S12,Căn hộ,Câu đơn,,主卧室有一个很大的衣柜。,Zhǔwòshì yǒu yí ge hěn dà de yīguì.,Phòng ngủ chính có một tủ quần áo rất to.,有 + 一个 + tính từ + 的 + danh từ,4,主卧室 衣柜
+05-S13,Căn hộ,Câu đơn,,厨房里可以做饭吗？,Chúfáng lǐ kěyǐ zuòfàn ma?,Trong bếp có nấu ăn được không?,可以 + động từ + 吗,4,厨房
+05-S14,Căn hộ,Câu đơn,,这个公寓是朝南的，冬天很暖和。,"Zhège gōngyù shì cháo nán de, dōngtiān hěn nuǎnhuo.","Căn hộ này hướng nam, mùa đông rất ấm.",是…的；朝 + hướng,4,公寓
+05-S15,Căn hộ,Câu đơn,,家具可以留下，也可以搬走。,"Jiājù kěyǐ liúxià, yě kěyǐ bānzǒu.","Nội thất có thể để lại, cũng có thể dọn đi.",也可以,4,搬走
+05-S16,Căn hộ,Câu đơn,,沙发有点儿旧，可以换一个吗？,"Shāfā yǒudiǎnr jiù, kěyǐ huàn yí ge ma?","Sofa hơi cũ, có thể đổi cái khác không?",有点儿 + tính từ,3,
+05-S17,Căn hộ,Câu đơn,,热水器坏了，不能洗澡。,"Rèshuǐqì huài le, bù néng xǐzǎo.","Bình nóng lạnh hỏng rồi, không tắm được.",…了，不能…,4,热水器
+05-S18,Căn hộ,Câu đơn,,小区里有游泳池和健身房。,Xiǎoqū lǐ yǒu yóuyǒngchí hé jiànshēnfáng.,Trong khu chung cư có hồ bơi và phòng gym.,nơi + 有 A 和 B,4,健身房 小区 游泳池
+05-S19,Căn hộ,Câu đơn,,楼下有超市，买东西很方便。,"Lóuxià yǒu chāoshì, mǎi dōngxī hěn fāngbiàn.","Dưới lầu có siêu thị, mua đồ rất tiện.",很方便,2,
+05-S20,Căn hộ,Câu đơn,,这套房子在十二楼，看得见河。,"Zhè tào fángzi zài shí'èr lóu, kàn dé jiàn hé.","Căn này ở tầng 12, nhìn thấy sông.",bổ ngữ khả năng 看得见,2,
+05-S21,Căn hộ,Câu đơn,,房间里有一点儿味道，要开窗户。,"Fángjiān lǐ yǒuyīdiǎnr wèidao, yào kāi chuānghu.","Trong phòng hơi có mùi, phải mở cửa sổ.",有一点儿 + danh từ,4,窗户
+05-S22,Căn hộ,Câu đơn,,我喜欢家具少一点儿的房子。,Wǒ xǐhuan jiājù shǎo yīdiǎnr de fángzi.,Tôi thích nhà ít đồ đạc một chút.,tính từ + 一点儿的 + danh từ,3,
+05-S23,Căn hộ,Câu đơn,,这里的邻居都很友好。,Zhèlǐ de línjū dōu hěn yǒuhǎo.,Hàng xóm ở đây đều rất thân thiện.,都 + 很 + tính từ,4,邻居
+05-S24,Căn hộ,Câu đơn,,晚上十点以后请不要太吵。,Wǎnshang shí diǎn yǐhòu qǐng búyào tài chǎo.,Sau 10 giờ tối xin đừng quá ồn.,不要太 + tính từ,3,
+05-S25,Căn hộ,Câu đơn,,垃圾每天早上七点收。,Lājī měi tiān zǎoshang qī diǎn shōu.,Rác thu lúc 7 giờ sáng mỗi ngày.,thời gian + động từ,4,垃圾
+05-S26,Căn hộ,Câu đơn,,快递可以放在一楼的保安那儿。,Kuàidì kěyǐ fàng zài yīlóu de bǎo'ān nàr.,Hàng chuyển phát có thể để ở chỗ bảo vệ tầng 1.,放在 + người + 那儿,4,快递
+05-S27,Căn hộ,Câu đơn,,这个房间适合一个人住。,Zhège fángjiān shìhé yí ge rén zhù.,Phòng này phù hợp cho một người ở.,适合 + động từ,3,
+05-S28,Căn hộ,Câu đơn,,窗户外面就是公园，空气很好。,"Chuānghu wàimiàn jiùshì gōngyuán, kōngqì hěn hǎo.","Ngoài cửa sổ là công viên, không khí rất tốt.",就是 (chính là),4,窗户
+05-S29,Căn hộ,Câu đơn,,这套公寓装修得很漂亮。,Zhè tào gōngyù zhuāngxiū dé hěn piàoliang.,Căn hộ này trang trí rất đẹp.,动词 + 得 + 很 + tính từ,4,公寓 装修
+05-S30,Căn hộ,Câu đơn,,我想找一套带家具的公寓。,Wǒ xiǎng zhǎo yí tào dài jiājù de gōngyù.,Tôi muốn tìm một căn hộ có sẵn nội thất.,带 + danh từ + 的,4,公寓
+05-D1-1,Căn hộ,Hội thoại,A,这套公寓有几个房间？,Zhè tào gōngyù yǒu jǐ ge fángjiān?,Căn hộ này có mấy phòng?,,4,公寓
+05-D1-2,Căn hộ,Hội thoại,B,两室一厅，还有一个小书房。,"Liǎngshìyìtīng, háiyǒu yí ge xiǎo shūfáng.","Hai phòng ngủ một phòng khách, còn có một phòng làm việc nhỏ.",还有,4,两室一厅 书房
+05-D2-1,Căn hộ,Hội thoại,A,家具和电器都包括吗？,Jiājù hé diànqì dōu bāokuò ma?,Nội thất và đồ điện đều bao gồm chứ?,,4,包括 电器
+05-D2-2,Căn hộ,Hội thoại,B,都包括，您带行李就可以住进来。,"Dōu bāokuò, nín dài xíngli jiù kěyǐ zhù jìnlái.","Đều bao gồm, anh mang hành lý là dọn vào ở được.",就可以,4,包括
+05-D3-1,Căn hộ,Hội thoại,A,这里晚上吵不吵？,Zhèlǐ wǎnshang chǎo bù chǎo?,Ở đây buổi tối có ồn không?,,3,
+05-D3-2,Căn hộ,Hội thoại,B,不吵，房间不在马路边，很安静。,"Bù chǎo, fángjiān bú zài mǎlù biān, hěn ānjìng.","Không ồn, phòng không sát đường lớn, rất yên tĩnh.",tính từ + 不 + tính từ？,3,
+05-D4-1,Căn hộ,Hội thoại,A,洗衣机在哪儿？,Xǐyījī zài nǎr?,Máy giặt ở đâu?,,2,
+05-D4-2,Căn hộ,Hội thoại,B,在阳台上，旁边可以晒衣服。,"Zài yángtái shàng, pángbiān kěyǐ shài yīfu.","Ở ngoài ban công, bên cạnh phơi đồ được.",,4,晒 阳台
+05-D5-1,Căn hộ,Hội thoại,A,空调好像不太冷。,Kōngtiáo hǎoxiàng bútài lěng.,Máy lạnh hình như không mát lắm.,好像 + 不太,3,
+05-D5-2,Căn hộ,Hội thoại,B,我明天找人来看一下。,Wǒ míngtiān zhǎo rén lái kàn yí xià.,Mai tôi tìm người đến xem.,找人 + 来 + động từ,1,
+05-E001,Căn hộ,Câu theo từ,,这个公寓离公司很近。,Zhège gōngyù lí gōngsī hěn jìn.,Căn hộ này rất gần công ty.,离…很近,4,公寓
+05-E002,Căn hộ,Câu theo từ,,你租的公寓有几个卧室？,Nǐ zū de gōngyù yǒu jǐ ge wòshì?,Căn hộ bạn thuê có mấy phòng ngủ?,有几个…？,4,公寓 卧室
+05-E003,Căn hộ,Câu theo từ,,我们想租一个两室一厅。,Wǒmen xiǎng zū yí ge liǎngshìyìtīng.,Chúng tôi muốn thuê một căn hai phòng ngủ một phòng khách.,想 + 动词,4,两室一厅
+05-E004,Căn hộ,Câu theo từ,,两室一厅的公寓贵不贵？,Liǎngshìyìtīng de gōngyù guì bú guì?,Căn hộ hai phòng ngủ một phòng khách có đắt không?,…不…,4,两室一厅 公寓
+05-E005,Căn hộ,Câu theo từ,,卧室的窗户太小了。,Wòshì de chuānghu tài xiǎo le.,Cửa sổ phòng ngủ nhỏ quá.,太…了,4,卧室 窗户
+05-E006,Căn hộ,Câu theo từ,,请把垃圾从卧室拿出来。,Qǐng bǎ lājī cóng wòshì náchū lái.,Làm ơn mang rác từ phòng ngủ ra ngoài.,把…出来,4,卧室 垃圾
+05-E007,Căn hộ,Câu theo từ,,主卧室里有衣柜吗？,Zhǔwòshì lǐ yǒu yīguì ma?,Trong phòng ngủ chính có tủ quần áo không?,有…吗？,4,主卧室 衣柜
+05-E008,Căn hộ,Câu theo từ,,主卧室的空调好像坏了。,Zhǔwòshì de kōngtiáo hǎoxiàng huài le.,Máy lạnh phòng ngủ chính hình như hỏng rồi.,好像…了,4,主卧室
+05-E009,Căn hộ,Câu theo từ,,客厅的电器都是新的。,Kètīng de diànqì dōu shì xīn de.,Các thiết bị điện trong phòng khách đều mới.,都是,4,客厅 电器
+05-E010,Căn hộ,Câu theo từ,,我们在客厅等快递吧。,Wǒmen zài kètīng děng kuàidì ba.,Chúng ta đợi shipper ở phòng khách nhé.,在…吧,4,客厅 快递
+05-E011,Căn hộ,Câu theo từ,,厨房的热水器怎么用？,Chúfáng de rèshuǐqì zěnme yòng?,Bình nước nóng trong bếp dùng thế nào?,怎么用？,4,厨房 热水器
+05-E012,Căn hộ,Câu theo từ,,厨房太脏了，冰箱也要洗一下。,"Chúfáng tài zàng le, bīngxiāng yě yào xǐ yí xià.","Nhà bếp bẩn quá, tủ lạnh cũng phải rửa một chút.",…一下,4,冰箱 厨房
+05-E013,Căn hộ,Câu theo từ,,书房可以当卧室用。,Shūfáng kěyǐ dāng wòshì yòng.,Phòng làm việc có thể dùng làm phòng ngủ.,可以当…用,4,书房 卧室
+05-E014,Căn hộ,Câu theo từ,,我想在书房放一个衣柜。,Wǒ xiǎng zài shūfáng fàng yí ge yīguì.,Tôi muốn đặt một tủ quần áo trong phòng làm việc.,在…放,4,书房 衣柜
+05-E015,Căn hộ,Câu theo từ,,衣服晒在阳台上了。,Yīfu shài zài yángtái shàng le.,Quần áo phơi ở ban công rồi.,在…上,4,晒 阳台
+05-E016,Căn hộ,Câu theo từ,,阳台外面有个游泳池。,Yángtái wàimiàn yǒu gè yóuyǒngchí.,Ngoài ban công có một bể bơi.,外面有,4,游泳池 阳台
+05-E017,Căn hộ,Câu theo từ,,卧室的窗户太小了。,Wòshì de chuānghu tài xiǎo le.,Cửa sổ phòng ngủ nhỏ quá.,太…了,4,卧室 窗户
+05-E018,Căn hộ,Câu theo từ,,请把客厅的窗户关一下。,Qǐng bǎ kètīng de chuānghu guān yí xià.,Làm ơn đóng cửa sổ phòng khách một chút.,把…+ động từ + 一下,4,客厅 窗户
+05-E019,Căn hộ,Câu theo từ,,厨房的冰箱里没有水了。,Chúfáng de bīngxiāng lǐ méiyǒu shuǐ le.,Trong tủ lạnh ở bếp không còn nước nữa.,没有…了,4,冰箱 厨房
+05-E020,Căn hộ,Câu theo từ,,你能把冰箱放到客厅吗？,Nǐ néng bǎ bīngxiāng fàngdào kètīng ma?,Bạn có thể đặt tủ lạnh ở phòng khách không?,能…吗？,4,冰箱 客厅
+05-E021,Căn hộ,Câu theo từ,,主卧室的衣柜很大。,Zhǔwòshì de yīguì hěn dà.,Tủ quần áo ở phòng ngủ chính rất to.,很 + tính từ,4,主卧室 衣柜
+05-E022,Căn hộ,Câu theo từ,,卧室的衣柜太大了，放不下。,"Wòshì de yīguì tài dà le, fàng bú xià.","Tủ quần áo trong phòng ngủ to quá, không để vừa.",太…了,4,卧室 衣柜
+05-E023,Căn hộ,Câu theo từ,,公寓的热水器坏了。,Gōngyù de rèshuǐqì huài le.,Bình nóng lạnh của căn hộ bị hỏng rồi.,坏了,4,公寓 热水器
+05-E024,Căn hộ,Câu theo từ,,你帮我看看热水器吧。,Nǐ bāng wǒ kànkan rèshuǐqì ba.,Bạn xem giúp tôi cái bình nóng lạnh nhé.,帮我 + động từ,4,热水器
+05-E025,Căn hộ,Câu theo từ,,这些电器都是新的。,Zhèxiē diànqì dōu shì xīn de.,Những đồ điện này đều là đồ mới.,都,4,电器
+05-E026,Căn hộ,Câu theo từ,,家里的电器不要太多。,Jiālǐ de diànqì búyào tài duō.,Đồ điện trong nhà đừng nhiều quá.,不要…太多,4,电器
+05-E027,Căn hộ,Câu theo từ,,衣服可以晒在阳台。,Yīfu kěyǐ shài zài yángtái.,Quần áo có thể phơi ở ban công.,可以 + động từ + 在,4,晒 阳台
+05-E028,Căn hộ,Câu theo từ,,今天外面下雨，别晒衣服了。,"Jīntiān wàimiàn xiàyǔ, bié shài yīfu le.","Hôm nay ngoài trời mưa, đừng phơi quần áo nữa.",别…了,4,晒
+05-E029,Căn hộ,Câu theo từ,,这个小区有健身房吗？,Zhège xiǎoqū yǒu jiànshēnfáng ma?,Khu dân cư này có phòng gym không?,有…吗？,4,健身房 小区
+05-E030,Căn hộ,Câu theo từ,,我们小区的邻居都很好。,Wǒmen xiǎoqū de línjū dōu hěn hǎo.,Hàng xóm trong khu dân cư của chúng tôi đều rất tốt.,都 + tính từ,4,小区 邻居
+05-E031,Căn hộ,Câu theo từ,,小区里有一个游泳池。,Xiǎoqū lǐ yǒu yí ge yóuyǒngchí.,Trong khu dân cư có một hồ bơi.,有,4,小区 游泳池
+05-E032,Căn hộ,Câu theo từ,,游泳池离公寓远不远？,Yóuyǒngchí lí gōngyù yuǎn bù yuǎn?,Hồ bơi cách căn hộ có xa không?,A 离 B 远不远？,4,公寓 游泳池
+05-E033,Căn hộ,Câu theo từ,,小区的健身房在几楼？,Xiǎoqū de jiànshēnfáng zài jǐ lóu?,Phòng gym của khu chung cư ở tầng mấy?,在几楼,4,健身房 小区
+05-E034,Căn hộ,Câu theo từ,,我每天去健身房半个小时。,Wǒ měi tiān qù jiànshēnfáng bàn gè xiǎoshí.,Mỗi ngày tôi đến phòng gym nửa tiếng.,每天 + động từ + thời lượng,4,健身房
+05-E035,Căn hộ,Câu theo từ,,我的邻居很安静，也很好。,"Wǒ de línjū hěn ānjìng, yě hěn hǎo.","Hàng xóm của tôi rất yên tĩnh, cũng rất tốt.",很…也很…,4,邻居
+05-E036,Căn hộ,Câu theo từ,,你认识楼上的邻居吗？,Nǐ rènshi lóushàng de línjū ma?,Bạn có quen hàng xóm ở tầng trên không?,认识…吗？,4,邻居
+05-E037,Căn hộ,Câu theo từ,,垃圾请放在门外，谢谢！,"Lājī qǐng fàng zài mén wài, xièxie!","Rác xin để ngoài cửa, cảm ơn!",请 + động từ,4,垃圾
+05-E038,Căn hộ,Câu theo từ,,客厅的垃圾太多了，你去一下。,"Kètīng de lājī tài duō le, nǐ qù yí xià.","Rác ở phòng khách nhiều quá, bạn đi đổ một chút nhé.",太…了,4,垃圾 客厅
+05-E039,Căn hộ,Câu theo từ,,你的快递在客厅，看见了吗？,"Nǐ de kuàidì zài kètīng, kànjiàn le ma?","Hàng chuyển phát của bạn ở phòng khách, thấy chưa?",在 + địa điểm,4,客厅 快递
+05-E040,Căn hộ,Câu theo từ,,请帮我拿一下快递，好吗？,"Qǐng bāng wǒ ná yí xià kuàidì, hǎo ma?","Xin giúp tôi lấy hàng chuyển phát một chút, được không?",帮我 + động từ + 一下,4,快递
+05-E041,Căn hộ,Câu theo từ,,楼上的装修太吵了！,Lóushàng de zhuāngxiū tài chǎo le!,Việc sửa sang ở tầng trên ồn quá!,太…了,4,装修
+05-E042,Căn hộ,Câu theo từ,,我们下个月开始装修公寓。,Wǒmen xià ge yuè kāishǐ zhuāngxiū gōngyù.,Tháng sau chúng tôi bắt đầu sửa sang căn hộ.,开始 + động từ,4,公寓 装修
+06-S01,Vị trí & đường đi,Câu đơn,,这里离地铁站很近，走路五分钟。,"Zhèlǐ lí dìtiězhàn hěn jìn, zǒulù wǔ fēnzhōng.","Chỗ này gần ga metro, đi bộ 5 phút.",A 离 B + 近/远,2,
+06-S02,Vị trí & đường đi,Câu đơn,,公寓附近有超市和医院。,Gōngyù fùjìn yǒu chāoshì hé yīyuàn.,Gần căn hộ có siêu thị và bệnh viện.,附近 + 有,4,公寓 附近
+06-S03,Vị trí & đường đi,Câu đơn,,大楼就在银行对面。,Dàlóu jiù zài yínháng duìmiàn.,Toà nhà nằm ngay đối diện ngân hàng.,在 + nơi + phương vị,4,大楼
+06-S04,Vị trí & đường đi,Câu đơn,,一直往前走，到第二个路口往右走。,"Yìzhí wǎng qián zǒu, dào dì'èr ge lùkǒu wǎng yòu zǒu.","Đi thẳng, đến ngã tư thứ hai rẽ phải.",往 + hướng + 走,2,
+06-S05,Vị trí & đường đi,Câu đơn,,从这儿到机场要多长时间？,Cóng zhèr dào jīchǎng yào duōcháng shíjiān?,Từ đây ra sân bay mất bao lâu?,从…到…,2,
+06-S06,Vị trí & đường đi,Câu đơn,,开车大概二十分钟。,Kāichē dàgài èrshí fēnzhōng.,Lái xe khoảng 20 phút.,大概 + số,3,
+06-S07,Vị trí & đường đi,Câu đơn,,这个地方交通很方便。,Zhège dìfāng jiāotōng hěn fāngbiàn.,Chỗ này giao thông rất thuận tiện.,很 + tính từ,2,
+06-S08,Vị trí & đường đi,Câu đơn,,停车场在大楼的后面。,Tíngchēchǎng zài dàlóu de hòumiàn.,Bãi đỗ xe ở phía sau toà nhà.,…的后面,4,大楼
+06-S09,Vị trí & đường đi,Câu đơn,,学校在公园和银行中间。,Xuéxiào zài gōngyuán hé yínháng zhōngjiān.,Trường học nằm giữa công viên và ngân hàng.,在 A 和 B 中间,2,
+06-S10,Vị trí & đường đi,Câu đơn,,请问，去市中心怎么走？,"Qǐngwèn, qù shìzhōngxīn zěnme zǒu?","Xin hỏi, đi trung tâm thành phố thế nào?",去 + nơi + 怎么走？,4,市中心
+06-S11,Vị trí & đường đi,Câu đơn,,过了红绿灯就到了。,Guò le hónglǜdēng jiù dào le.,Qua đèn giao thông là tới.,过了…就…,4,红绿灯
+06-S12,Vị trí & đường đi,Câu đơn,,大楼的门口有一个公交车站。,Dàlóu de ménkǒu yǒu yí ge gōngjiāochēzhàn.,Trước cửa toà nhà có một trạm xe buýt.,nơi + 有 + 一个…,4,公交车站 大楼
+06-S13,Vị trí & đường đi,Câu đơn,,这条路的左边是商场，右边是公园。,"Zhè tiáo lù de zuǒbian shì shāngchǎng, yòubian shì gōngyuán.","Bên trái con đường này là trung tâm thương mại, bên phải là công viên.",…是…,2,
+06-S14,Vị trí & đường đi,Câu đơn,,那个大楼离这儿不太远。,Nàge dàlóu lí zhèr bútài yuǎn.,Toà nhà đó cách đây không xa lắm.,不太 + tính từ,4,大楼
+06-S15,Vị trí & đường đi,Câu đơn,,走路去可能要十五分钟左右。,Zǒulù qù kěnéng yào shíwǔ fēnzhōng zuǒyòu.,Đi bộ có lẽ mất khoảng 15 phút.,…左右,3,
+06-S16,Vị trí & đường đi,Câu đơn,,你到了路口给我打电话。,Nǐ dào le lùkǒu gěi wǒ dǎdiànhuà.,Anh đến ngã tư thì gọi cho tôi.,到了…,1,
+06-S17,Vị trí & đường đi,Câu đơn,,往东走两百米就是。,Wǎng dōng zǒu liǎngbǎi mǐ jiùshì.,Đi về phía đông 200 mét là tới.,往 + hướng + 走 + khoảng cách,3,
+06-S18,Vị trí & đường đi,Câu đơn,,这个小区在河的东边。,Zhège xiǎoqū zài hé de dōngbian.,Khu chung cư này ở phía đông con sông.,在…的东边,4,小区
+06-S19,Vị trí & đường đi,Câu đơn,,从机场坐出租车到这里大概一百块。,Cóng jīchǎng zuò chūzūchē dào zhèlǐ dàgài yìbǎi kuài.,Từ sân bay đi taxi đến đây khoảng 100 tệ.,从…到…,3,
+06-S20,Vị trí & đường đi,Câu đơn,,公寓的位置很好，去哪儿都方便。,"Gōngyù de wèizhì hěn hǎo, qù nǎr dōu fāngbiàn.","Vị trí căn hộ rất đẹp, đi đâu cũng tiện.",去哪儿都…,4,位置 公寓
+06-S21,Vị trí & đường đi,Câu đơn,,附近有很多饭馆和咖啡店。,Fùjìn yǒu hěn duō fànguǎn hé kāfēi diàn.,Gần đây có rất nhiều quán ăn và quán cà phê.,很多 + danh từ,4,附近
+06-S22,Vị trí & đường đi,Câu đơn,,我们公司在二号线和三号线中间。,Wǒmen gōngsī zài èr hàoxiàn hé sān hàoxiàn zhōngjiān.,Công ty chúng tôi nằm giữa tuyến 2 và tuyến 3.,号线 (tuyến),4,号线
+06-S23,Vị trí & đường đi,Câu đơn,,你过马路的时候要小心。,Nǐ guòmǎlù de shíhou yào xiǎoxīn.,Khi băng qua đường anh phải cẩn thận.,…的时候,4,过马路
+06-S24,Vị trí & đường đi,Câu đơn,,我在大楼的南门等你。,Wǒ zài dàlóu de nánmén děng nǐ.,Tôi đợi anh ở cổng nam toà nhà.,在 + nơi + 等,4,南门 大楼
+06-S25,Vị trí & đường đi,Câu đơn,,从这里能看到市中心。,Cóng zhèlǐ néng kàndào shìzhōngxīn.,Từ đây có thể nhìn thấy trung tâm thành phố.,能 + 看到,4,市中心
+06-S26,Vị trí & đường đi,Câu đơn,,这个地址我找不到，你能发个位置给我吗？,"Zhège dìzhǐ wǒ zhǎo bú dào, nǐ néng fā gè wèizhì gěi wǒ ma?","Địa chỉ này tôi tìm không ra, anh gửi định vị cho tôi được không?",找不到；发个 + danh từ,4,位置 地址
+06-S27,Vị trí & đường đi,Câu đơn,,医院就在这条街的尽头。,Yīyuàn jiù zài zhè tiáo jiē de jìntóu.,Bệnh viện ở ngay cuối con phố này.,在…的尽头,4,尽头
+06-S28,Vị trí & đường đi,Câu đơn,,这里到最近的地铁站有一公里。,Zhèlǐ dào zuìjìn de dìtiězhàn yǒu yì gōnglǐ.,Từ đây đến ga metro gần nhất 1 km.,到…有 + khoảng cách,2,
+06-S29,Vị trí & đường đi,Câu đơn,,下了地铁，从三号出口出来。,"Xià le dìtiě, cóng sān hào chūkǒu chūlái.",Xuống metro thì ra từ cửa số 3.,从…出来,2,
+06-S30,Vị trí & đường đi,Câu đơn,,这个地方虽然有点儿远，但是很安静。,"Zhège dìfāng suīrán yǒudiǎnr yuǎn, dànshì hěn ānjìng.",Chỗ này tuy hơi xa nhưng rất yên tĩnh.,虽然…但是…,2,
+06-D1-1,Vị trí & đường đi,Hội thoại,A,请问，地铁站在哪儿？,"Qǐngwèn, dìtiězhàn zài nǎr?","Xin hỏi, ga metro ở đâu?",,2,
+06-D1-2,Vị trí & đường đi,Hội thoại,B,一直往前走，第一个路口往左走就到了。,"Yìzhí wǎng qián zǒu, dì yī ge lùkǒu wǎng zuǒ zǒu jiù dào le.","Đi thẳng, ngã tư đầu tiên rẽ trái là tới.",往 + hướng + 走,2,
+06-D2-1,Vị trí & đường đi,Hội thoại,A,从这儿到你们公司远吗？,Cóng zhèr dào nǐmen gōngsī yuǎn ma?,Từ đây đến công ty anh có xa không?,,2,
+06-D2-2,Vị trí & đường đi,Hội thoại,B,不远，坐地铁三站，大概十分钟。,"Bù yuǎn, zuò dìtiě sān zhàn, dàgài shí fēnzhōng.","Không xa, đi metro ba trạm, khoảng 10 phút.",lượng từ 站,3,
+06-D3-1,Vị trí & đường đi,Hội thoại,A,附近有银行吗？,Fùjìn yǒu yínháng ma?,Gần đây có ngân hàng không?,,4,附近
+06-D3-2,Vị trí & đường đi,Hội thoại,B,有，就在超市旁边。,"Yǒu, jiù zài chāoshì pángbiān.","Có, ngay cạnh siêu thị.",就在 + nơi,2,
+06-D4-1,Vị trí & đường đi,Hội thoại,A,你到哪儿了？,Nǐ dào nǎr le?,Anh đến đâu rồi?,,1,
+06-D4-2,Vị trí & đường đi,Hội thoại,B,我已经到大楼门口了，你下来吧。,"Wǒ yǐjīng dào dàlóu ménkǒu le, nǐ xiàlai ba.","Tôi đến cửa toà nhà rồi, anh xuống đi.",已经…了；下来,4,大楼
+06-D5-1,Vị trí & đường đi,Hội thoại,A,这个位置交通方便吗？,Zhège wèizhì jiāotōng fāngbiàn ma?,Vị trí này giao thông thuận tiện không?,,4,位置
+06-D5-2,Vị trí & đường đi,Hội thoại,B,很方便，门口就有公交车站和地铁站。,"Hěn fāngbiàn, ménkǒu jiù yǒu gōngjiāochēzhàn hé dìtiězhàn.","Rất tiện, ngay cửa có trạm xe buýt và ga metro.",,4,公交车站
+06-E001,Vị trí & đường đi,Câu theo từ,,附近有公交车站吗？,Fùjìn yǒu gōngjiāochēzhàn ma?,Gần đây có trạm xe buýt không?,有…吗？,4,公交车站 附近
+06-E002,Vị trí & đường đi,Câu theo từ,,商场附近有红绿灯。,Shāngchǎng fùjìn yǒu hónglǜdēng.,Gần trung tâm thương mại có đèn giao thông.,名词 + 附近有…,4,红绿灯 附近
+06-E003,Vị trí & đường đi,Câu theo từ,,这个位置很方便。,Zhège wèizhì hěn fāngbiàn.,Vị trí này rất thuận tiện.,这个 + 名词 + 很 + 形容词,4,位置
+06-E004,Vị trí & đường đi,Câu theo từ,,商场的位置在市中心。,Shāngchǎng de wèizhì zài shìzhōngxīn.,Vị trí của trung tâm thương mại ở trung tâm thành phố.,A 的位置在 B,4,位置 市中心
+06-E005,Vị trí & đường đi,Câu theo từ,,路口有红绿灯，请过马路。,"Lùkǒu yǒu hónglǜdēng, qǐng guòmǎlù.","Ở ngã tư có đèn giao thông, hãy qua đường.",请 + 动词,4,红绿灯 过马路
+06-E006,Vị trí & đường đi,Câu theo từ,,到下一个路口往南走。,Dào xià yí ge lùkǒu wǎng nán zǒu.,Đến ngã tư tiếp theo thì đi về phía nam.,到…往…走,2,
+06-E007,Vị trí & đường đi,Câu theo từ,,红绿灯前面就是南门。,Hónglǜdēng qiánmiàn jiùshì nánmén.,Phía trước đèn giao thông chính là cổng nam.,…前面就是…,4,南门 红绿灯
+06-E008,Vị trí & đường đi,Câu theo từ,,看到红绿灯再往右走。,Kàndào hónglǜdēng zài wǎng yòu zǒu.,Thấy đèn giao thông rồi đi tiếp sang phải.,…再…,4,红绿灯
+06-E009,Vị trí & đường đi,Câu theo từ,,商场在市中心，很近。,"Shāngchǎng zài shìzhōngxīn, hěn jìn.","Trung tâm thương mại ở trung tâm thành phố, rất gần.",在 + 地点，很 + 形容词,4,市中心
+06-E010,Vị trí & đường đi,Câu theo từ,,请问，商场怎么走？,"Qǐngwèn, shāngchǎng zěnme zǒu?","Xin hỏi, đi đến trung tâm thương mại thế nào?",怎么走？,1,
+06-E011,Vị trí & đường đi,Câu theo từ,,从这里到市中心远吗？,Cóng zhèlǐ dào shìzhōngxīn yuǎn ma?,Từ đây đến trung tâm thành phố có xa không?,从…到…远吗？,4,市中心
+06-E012,Vị trí & đường đi,Câu theo từ,,市中心坐三号线很方便。,Shìzhōngxīn zuò sān hàoxiàn hěn fāngbiàn.,Đi trung tâm thành phố bằng tuyến số ba rất tiện.,坐 + 号线 + 很方便,4,号线 市中心
+06-E013,Vị trí & đường đi,Câu theo từ,,坐二号线到商场，很快。,"Zuò èr hàoxiàn dào shāngchǎng, hěn kuài.","Đi tuyến số hai đến trung tâm thương mại, rất nhanh.",坐 + 号线 + 到…,4,号线
+06-E014,Vị trí & đường đi,Câu theo từ,,出口附近有一号线吗？,Chūkǒu fùjìn yǒu yī hàoxiàn ma?,Gần lối ra có tuyến số một không?,…附近有…吗？,4,号线 附近
+06-E015,Vị trí & đường đi,Câu theo từ,,南门出口在路的尽头。,Nánmén chūkǒu zài lù de jìntóu.,Lối ra cổng nam ở cuối đường.,在…的尽头,4,南门 尽头
+06-E016,Vị trí & đường đi,Câu theo từ,,请问，出口在哪边？,"Qǐngwèn, chūkǒu zài nǎ biān?","Xin hỏi, lối ra ở phía nào?",在哪边？,2,
+06-E017,Vị trí & đường đi,Câu theo từ,,过马路前要看红绿灯。,Guòmǎlù qián yào kàn hónglǜdēng.,Trước khi qua đường phải xem đèn giao thông.,前（trước khi）,4,红绿灯 过马路
+06-E018,Vị trí & đường đi,Câu theo từ,,请从南门过马路到商场。,Qǐng cóng nánmén guòmǎlù dào shāngchǎng.,Hãy qua đường từ cổng nam đến trung tâm thương mại.,从…到…,4,南门 过马路
+06-E019,Vị trí & đường đi,Câu theo từ,,这条路的尽头有公交车站。,Zhè tiáo lù de jìntóu yǒu gōngjiāochēzhàn.,Cuối con đường này có trạm xe buýt.,…的尽头有…,4,公交车站 尽头
+06-E020,Vị trí & đường đi,Câu theo từ,,走到路口尽头就是出口吗？,Zǒu dào lùkǒu jìntóu jiùshì chūkǒu ma?,Đi đến cuối ngã tư là lối ra phải không?,就是…吗？,4,尽头
+06-E021,Vị trí & đường đi,Câu theo từ,,商场南门附近有地铁站。,Shāngchǎng nánmén fùjìn yǒu dìtiězhàn.,Gần cổng nam trung tâm thương mại có ga tàu điện ngầm.,附近有,4,南门 附近
+06-E022,Vị trí & đường đi,Câu theo từ,,请在南门等我，别走远。,"Qǐng zài nánmén děng wǒ, bié zǒu yuǎn.","Hãy đợi tôi ở cổng nam, đừng đi xa.",别 + động từ,4,南门
+06-E023,Vị trí & đường đi,Câu theo từ,,请把这个地址发给我。,Qǐng bǎ zhège dìzhǐ fā gěi wǒ.,Hãy gửi địa chỉ này cho tôi.,把…给…,4,地址
+06-E024,Vị trí & đường đi,Câu theo từ,,你知道商场的地址吗？,Nǐ zhīdào shāngchǎng de dìzhǐ ma?,Bạn có biết địa chỉ của trung tâm thương mại không?,知道…吗？,4,地址
+06-E025,Vị trí & đường đi,Câu theo từ,,公交车站离南门远不远？,Gōngjiāochēzhàn lí nánmén yuǎn bù yuǎn?,Trạm xe buýt cách cổng nam có xa không?,离…远不远？,4,公交车站 南门
+06-E026,Vị trí & đường đi,Câu theo từ,,从出口走到公交车站要五分钟。,Cóng chūkǒu zǒu dào gōngjiāochēzhàn yào wǔ fēnzhōng.,Đi từ lối ra đến trạm xe buýt mất năm phút.,从…到…要…,4,公交车站
+07-S01,Mô tả toà nhà,Câu đơn,,这栋大楼一共有三十层。,Zhè dòng dàlóu yígòng yǒu sānshí céng.,Toà nhà này có tổng cộng 30 tầng.,lượng từ 栋,4,大楼 栋
+07-S02,Mô tả toà nhà,Câu đơn,,我们的办公室在十五楼。,Wǒmen de bàngōngshì zài shíwǔ lóu.,Văn phòng chúng tôi ở tầng 15.,số + 楼,2,
+07-S03,Mô tả toà nhà,Câu đơn,,大楼里有四部电梯。,Dàlóu lǐ yǒu sì bù diàntī.,Trong toà nhà có bốn thang máy.,lượng từ 部,4,大楼 电梯
+07-S04,Mô tả toà nhà,Câu đơn,,这栋楼是去年建好的，很新。,"Zhè dòng lóu shì qùnián jiàn hǎo de, hěn xīn.","Toà này xây xong năm ngoái, rất mới.",是…的 (thời gian),4,栋
+07-S05,Mô tả toà nhà,Câu đơn,,门口二十四小时都有保安。,Ménkǒu èrshísì xiǎoshí dōu yǒu bǎo'ān.,Cửa ra vào có bảo vệ 24 giờ.,thời gian + 都,3,
+07-S06,Mô tả toà nhà,Câu đơn,,一楼是商店，二楼以上是办公室。,"Yīlóu shì shāngdiàn, èr lóu yǐshàng shì bàngōngshì.","Tầng 1 là cửa hàng, từ tầng 2 trở lên là văn phòng.",…以上,2,
+07-S07,Mô tả toà nhà,Câu đơn,,物业费每平方米多少钱？,Wùyèfèi měi píngfāngmǐ duōshǎo qián?,Phí quản lý mỗi mét vuông bao nhiêu?,每 + đơn vị,4,平方米 物业费
+07-S08,Mô tả toà nhà,Câu đơn,,电梯坏了，我们走楼梯吧。,"Diàntī huài le, wǒmen zǒu lóutī ba.","Thang máy hỏng rồi, mình đi cầu thang nhé.",…吧 (đề nghị),4,楼梯 电梯
+07-S09,Mô tả toà nhà,Câu đơn,,这栋楼比旁边那栋高多了。,Zhè dòng lóu bǐ pángbiān nà dòng gāo duō le.,Toà này cao hơn toà bên cạnh nhiều.,比…tính từ + 多了,4,栋
+07-S10,Mô tả toà nhà,Câu đơn,,大楼的停车场在地下一层和二层。,Dàlóu de tíngchēchǎng zài dìxiàyìcéng hé èr céng.,Bãi xe của toà nhà ở tầng hầm 1 và 2.,地下 + số + 层,4,地下一层 大楼
+07-S11,Mô tả toà nhà,Câu đơn,,这是一栋A级写字楼。,Zhè shì yí dòngAjí xiězìlóu.,Đây là một toà văn phòng hạng A.,写字楼 (cao ốc văn phòng),4,写字楼 栋
+07-S12,Mô tả toà nhà,Câu đơn,,进大楼要刷卡。,Jìn dàlóu yào shuākǎ.,Vào toà nhà phải quẹt thẻ.,要 + động từ,4,刷卡 大楼
+07-S13,Mô tả toà nhà,Câu đơn,,访客要在一楼登记。,Fǎngkè yào zài yīlóu dēngjì.,Khách đến thăm phải đăng ký ở tầng 1.,在 + nơi + động từ,4,登记 访客
+07-S14,Mô tả toà nhà,Câu đơn,,大楼晚上十点关门。,Dàlóu wǎnshang shí diǎn guān mén.,Toà nhà đóng cửa lúc 10 giờ tối.,thời gian + động từ,4,大楼
+07-S15,Mô tả toà nhà,Câu đơn,,每层都有洗手间和饮水机。,Měi céng dōu yǒu xǐshǒujiān hé yǐnshuǐjī.,Tầng nào cũng có nhà vệ sinh và máy nước uống.,每…都…,4,饮水机
+07-S16,Mô tả toà nhà,Câu đơn,,这栋楼的外面是玻璃的。,Zhè dòng lóu de wàimiàn shì bōli de.,Mặt ngoài toà nhà này bằng kính.,是…的 (chất liệu),4,栋 玻璃
+07-S17,Mô tả toà nhà,Câu đơn,,大楼旁边有一个小公园。,Dàlóu pángbiān yǒu yí ge xiǎo gōngyuán.,Bên cạnh toà nhà có một công viên nhỏ.,旁边 + 有,4,大楼
+07-S18,Mô tả toà nhà,Câu đơn,,楼下的大厅很大，很漂亮。,"Lóuxià de dàtīng hěn dà, hěn piàoliang.","Sảnh dưới lầu rất rộng, rất đẹp.",很…，很…,4,大厅
+07-S19,Mô tả toà nhà,Câu đơn,,这栋楼一共有多少个单元？,Zhè dòng lóu yígòng yǒu duōshǎo gè dānyuán?,Toà này tổng cộng bao nhiêu căn?,多少个,4,栋
+07-S20,Mô tả toà nhà,Câu đơn,,物业办公室在一楼左边。,Wùyè bàngōngshì zài yīlóu zuǒbian.,Văn phòng ban quản lý ở bên trái tầng 1.,在 + nơi + phương vị,4,物业
+07-S21,Mô tả toà nhà,Câu đơn,,这栋楼有二十年了，有点儿旧。,"Zhè dòng lóu yǒu èrshí nián le, yǒudiǎnr jiù.","Toà này 20 năm rồi, hơi cũ.",有 + thời gian + 了,4,栋
+07-S22,Mô tả toà nhà,Câu đơn,,大楼每年检查一次电梯。,Dàlóu měi nián jiǎnchá yí cì diàntī.,Toà nhà kiểm tra thang máy mỗi năm một lần.,每年 + động từ + 一次,4,大楼 电梯
+07-S23,Mô tả toà nhà,Câu đơn,,顶楼有一个餐厅，可以看到全城。,"Dǐnglóu yǒu yí ge cāntīng, kěyǐ kàndào quán chéng.","Tầng thượng có một nhà hàng, nhìn được toàn thành phố.",可以 + 看到,4,顶楼 餐厅
+07-S24,Mô tả toà nhà,Câu đơn,,楼上楼下都是我们公司的。,Lóushàng lóuxià dōu shì wǒmen gōngsī de.,Trên lầu dưới lầu đều là của công ty chúng tôi.,都是…的,2,
+07-S25,Mô tả toà nhà,Câu đơn,,这栋楼的位置很好，就在大路边。,"Zhè dòng lóu de wèizhì hěn hǎo, jiù zài dà lùbiān.","Toà này vị trí rất đẹp, ngay mặt đường lớn.",就在,4,位置 栋
+07-S26,Mô tả toà nhà,Câu đơn,,大楼的电是二十四小时的。,Dàlóu de diàn shì èrshísì xiǎoshí de.,Điện của toà nhà có 24/24.,是…的,4,大楼
+07-S27,Mô tả toà nhà,Câu đơn,,安全出口在走廊的两边。,Ānquánchūkǒu zài zǒuláng de liǎng biān.,Lối thoát hiểm ở hai bên hành lang.,在…的两边,4,安全出口 走廊
+07-S28,Mô tả toà nhà,Câu đơn,,请不要在楼道里放东西。,Qǐng búyào zài lóudào lǐ fàng dōngxī.,Xin đừng để đồ trong hành lang.,不要 + 在 + nơi + động từ,4,楼道
+07-S29,Mô tả toà nhà,Câu đơn,,这栋楼什么时候建成的？,Zhè dòng lóu shénme shíhou jiànchéng de?,Toà nhà này xây xong khi nào?,什么时候 + V 的？,4,栋
+07-S30,Mô tả toà nhà,Câu đơn,,因为大楼很新，所以租金比较高。,"Yīnwèi dàlóu hěn xīn, suǒyǐ zūjīn bǐjiào gāo.",Vì toà nhà mới nên tiền thuê khá cao.,因为…所以…,4,大楼 租金
+07-D1-1,Mô tả toà nhà,Hội thoại,A,这栋楼有几部电梯？,Zhè dòng lóu yǒu jǐ bù diàntī?,Toà này có mấy thang máy?,,4,栋 电梯
+07-D1-2,Mô tả toà nhà,Hội thoại,B,六部，两部是货梯。,"Liù bù, liǎng bù shì huòtī.","Sáu cái, hai cái là thang chở hàng.",,4,货梯
+07-D2-1,Mô tả toà nhà,Hội thoại,A,晚上来加班能进大楼吗？,Wǎnshang lái jiābān néng jìn dàlóu ma?,Tối đến làm thêm có vào toà nhà được không?,,4,加班 大楼
+07-D2-2,Mô tả toà nhà,Hội thoại,B,可以，刷卡就能进，十点以后要登记。,"Kěyǐ, shuākǎ jiù néng jìn, shí diǎn yǐhòu yào dēngjì.","Được, quẹt thẻ là vào được, sau 10 giờ phải đăng ký.",就能,4,刷卡 登记
+07-D3-1,Mô tả toà nhà,Hội thoại,A,物业费包括什么？,Wùyèfèi bāokuò shénme?,Phí quản lý bao gồm những gì?,,4,包括 物业费
+07-D3-2,Mô tả toà nhà,Hội thoại,B,包括保安、打扫和公共区域的电费。,"Bāokuò bǎo'ān, dǎsǎo hé gōnggòngqūyù de diàn fèi.","Gồm bảo vệ, vệ sinh và tiền điện khu vực chung.",包括…,4,公共区域 包括 打扫
+07-D4-1,Mô tả toà nhà,Hội thoại,A,大楼有停车位吗？,Dàlóu yǒu tíngchēwèi ma?,Toà nhà có chỗ đỗ xe không?,,4,停车位 大楼
+07-D4-2,Mô tả toà nhà,Hội thoại,B,有，在地下二层，每个月八百块。,"Yǒu, zài dìxià èr céng, měi ge yuè bābǎi kuài.","Có, ở tầng hầm 2, mỗi tháng 800 tệ.",,4,地下
+07-D5-1,Mô tả toà nhà,Hội thoại,A,这栋楼是什么时候建的？,Zhè dòng lóu shì shénme shíhou jiàn de?,Toà này xây khi nào?,,4,栋
+07-D5-2,Mô tả toà nhà,Hội thoại,B,是二零一八年建好的，去年刚装修过。,"Shì èrlíngyībā nián jiàn hǎo de, qùnián gāng zhuāngxiū guò.","Xây xong năm 2018, năm ngoái vừa sửa sang lại.",刚 + động từ + 过,4,装修
+07-E001,Mô tả toà nhà,Câu theo từ,,这栋大楼一共有多少层？,Zhè dòng dàlóu yígòng yǒu duōshǎo céng?,Tòa nhà này có tất cả bao nhiêu tầng?,一共有多少…？,4,大楼 栋
+07-E002,Mô tả toà nhà,Câu theo từ,,大楼的大厅很干净。,Dàlóu de dàtīng hěn gānjìng.,Sảnh của tòa nhà rất sạch.,名词 + 很 + 形容词,4,大厅 大楼
+07-E003,Mô tả toà nhà,Câu theo từ,,这一栋是写字楼。,Zhè yí dòng shì xiězìlóu.,Tòa này là cao ốc văn phòng.,这 + 量词 + 是…,4,写字楼 栋
+07-E004,Mô tả toà nhà,Câu theo từ,,那栋大楼有电梯吗？,Nà dòng dàlóu yǒu diàntī ma?,Tòa nhà kia có thang máy không?,有…吗？,4,大楼 栋 电梯
+07-E005,Mô tả toà nhà,Câu theo từ,,电梯在哪儿？我没看见。,Diàntī zài nǎr? Wǒ méi kànjiàn.,Thang máy ở đâu? Tôi không thấy.,在哪儿？,4,电梯
+07-E006,Mô tả toà nhà,Câu theo từ,,请等一下，电梯还没来。,"Qǐng děng yí xià, diàntī hái méi lái.","Xin đợi một chút, thang máy chưa đến.",还没…,4,电梯
+07-E007,Mô tả toà nhà,Câu theo từ,,货梯在楼的后面。,Huòtī zài lóu de hòumiàn.,Thang hàng ở phía sau tòa nhà.,在…后面,4,货梯
+07-E008,Mô tả toà nhà,Câu theo từ,,东西太多，用货梯吧。,"Dōngxī tài duō, yòng huòtī ba.","Đồ nhiều quá, dùng thang hàng đi.",…吧,4,货梯
+07-E009,Mô tả toà nhà,Câu theo từ,,楼梯在电梯左边。,Lóutī zài diàntī zuǒbian.,Cầu thang ở bên trái thang máy.,在…左边,4,楼梯 电梯
+07-E010,Mô tả toà nhà,Câu theo từ,,我走楼梯，不坐电梯。,"Wǒ zǒu lóutī, bú zuò diàntī.","Tôi đi cầu thang, không đi thang máy.",不 + 动词,4,楼梯 电梯
+07-E011,Mô tả toà nhà,Câu theo từ,,这是新的写字楼，很漂亮。,"Zhè shì xīn de xiězìlóu, hěn piàoliang.","Đây là cao ốc văn phòng mới, rất đẹp.",很 + 形容词,4,写字楼
+07-E012,Mô tả toà nhà,Câu theo từ,,写字楼里有餐厅吗？,Xiězìlóu lǐ yǒu cāntīng ma?,Trong cao ốc văn phòng có nhà ăn không?,有…吗？,4,写字楼 餐厅
+07-E013,Mô tả toà nhà,Câu theo từ,,物业在几楼？我想问一下。,Wùyè zài jǐ lóu? Wǒ xiǎng wèn yí xià.,Ban quản lý ở tầng mấy? Tôi muốn hỏi một chút.,问一下,4,物业
+07-E014,Mô tả toà nhà,Câu theo từ,,有事可以找物业。,Yǒu shì kěyǐ zhǎo wùyè.,Có việc thì có thể tìm ban quản lý.,可以 + 动词,4,物业
+07-E015,Mô tả toà nhà,Câu theo từ,,地下有停车位吗？,Dìxià yǒu tíngchēwèi ma?,Dưới tầng hầm có chỗ đỗ xe không?,有…吗？,4,停车位 地下
+07-E016,Mô tả toà nhà,Câu theo từ,,停车位不多，早点儿来。,"Tíngchēwèi bù duō, zǎodiǎnr lái.","Chỗ đỗ xe không nhiều, đến sớm một chút.",一点儿,4,停车位
+07-E017,Mô tả toà nhà,Câu theo từ,,停车位在地下二层。,Tíngchēwèi zài dìxià èr céng.,Chỗ đỗ xe ở tầng hầm thứ hai.,在 + 地点,4,停车位 地下
+07-E018,Mô tả toà nhà,Câu theo từ,,地下有电梯吗？,Dìxià yǒu diàntī ma?,Dưới tầng hầm có thang máy không?,有…吗？,4,地下 电梯
+07-E019,Mô tả toà nhà,Câu theo từ,,访客请先登记。,Fǎngkè qǐng xiān dēngjì.,Khách đến thăm vui lòng đăng ký trước.,请先 + động từ,4,登记 访客
+07-E020,Mô tả toà nhà,Câu theo từ,,访客不能坐货梯。,Fǎngkè bù néng zuò huòtī.,Khách đến thăm không được đi thang máy chở hàng.,不能 + động từ,4,访客 货梯
+07-E021,Mô tả toà nhà,Câu theo từ,,请在大厅登记一下。,Qǐng zài dàtīng dēngjì yí xià.,Vui lòng đăng ký ở sảnh một chút.,động từ + 一下,4,大厅 登记
+07-E022,Mô tả toà nhà,Câu theo từ,,你登记了吗？,Nǐ dēngjì le ma?,Bạn đã đăng ký chưa?,…了吗？,4,登记
+07-E023,Mô tả toà nhà,Câu theo từ,,大厅里有饮水机。,Dàtīng lǐ yǒu yǐnshuǐjī.,Trong sảnh có máy nước uống.,有,4,大厅 饮水机
+07-E024,Mô tả toà nhà,Câu theo từ,,大厅的玻璃很干净。,Dàtīng de bōli hěn gānjìng.,Kính ở sảnh rất sạch.,很 + tính từ,4,大厅 玻璃
+07-E025,Mô tả toà nhà,Câu theo từ,,饮水机在走廊旁边。,Yǐnshuǐjī zài zǒuláng pángbiān.,Máy nước uống ở cạnh hành lang.,在…旁边,4,走廊 饮水机
+07-E026,Mô tả toà nhà,Câu theo từ,,饮水机坏了吗？,Yǐnshuǐjī huài le ma?,Máy nước uống bị hỏng rồi à?,…了吗？,4,饮水机
+07-E027,Mô tả toà nhà,Câu theo từ,,这栋楼的玻璃门很安全。,Zhè dòng lóu de bōli mén hěn ānquán.,Cửa kính của tòa nhà này rất an toàn.,这栋楼的 + danh từ,4,栋 玻璃
+07-E028,Mô tả toà nhà,Câu theo từ,,别靠玻璃太近！,Bié kào bōli tài jìn!,Đừng dựa sát vào kính quá!,别 + động từ,4,玻璃
+07-E029,Mô tả toà nhà,Câu theo từ,,顶楼有餐厅吗？,Dǐnglóu yǒu cāntīng ma?,Tầng thượng có nhà hàng không?,有…吗？,4,顶楼 餐厅
+07-E030,Mô tả toà nhà,Câu theo từ,,顶楼的公共区域很大。,Dǐnglóu de gōnggòngqūyù hěn dà.,Khu vực công cộng ở tầng thượng rất rộng.,很 + tính từ,4,公共区域 顶楼
+07-E031,Mô tả toà nhà,Câu theo từ,,餐厅在顶楼，你上去吧。,"Cāntīng zài dǐnglóu, nǐ shàngqù ba.","Nhà hàng ở tầng thượng, bạn lên đi.",在 + 地点,4,顶楼 餐厅
+07-E032,Mô tả toà nhà,Câu theo từ,,餐厅旁边有楼梯。,Cāntīng pángbiān yǒu lóutī.,Cạnh nhà hàng có cầu thang.,…旁边有…,4,楼梯 餐厅
+07-E033,Mô tả toà nhà,Câu theo từ,,安全出口在走廊左边。,Ānquánchūkǒu zài zǒuláng zuǒbian.,Lối thoát hiểm ở bên trái hành lang.,在 + 方位,4,安全出口 走廊
+07-E034,Mô tả toà nhà,Câu theo từ,,请别在安全出口停车！,Qǐng bié zài ānquánchūkǒu tíngchē!,Xin đừng đỗ xe ở lối thoát hiểm!,别 + động từ,4,安全出口
+07-E035,Mô tả toà nhà,Câu theo từ,,走廊的灯坏了吗？,Zǒuláng de dēng huài le ma?,Đèn hành lang bị hỏng rồi à?,…了吗？,4,走廊
+07-E036,Mô tả toà nhà,Câu theo từ,,走廊很长，玻璃也很干净。,"Zǒuláng hěn zhǎng, bōli yě hěn gānjìng.","Hành lang rất dài, kính cũng rất sạch.",很 + tính từ,4,玻璃 走廊
+07-E037,Mô tả toà nhà,Câu theo từ,,楼道里请小声一点。,Lóudào lǐ qǐng xiǎoshēng yī diǎn.,Trong hành lang cầu thang xin nói nhỏ một chút.,请 + động từ + 一点,4,楼道
+07-E038,Mô tả toà nhà,Câu theo từ,,楼道里没有灯，请走楼梯。,"Lóudào lǐ méiyǒu dēng, qǐng zǒu lóutī.","Trong hành lang cầu thang không có đèn, xin đi cầu thang bộ.",里没有…，请…,4,楼梯 楼道
+07-E039,Mô tả toà nhà,Câu theo từ,,这个区域可以停车吗？,Zhège qūyù kěyǐ tíngchē ma?,Khu vực này có thể đỗ xe không?,可以…吗？,4,区域
+07-E040,Mô tả toà nhà,Câu theo từ,,这个区域不能停车。,Zhège qūyù bù néng tíngchē.,Khu vực này không được đỗ xe.,这个 + 名词 + 不能 + 动词,4,区域
+07-E041,Mô tả toà nhà,Câu theo từ,,公共区域每天有人打扫。,Gōnggòngqūyù měi tiān yǒurén dǎsǎo.,Khu vực chung mỗi ngày đều có người dọn dẹp.,有人 + động từ,4,公共区域 打扫
+07-E042,Mô tả toà nhà,Câu theo từ,,请不要在公共区域放东西。,Qǐng búyào zài gōnggòngqūyù fàng dōngxī.,Xin đừng để đồ ở khu vực chung.,请不要 + động từ,4,公共区域
+08-S01,Thi công xây dựng,Câu đơn,,装修什么时候开始？,Zhuāngxiū shénme shíhou kāishǐ?,Khi nào bắt đầu thi công?,什么时候 + động từ,4,装修
+08-S02,Thi công xây dựng,Câu đơn,,装修大概需要一个月。,Zhuāngxiū dàgài xūyào yí ge yuè.,Thi công khoảng một tháng.,需要 + thời gian,4,装修
+08-S03,Thi công xây dựng,Câu đơn,,工人明天早上八点来。,Gōngrén míngtiān zǎoshang bā diǎn lái.,Thợ đến lúc 8 giờ sáng mai.,thời gian trước động từ,1,
+08-S04,Thi công xây dựng,Câu đơn,,墙要刷成白色。,Qiáng yào shuā chéng báisè.,Tường phải sơn thành màu trắng.,động từ + 成,4,刷
+08-S05,Thi công xây dựng,Câu đơn,,先做水电，然后再铺地板。,"Xiān zuò shuǐ diàn, ránhòu zài pù dìbǎn.","Làm điện nước trước, sau đó mới lát sàn.",先…然后再…,4,地板 铺
+08-S06,Thi công xây dựng,Câu đơn,,材料都准备好了吗？,Cáiliào dōu zhǔnbèi hǎo le ma?,Vật liệu chuẩn bị xong hết chưa?,động từ + 好,4,材料
+08-S07,Thi công xây dựng,Câu đơn,,施工的时候请注意安全。,Shīgōng de shíhou qǐng zhùyì ānquán.,Khi thi công xin chú ý an toàn.,…的时候,4,施工
+08-S08,Thi công xây dựng,Câu đơn,,晚上六点以后不能施工。,Wǎnshang liù diǎn yǐhòu bù néng shīgōng.,Sau 6 giờ tối không được thi công.,…以后 + 不能,4,施工
+08-S09,Thi công xây dựng,Câu đơn,,完成以后，我们一起检查一下。,"Wánchéng yǐhòu, wǒmen yìqǐ jiǎnchá yí xià.",Làm xong chúng ta cùng kiểm tra.,一起 + V + 一下,2,
+08-S10,Thi công xây dựng,Câu đơn,,这面墙要拆掉吗？,Zhè miàn qiáng yào chāidiào ma?,Bức tường này có phải đập bỏ không?,động từ + 掉,4,拆掉
+08-S11,Thi công xây dựng,Câu đơn,,这面墙不能拆，是承重墙。,"Zhè miàn qiáng bù néng chāi, shì chéngzhòngqiáng.","Bức tường này không đập được, là tường chịu lực.",不能 + động từ,4,承重墙 拆
+08-S12,Thi công xây dựng,Câu đơn,,我们想把两个房间改成一个大办公室。,Wǒmen xiǎng bǎ liǎng ge fángjiān gǎi chéng yí ge dà bàngōngshì.,Chúng tôi muốn gộp hai phòng thành một văn phòng lớn.,把 A 改成 B,3,
+08-S13,Thi công xây dựng,Câu đơn,,请先给我一个报价。,Qǐng xiān gěi wǒ yí ge bàojià.,Xin gửi tôi bảng báo giá trước.,给 + người + vật,4,报价
+08-S14,Thi công xây dựng,Câu đơn,,这个报价包括材料费吗？,Zhège bàojià bāokuò cáiliàofèi ma?,Báo giá này đã gồm tiền vật liệu chưa?,包括…吗？,4,包括 报价 材料费
+08-S15,Thi công xây dựng,Câu đơn,,人工费和材料费是分开算的。,Réngōngfèi hé cáiliàofèi shì fēnkāi suàn de.,Tiền công và tiền vật liệu tính riêng.,是…的,4,人工费 材料费
+08-S16,Thi công xây dựng,Câu đơn,,地板用木地板还是瓷砖？,Dìbǎn yòng mùdìbǎn háishi cízhuān?,Sàn dùng sàn gỗ hay gạch men?,A 还是 B？,4,地板 木地板 瓷砖
+08-S17,Thi công xây dựng,Câu đơn,,卫生间的地板要防水。,Wèishēngjiān de dìbǎn yào fángshuǐ.,Sàn nhà vệ sinh phải chống thấm.,要 + động từ,4,地板 防水
+08-S18,Thi công xây dựng,Câu đơn,,工人每天几点上班？,Gōngrén měi tiān jǐ diǎn shàngbān?,Thợ mỗi ngày mấy giờ vào làm?,几点 + động từ,3,
+08-S19,Thi công xây dựng,Câu đơn,,周末可以施工吗？,Zhōumò kěyǐ shīgōng ma?,Cuối tuần có thi công được không?,可以…吗？,4,施工
+08-S20,Thi công xây dựng,Câu đơn,,楼上的邻居说声音太大了。,Lóushàng de línjū shuō shēngyīn tài dà le.,Hàng xóm tầng trên nói tiếng ồn quá lớn.,太…了,4,邻居
+08-S21,Thi công xây dựng,Câu đơn,,装修垃圾要放在指定的地方。,Zhuāngxiū lājī yào fàng zài zhǐdìng de dìfāng.,Rác xây dựng phải để đúng nơi quy định.,放在 + nơi,4,垃圾 指定 装修
+08-S22,Thi công xây dựng,Câu đơn,,这里的灯要换成更亮的。,Zhèlǐ de dēng yào huàn chéng gèng liàng de.,Đèn chỗ này phải thay loại sáng hơn.,换成 + tính từ + 的,2,
+08-S23,Thi công xây dựng,Câu đơn,,插座要多装几个。,Chāzuò yào duō zhuāng jǐ ge.,Ổ cắm phải lắp thêm vài cái.,多 + động từ + 几个,4,插座
+08-S24,Thi công xây dựng,Câu đơn,,工期可能要推迟一个星期。,Gōngqī kěnéng yào tuīchí yí ge xīngqī.,Tiến độ có thể phải lùi một tuần.,推迟 + thời gian,4,工期 推迟
+08-S25,Thi công xây dựng,Câu đơn,,为什么比计划慢了这么多？,Wèishénme bǐ jìhuà màn le zhème duō?,Sao chậm hơn kế hoạch nhiều vậy?,比…慢了 + 这么多,2,
+08-S26,Thi công xây dựng,Câu đơn,,因为材料还没到，所以停了两天。,"Yīnwèi cáiliào hái méi dào, suǒyǐ tíng le liǎng tiān.",Vì vật liệu chưa về nên ngừng hai ngày.,因为…所以…,4,材料
+08-S27,Thi công xây dựng,Câu đơn,,这里做得不太好，要重新做。,"Zhèlǐ zuò dé bútài hǎo, yào chóngxīn zuò.","Chỗ này làm chưa tốt, phải làm lại.",重新 + động từ,2,
+08-S28,Thi công xây dựng,Câu đơn,,颜色跟我们说的不一样。,Yánsè gēn wǒmen shuō de bù yíyàng.,Màu khác với cái chúng tôi đã nói.,跟…不一样,2,
+08-S29,Thi công xây dựng,Câu đơn,,装修完以后要开窗通风一个月。,Zhuāngxiū wán yǐhòu yào kāichuāng tōngfēng yí ge yuè.,Sửa xong phải mở cửa cho thoáng một tháng.,V + 完 + 以后,4,开窗 装修 通风
+08-S30,Thi công xây dựng,Câu đơn,,钱分三次付：开工、中期和完工。,"Qián fēn sān cì fù: kāigōng, zhōngqī hé wángōng.","Tiền trả ba đợt: khởi công, giữa kỳ và hoàn thành.",分 + số + 次,4,中期 完工 开工
+08-D1-1,Thi công xây dựng,Hội thoại,A,装修要多长时间？,Zhuāngxiū yào duōcháng shíjiān?,Thi công mất bao lâu?,,4,装修
+08-D1-2,Thi công xây dựng,Hội thoại,B,如果材料没问题，大概四个星期。,"Rúguǒ cáiliào méi wèntí, dàgài sì ge xīngqī.","Nếu vật liệu không có vấn đề, khoảng bốn tuần.",如果…，大概…,4,材料
+08-D2-1,Thi công xây dựng,Hội thoại,A,这个价格包括材料吗？,Zhège jiàgé bāokuò cáiliào ma?,Giá này gồm vật liệu chưa?,,4,包括 材料
+08-D2-2,Thi công xây dựng,Hội thoại,B,包括主要材料，灯和家具另算。,"Bāokuò zhǔyào cáiliào, dēng hé jiājù lìngsuàn.","Gồm vật liệu chính, đèn và nội thất tính riêng.",另 + động từ,4,包括 另算 材料
+08-D3-1,Thi công xây dựng,Hội thoại,A,工人明天几点到？,Gōngrén míngtiān jǐ diǎn dào?,Mai thợ mấy giờ đến?,,1,
+08-D3-2,Thi công xây dựng,Hội thoại,B,八点到，五点半结束，中午休息一个小时。,"Bā diǎn dào, wǔ diǎn bàn jiéshù, zhōngwǔ xiūxi yí ge xiǎoshí.","8 giờ đến, 5 rưỡi xong, trưa nghỉ một tiếng.",,3,
+08-D4-1,Thi công xây dựng,Hội thoại,A,这面墙可以拆吗？,Zhè miàn qiáng kěyǐ chāi ma?,Bức tường này đập được không?,,4,拆
+08-D4-2,Thi công xây dựng,Hội thoại,B,我先看一下，是承重墙的话就不能拆。,"Wǒ xiān kàn yí xià, shì chéngzhòngqiáng dehuà jiù bù néng chāi.","Để tôi xem trước, nếu là tường chịu lực thì không đập được.",…的话就…,4,承重墙 拆
+08-D5-1,Thi công xây dựng,Hội thoại,A,你看，这里的颜色不对。,"Nǐ kàn, zhèlǐ de yánsè búduì.","Anh xem, màu chỗ này không đúng.",,2,
+08-D5-2,Thi công xây dựng,Hội thoại,B,对不起，我们明天马上改。,"Duìbuqǐ, wǒmen míngtiān mǎshàng gǎi.","Xin lỗi, mai chúng tôi sửa ngay.",马上 + động từ,2,
+08-E001,Thi công xây dựng,Câu theo từ,,施工的时候要小心一点。,Shīgōng de shíhou yào xiǎoxīn yī diǎn.,Khi thi công phải cẩn thận một chút.,…的时候,4,施工
+08-E002,Thi công xây dựng,Câu theo từ,,这里明天开始施工。,Zhèlǐ míngtiān kāishǐ shīgōng.,Ở đây mai bắt đầu thi công.,开始 + động từ,4,施工
+08-E003,Thi công xây dựng,Câu theo từ,,工人今天下午会来刷墙。,Gōngrén jīntiān xiàwǔ huì lái shuā qiáng.,Chiều nay công nhân sẽ đến sơn tường.,会 + động từ,4,刷
+08-E004,Thi công xây dựng,Câu theo từ,,工人在铺木地板吗？,Gōngrén zài pù mùdìbǎn ma?,Công nhân đang lát sàn gỗ à?,在 + động từ + 吗,4,木地板 铺
+08-E005,Thi công xây dựng,Câu theo từ,,这面墙要重新刷一下。,Zhè miàn qiáng yào chóngxīn shuā yí xià.,Bức tường này phải sơn lại một chút.,động từ + 一下,4,刷
+08-E006,Thi công xây dựng,Câu theo từ,,墙上的插座太高了。,Qiáng shàng de chāzuò tài gāo le.,Ổ cắm trên tường cao quá.,名词 + 上,4,插座
+08-E007,Thi công xây dựng,Câu theo từ,,承重墙不能拆掉。,Chéngzhòngqiáng bù néng chāidiào.,Tường chịu lực không được đập bỏ.,不能 + động từ,4,承重墙 拆掉
+08-E008,Thi công xây dựng,Câu theo từ,,那是承重墙，别动！,"Nà shì chéngzhòngqiáng, bié dòng!","Đó là tường chịu lực, đừng động vào!",别 + động từ,4,承重墙
+08-E009,Thi công xây dựng,Câu theo từ,,先别拆，等报价出来。,"Xiān bié chāi, děng bàojià chūlái.","Đừng tháo vội, đợi báo giá ra đã.",先别…，等…,4,报价 拆
+08-E010,Thi công xây dựng,Câu theo từ,,这面墙要拆吗？,Zhè miàn qiáng yào chāi ma?,Bức tường này có phải đập bỏ không?,要…吗？,4,拆
+08-E011,Thi công xây dựng,Câu theo từ,,这面墙可以拆掉吗？,Zhè miàn qiáng kěyǐ chāidiào ma?,Bức tường này có thể đập bỏ không?,可以 + động từ + 吗,4,拆掉
+08-E012,Thi công xây dựng,Câu theo từ,,旧的瓷砖都拆掉了。,Jiù de cízhuān dōu chāidiào le.,Gạch ốp cũ đều đã đập bỏ rồi.,都 + 了,4,拆掉 瓷砖
+08-E013,Thi công xây dựng,Câu theo từ,,地板有点脏，再刷一次。,"Dìbǎn yǒu diǎn zàng, zài shuā yí cì.","Sàn hơi bẩn, sơn lại lần nữa.",再 + động từ + 一次,4,刷 地板
+08-E014,Thi công xây dựng,Câu theo từ,,地板什么时候能完工？,Dìbǎn shénme shíhou néng wángōng?,Khi nào sàn có thể hoàn công?,什么时候 + 能,4,地板 完工
+08-E015,Thi công xây dựng,Câu theo từ,,我们铺木地板吧。,Wǒmen pù mùdìbǎn ba.,Chúng ta lát sàn gỗ nhé.,吧 (đề nghị),4,木地板 铺
+08-E016,Thi công xây dựng,Câu theo từ,,木地板的人工费贵吗？,Mùdìbǎn de réngōngfèi guì ma?,Tiền công lát sàn gỗ có đắt không?,…吗,4,人工费 木地板
+08-E017,Thi công xây dựng,Câu theo từ,,这种瓷砖多少钱一块？,Zhè zhǒng cízhuān duōshǎo qián yí kuài?,Loại gạch men này bao nhiêu tiền một viên?,多少钱 + lượng từ,4,瓷砖
+08-E018,Thi công xây dựng,Câu theo từ,,卫生间的瓷砖还没铺完。,Wèishēngjiān de cízhuān hái méi pù wán.,Gạch men nhà vệ sinh vẫn chưa lát xong.,还没…完,4,瓷砖 铺
+08-E019,Thi công xây dựng,Câu theo từ,,客厅的地板明天开始铺。,Kètīng de dìbǎn míngtiān kāishǐ pù.,Sàn phòng khách mai bắt đầu lát.,开始 + động từ,4,地板 客厅 铺
+08-E020,Thi công xây dựng,Câu theo từ,,木地板要铺得平一点。,Mùdìbǎn yào pù dé píng yī diǎn.,Sàn gỗ phải lát phẳng một chút.,động từ + 得 + tính từ + 一点,4,木地板 铺
+08-E021,Thi công xây dựng,Câu theo từ,,工人今天在刷第二遍墙。,Gōngrén jīntiān zài shuā dì'èr biàn qiáng.,Hôm nay thợ đang sơn lớp tường thứ hai.,在 + động từ,4,刷
+08-E022,Thi công xây dựng,Câu theo từ,,这面墙刷什么颜色？,Zhè miàn qiáng shuā shénme yánsè?,Bức tường này sơn màu gì?,疑问句：刷 + 什么颜色,4,刷
+08-E023,Thi công xây dựng,Câu theo từ,,防水没做好，以后会麻烦。,"Fángshuǐ méi zuò hǎo, yǐhòu huì máfan.","Chống thấm không làm tốt, sau này sẽ rắc rối.",没…好,4,防水
+08-E024,Thi công xây dựng,Câu theo từ,,防水做完要通风两天。,Fángshuǐ zuò wán yào tōngfēng liǎng tiān.,Làm xong chống thấm phải thông gió hai ngày.,động từ + 完 要…,4,通风 防水
+08-E025,Thi công xây dựng,Câu theo từ,,报价里包括材料费吗？,Bàojià lǐ bāokuò cáiliàofèi ma?,Trong báo giá có gồm tiền vật liệu không?,包括…吗,4,包括 报价 材料费
+08-E026,Thi công xây dựng,Câu theo từ,,这个报价太高，能重新算吗？,"Zhège bàojià tài gāo, néng chóngxīn suàn ma?","Báo giá này cao quá, tính lại được không?",能…吗,4,报价
+08-E027,Thi công xây dựng,Câu theo từ,,人工费按天算还是按工期算？,Réngōngfèi àn tiān suàn háishi àn gōngqī suàn?,Tiền công tính theo ngày hay theo thời gian thi công?,按…还是按…,4,人工费 工期
+08-E028,Thi công xây dựng,Câu theo từ,,人工费涨了，报价也得改。,"Réngōngfèi zhǎng le, bàojià yě dé gǎi.","Tiền công tăng rồi, báo giá cũng phải sửa.",…了，…也得…,4,人工费 报价 涨
+08-E029,Thi công xây dựng,Câu theo từ,,材料费大概占一半。,Cáiliàofèi dàgài zhàn yíbàn.,Tiền vật liệu chiếm khoảng một nửa.,大概 + số lượng,4,材料费
+08-E030,Thi công xây dựng,Câu theo từ,,材料费先付，人工费完工再付。,"Cáiliàofèi xiān fù, réngōngfèi wángōng zài fù.","Tiền vật liệu trả trước, tiền công xong việc mới trả.",先…再…,4,人工费 完工 材料费
+08-E031,Thi công xây dựng,Câu theo từ,,厨房要多留两个插座。,Chúfáng yào duō liú liǎng ge chāzuò.,Nhà bếp phải để thêm hai ổ cắm.,多 + động từ + lượng từ,4,厨房 插座
+08-E032,Thi công xây dựng,Câu theo từ,,插座的位置要重新定一下。,Chāzuò de wèizhì yào chóngxīn dìng yí xià.,Vị trí ổ cắm phải định lại một chút.,động từ + 一下,4,位置 定 插座
+08-E033,Thi công xây dựng,Câu theo từ,,这个工期太短，做不完。,"Zhège gōngqī tài duǎn, zuò bù wán.","Tiến độ thi công này quá ngắn, không làm xong được.",太…，做不完,4,工期
+08-E034,Thi công xây dựng,Câu theo từ,,这个工期太短了，工人很累。,"Zhège gōngqī tài duǎn le, gōngrén hěn lèi.","Tiến độ thi công này quá ngắn, công nhân rất mệt.",太…了,4,工期
+08-E035,Thi công xây dựng,Câu theo từ,,材料没到，开工要推迟。,"Cáiliào méi dào, kāigōng yào tuīchí.","Vật liệu chưa đến, phải hoãn khởi công.",要 + động từ,4,开工 推迟 材料
+08-E036,Thi công xây dựng,Câu theo từ,,下雨了，铺地板推迟到明天。,"Xiàyǔ le, pù dìbǎn tuīchí dào míngtiān.","Mưa rồi, việc lát sàn lùi sang ngày mai.",推迟到…,4,地板 推迟 铺
+08-E037,Thi công xây dựng,Câu theo từ,,我们下周一开工，可以吗？,"Wǒmen xiàzhōu yì kāigōng, kěyǐ ma?","Thứ Hai tuần sau chúng tôi khởi công, được không?",可以吗？,4,开工
+08-E038,Thi công xây dựng,Câu theo từ,,报价定了就马上开工。,Bàojià dìng le jiù mǎshàng kāigōng.,Báo giá chốt xong là khởi công ngay.,…就马上…,4,定 开工 报价
+08-E039,Thi công xây dựng,Câu theo từ,,墙刷完就完工了。,Qiáng shuā wán jiù wángōng le.,Sơn tường xong là hoàn công.,…就…了,4,刷 完工
+08-E040,Thi công xây dựng,Câu theo từ,,地板铺好就完工了。,Dìbǎn pù hǎo jiù wángōng le.,Lát xong sàn là hoàn công rồi.,…就…了,4,地板 完工 铺
+08-E041,Thi công xây dựng,Câu theo từ,,中期要检查一下防水。,Zhōngqī yào jiǎnchá yí xià fángshuǐ.,Giữa kỳ phải kiểm tra chống thấm một chút.,要 + động từ + 一下,4,中期 防水
+08-E042,Thi công xây dựng,Câu theo từ,,中期的人工费先付一半。,Zhōngqī de réngōngfèi xiān fù yíbàn.,Tiền công giữa kỳ trả trước một nửa.,先 + động từ,4,中期 人工费
+08-E043,Thi công xây dựng,Câu theo từ,,刷完墙要通风几天。,Shuā wán qiáng yào tōngfēng jǐ tiān.,Sơn tường xong phải thông gió vài ngày.,要 + động từ + 几天,4,刷 通风
+08-E044,Thi công xây dựng,Câu theo từ,,这里不通风，工人不舒服。,"Zhèlǐ bù tōngfēng, gōngrén bù shūfu.","Chỗ này không thông gió, thợ thấy khó chịu.",不 + động từ,4,通风
+08-E045,Thi công xây dựng,Câu theo từ,,这块瓷砖没铺好，重新铺。,"Zhè kuài cízhuān méi pù hǎo, chóngxīn pù.","Viên gạch này lát chưa đẹp, lát lại.",没…好，重新…,4,瓷砖 铺
+08-E046,Thi công xây dựng,Câu theo từ,,地板拆掉了，要重新铺。,"Dìbǎn chāidiào le, yào chóngxīn pù.","Sàn đã dỡ rồi, phải lát lại.",要 + động từ,4,地板 拆掉 铺
+09-S01,Sửa đồ văn phòng,Câu đơn,,打印机坏了，不能用了。,"Dǎyìnjī huài le, bù néng yòng le.","Máy in hỏng rồi, không dùng được nữa.",…了 (thay đổi trạng thái),4,打印机
+09-S02,Sửa đồ văn phòng,Câu đơn,,空调不冷了，请你来看一下。,"Kōngtiáo bù lěng le, qǐng nǐ lái kàn yí xià.","Máy lạnh không mát nữa, anh qua xem giúp.",不…了 (không… nữa),3,
+09-S03,Sửa đồ văn phòng,Câu đơn,,师傅，你什么时候能来修？,"Shīfu, nǐ shénme shíhou néng lái xiū?","Anh thợ ơi, khi nào anh qua sửa được?",能 + 来 + động từ,4,师傅
+09-S04,Sửa đồ văn phòng,Câu đơn,,洗手间漏水了。,Xǐshǒujiān lòushuǐ le.,Nhà vệ sinh bị rò nước rồi.,…了,4,漏水
+09-S05,Sửa đồ văn phòng,Câu đơn,,电脑有问题，打不开了。,"Diànnǎo yǒu wèntí, dǎ bù kāi le.","Máy tính có vấn đề, không mở lên được.",bổ ngữ khả năng 打不开,2,
+09-S06,Sửa đồ văn phòng,Câu đơn,,这个灯要换一个新的。,Zhège dēng yào huàn yí ge xīn de.,Bóng đèn này phải thay cái mới.,换 + 一个新的,2,
+09-S07,Sửa đồ văn phòng,Câu đơn,,网络太慢了，能帮我检查一下吗？,"Wǎngluò tài màn le, néng bāng wǒ jiǎnchá yí xià ma?","Mạng chậm quá, kiểm tra giúp tôi được không?",太…了,4,网络
+09-S08,Sửa đồ văn phòng,Câu đơn,,问题已经解决了，谢谢你。,"Wèntí yǐjīng jiějué le, xièxie nǐ.","Vấn đề giải quyết xong rồi, cảm ơn anh.",已经…了,3,
+09-S09,Sửa đồ văn phòng,Câu đơn,,修好了吗？要多少钱？,Xiū hǎo le ma? Yào duōshǎo qián?,Sửa xong chưa? Hết bao nhiêu tiền?,động từ + 好了,3,
+09-S10,Sửa đồ văn phòng,Câu đơn,,会议室的投影仪没有声音。,Huìyìshì de tóuyǐngyí méiyǒu shēngyīn.,Máy chiếu phòng họp không có tiếng.,没有 + danh từ,4,会议室 投影仪
+09-S11,Sửa đồ văn phòng,Câu đơn,,这个插座没有电。,Zhège chāzuò méiyǒu diàn.,Ổ cắm này không có điện.,没有电,4,插座
+09-S12,Sửa đồ văn phòng,Câu đơn,,刚才突然停电了。,Gāngcái tūrán tíngdiàn le.,Vừa nãy đột nhiên mất điện.,突然 + động từ,4,停电
+09-S13,Sửa đồ văn phòng,Câu đơn,,门锁坏了，关不上。,"Ménsuǒ huài le, guān bú shàng.","Khoá cửa hỏng rồi, đóng không được.",bổ ngữ khả năng 关不上,4,门锁
+09-S14,Sửa đồ văn phòng,Câu đơn,,椅子坏了一条腿，很危险。,"Yǐzi huài le yì tiáo tuǐ, hěn wēixiǎn.","Ghế gãy một chân, rất nguy hiểm.",động từ + 了 + số lượng,3,
+09-S15,Sửa đồ văn phòng,Câu đơn,,复印机里面的纸卡住了。,Fùyìnjī lǐmiàn de zhǐ kǎzhù le.,Giấy bị kẹt trong máy photo.,卡住了,4,卡住 复印机
+09-S16,Sửa đồ văn phòng,Câu đơn,,打印出来的字不清楚。,Dǎyìn chūlái de zì bù qīngchu.,Chữ in ra không rõ.,động từ + 出来,2,
+09-S17,Sửa đồ văn phòng,Câu đơn,,可能是没有墨了。,Kěnéng shì méiyǒu mò le.,Có thể là hết mực rồi.,可能是…,4,墨
+09-S18,Sửa đồ văn phòng,Câu đơn,,空调一直在滴水。,Kōngtiáo yìzhí zài dīshuǐ.,Máy lạnh cứ nhỏ nước mãi.,一直在 + động từ,4,滴水
+09-S19,Sửa đồ văn phòng,Câu đơn,,这个问题我自己解决不了。,Zhège wèntí wǒ zìjǐ jiějué bù le.,Vấn đề này tôi tự giải quyết không được.,动词 + 不了,3,
+09-S20,Sửa đồ văn phòng,Câu đơn,,请你找物业派人来修。,Qǐng nǐ zhǎo wùyè pàirén lái xiū.,Anh nhờ ban quản lý cử người đến sửa.,派 + người + 来 + động từ,4,派人 物业
+09-S21,Sửa đồ văn phòng,Câu đơn,,师傅说下午三点左右到。,Shīfu shuō xiàwǔ sān diǎn zuǒyòu dào.,Anh thợ nói khoảng 3 giờ chiều đến.,…左右,4,师傅
+09-S22,Sửa đồ văn phòng,Câu đơn,,修空调要多长时间？,Xiū kōngtiáo yào duōcháng shíjiān?,Sửa máy lạnh mất bao lâu?,要 + 多长时间,3,
+09-S23,Sửa đồ văn phòng,Câu đơn,,这个零件要从外面买。,Zhège língjiàn yào cóng wàimiàn mǎi.,Linh kiện này phải mua bên ngoài.,从 + nơi + 买,4,零件
+09-S24,Sửa đồ văn phòng,Câu đơn,,保修期内修理是免费的。,Bǎoxiūqī nèi xiūlǐ shì miǎnfèi de.,Trong thời gian bảo hành sửa miễn phí.,是…的,4,保修期 修理 免费
+09-S25,Sửa đồ văn phòng,Câu đơn,,这台电脑已经过了保修期。,Zhè tái diànnǎo yǐjīng guò le bǎoxiūqī.,Máy tính này đã hết hạn bảo hành.,过了 + 期,4,保修期
+09-S26,Sửa đồ văn phòng,Câu đơn,,修不好的话就换一台新的吧。,Xiū bù hǎo dehuà jiù huàn yì tái xīn de ba.,Nếu sửa không được thì thay cái mới đi.,…的话就…吧,3,
+09-S27,Sửa đồ văn phòng,Câu đơn,,请先关掉电源，再检查。,"Qǐng xiān guāndiào diànyuán, zài jiǎnchá.",Tắt nguồn trước rồi hãy kiểm tra.,先…再…,4,关掉 电源
+09-S28,Sửa đồ văn phòng,Câu đơn,,水管坏了，地上全是水。,"Shuǐguǎn huài le, dìshang quán shì shuǐ.","Ống nước hỏng, dưới sàn toàn là nước.",全是 + danh từ,4,水管
+09-S29,Sửa đồ văn phòng,Câu đơn,,上次修过以后又坏了。,Shàngcì xiū guò yǐhòu yòu huài le.,Lần trước sửa rồi mà lại hỏng.,又 + động từ + 了,3,
+09-S30,Sửa đồ văn phòng,Câu đơn,,麻烦你今天一定要来。,Máfan nǐ jīntiān yídìng yào lái.,Phiền anh hôm nay nhất định phải đến.,一定要 + động từ,3,
+09-D1-1,Sửa đồ văn phòng,Hội thoại,A,喂，物业吗？我们办公室的空调坏了。,"Wèi, wùyè ma? Wǒmen bàngōngshì de kōngtiáo huài le.","Alô, ban quản lý phải không? Máy lạnh văn phòng chúng tôi hỏng rồi.",,4,物业
+09-D1-2,Sửa đồ văn phòng,Hội thoại,B,好的，我们马上派人上去看。,"Hǎo de, wǒmen mǎshàng pàirén shàngqù kàn.","Vâng, chúng tôi cử người lên xem ngay.",派人 + 上去,4,派人
+09-D2-1,Sửa đồ văn phòng,Hội thoại,A,师傅，打印机修得好吗？,"Shīfu, dǎyìnjī xiū dé hǎo ma?","Anh thợ, máy in sửa được không?",bổ ngữ khả năng 修得好,4,师傅 打印机
+09-D2-2,Sửa đồ văn phòng,Hội thoại,B,能修，换一个零件就行了。,"Néng xiū, huàn yí ge língjiàn jiù xíng le.","Sửa được, thay một linh kiện là xong.",就行了,4,零件
+09-D3-1,Sửa đồ văn phòng,Hội thoại,A,修一下要多少钱？,Xiū yí xià yào duōshǎo qián?,Sửa hết bao nhiêu tiền?,,3,
+09-D3-2,Sửa đồ văn phòng,Hội thoại,B,上门费五十，零件另算。,"Shàngménfèi wǔshí, língjiàn lìngsuàn.","Phí đến tận nơi 50, linh kiện tính riêng.",,4,上门费 另算 零件
+09-D4-1,Sửa đồ văn phòng,Hội thoại,A,怎么又停电了？,Zěnme yòu tíngdiàn le?,Sao lại mất điện nữa vậy?,怎么又…了,4,停电
+09-D4-2,Sửa đồ văn phòng,Hội thoại,B,大楼在检查电路，半个小时以后就好。,"Dàlóu zài jiǎnchá diànlù, bàn gè xiǎoshí yǐhòu jiù hǎo.","Toà nhà đang kiểm tra đường điện, nửa tiếng nữa là có.",以后就好,4,大楼 电路
+09-D5-1,Sửa đồ văn phòng,Hội thoại,A,网络还是很慢。,Wǎngluò háishi hěn màn.,Mạng vẫn còn chậm.,还是 (vẫn),4,网络
+09-D5-2,Sửa đồ văn phòng,Hội thoại,B,我重新设置一下，你再试试。,"Wǒ chóngxīn shèzhì yí xià, nǐ zài shìshi.","Tôi cài đặt lại, anh thử lại xem.",重新 + V；再试试,4,设置
+09-E001,Sửa đồ văn phòng,Câu theo từ,,空调坏了，要修理一下。,"Kōngtiáo huài le, yào xiūlǐ yí xià.","Máy lạnh hỏng rồi, phải sửa một chút.",要 + động từ + 一下,4,修理
+09-E002,Sửa đồ văn phòng,Câu theo từ,,修理这个要多少钱？,Xiūlǐ zhège yào duōshǎo qián?,Sửa cái này tốn bao nhiêu tiền?,疑问句 要多少钱,4,修理
+09-E003,Sửa đồ văn phòng,Câu theo từ,,师傅明天上午上门。,Shīfu míngtiān shàngwǔ shàng mén.,Sáng mai bác thợ sẽ đến tận nơi.,时间词 + 上门,4,师傅
+09-E004,Sửa đồ văn phòng,Câu theo từ,,请派一位师傅来看看。,Qǐng pài yí wèi shīfu lái kànkan.,Xin cử một bác thợ đến xem.,请 + 派 + 量词 + 名词,4,师傅
+09-E005,Sửa đồ văn phòng,Câu theo từ,,水管漏水了，快关掉！,"Shuǐguǎn lòushuǐ le, kuài guāndiào!","Ống nước bị rò rồi, mau khóa lại!",了 + 快…！,4,关掉 水管 漏水
+09-E006,Sửa đồ văn phòng,Câu theo từ,,洗手间有点漏水。,Xǐshǒujiān yǒu diǎn lòushuǐ.,Nhà vệ sinh hơi bị rò nước.,有点 + 动词,4,漏水
+09-E007,Sửa đồ văn phòng,Câu theo từ,,下午停电，电梯不能用。,"Xiàwǔ tíngdiàn, diàntī bù néng yòng.","Chiều nay mất điện, thang máy không dùng được.",停电，…不能用,4,停电 电梯
+09-E008,Sửa đồ văn phòng,Câu theo từ,,为什么又停电了？,Wèishénme yòu tíngdiàn le?,Sao lại mất điện nữa rồi?,为什么又…了,4,停电
+09-E009,Sửa đồ văn phòng,Câu theo từ,,投影仪没电，开不了。,"Tóuyǐngyí méi diàn, kāi bù le.","Máy chiếu không có điện, không bật được.",没电，动词 + 不了,4,投影仪
+09-E010,Sửa đồ văn phòng,Câu theo từ,,请人看一下投影仪吧。,Qǐng rén kàn yí xià tóuyǐngyí ba.,Nhờ người xem giúp cái máy chiếu đi.,请人 + 看一下,4,投影仪
+09-E011,Sửa đồ văn phòng,Câu theo từ,,门锁坏了，进不去。,"Ménsuǒ huài le, jìn bú qù.","Khóa cửa hỏng rồi, không vào được.",坏了，动词 + 不进去,4,门锁
+09-E012,Sửa đồ văn phòng,Câu theo từ,,门锁卡住了，打不开。,"Ménsuǒ kǎzhù le, dǎ bù kāi.","Khóa cửa bị kẹt, không mở được.",卡住了，打不开,4,卡住 门锁
+09-E013,Sửa đồ văn phòng,Câu theo từ,,复印机没墨了，要换。,"Fùyìnjī méi mò le, yào huàn.","Máy photo hết mực rồi, phải thay.",没…了，要 + 动词,4,墨 复印机
+09-E014,Sửa đồ văn phòng,Câu theo từ,,这台复印机能修好吗？,Zhè tái fùyìnjī néng xiū hǎo ma?,Cái máy photo này sửa được không?,能 + 动词 + 好吗,4,复印机
+09-E015,Sửa đồ văn phòng,Câu theo từ,,纸卡住了，关掉再开。,"Zhǐ kǎzhù le, guāndiào zài kāi.","Giấy bị kẹt rồi, tắt đi rồi bật lại.",动词 + 住，再 + 动词,4,关掉 卡住
+09-E016,Sửa đồ văn phòng,Câu theo từ,,电源卡住了，动不了。,"Diànyuán kǎzhù le, dòng bù le.","Nguồn điện bị kẹt, không động được.",卡住了，动词 + 不了,4,卡住 电源
+09-E017,Sửa đồ văn phòng,Câu theo từ,,复印机没有墨了，请换一下。,"Fùyìnjī méiyǒu mò le, qǐng huàn yí xià.","Máy photocopy hết mực rồi, nhờ thay giúp.",没有…了,4,墨 复印机
+09-E018,Sửa đồ văn phòng,Câu theo từ,,打印机要换墨，你买了吗？,"Dǎyìnjī yào huàn mò, nǐ mǎi le ma?","Máy in cần thay mực, bạn mua chưa?",要 + động từ,4,墨 打印机
+09-E019,Sửa đồ văn phòng,Câu theo từ,,水管一直滴水，快叫师傅来。,"Shuǐguǎn yìzhí dīshuǐ, kuài jiào shīfu lái.","Ống nước cứ nhỏ nước, mau gọi thợ đến.",一直 + động từ,4,师傅 水管 滴水
+09-E020,Sửa đồ văn phòng,Câu theo từ,,空调滴水，会不会漏水？,"Kōngtiáo dīshuǐ, huì bú huì lòushuǐ?","Máy lạnh nhỏ nước, có bị rò nước không?",会不会…？,4,滴水 漏水
+09-E021,Sửa đồ văn phòng,Câu theo từ,,这个零件坏了，要派人送来。,"Zhège língjiàn huài le, yào pàirén sòng lái.","Linh kiện này hỏng rồi, phải cho người mang đến.",要 + 派人 + động từ,4,派人 零件
+09-E022,Sửa đồ văn phòng,Câu theo từ,,零件到了，师傅就能修好。,"Língjiàn dào le, shīfu jiù néng xiū hǎo.",Linh kiện đến rồi thì thợ sửa được ngay.,…就…,4,师傅 零件
+09-E023,Sửa đồ văn phòng,Câu theo từ,,这台机器还在保修期，免费修。,"Zhè tái jīqì hái zài bǎoxiūqī, miǎnfèi xiū.","Máy này vẫn còn trong thời hạn bảo hành, sửa miễn phí.",还在…,4,保修期 免费
+09-E024,Sửa đồ văn phòng,Câu theo từ,,保修期过了，上门费要自己付。,"Bǎoxiūqī guò le, shàngménfèi yào zìjǐ fù.","Hết thời hạn bảo hành rồi, phí đến tận nơi phải tự trả.",要 + 自己 + động từ,4,上门费 保修期
+09-E025,Sửa đồ văn phòng,Câu theo từ,,保修期内修理是免费的。,Bǎoxiūqī nèi xiūlǐ shì miǎnfèi de.,"Trong thời hạn bảo hành, sửa chữa là miễn phí.",是…的,4,保修期 修理 免费
+09-E026,Sửa đồ văn phòng,Câu theo từ,,师傅说检查免费，换零件要钱。,"Shīfu shuō jiǎnchá miǎnfèi, huàn língjiàn yào qián.","Thợ nói kiểm tra miễn phí, thay linh kiện thì mất tiền.",…，…,4,免费 师傅 零件
+09-E027,Sửa đồ văn phòng,Câu theo từ,,电源没开，投影仪当然不动。,"Diànyuán méi kāi, tóuyǐngyí dāngrán bú dòng.","Chưa bật nguồn điện, máy chiếu đương nhiên không chạy.",当然,4,投影仪 电源
+09-E028,Sửa đồ văn phòng,Câu theo từ,,请先关掉电源，再修电路。,"Qǐng xiān guāndiào diànyuán, zài xiū diànlù.",Xin tắt nguồn điện trước rồi hãy sửa mạch điện.,先…再…,4,关掉 电源 电路
+09-E029,Sửa đồ văn phòng,Câu theo từ,,下班前记得关掉复印机。,Xiàbān qián jìde guāndiào fùyìnjī.,Trước khi tan làm nhớ tắt máy photocopy.,记得 + động từ,4,关掉 复印机
+09-E030,Sửa đồ văn phòng,Câu theo từ,,停电了，请关掉所有电源。,"Tíngdiàn le, qǐng guāndiào suǒyǒu diànyuán.","Mất điện rồi, xin tắt hết nguồn điện.",所有,4,停电 关掉 电源
+09-E031,Sửa đồ văn phòng,Câu theo từ,,水管漏水了，地上全是水。,"Shuǐguǎn lòushuǐ le, dìshang quán shì shuǐ.","Ống nước bị rò rồi, sàn toàn là nước.",全是,4,水管 漏水
+09-E032,Sửa đồ văn phòng,Câu theo từ,,水管坏了，得派人来修。,"Shuǐguǎn huài le, dé pàirén lái xiū.","Ống nước hỏng rồi, phải cho người đến sửa.",得 + động từ,4,水管 派人
+09-E033,Sửa đồ văn phòng,Câu theo từ,,上门费多少钱？,Shàngménfèi duōshǎo qián?,Phí đến tận nơi là bao nhiêu?,多少钱,4,上门费
+09-E034,Sửa đồ văn phòng,Câu theo từ,,保修期内不用付上门费。,Bǎoxiūqī nèi búyòng fù shàngménfèi.,Trong thời gian bảo hành không phải trả phí đến tận nơi.,不用 + động từ,4,上门费 保修期
+09-E035,Sửa đồ văn phòng,Câu theo từ,,电路坏了，先关掉电源。,"Diànlù huài le, xiān guāndiào diànyuán.","Đường điện hỏng rồi, trước tiên hãy tắt nguồn điện.",先…,4,关掉 电源 电路
+09-E036,Sửa đồ văn phòng,Câu theo từ,,师傅在检查电路，可能停电。,"Shīfu zài jiǎnchá diànlù, kěnéng tíngdiàn.","Thợ đang kiểm tra đường điện, có thể sẽ mất điện.",在 + động từ,4,停电 师傅 电路
+09-E037,Sửa đồ văn phòng,Câu theo từ,,请你帮我设置一下打印机。,Qǐng nǐ bāng wǒ shèzhì yí xià dǎyìnjī.,Bạn giúp tôi cài đặt máy in một chút nhé.,帮我 + động từ + 一下,4,打印机 设置
+09-E038,Sửa đồ văn phòng,Câu theo từ,,这个设置不对，复印机卡住了。,"Zhège shèzhì búduì, fùyìnjī kǎzhù le.","Cài đặt này không đúng, máy photocopy bị kẹt rồi.",不对,4,卡住 复印机 设置
+09-E039,Sửa đồ văn phòng,Câu theo từ,,你们能派人来看看漏水吗？,Nǐmen néng pàirén lái kànkan lòushuǐ ma?,Các anh có thể cử người đến xem chỗ rò nước không?,能…吗？,4,派人 漏水
+09-E040,Sửa đồ văn phòng,Câu theo từ,,公司下午派人来修水管。,Gōngsī xiàwǔ pàirén lái xiū shuǐguǎn.,Công ty cử người đến sửa ống nước vào chiều nay.,派人来 + động từ,4,水管 派人
+10-S01,Vận chuyển đồ đạc,Câu đơn,,我下周六要搬家。,Wǒ xiàzhōu liù yào bānjiā.,Thứ bảy tuần sau tôi chuyển nhà.,"要 (sắp, sẽ)",3,
+10-S02,Vận chuyển đồ đạc,Câu đơn,,我想找一家搬家公司。,Wǒ xiǎng zhǎo yì jiā bānjiāgōngsī.,Tôi muốn tìm một công ty chuyển nhà.,lượng từ 家,4,搬家公司
+10-S03,Vận chuyển đồ đạc,Câu đơn,,东西不多，一辆小货车就够了。,"Dōngxī bù duō, yí liàng xiǎo huòchē jiù gòu le.","Đồ không nhiều, một xe tải nhỏ là đủ.",…就够了,4,货车
+10-S04,Vận chuyển đồ đạc,Câu đơn,,请把这些箱子搬到十楼。,Qǐng bǎ zhèxiē xiāngzi bān dào shí lóu.,Làm ơn chuyển mấy thùng này lên tầng 10.,把 + vật + 搬到 + nơi,4,箱子
+10-S05,Vận chuyển đồ đạc,Câu đơn,,这个箱子很重，小心一点儿。,"Zhège xiāngzi hěn zhòng, xiǎoxīn yīdiǎnr.","Thùng này nặng lắm, cẩn thận chút.",tính từ + 一点儿,4,箱子
+10-S06,Vận chuyển đồ đạc,Câu đơn,,电脑放在哪儿？,Diànnǎo fàng zài nǎr?,Máy tính để ở đâu?,động từ + 在 + nơi,1,
+10-S07,Vận chuyển đồ đạc,Câu đơn,,请把新地址发给我。,Qǐng bǎ xīn dìzhǐ fā gěi wǒ.,Gửi cho tôi địa chỉ mới nhé.,把…发给,4,地址
+10-S08,Vận chuyển đồ đạc,Câu đơn,,搬家费一共多少钱？包括上楼吗？,Bānjiāfèi yígòng duōshǎo qián? Bāokuò shàng lóu ma?,Phí chuyển nhà tổng bao nhiêu? Có gồm khiêng lên lầu không?,包括…吗？,4,包括 搬家费
+10-S09,Vận chuyển đồ đạc,Câu đơn,,东西都送到了，你检查一下。,"Dōngxī dōu sòngdào le, nǐ jiǎnchá yí xià.","Đồ giao đến đủ rồi, anh kiểm tra nhé.",动词 + 到了,2,
+10-S10,Vận chuyển đồ đạc,Câu đơn,,搬家公司说早上八点到。,Bānjiāgōngsī shuō zǎoshang bā diǎn dào.,Công ty chuyển nhà nói 8 giờ sáng đến.,说 + mệnh đề,4,搬家公司
+10-S11,Vận chuyển đồ đạc,Câu đơn,,我们公司要搬到新的办公楼。,Wǒmen gōngsī yào bān dào xīn de bàngōnglóu.,Công ty chúng tôi sắp chuyển đến toà văn phòng mới.,搬到 + nơi,4,办公楼
+10-S12,Vận chuyển đồ đạc,Câu đơn,,这些桌子和椅子都要搬走。,Zhèxiē zhuōzi hé yǐzi dōu yào bānzǒu.,Mấy cái bàn ghế này đều phải chuyển đi.,都要 + động từ,4,搬走
+10-S13,Vận chuyển đồ đạc,Câu đơn,,请在箱子上写清楚里面是什么。,Qǐng zài xiāngzi shàng xiě qīngchu lǐmiàn shì shénme.,Ghi rõ bên ngoài thùng bên trong có gì.,写清楚,4,箱子
+10-S14,Vận chuyển đồ đạc,Câu đơn,,这个箱子里都是书，很重。,"Zhège xiāngzi lǐ dōu shì shū, hěn zhòng.","Thùng này toàn là sách, nặng lắm.",都是 + danh từ,4,箱子
+10-S15,Vận chuyển đồ đạc,Câu đơn,,这个箱子里是杯子，容易破。,"Zhège xiāngzi lǐ shì bēizi, róngyì pò.","Thùng này là ly cốc, dễ vỡ.",容易 + động từ,4,箱子
+10-S16,Vận chuyển đồ đạc,Câu đơn,,电视用旧衣服包好，不要碰坏了。,"Diànshì yòng jiù yīfu bāohǎo, búyào pèng huài le.","Ti vi bọc kỹ bằng quần áo cũ, đừng để va hỏng.",不要 + V + 坏,4,包好
+10-S17,Vận chuyển đồ đạc,Câu đơn,,大的家具要先拆开。,Dà de jiājù yào xiān chāikāi.,Đồ nội thất lớn phải tháo rời trước.,先 + 拆开,4,拆开
+10-S18,Vận chuyển đồ đạc,Câu đơn,,电梯太小，沙发进不去。,"Diàntī tài xiǎo, shāfā jìn bú qù.","Thang máy nhỏ quá, sofa không vào được.",bổ ngữ khả năng 进不去,4,电梯
+10-S19,Vận chuyển đồ đạc,Câu đơn,,我们只能走楼梯搬上去。,Wǒmen zhǐnéng zǒu lóutī bān shàngqù.,Chúng tôi chỉ có thể khiêng lên bằng cầu thang.,只能 + động từ,4,楼梯
+10-S20,Vận chuyển đồ đạc,Câu đơn,,走楼梯要多收一百块。,Zǒu lóutī yào duō shōu yìbǎi kuài.,Đi cầu thang phải thu thêm 100 tệ.,多 + 收 + số tiền,4,楼梯
+10-S21,Vận chuyển đồ đạc,Câu đơn,,新家离这儿有十公里。,Xīn jiā lí zhèr yǒu shí gōnglǐ.,Nhà mới cách đây 10 km.,离…有 + khoảng cách,2,
+10-S22,Vận chuyển đồ đạc,Câu đơn,,路上要一个小时左右。,Lùshang yào yí ge xiǎoshí zuǒyòu.,Đi đường mất khoảng một tiếng.,…左右,3,
+10-S23,Vận chuyển đồ đạc,Câu đơn,,请帮我把冰箱放在厨房里。,Qǐng bāng wǒ bǎ bīngxiāng fàng zài chúfáng lǐ.,Giúp tôi đặt tủ lạnh vào bếp.,把 + vật + 放在 + nơi,4,冰箱 厨房
+10-S24,Vận chuyển đồ đạc,Câu đơn,,床放在窗户旁边吧。,Chuáng fàng zài chuānghu pángbiān ba.,Giường đặt cạnh cửa sổ nhé.,放在…旁边,4,窗户
+10-S25,Vận chuyển đồ đạc,Câu đơn,,这些不要的东西可以帮我扔掉吗？,Zhèxiē búyào de dōngxī kěyǐ bāng wǒ rēngdiào ma?,Mấy đồ không cần này anh vứt giúp được không?,动词 + 掉,4,扔掉
+10-S26,Vận chuyển đồ đạc,Câu đơn,,搬家以前要跟物业说一声。,Bānjiā yǐqián yào gēn wùyè shuōyìshēng.,Trước khi chuyển nhà phải báo ban quản lý một tiếng.,跟 + người + 说一声,4,物业 说一声
+10-S27,Vận chuyển đồ đạc,Câu đơn,,快递公司可以送到家门口。,Kuàidì gōngsī kěyǐ sòngdào jiā ménkǒu.,Công ty chuyển phát có thể giao tận cửa nhà.,送到 + nơi,4,快递
+10-S28,Vận chuyển đồ đạc,Câu đơn,,这个包裹三天以后才能到。,Zhège bāoguǒ sān tiān yǐhòu cáinéng dào.,Bưu kiện này ba ngày sau mới đến.,…以后才…,4,包裹
+10-S29,Vận chuyển đồ đạc,Câu đơn,,你的快递已经放在保安那儿了。,Nǐ de kuàidì yǐjīng fàng zài bǎo'ān nàr le.,Hàng của anh đã để ở chỗ bảo vệ rồi.,放在 + người + 那儿,4,快递
+10-S30,Vận chuyển đồ đạc,Câu đơn,,搬家那天要早点儿起床。,Bānjiā nà tiān yào zǎodiǎnr qǐchuáng.,Hôm chuyển nhà phải dậy sớm một chút.,那天 + 要,3,
+10-D1-1,Vận chuyển đồ đạc,Hội thoại,A,你好，我想订一辆搬家的车。,"Nǐ hǎo, wǒ xiǎng dìng yí liàng bānjiā de chē.","Chào anh, tôi muốn đặt một xe chuyển nhà.",,3,
+10-D1-2,Vận chuyển đồ đạc,Hội thoại,B,好的，请问您哪天搬？东西多不多？,"Hǎo de, qǐngwèn nín nǎ tiān bān? Dōngxī duō bù duō?","Vâng, anh chuyển ngày nào? Đồ có nhiều không?",tính từ + 不 + tính từ,3,
+10-D2-1,Vận chuyển đồ đạc,Hội thoại,A,从这儿搬到第七郡多少钱？,Cóng zhèr bān dào dì qī jùn duōshǎo qián?,Chuyển từ đây sang quận 7 bao nhiêu tiền?,从…搬到…,4,郡
+10-D2-2,Vận chuyển đồ đạc,Hội thoại,B,小车六百，包括两个工人。,"Xiǎo chē liùbǎi, bāokuò liǎng ge gōngrén.","Xe nhỏ 600, gồm hai người khuân vác.",,4,包括
+10-D3-1,Vận chuyển đồ đạc,Hội thoại,A,这个箱子放在哪儿？,Zhège xiāngzi fàng zài nǎr?,Thùng này để đâu?,,4,箱子
+10-D3-2,Vận chuyển đồ đạc,Hội thoại,B,放在卧室里，上面写着“书”。,"Fàng zài wòshì lǐ, shàngmiàn xiě zhe""shū"".","Để trong phòng ngủ, bên trên có ghi ""sách"".",写着,4,卧室
+10-D4-1,Vận chuyển đồ đạc,Hội thoại,A,沙发进不去电梯怎么办？,Shāfā jìn bú qù diàntī zěnmebàn?,Sofa không vào thang máy thì làm sao?,,4,电梯
+10-D4-2,Vận chuyển đồ đạc,Hội thoại,B,只能走楼梯了，要多加一点儿钱。,"Zhǐnéng zǒu lóutī le, yào duō jiā yīdiǎnr qián.","Đành đi cầu thang thôi, phải thêm chút tiền.",只能…了,4,楼梯
+10-D5-1,Vận chuyển đồ đạc,Hội thoại,A,东西都到了吗？,Dōngxī dōu dào le ma?,Đồ đến đủ hết chưa?,,1,
+10-D5-2,Vận chuyển đồ đạc,Hội thoại,B,都到了，一共二十五个箱子，你点一下。,"Dōu dào le, yígòng èrshíwǔ ge xiāngzi, nǐ diǎnyíxià.","Đến đủ rồi, tổng cộng 25 thùng, anh đếm lại nhé.",一共 + số,4,点一下 箱子
+10-E001,Vận chuyển đồ đạc,Câu theo từ,,你打给搬家公司问问吧。,Nǐ dǎ gěi bānjiāgōngsī wèn wèn ba.,Bạn gọi cho công ty chuyển nhà hỏi thử đi.,打给 + 人/公司 + 问问,4,搬家公司
+10-E002,Vận chuyển đồ đạc,Câu theo từ,,搬家公司明天早上来搬电视。,Bānjiāgōngsī míngtiān zǎoshang lái bān diànshì.,Công ty chuyển nhà mai sáng đến chuyển tivi.,来 + 动词,4,搬家公司
+10-E003,Vận chuyển đồ đạc,Câu theo từ,,货车什么时候到楼下？,Huòchē shénme shíhou dào lóuxià?,Xe tải khi nào đến dưới nhà?,什么时候 + 到,4,货车
+10-E004,Vận chuyển đồ đạc,Câu theo từ,,货车太小，装不下这些箱子。,"Huòchē tài xiǎo, zhuāng bú xià zhèxiē xiāngzi.","Xe tải nhỏ quá, không chứa hết mấy cái thùng này.",装不下,4,箱子 货车
+10-E005,Vận chuyển đồ đạc,Câu theo từ,,这个箱子太重了，两个人搬。,"Zhège xiāngzi tài zhòng le, liǎng gerén bān.","Cái thùng này nặng quá, hai người khiêng đi.",太…了,4,箱子
+10-E006,Vận chuyển đồ đạc,Câu theo từ,,箱子都包好了吗？,Xiāngzi dōu bāohǎo le ma?,Thùng nào cũng gói kỹ chưa?,都…了吗,4,包好 箱子
+10-E007,Vận chuyển đồ đạc,Câu theo từ,,旧的电视也搬走吗？,Jiù de diànshì yě bānzǒu ma?,Cái tivi cũ cũng dọn đi à?,也…吗,4,搬走
+10-E008,Vận chuyển đồ đạc,Câu theo từ,,这些箱子下午就搬走。,Zhèxiē xiāngzi xiàwǔ jiù bānzǒu.,Mấy cái thùng này chiều nay dọn đi.,就 + 动词,4,搬走 箱子
+10-E009,Vận chuyển đồ đạc,Câu theo từ,,电视请包好，别弄坏了。,"Diànshì qǐng bāohǎo, bié nòng huài le.","Tivi làm ơn gói kỹ, đừng làm hỏng.",请 + 动词 + 好，别…,4,包好
+10-E010,Vận chuyển đồ đạc,Câu theo từ,,东西还没包好，等一下。,"Dōngxī hái méi bāohǎo, děng yí xià.","Đồ chưa gói kỹ, đợi chút.",还没…,4,包好
+10-E011,Vận chuyển đồ đạc,Câu theo từ,,这个箱子先别拆开。,Zhège xiāngzi xiān bié chāikāi.,Cái thùng này khoan tháo ra đã.,先别 + 动词,4,拆开 箱子
+10-E012,Vận chuyển đồ đạc,Câu theo từ,,电视要拆开才搬得走。,Diànshì yào chāikāi cái bān dé zǒu.,Tivi phải tháo rời ra mới chuyển đi được.,才 + 动词 + 得…,4,拆开
+10-E013,Vận chuyển đồ đạc,Câu theo từ,,这些旧东西扔掉吧。,Zhèxiē jiù dōngxī rēngdiào ba.,Mấy đồ cũ này vứt đi đi.,吧 (khuyên bảo),4,扔掉
+10-E014,Vận chuyển đồ đạc,Câu theo từ,,别扔掉，还能用呢！,"Bié rēngdiào, hái néng yòng ne!","Đừng vứt đi, còn dùng được mà!",别…，还…呢,4,扔掉
+10-E015,Vận chuyển đồ đạc,Câu theo từ,,这个包裹很重要，包好一点。,"Zhège bāoguǒ hěn zhòngyào, bāohǎo yī diǎn.","Bưu kiện này quan trọng, gói kỹ một chút.",形容词 + 一点,4,包好 包裹
+10-E016,Vận chuyển đồ đạc,Câu theo từ,,包裹到了，你点一下。,"Bāoguǒ dào le, nǐ diǎnyíxià.","Bưu kiện đến rồi, bạn điểm danh thử đi.",点一下,4,包裹 点一下
+10-E017,Vận chuyển đồ đạc,Câu theo từ,,电视太重要，请包好。,"Diànshì tài zhòngyào, qǐng bāohǎo.","Tivi quan trọng lắm, làm ơn gói kỹ.",请 + động từ,4,包好
+10-E018,Vận chuyển đồ đạc,Câu theo từ,,电视别扔掉，先搬走。,"Diànshì bié rēngdiào, xiān bānzǒu.","Đừng vứt tivi đi, chuyển nó trước đã.",别 + động từ,4,扔掉 搬走
+10-E019,Vận chuyển đồ đạc,Câu theo từ,,搬家费多少？贵不贵？,Bānjiāfèi duōshǎo? Guì bú guì?,Phí chuyển nhà bao nhiêu? Có đắt không?,多少钱 / 贵不贵,4,搬家费
+10-E020,Vận chuyển đồ đạc,Câu theo từ,,搬家费我明天给你。,Bānjiāfèi wǒ míngtiān gěi nǐ.,Phí chuyển nhà mai tôi trả cho anh.,给 + người + vật,4,搬家费
+10-E021,Vận chuyển đồ đạc,Câu theo từ,,我家在郡三，很近。,"Wǒ jiā zài jùn sān, hěn jìn.","Nhà tôi ở Quận Ba, rất gần.",在 + địa điểm,4,郡
+10-E022,Vận chuyển đồ đạc,Câu theo từ,,货车现在去郡七吗？,Huòchē xiànzài qù jùn qī ma?,Xe tải giờ đi Quận Bảy không?,去 + địa điểm + 吗,4,货车 郡
+10-E023,Vận chuyển đồ đạc,Câu theo từ,,你点一下箱子，够吗？,"Nǐ diǎnyíxià xiāngzi, gòu ma?","Anh đếm lại thùng đi, đủ không?",động từ + 一下,4,点一下 箱子
+10-E024,Vận chuyển đồ đạc,Câu theo từ,,我们点一下包裹再搬。,Wǒmen diǎnyíxià bāoguǒ zài bān.,Chúng ta đếm lại đồ rồi hãy chuyển.,再 + động từ,4,包裹 点一下
+11-S01,Đàm phán giá,Câu đơn,,太贵了，能便宜一点儿吗？,"Tài guì le, néng piányi yīdiǎnr ma?","Đắt quá, bớt chút được không?",能 + tính từ + 一点儿吗？,2,
+11-S02,Đàm phán giá,Câu đơn,,这是最低价格了。,Zhè shì zuìdī jiàgé le.,Đây là giá thấp nhất rồi.,最 + tính từ,4,最低
+11-S03,Đàm phán giá,Câu đơn,,如果我租两年，可以打九折吗？,"Rúguǒ wǒ zū liǎng nián, kěyǐ dǎjiǔzhé ma?","Nếu tôi thuê hai năm, giảm 10% được không?",打九折 = giảm 10%,4,打九折
+11-S04,Đàm phán giá,Câu đơn,,旁边那套比这套便宜五百块。,Pángbiān nà tào bǐ zhè tào piányi wǔbǎi kuài.,Căn bên cạnh rẻ hơn căn này 500 tệ.,A 比 B + tính từ + số lượng,2,
+11-S05,Đàm phán giá,Câu đơn,,八千块一个月，你看怎么样？,"Bāqiān kuài yí ge yuè, nǐ kàn zěnmeyàng?","8.000 tệ một tháng, anh thấy sao?",你看怎么样？,2,
+11-S06,Đàm phán giá,Câu đơn,,我要考虑一下，明天告诉你。,"Wǒ yào kǎolǜ yí xià, míngtiān gàosù nǐ.","Tôi cần cân nhắc, mai trả lời anh.",động từ + 一下,4,考虑
+11-S07,Đàm phán giá,Câu đơn,,我们各让一步吧。,Wǒmen gè ràngyíbù ba.,Mỗi bên nhường một bước nhé.,各 + động từ,4,让一步
+11-S08,Đàm phán giá,Câu đơn,,价格差不多，我同意。,"Jiàgé chàbuduō, wǒ tóngyì.","Giá cũng tạm được, tôi đồng ý.",差不多,3,
+11-S09,Đàm phán giá,Câu đơn,,虽然价格有点儿高，但是位置很好。,"Suīrán jiàgé yǒudiǎnr gāo, dànshì wèizhì hěn hǎo.",Tuy giá hơi cao nhưng vị trí rất đẹp.,虽然…但是…,4,位置
+11-S10,Đàm phán giá,Câu đơn,,这个价格比市场价高。,Zhège jiàgé bǐ shìchǎngjià gāo.,Giá này cao hơn giá thị trường.,A 比 B + tính từ,4,市场价
+11-S11,Đàm phán giá,Câu đơn,,你们最低能给多少？,Nǐmen zuìdī néng gěi duōshǎo?,Các anh thấp nhất có thể để bao nhiêu?,最低 + 能,4,最低
+11-S12,Đàm phán giá,Câu đơn,,如果我们一次付一年，能不能再便宜点儿？,"Rúguǒ wǒmen yí cì fù yī nián, néngbunéng zài piányi diǎnr?","Nếu chúng tôi trả một lần cả năm, có thể rẻ thêm chút không?",能不能 + 再,3,
+11-S13,Đàm phán giá,Câu đơn,,这个价格我们不能接受。,Zhège jiàgé wǒmen bù néng jiēshòu.,Giá này chúng tôi không thể chấp nhận.,不能 + 接受,3,
+11-S14,Đàm phán giá,Câu đơn,,我们的预算只有这么多。,Wǒmen de yùsuàn zhǐyǒu zhème duō.,Ngân sách của chúng tôi chỉ có chừng này.,只有 + 这么多,4,预算
+11-S15,Đàm phán giá,Câu đơn,,别的公司给我们的价格更低。,Biéde gōngsī gěi wǒmen de jiàgé gèng dī.,Công ty khác báo giá cho chúng tôi thấp hơn.,更 + tính từ,3,
+11-S16,Đàm phán giá,Câu đơn,,价格可以商量。,Jiàgé kěyǐ shāngliang.,Giá có thể thương lượng.,可以 + 商量,3,
+11-S17,Đàm phán giá,Câu đơn,,我们已经给你最好的价格了。,Wǒmen yǐjīng gěi nǐ zuìhǎo de jiàgé le.,Chúng tôi đã cho anh giá tốt nhất rồi.,已经…了,3,
+11-S18,Đàm phán giá,Câu đơn,,如果价格合适，我们马上签合同。,"Rúguǒ jiàgé héshì, wǒmen mǎshàng qiānhétong.","Nếu giá phù hợp, chúng tôi ký hợp đồng ngay.",如果…，马上…,4,签合同
+11-S19,Đàm phán giá,Câu đơn,,能不能免第一个月的房租？,Néngbunéng miǎn dì yī ge yuè de fángzū?,Có thể miễn tiền thuê tháng đầu không?,能不能 + động từ,4,免
+11-S20,Đàm phán giá,Câu đơn,,免费送一个停车位怎么样？,Miǎnfèi sòng yí ge tíngchēwèi zěnmeyàng?,Tặng miễn phí một chỗ đỗ xe thì sao?,…怎么样？,4,停车位 免费
+11-S21,Đàm phán giá,Câu đơn,,这个条件我要问一下老板。,Zhège tiáojiàn wǒ yào wèn yí xià lǎobǎn.,Điều kiện này tôi phải hỏi ông chủ.,问一下 + người,3,
+11-S22,Đàm phán giá,Câu đơn,,价格不能再低了，但是可以送家具。,"Jiàgé bù néng zài dī le, dànshì kěyǐ sòng jiājù.","Giá không thể thấp hơn nữa, nhưng có thể tặng nội thất.",不能再…了,3,
+11-S23,Đàm phán giá,Câu đơn,,一年以后房租不涨，可以吗？,"Yī nián yǐhòu fángzū bù zhǎng, kěyǐ ma?","Sau một năm không tăng tiền thuê, được không?",…，可以吗？,4,涨
+11-S24,Đàm phán giá,Câu đơn,,我们最多只能涨百分之三。,Wǒmen zuì duō zhǐnéng zhǎng bǎifēnzhī sān.,Chúng tôi tăng nhiều nhất chỉ được 3%.,最多 + 只能,4,涨 百分之
+11-S25,Đàm phán giá,Câu đơn,,你说的价格太低了，我们没办法。,"Nǐ shuō de jiàgé tài dī le, wǒmen méibànfǎ.","Giá anh nói thấp quá, chúng tôi chịu thôi.",没办法,4,没办法
+11-S26,Đàm phán giá,Câu đơn,,这样吧，八千二，不能再少了。,"Zhèyàng ba, bāqiān'èr, bù néng zài shǎo le.","Thế này đi, 8.200, không bớt được nữa.",这样吧,2,
+11-S27,Đàm phán giá,Câu đơn,,好吧，就按你说的价格。,"Hǎo ba, jiù àn nǐ shuō de jiàgé.","Thôi được, theo giá anh nói.",就按 + …,3,
+11-S28,Đàm phán giá,Câu đơn,,价格定了，我们写在合同里。,"Jiàgé dìng le, wǒmen xiě zài hétong lǐ.","Giá chốt rồi, chúng ta ghi vào hợp đồng.",写在 + nơi,4,合同 定
+11-S29,Đàm phán giá,Câu đơn,,我觉得这个价格很公平。,Wǒ juéde zhège jiàgé hěn gōngpíng.,Tôi thấy giá này rất công bằng.,觉得 + mệnh đề,3,
+11-S30,Đàm phán giá,Câu đơn,,谢谢你的理解，合作愉快！,"Xièxie nǐ de lǐjiě, hézuòyúkuài!","Cảm ơn anh đã thông cảm, hợp tác vui vẻ!",合作愉快,4,合作愉快
+11-D1-1,Đàm phán giá,Hội thoại,A,一个月九千，太贵了。,"Yí ge yuè jiǔqiān, tài guì le.","Một tháng 9.000, đắt quá.",,1,
+11-D1-2,Đàm phán giá,Hội thoại,B,那您觉得多少合适？,Nà nín juéde duōshǎo héshì?,Vậy anh thấy bao nhiêu thì hợp lý?,多少 + 合适,2,
+11-D2-1,Đàm phán giá,Hội thoại,A,八千怎么样？我们租两年。,Bāqiān zěnmeyàng? Wǒmen zū liǎng nián.,8.000 thì sao? Chúng tôi thuê hai năm.,,2,
+11-D2-2,Đàm phán giá,Hội thoại,B,八千太低了，八千五吧。,"Bāqiān tài dī le, bāqiānwǔ ba.","8.000 thấp quá, 8.500 đi.",…吧,2,
+11-D3-1,Đàm phán giá,Hội thoại,A,我们各让一步，八千三，可以吗？,"Wǒmen gè ràngyíbù, bāqiānsān, kěyǐ ma?","Mỗi bên nhường một bước, 8.300, được không?",,4,让一步
+11-D3-2,Đàm phán giá,Hội thoại,B,好吧，但是押金要两个月。,"Hǎo ba, dànshì yājīn yào liǎng ge yuè.","Thôi được, nhưng tiền cọc phải hai tháng.",好吧，但是…,4,押金
+11-D4-1,Đàm phán giá,Hội thoại,A,价格能再低一点儿吗？,Jiàgé néng zài dī yīdiǎnr ma?,Giá có thể thấp thêm chút không?,,3,
+11-D4-2,Đàm phán giá,Hội thoại,B,价格不能再低了，但是可以送一个车位。,"Jiàgé bù néng zài dī le, dànshì kěyǐ sòng yí ge chē wèi.","Giá không thấp hơn được nữa, nhưng có thể tặng một chỗ đỗ xe.",不能再…了,3,
+11-D5-1,Đàm phán giá,Hội thoại,A,我需要跟老板商量一下。,Wǒ xūyào gēn lǎobǎn shāngliang yí xià.,Tôi cần bàn với sếp một chút.,跟 + người + 商量,3,
+11-D5-2,Đàm phán giá,Hội thoại,B,没问题，这个价格我给您留到周五。,"Méi wèntí, zhège jiàgé wǒ gěi nín liú dào zhōu wǔ.","Không vấn đề, giá này tôi giữ cho anh đến thứ sáu.",留到 + thời gian,3,
+11-E001,Đàm phán giá,Câu theo từ,,这个房子可以打折吗？,Zhège fángzi kěyǐ dǎzhé ma?,Căn nhà này có thể giảm giá không?,可以…吗？,4,打折
+11-E002,Đàm phán giá,Câu theo từ,,市场价不打折，我们没办法。,"Shìchǎngjià bù dǎzhé, wǒmen méibànfǎ.","Giá thị trường không giảm giá, chúng tôi không có cách nào.",没办法,4,市场价 打折 没办法
+11-E003,Đàm phán giá,Câu theo từ,,可以打九折吗？我马上决定。,Kěyǐ dǎjiǔzhé ma? Wǒ mǎshàng juédìng.,Có thể giảm mười phần trăm không? Tôi quyết định ngay.,可以…吗？,4,打九折
+11-E004,Đàm phán giá,Câu theo từ,,打九折我们就合作。,Dǎjiǔzhé wǒmen jiù hézuò.,Giảm mười phần trăm thì chúng tôi hợp tác.,…就…,4,打九折
+11-E005,Đàm phán giá,Câu theo từ,,请让我考虑一下，好吗？,"Qǐng ràng wǒ kǎolǜ yí xià, hǎo ma?","Xin để tôi cân nhắc một chút, được không?",让 + ai + động từ + 一下,4,考虑
+11-E006,Đàm phán giá,Câu theo từ,,这个价格我要考虑考虑。,Zhège jiàgé wǒ yào kǎolǜ kǎolǜ.,Giá này tôi phải cân nhắc đã.,động từ + 考虑考虑,4,考虑
+11-E007,Đàm phán giá,Câu theo từ,,这个已经是最低的了。,Zhège yǐjīng shì zuìdī de le.,Cái này đã là mức thấp nhất rồi.,已经是…了,4,最低
+11-E018,Đàm phán giá,Câu theo từ,,这个价格是最低的了。,Zhège jiàgé shì zuìdī de le.,Giá này là thấp nhất rồi.,是…的,4,最低
+11-E008,Đàm phán giá,Câu theo từ,,市场价是多少？我们看一下。,Shìchǎngjià shì duōshǎo? Wǒmen kàn yí xià.,Giá thị trường là bao nhiêu? Chúng ta xem thử.,…是多少？,4,市场价
+11-E009,Đàm phán giá,Câu theo từ,,我们的价格比市场价低。,Wǒmen de jiàgé bǐ shìchǎngjià dī.,Giá của chúng tôi thấp hơn giá thị trường.,A 比 B + tính từ,4,市场价
+11-E010,Đàm phán giá,Câu theo từ,,你让一步，我也让一步。,"Nǐ ràngyíbù, wǒ yě ràngyíbù.","Anh nhượng một bước, tôi cũng nhượng một bước.",A 让一步，B 也让一步,4,让一步
+11-E011,Đàm phán giá,Câu theo từ,,为了让一步，我们打九折。,"Wèile ràngyíbù, wǒmen dǎjiǔzhé.","Để nhượng một bước, chúng tôi giảm mười phần trăm.",为了…，…,4,打九折 让一步
+11-E012,Đàm phán giá,Câu theo từ,,免一个月租金，可以吗？,"Miǎn yí ge yuè zūjīn, kěyǐ ma?","Miễn một tháng tiền thuê, được không?",免 + danh từ,4,免 租金
+11-E013,Đàm phán giá,Câu theo từ,,免停车费，我们就合作愉快。,"Miǎn tíngchē fèi, wǒmen jiù hézuòyúkuài.",Miễn phí gửi xe thì chúng ta hợp tác vui vẻ.,…就…,4,免 合作愉快
+11-E014,Đàm phán giá,Câu theo từ,,价格可以，祝我们合作愉快！,"Jiàgé kěyǐ, zhù wǒmen hézuòyúkuài!","Giá được, chúc chúng ta hợp tác vui vẻ!",祝…,4,合作愉快
+11-E015,Đàm phán giá,Câu theo từ,,打九折，合作愉快！,"Dǎjiǔzhé, hézuòyúkuài!","Giảm mười phần trăm, hợp tác vui vẻ!",câu rút gọn,4,合作愉快 打九折
+11-E016,Đàm phán giá,Câu theo từ,,这个价格我们没办法再低了。,Zhège jiàgé wǒmen méibànfǎ zài dī le.,Giá này chúng tôi không thể giảm thêm được nữa.,没办法 + động từ (không thể...),4,没办法
+11-E017,Đàm phán giá,Câu theo từ,,打九折？那真的没办法。,Dǎjiǔzhé? Nà zhēnde méibànfǎ.,Giảm mười phần trăm à? Cái đó thật sự không được rồi.,名词短语 + 那真的没办法,4,打九折 没办法
+12-S01,Giao thông đô thị,Câu đơn,,早上八点路上经常堵车。,Zǎoshang bā diǎn lùshang jīngcháng dǔchē.,8 giờ sáng đường thường xuyên kẹt xe.,经常 + động từ,4,堵车
+12-S02,Giao thông đô thị,Câu đơn,,坐地铁比坐出租车快。,Zuò dìtiě bǐ zuò chūzūchē kuài.,Đi metro nhanh hơn đi taxi.,A 比 B + tính từ,2,
+12-S03,Giao thông đô thị,Câu đơn,,师傅，请在前面的路口停车。,"Shīfu, qǐng zài qiánmiàn de lùkǒu tíngchē.","Bác tài ơi, dừng xe ở ngã tư phía trước giúp.",在 + nơi + 停车,4,师傅
+12-S04,Giao thông đô thị,Câu đơn,,在越南，很多人骑摩托车上班。,"Zài yuè nán, hěn duō rén qí mótuōchē shàngbān.","Ở Việt Nam, nhiều người đi xe máy đi làm.",骑 + xe + 上班,4,摩托车
+12-S05,Giao thông đô thị,Câu đơn,,下一站是市中心。,Xià yí zhàn shì shìzhōngxīn.,Trạm kế tiếp là trung tâm thành phố.,下一站,4,市中心
+12-S06,Giao thông đô thị,Câu đơn,,别着急，我们不会迟到的。,"Bié zhe jí, wǒmen bú huì chídào de.","Đừng sốt ruột, chúng ta sẽ không trễ đâu.",别 + V；不会…的,4,迟到
+12-S07,Giao thông đô thị,Câu đơn,,这里可以停车吗？,Zhèlǐ kěyǐ tíngchē ma?,Ở đây đỗ xe được không?,可以…吗？,2,
+12-S08,Giao thông đô thị,Câu đơn,,我坐公共汽车去，要换一次车。,"Wǒ zuò gōnggòngqìchē qù, yào huàn yí cì chē.","Tôi đi xe buýt, phải đổi xe một lần.",động từ + 一次,2,
+12-S09,Giao thông đô thị,Câu đơn,,路上的车越来越多了。,Lùshang de chē yuèláiyuè duō le.,Xe trên đường càng ngày càng nhiều.,越来越 + tính từ,2,
+12-S10,Giao thông đô thị,Câu đơn,,你怎么来的？,Nǐ zěnme lái de?,Anh đến bằng gì vậy?,怎么 + V + 的 (phương thức),1,
+12-S11,Giao thông đô thị,Câu đơn,,我是坐地铁来的。,Wǒ shì zuò dìtiě lái de.,Tôi đi metro đến.,是…的 (phương thức),2,
+12-S12,Giao thông đô thị,Câu đơn,,我用手机叫了一辆车。,Wǒ yòng shǒujī jiào le yí liàng chē.,Tôi gọi một chiếc xe bằng điện thoại.,用 + công cụ + động từ,2,
+12-S13,Giao thông đô thị,Câu đơn,,司机说还有五分钟到。,Sījī shuō háiyǒu wǔ fēnzhōng dào.,Tài xế nói còn 5 phút nữa đến.,还有 + thời gian,2,
+12-S14,Giao thông đô thị,Câu đơn,,请问，这辆公交车去机场吗？,"Qǐngwèn, zhè liàng gōngjiāochē qù jīchǎng ma?","Xin hỏi, xe buýt này có đi sân bay không?",去 + nơi + 吗,2,
+12-S15,Giao thông đô thị,Câu đơn,,地铁票多少钱一张？,Dìtiě piào duōshǎo qián yì zhāng?,Vé metro bao nhiêu tiền một vé?,多少钱 + 一张,3,
+12-S16,Giao thông đô thị,Câu đơn,,下雨的时候更容易堵车。,Xiàyǔ de shíhou gèng róngyì dǔchē.,Khi trời mưa càng dễ kẹt xe.,…的时候 + 更,4,堵车
+12-S17,Giao thông đô thị,Câu đơn,,今天路上堵得很厉害。,Jīntiān lùshang dǔ dé hěn lìhai.,Hôm nay đường kẹt rất nặng.,动词 + 得 + 很厉害,4,厉害 堵
+12-S18,Giao thông đô thị,Câu đơn,,红灯的时候要停下来。,Hóng dēng de shíhou yào tíng xiàlai.,Đèn đỏ phải dừng lại.,动词 + 下来,3,
+12-S19,Giao thông đô thị,Câu đơn,,这条路是单行道，不能开进去。,"Zhè tiáo lù shì dānxíngdào, bù néng kāi jìnqù.","Đường này là đường một chiều, không chạy vào được.",不能 + 开进去,4,单行道
+12-S20,Giao thông đô thị,Câu đơn,,骑摩托车一定要戴头盔。,Qí mótuōchē yídìng yào dài tóukuī.,Đi xe máy nhất định phải đội mũ bảo hiểm.,一定要 + động từ,4,头盔 戴 摩托车
+12-S21,Giao thông đô thị,Câu đơn,,晚上下班的时候，地铁里人很多。,"Wǎnshang xiàbān de shíhou, dìtiě lǐ rén hěn duō.","Giờ tan làm buổi tối, trong metro rất đông người.",…的时候,2,
+12-S22,Giao thông đô thị,Câu đơn,,我们早点儿出发吧，不然会迟到。,"Wǒmen zǎodiǎnr chūfā ba, bùrán huì chídào.","Mình xuất phát sớm chút đi, không thì sẽ trễ.",不然 (nếu không),4,不然 迟到
+12-S23,Giao thông đô thị,Câu đơn,,你在哪儿下车？,Nǐ zài nǎr xiàchē?,Anh xuống xe ở đâu?,在 + nơi + 下车,1,
+12-S24,Giao thông đô thị,Câu đơn,,我在下一站下车。,Wǒ zài xià yí zhàn xiàchē.,Tôi xuống ở trạm kế tiếp.,在…下车,1,
+12-S25,Giao thông đô thị,Câu đơn,,从这儿坐车到公司要四十分钟。,Cóng zhèr zuò chē dào gōngsī yào sìshí fēnzhōng.,Từ đây đi xe đến công ty mất 40 phút.,从…到…要 + thời gian,2,
+12-S26,Giao thông đô thị,Câu đơn,,开车去比坐地铁慢多了。,Kāichē qù bǐ zuò dìtiě màn duō le.,Lái xe đi chậm hơn đi metro nhiều.,比…tính từ + 多了,2,
+12-S27,Giao thông đô thị,Câu đơn,,这个城市的地铁很方便，也很便宜。,"Zhège chéngshì de dìtiě hěn fāngbiàn, yě hěn piányi.","Metro ở thành phố này rất tiện, cũng rất rẻ.",也很 + tính từ,3,
+12-S28,Giao thông đô thị,Câu đơn,,停车费一个小时二十块。,Tíngchē fèi yí ge xiǎoshí èrshí kuài.,Phí đỗ xe một tiếng 20 tệ.,số tiền + 一个小时,3,
+12-S29,Giao thông đô thị,Câu đơn,,前面出了交通事故，我们换一条路吧。,"Qiánmiàn chū le jiāotōngshìgù, wǒmen huàn yì tiáo lù ba.","Phía trước xảy ra tai nạn, mình đổi đường khác nhé.",出了 + 事故,4,交通事故
+12-S30,Giao thông đô thị,Câu đơn,,师傅，麻烦开快一点儿，我有点儿急。,"Shīfu, máfan kāi kuài yīdiǎnr, wǒ yǒudiǎnr jí.","Bác tài, phiền chạy nhanh chút, tôi hơi gấp.",开快一点儿,4,师傅
+12-D1-1,Giao thông đô thị,Hội thoại,A,你怎么还没到？,Nǐ zěnme hái méi dào?,Sao anh vẫn chưa tới?,,1,
+12-D1-2,Giao thông đô thị,Hội thoại,B,路上堵车了，我大概还要二十分钟。,"Lùshang dǔchē le, wǒ dàgài hái yào èrshí fēnzhōng.","Đường kẹt xe, chắc tôi còn mất 20 phút nữa.",还要 + thời gian,4,堵车
+12-D2-1,Giao thông đô thị,Hội thoại,A,去火车站坐几路公交车？,Qù huǒchēzhàn zuò jǐ lù gōngjiāochē?,Đi ga tàu đi xe buýt tuyến mấy?,,4,火车站
+12-D2-2,Giao thông đô thị,Hội thoại,B,坐十八路，在第五站下车。,"Zuò shíbā lù, zài dì wǔ zhàn xiàchē.","Đi tuyến 18, xuống ở trạm thứ năm.",在 + trạm + 下车,1,
+12-D3-1,Giao thông đô thị,Hội thoại,A,师傅，到大学城多少钱？,"Shīfu, dào dàxuéchéng duōshǎo qián?","Bác tài, đến làng đại học bao nhiêu tiền?",,4,大学城 师傅
+12-D3-2,Giao thông đô thị,Hội thoại,B,打表，大概六十块左右。,"Dǎbiǎo, dàgài liùshí kuài zuǒyòu.","Tính đồng hồ, khoảng chừng 60 tệ.",…左右,4,打表
+12-D4-1,Giao thông đô thị,Hội thoại,A,这里可以停车吗？,Zhèlǐ kěyǐ tíngchē ma?,Ở đây đỗ xe được không?,,2,
+12-D4-2,Giao thông đô thị,Hội thoại,B,不可以，停车场在前面一百米。,"Bù kěyǐ, tíngchēchǎng zài qiánmiàn yìbǎi mǐ.","Không được, bãi đỗ xe ở phía trước 100 mét.",,3,
+12-D5-1,Giao thông đô thị,Hội thoại,A,我们坐地铁还是打车？,Wǒmen zuò dìtiě háishi dǎchē?,Mình đi metro hay đi taxi?,,2,
+12-D5-2,Giao thông đô thị,Hội thoại,B,现在是下班时间，坐地铁快一点儿。,"Xiànzài shì xiàbān shíjiān, zuò dìtiě kuài yīdiǎnr.","Bây giờ là giờ tan tầm, đi metro nhanh hơn.",A 还是 B？,2,
+12-E001,Giao thông đô thị,Câu theo từ,,早上堵车，我迟到了。,"Zǎoshang dǔchē, wǒ chídào le.","Sáng nay kẹt xe, tôi đến muộn.",堵车，我迟到了（结果）,4,堵车 迟到
+12-E002,Giao thông đô thị,Câu theo từ,,现在堵车，不然我们打车吧？,"Xiànzài dǔchē, bùrán wǒmen dǎchē ba?","Bây giờ đang kẹt xe, hay là chúng ta bắt taxi nhé?",不然…吧,4,不然 堵车
+12-E003,Giao thông đô thị,Câu theo từ,,摩托车不能上单行道。,Mótuōchē bù néng shàng dānxíngdào.,Xe máy không được đi vào đường một chiều.,不能 + 动词,4,单行道 摩托车
+12-E004,Giao thông đô thị,Câu theo từ,,你骑摩托车要戴头盔。,Nǐ qí mótuōchē yào dài tóukuī.,Bạn đi xe máy phải đội mũ bảo hiểm.,要 + 动词,4,头盔 戴 摩托车
+12-E005,Giao thông đô thị,Câu theo từ,,堵车太厉害，我又迟到了。,"Dǔchē tài lìhai, wǒ yòu chídào le.","Kẹt xe kinh khủng quá, tôi lại đến muộn rồi.",太…了,4,厉害 堵车 迟到
+12-E006,Giao thông đô thị,Câu theo từ,,打车吧，不然会迟到。,"Dǎchē ba, bùrán huì chídào.","Bắt taxi đi, không thì sẽ đến muộn.",不然会…,4,不然 迟到
+12-E007,Giao thông đô thị,Câu theo từ,,从这里打车到火车站远吗？,Cóng zhèlǐ dǎchē dào huǒchēzhàn yuǎn ma?,Từ đây bắt taxi đến ga tàu có xa không?,从…到…,4,火车站
+12-E008,Giao thông đô thị,Câu theo từ,,下雨了，我们打车回去吧。,"Xiàyǔ le, wǒmen dǎchē huíqu ba.","Trời mưa rồi, chúng ta bắt taxi về đi.",…吧（建议）,1,
+12-E009,Giao thông đô thị,Câu theo từ,,你叫车了吗？快一点！,Nǐ jiàochē le ma? Kuài yī diǎn!,Bạn gọi xe chưa? Nhanh lên!,…了吗,4,叫车
+12-E010,Giao thông đô thị,Câu theo từ,,太晚了，我叫车回家。,"Tài wǎn le, wǒ jiàochē huíjiā.","Muộn quá rồi, tôi gọi xe về nhà.",太…了,4,叫车
+12-E011,Giao thông đô thị,Câu theo từ,,这是单行道，不能往那边走。,"Zhè shì dānxíngdào, bù néng wǎng nàbian zǒu.","Đây là đường một chiều, không đi được về phía đó.",不能 + 动词,4,单行道
+12-E012,Giao thông đô thị,Câu theo từ,,单行道在哪儿下车？,Dānxíngdào zài nǎr xiàchē?,Đường một chiều thì xuống xe ở đâu?,在哪儿 + 动词,4,单行道
+12-E013,Giao thông đô thị,Câu theo từ,,骑摩托车一定要戴头盔。,Qí mótuōchē yídìng yào dài tóukuī.,Đi xe máy nhất định phải đội mũ bảo hiểm.,一定要 + 动词,4,头盔 戴 摩托车
+12-E014,Giao thông đô thị,Câu theo từ,,我的头盔在办公室，忘了拿。,"Wǒ de tóukuī zài bàngōngshì, wàng le ná.","Mũ bảo hiểm của tôi ở văn phòng, quên lấy rồi.",忘了 + 动词,4,头盔
+12-E015,Giao thông đô thị,Câu theo từ,,你戴头盔了吗？小心交通事故。,Nǐ dài tóukuī le ma? Xiǎoxīn jiāotōngshìgù.,Bạn đội mũ bảo hiểm chưa? Cẩn thận tai nạn giao thông.,…了吗,4,交通事故 头盔 戴
+12-E016,Giao thông đô thị,Câu theo từ,,坐摩托车要戴头盔，不然很危险。,"Zuò mótuōchē yào dài tóukuī, bùrán hěn wēixiǎn.","Ngồi xe máy phải đội mũ bảo hiểm, không thì rất nguy hiểm.",要…，不然…,4,不然 头盔 戴 摩托车
+12-E017,Giao thông đô thị,Câu theo từ,,你在火车站下车吗？,Nǐ zài huǒchēzhàn xiàchē ma?,Bạn xuống xe ở ga tàu hỏa à?,在 + địa điểm + 下车,4,火车站
+12-E018,Giao thông đô thị,Câu theo từ,,请在前面的单行道下车。,Qǐng zài qiánmiàn de dānxíngdào xiàchē.,Xin hãy xuống xe ở đường một chiều phía trước.,请 + 在… + 下车,4,单行道
+12-E019,Giao thông đô thị,Câu theo từ,,打车要打表，不然太贵。,"Dǎchē yào dǎbiǎo, bùrán tài guì.","Đi taxi phải tính theo đồng hồ, nếu không thì đắt lắm.",要…，不然…,4,不然 打表
+12-E020,Giao thông đô thị,Câu theo từ,,这个出租车打表了吗？,Zhège chūzūchē dǎbiǎo le ma?,Xe taxi này đã bật đồng hồ tính tiền chưa?,…了吗？,4,打表
+12-E021,Giao thông đô thị,Câu theo từ,,从火车站到大学城远吗？,Cóng huǒchēzhàn dào dàxuéchéng yuǎn ma?,Từ ga tàu hỏa đến làng đại học có xa không?,从…到…远吗？,4,大学城 火车站
+12-E022,Giao thông đô thị,Câu theo từ,,去火车站叫车比较快。,Qù huǒchēzhàn jiàochē bǐjiào kuài.,Đi ga tàu hỏa thì gọi xe sẽ nhanh hơn.,比较 + tính từ,4,叫车 火车站
+12-E023,Giao thông đô thị,Câu theo từ,,大学城那边堵车很厉害。,Dàxuéchéng nàbian dǔchē hěn lìhai.,Bên làng đại học tắc đường dữ dội lắm.,…很厉害,4,厉害 堵车 大学城
+12-E024,Giao thông đô thị,Câu theo từ,,坐地铁去大学城很方便。,Zuò dìtiě qù dàxuéchéng hěn fāngbiàn.,Đi tàu điện ngầm đến làng đại học rất tiện.,坐 + phương tiện + 去 + nơi,4,大学城
+12-E025,Giao thông đô thị,Câu theo từ,,前面有交通事故，会迟到。,"Qiánmiàn yǒu jiāotōngshìgù, huì chídào.","Phía trước có tai nạn giao thông, sẽ bị muộn.",有 + danh từ，会…,4,交通事故 迟到
+12-E026,Giao thông đô thị,Câu theo từ,,交通事故以后，路很堵。,"Jiāotōngshìgù yǐhòu, lù hěn dǔ.","Sau tai nạn giao thông, đường rất tắc.",以后，…,4,交通事故 堵
+12-E027,Giao thông đô thị,Câu theo từ,,早上堵车太厉害了！,Zǎoshang dǔchē tài lìhai le!,Buổi sáng tắc đường dữ quá!,太 + tính từ + 了,4,厉害 堵车
+12-E028,Giao thông đô thị,Câu theo từ,,这里堵车没那么厉害。,Zhèlǐ dǔchē méi nàme lìhai.,Ở đây tắc đường không dữ dội đến thế.,没那么 + tính từ,4,厉害 堵车
+12-E029,Giao thông đô thị,Câu theo từ,,戴好头盔，不然很危险。,"Dài hǎo tóukuī, bùrán hěn wēixiǎn.","Đội mũ bảo hiểm cho đàng hoàng, nếu không thì rất nguy hiểm.",…，不然…,4,不然 头盔 戴
+12-E030,Giao thông đô thị,Câu theo từ,,我们打车吧，不然会迟到。,"Wǒmen dǎchē ba, bùrán huì chídào.","Chúng ta đi taxi đi, nếu không sẽ muộn.",吧，不然会…,4,不然 迟到

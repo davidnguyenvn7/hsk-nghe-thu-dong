@@ -1,0 +1,49 @@
+# Chủ đề 10 — mẫu câu
+# S|ID|câu|nghĩa Việt|ngữ pháp   — câu đơn
+# D|ID|người nói|câu|nghĩa Việt|ngữ pháp — hội thoại; các lượt liền nhau là 1 hội thoại, dòng trống để tách
+
+S|10-S01|我下周六要搬家。|Thứ bảy tuần sau tôi chuyển nhà.|要 (sắp, sẽ)
+S|10-S02|我想找一家搬家公司。|Tôi muốn tìm một công ty chuyển nhà.|lượng từ 家
+S|10-S03|东西不多，一辆小货车就够了。|Đồ không nhiều, một xe tải nhỏ là đủ.|…就够了
+S|10-S04|请把这些箱子搬到十楼。|Làm ơn chuyển mấy thùng này lên tầng 10.|把 + vật + 搬到 + nơi
+S|10-S05|这个箱子很重，小心一点儿。|Thùng này nặng lắm, cẩn thận chút.|tính từ + 一点儿
+S|10-S06|电脑放在哪儿？|Máy tính để ở đâu?|động từ + 在 + nơi
+S|10-S07|请把新地址发给我。|Gửi cho tôi địa chỉ mới nhé.|把…发给
+S|10-S08|搬家费一共多少钱？包括上楼吗？|Phí chuyển nhà tổng bao nhiêu? Có gồm khiêng lên lầu không?|包括…吗？
+S|10-S09|东西都送到了，你检查一下。|Đồ giao đến đủ rồi, anh kiểm tra nhé.|动词 + 到了
+S|10-S10|搬家公司说早上八点到。|Công ty chuyển nhà nói 8 giờ sáng đến.|说 + mệnh đề
+S|10-S11|我们公司要搬到新的办公楼。|Công ty chúng tôi sắp chuyển đến toà văn phòng mới.|搬到 + nơi
+S|10-S12|这些桌子和椅子都要搬走。|Mấy cái bàn ghế này đều phải chuyển đi.|都要 + động từ
+S|10-S13|请在箱子上写清楚里面是什么。|Ghi rõ bên ngoài thùng bên trong có gì.|写清楚
+S|10-S14|这个箱子里都是书，很重。|Thùng này toàn là sách, nặng lắm.|都是 + danh từ
+S|10-S15|这个箱子里是杯子，容易破。|Thùng này là ly cốc, dễ vỡ.|容易 + động từ
+S|10-S16|电视用旧衣服包好，不要碰坏了。|Ti vi bọc kỹ bằng quần áo cũ, đừng để va hỏng.|不要 + V + 坏
+S|10-S17|大的家具要先拆开。|Đồ nội thất lớn phải tháo rời trước.|先 + 拆开
+S|10-S18|电梯太小，沙发进不去。|Thang máy nhỏ quá, sofa không vào được.|bổ ngữ khả năng 进不去
+S|10-S19|我们只能走楼梯搬上去。|Chúng tôi chỉ có thể khiêng lên bằng cầu thang.|只能 + động từ
+S|10-S20|走楼梯要多收一百块。|Đi cầu thang phải thu thêm 100 tệ.|多 + 收 + số tiền
+S|10-S21|新家离这儿有十公里。|Nhà mới cách đây 10 km.|离…有 + khoảng cách
+S|10-S22|路上要一个小时左右。|Đi đường mất khoảng một tiếng.|…左右
+S|10-S23|请帮我把冰箱放在厨房里。|Giúp tôi đặt tủ lạnh vào bếp.|把 + vật + 放在 + nơi
+S|10-S24|床放在窗户旁边吧。|Giường đặt cạnh cửa sổ nhé.|放在…旁边
+S|10-S25|这些不要的东西可以帮我扔掉吗？|Mấy đồ không cần này anh vứt giúp được không?|动词 + 掉
+S|10-S26|搬家以前要跟物业说一声。|Trước khi chuyển nhà phải báo ban quản lý một tiếng.|跟 + người + 说一声
+S|10-S27|快递公司可以送到家门口。|Công ty chuyển phát có thể giao tận cửa nhà.|送到 + nơi
+S|10-S28|这个包裹三天以后才能到。|Bưu kiện này ba ngày sau mới đến.|…以后才…
+S|10-S29|你的快递已经放在保安那儿了。|Hàng của anh đã để ở chỗ bảo vệ rồi.|放在 + người + 那儿
+S|10-S30|搬家那天要早点儿起床。|Hôm chuyển nhà phải dậy sớm một chút.|那天 + 要
+
+D|10-D1-1|A|你好，我想订一辆搬家的车。|Chào anh, tôi muốn đặt một xe chuyển nhà.
+D|10-D1-2|B|好的，请问您哪天搬？东西多不多？|Vâng, anh chuyển ngày nào? Đồ có nhiều không?|tính từ + 不 + tính từ
+
+D|10-D2-1|A|从这儿搬到第七郡多少钱？|Chuyển từ đây sang quận 7 bao nhiêu tiền?|从…搬到…
+D|10-D2-2|B|小车六百，包括两个工人。|Xe nhỏ 600, gồm hai người khuân vác.
+
+D|10-D3-1|A|这个箱子放在哪儿？|Thùng này để đâu?
+D|10-D3-2|B|放在卧室里，上面写着“书”。|Để trong phòng ngủ, bên trên có ghi "sách".|写着
+
+D|10-D4-1|A|沙发进不去电梯怎么办？|Sofa không vào thang máy thì làm sao?
+D|10-D4-2|B|只能走楼梯了，要多加一点儿钱。|Đành đi cầu thang thôi, phải thêm chút tiền.|只能…了
+
+D|10-D5-1|A|东西都到了吗？|Đồ đến đủ hết chưa?
+D|10-D5-2|B|都到了，一共二十五个箱子，你点一下。|Đến đủ rồi, tổng cộng 25 thùng, anh đếm lại nhé.|一共 + số

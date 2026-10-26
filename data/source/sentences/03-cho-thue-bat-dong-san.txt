@@ -1,0 +1,49 @@
+# Chủ đề 03 — mẫu câu
+# S|ID|câu|nghĩa Việt|ngữ pháp   — câu đơn
+# D|ID|người nói|câu|nghĩa Việt|ngữ pháp — hội thoại; các lượt liền nhau là 1 hội thoại, dòng trống để tách
+
+S|03-S01|这套房子一个月房租多少钱？|Căn này tiền thuê một tháng bao nhiêu?|lượng từ 套
+S|03-S02|押一付三，押金是一个月的房租。|Cọc một trả ba, tiền cọc bằng một tháng tiền thuê.|押一付三
+S|03-S03|你打算租多长时间？|Anh định thuê bao lâu?|打算 + động từ
+S|03-S04|最少要租一年。|Tối thiểu phải thuê một năm.|最少 + 要
+S|03-S05|水电费不包括在房租里。|Tiền điện nước không bao gồm trong tiền thuê.|包括 + 在…里
+S|03-S06|如果你满意，我们明天就可以签合同。|Nếu anh hài lòng, mai mình ký hợp đồng luôn.|如果…就…
+S|03-S07|我什么时候可以搬进来？|Khi nào tôi có thể dọn vào?|động từ + 进来
+S|03-S08|房租每个月五号以前付。|Tiền thuê trả trước ngày 5 hằng tháng.|…以前
+S|03-S09|我想先看看房子，再决定。|Tôi muốn xem nhà trước rồi mới quyết định.|先…再…
+S|03-S10|这套房子现在还在出租吗？|Căn này bây giờ còn cho thuê không?|还在 + động từ
+S|03-S11|我想租一套离公司近的房子。|Tôi muốn thuê một căn gần công ty.|离…近 + 的 + danh từ
+S|03-S12|我的预算是每个月一万块以内。|Ngân sách của tôi là trong vòng 10.000 tệ mỗi tháng.|…以内
+S|03-S13|房东要求先交三个月的房租。|Chủ nhà yêu cầu nộp trước ba tháng tiền thuê.|要求 + 先
+S|03-S14|合同到期以后，押金会全部退给你。|Hết hạn hợp đồng, tiền cọc sẽ trả lại anh toàn bộ.|会 + động từ (sẽ)
+S|03-S15|如果提前退租，押金就不退了。|Nếu trả nhà trước hạn thì không hoàn cọc.|如果…就…了
+S|03-S16|可以养宠物吗？|Có được nuôi thú cưng không?|可以 + động từ + 吗
+S|03-S17|房东说不能养猫和狗。|Chủ nhà nói không được nuôi chó mèo.|说 + mệnh đề
+S|03-S18|这个价格包括物业费和网费。|Giá này đã gồm phí quản lý và tiền mạng.|包括
+S|03-S19|我们公司想租一层办公室。|Công ty chúng tôi muốn thuê một tầng văn phòng.|量词 层
+S|03-S20|租金每年会涨百分之五。|Tiền thuê mỗi năm sẽ tăng 5%.|涨 + 百分之
+S|03-S21|合同上写得很清楚。|Trong hợp đồng ghi rất rõ.|动词 + 得 + 很 + tính từ
+S|03-S22|签合同的时候要带身份证。|Khi ký hợp đồng phải mang căn cước.|…的时候
+S|03-S23|房子里的家具都可以用。|Đồ nội thất trong nhà đều dùng được.|都 + 可以
+S|03-S24|这里的房子很好租，下个月可能就没有了。|Nhà ở đây dễ cho thuê lắm, tháng sau có thể hết rồi.|很好 + động từ (dễ…)
+S|03-S25|我们是直接跟房东签，没有中介费。|Mình ký trực tiếp với chủ nhà, không có phí môi giới.|跟 + người + động từ
+S|03-S26|中介费是一个月的房租。|Phí môi giới bằng một tháng tiền thuê.|是 + số lượng
+S|03-S27|您需要什么样的房子？|Anh cần nhà như thế nào?|什么样的 + danh từ
+S|03-S28|我需要两个卧室，最好有阳台。|Tôi cần hai phòng ngủ, tốt nhất có ban công.|最好 + động từ
+S|03-S29|看房要提前一天预约。|Xem nhà phải hẹn trước một ngày.|提前 + thời gian + động từ
+S|03-S30|这个房子我很喜欢，就租这套吧。|Căn này tôi rất thích, thuê căn này luôn nhé.|就…吧 (quyết định)
+
+D|03-D1-1|A|这套公寓还在出租吗？|Căn hộ này còn cho thuê không?
+D|03-D1-2|B|还在。您什么时候方便来看房？|Vẫn còn. Khi nào anh tiện qua xem nhà?|什么时候 + 方便
+
+D|03-D2-1|A|房租多少钱一个月？|Tiền thuê bao nhiêu một tháng?
+D|03-D2-2|B|八千五，押一付三，水电另算。|8.500, cọc một trả ba, điện nước tính riêng.|另 + động từ
+
+D|03-D3-1|A|最少要租多长时间？|Tối thiểu thuê bao lâu?
+D|03-D3-2|B|最少半年，租一年的话可以便宜一点儿。|Ít nhất nửa năm, thuê một năm thì rẻ hơn chút.|…的话
+
+D|03-D4-1|A|如果我提前搬走，押金能退吗？|Nếu tôi dọn đi trước hạn, có hoàn cọc không?
+D|03-D4-2|B|提前一个月通知房东，押金就可以退。|Báo chủ nhà trước một tháng thì được hoàn cọc.|就 (thì)
+
+D|03-D5-1|A|合同什么时候签？|Khi nào ký hợp đồng?
+D|03-D5-2|B|您明天上午带身份证过来就行。|Sáng mai anh mang căn cước qua là được.|就行

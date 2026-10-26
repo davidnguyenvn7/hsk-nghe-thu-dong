@@ -1,0 +1,216 @@
+﻿id,chu_de,chu_han,pinyin,nghia_viet,cap_hsk
+T01-001,Giao dịch tiền,现金,xiàn jīn,tiền mặt,3
+T01-002,Giao dịch tiền,零钱,líng qián,tiền lẻ,ngoài HSK3
+T01-003,Giao dịch tiền,找钱,zhǎo qián,thối tiền,ngoài HSK3
+T01-004,Giao dịch tiền,付钱,fù qián,trả tiền,ngoài HSK3
+T01-005,Giao dịch tiền,付款,fù kuǎn,thanh toán,ngoài HSK3
+T01-006,Giao dịch tiền,收据,shōu jù,biên lai,ngoài HSK3
+T01-007,Giao dịch tiền,发票,fā piào,hoá đơn,ngoài HSK3
+T01-008,Giao dịch tiền,扫码,sǎo mǎ,quét mã,ngoài HSK3
+T01-009,Giao dịch tiền,刷卡,shuā kǎ,quẹt thẻ,ngoài HSK3
+T01-010,Giao dịch tiền,金额,jīn é,số tiền,ngoài HSK3
+T01-011,Giao dịch tiền,服务费,fú wù fèi,phí dịch vụ,ngoài HSK3
+T01-012,Giao dịch tiền,越南盾,yuè nán dùn,đồng Việt Nam,ngoài HSK3
+T01-013,Giao dịch tiền,报销,bào xiāo,thanh toán lại (chi phí công),ngoài HSK3
+T01-014,Giao dịch tiền,剩下,shèng xià,còn lại,ngoài HSK3
+T01-015,Giao dịch tiền,记录,jì lù,"ghi chép, lịch sử",3
+T01-016,Giao dịch tiền,月底,yuè dǐ,cuối tháng,ngoài HSK3
+T01-017,Giao dịch tiền,算账,suàn zhàng,tính sổ,ngoài HSK3
+T01-018,Giao dịch tiền,百分之,bǎi fēn zhī,phần trăm,ngoài HSK3
+T02-001,Chuyển khoản ngân hàng,转账,zhuǎn zhàng,chuyển khoản,ngoài HSK3
+T02-002,Chuyển khoản ngân hàng,账号,zhàng hào,số tài khoản,ngoài HSK3
+T02-003,Chuyển khoản ngân hàng,账户,zhàng hù,tài khoản,ngoài HSK3
+T02-004,Chuyển khoản ngân hàng,到账,dào zhàng,tiền về tài khoản,ngoài HSK3
+T02-005,Chuyển khoản ngân hàng,取钱,qǔ qián,rút tiền,ngoài HSK3
+T02-006,Chuyển khoản ngân hàng,存钱,cún qián,gửi tiền,ngoài HSK3
+T02-007,Chuyển khoản ngân hàng,密码,mì mǎ,mật khẩu,ngoài HSK3
+T02-008,Chuyển khoản ngân hàng,手续费,shǒu xù fèi,phí giao dịch,ngoài HSK3
+T02-009,Chuyển khoản ngân hàng,截图,jié tú,ảnh chụp màn hình,ngoài HSK3
+T02-010,Chuyển khoản ngân hàng,收款人,shōu kuǎn rén,người nhận tiền,ngoài HSK3
+T02-011,Chuyển khoản ngân hàng,确认,què rèn,xác nhận,ngoài HSK3
+T02-012,Chuyển khoản ngân hàng,填写,tián xiě,điền (mẫu),ngoài HSK3
+T02-013,Chuyển khoản ngân hàng,业务,yè wù,nghiệp vụ,ngoài HSK3
+T02-014,Chuyển khoản ngân hàng,自动,zì dòng,tự động,3
+T02-015,Chuyển khoản ngân hàng,保管,bǎo guǎn,"giữ gìn, bảo quản",ngoài HSK3
+T03-001,Cho thuê bất động sản,房租,fáng zū,tiền thuê nhà,3
+T03-002,Cho thuê bất động sản,房东,fáng dōng,chủ nhà,3
+T03-003,Cho thuê bất động sản,押金,yā jīn,tiền cọc,ngoài HSK3
+T03-004,Cho thuê bất động sản,押一付三,yā yī fù sān,cọc một trả ba,ngoài HSK3
+T03-005,Cho thuê bất động sản,合同,hé tong,hợp đồng,ngoài HSK3
+T03-006,Cho thuê bất động sản,签合同,qiān hé tong,ký hợp đồng,ngoài HSK3
+T03-007,Cho thuê bất động sản,包括,bāo kuò,bao gồm,ngoài HSK3
+T03-008,Cho thuê bất động sản,水电费,shuǐ diàn fèi,tiền điện nước,ngoài HSK3
+T03-009,Cho thuê bất động sản,物业费,wù yè fèi,phí quản lý,ngoài HSK3
+T03-010,Cho thuê bất động sản,网费,wǎng fèi,tiền mạng,ngoài HSK3
+T03-011,Cho thuê bất động sản,退租,tuì zū,trả nhà (chấm dứt thuê),ngoài HSK3
+T03-012,Cho thuê bất động sản,到期,dào qī,hết hạn,ngoài HSK3
+T03-013,Cho thuê bất động sản,预算,yù suàn,ngân sách,ngoài HSK3
+T03-014,Cho thuê bất động sản,以内,yǐ nèi,trong vòng,ngoài HSK3
+T03-015,Cho thuê bất động sản,中介,zhōng jiè,môi giới,ngoài HSK3
+T03-016,Cho thuê bất động sản,中介费,zhōng jiè fèi,phí môi giới,ngoài HSK3
+T03-017,Cho thuê bất động sản,宠物,chǒng wù,thú cưng,ngoài HSK3
+T03-018,Cho thuê bất động sản,租金,zū jīn,tiền thuê,ngoài HSK3
+T03-019,Cho thuê bất động sản,涨,zhǎng,tăng (giá),ngoài HSK3
+T03-020,Cho thuê bất động sản,看房,kàn fáng,xem nhà,ngoài HSK3
+T03-021,Cho thuê bất động sản,预约,yù yuē,đặt hẹn,ngoài HSK3
+T03-022,Cho thuê bất động sản,另算,lìng suàn,tính riêng,ngoài HSK3
+T04-001,Văn phòng,工位,gōng wèi,chỗ ngồi làm việc,ngoài HSK3
+T04-002,Văn phòng,平方米,píng fāng mǐ,mét vuông,ngoài HSK3
+T04-003,Văn phòng,会议室,huì yì shì,phòng họp,ngoài HSK3
+T04-004,Văn phòng,人事部,rén shì bù,phòng nhân sự,ngoài HSK3
+T04-005,Văn phòng,加班,jiā bān,làm thêm giờ,ngoài HSK3
+T04-006,Văn phòng,下班,xià bān,tan làm,1
+T04-007,Văn phòng,材料,cái liào,tài liệu; vật liệu,ngoài HSK3
+T04-008,Văn phòng,打印机,dǎ yìn jī,máy in,ngoài HSK3
+T04-009,Văn phòng,网络,wǎng luò,mạng,ngoài HSK3
+T04-010,Văn phòng,抽烟,chōu yān,hút thuốc,ngoài HSK3
+T04-011,Văn phòng,招,zhāo,tuyển (người),ngoài HSK3
+T04-012,Văn phòng,客户,kè hù,khách hàng,ngoài HSK3
+T04-013,Văn phòng,办公楼,bàn gōng lóu,toà văn phòng,ngoài HSK3
+T04-014,Văn phòng,连上,lián shàng,kết nối vào,ngoài HSK3
+T04-015,Văn phòng,键,jiàn,"phím, nút",ngoài HSK3
+T05-001,Căn hộ,公寓,gōng yù,căn hộ,ngoài HSK3
+T05-002,Căn hộ,两室一厅,liǎng shì yì tīng,hai phòng ngủ một phòng khách,ngoài HSK3
+T05-003,Căn hộ,卧室,wò shì,phòng ngủ,ngoài HSK3
+T05-004,Căn hộ,主卧室,zhǔ wò shì,phòng ngủ chính,ngoài HSK3
+T05-005,Căn hộ,客厅,kè tīng,phòng khách,ngoài HSK3
+T05-006,Căn hộ,厨房,chú fáng,nhà bếp,ngoài HSK3
+T05-007,Căn hộ,书房,shū fáng,"phòng làm việc, phòng sách",ngoài HSK3
+T05-008,Căn hộ,阳台,yáng tái,ban công,ngoài HSK3
+T05-009,Căn hộ,窗户,chuāng hu,cửa sổ,ngoài HSK3
+T05-010,Căn hộ,冰箱,bīng xiāng,tủ lạnh,ngoài HSK3
+T05-011,Căn hộ,衣柜,yī guì,tủ quần áo,ngoài HSK3
+T05-012,Căn hộ,热水器,rè shuǐ qì,bình nóng lạnh,ngoài HSK3
+T05-013,Căn hộ,电器,diàn qì,đồ điện,ngoài HSK3
+T05-014,Căn hộ,晒,shài,phơi,ngoài HSK3
+T05-015,Căn hộ,小区,xiǎo qū,khu dân cư,ngoài HSK3
+T05-016,Căn hộ,游泳池,yóu yǒng chí,hồ bơi,ngoài HSK3
+T05-017,Căn hộ,健身房,jiàn shēn fáng,phòng gym,ngoài HSK3
+T05-018,Căn hộ,邻居,lín jū,hàng xóm,ngoài HSK3
+T05-019,Căn hộ,垃圾,lā jī,rác,ngoài HSK3
+T05-020,Căn hộ,快递,kuài dì,hàng chuyển phát,ngoài HSK3
+T05-021,Căn hộ,装修,zhuāng xiū,"sửa sang, hoàn thiện nội thất",ngoài HSK3
+T06-001,Vị trí & đường đi,附近,fù jìn,gần đây,ngoài HSK3
+T06-002,Vị trí & đường đi,位置,wèi zhì,vị trí,ngoài HSK3
+T06-003,Vị trí & đường đi,路口,lù kǒu,"ngã tư, giao lộ",1
+T06-004,Vị trí & đường đi,红绿灯,hóng lǜ dēng,đèn giao thông,ngoài HSK3
+T06-005,Vị trí & đường đi,商场,shāng chǎng,trung tâm thương mại,1
+T06-006,Vị trí & đường đi,市中心,shì zhōng xīn,trung tâm thành phố,ngoài HSK3
+T06-007,Vị trí & đường đi,号线,hào xiàn,tuyến (metro),ngoài HSK3
+T06-008,Vị trí & đường đi,出口,chū kǒu,lối ra,2
+T06-009,Vị trí & đường đi,过马路,guò mǎ lù,qua đường,ngoài HSK3
+T06-010,Vị trí & đường đi,尽头,jìn tóu,cuối (đường),ngoài HSK3
+T06-011,Vị trí & đường đi,南门,nán mén,cổng nam,ngoài HSK3
+T06-012,Vị trí & đường đi,地址,dì zhǐ,địa chỉ,ngoài HSK3
+T06-013,Vị trí & đường đi,公交车站,gōng jiāo chē zhàn,trạm xe buýt,ngoài HSK3
+T07-001,Mô tả toà nhà,大楼,dà lóu,"toà nhà, cao ốc",ngoài HSK3
+T07-002,Mô tả toà nhà,栋,dòng,"(lượng từ) toà, căn",ngoài HSK3
+T07-003,Mô tả toà nhà,电梯,diàn tī,thang máy,ngoài HSK3
+T07-004,Mô tả toà nhà,货梯,huò tī,thang hàng,ngoài HSK3
+T07-005,Mô tả toà nhà,楼梯,lóu tī,cầu thang,ngoài HSK3
+T07-006,Mô tả toà nhà,写字楼,xiě zì lóu,cao ốc văn phòng,ngoài HSK3
+T07-007,Mô tả toà nhà,物业,wù yè,ban quản lý toà nhà,ngoài HSK3
+T07-008,Mô tả toà nhà,停车位,tíng chē wèi,chỗ đỗ xe,ngoài HSK3
+T07-009,Mô tả toà nhà,地下,dì xià,"tầng hầm, dưới đất",ngoài HSK3
+T07-010,Mô tả toà nhà,访客,fǎng kè,khách đến thăm,ngoài HSK3
+T07-011,Mô tả toà nhà,登记,dēng jì,đăng ký,ngoài HSK3
+T07-012,Mô tả toà nhà,大厅,dà tīng,sảnh,ngoài HSK3
+T07-013,Mô tả toà nhà,饮水机,yǐn shuǐ jī,máy nước uống,ngoài HSK3
+T07-014,Mô tả toà nhà,玻璃,bō li,kính,ngoài HSK3
+T07-015,Mô tả toà nhà,顶楼,dǐng lóu,tầng thượng,ngoài HSK3
+T07-016,Mô tả toà nhà,餐厅,cān tīng,nhà hàng,ngoài HSK3
+T07-017,Mô tả toà nhà,安全出口,ān quán chū kǒu,lối thoát hiểm,ngoài HSK3
+T07-018,Mô tả toà nhà,走廊,zǒu láng,hành lang,ngoài HSK3
+T07-019,Mô tả toà nhà,楼道,lóu dào,hành lang cầu thang,ngoài HSK3
+T07-020,Mô tả toà nhà,区域,qū yù,khu vực,ngoài HSK3
+T07-021,Mô tả toà nhà,公共区域,gōng gòng qū yù,khu vực chung,ngoài HSK3
+T08-001,Thi công xây dựng,施工,shī gōng,thi công,ngoài HSK3
+T08-002,Thi công xây dựng,工人,gōng rén,"công nhân, thợ",1
+T08-003,Thi công xây dựng,墙,qiáng,tường,2
+T08-004,Thi công xây dựng,承重墙,chéng zhòng qiáng,tường chịu lực,ngoài HSK3
+T08-005,Thi công xây dựng,拆,chāi,"tháo, đập bỏ",ngoài HSK3
+T08-006,Thi công xây dựng,拆掉,chāi diào,đập bỏ,ngoài HSK3
+T08-007,Thi công xây dựng,地板,dì bǎn,sàn nhà,ngoài HSK3
+T08-008,Thi công xây dựng,木地板,mù dì bǎn,sàn gỗ,ngoài HSK3
+T08-009,Thi công xây dựng,瓷砖,cí zhuān,gạch men,ngoài HSK3
+T08-010,Thi công xây dựng,铺,pū,"lát, trải",ngoài HSK3
+T08-011,Thi công xây dựng,刷,shuā,"sơn, quét",ngoài HSK3
+T08-012,Thi công xây dựng,防水,fáng shuǐ,chống thấm,ngoài HSK3
+T08-013,Thi công xây dựng,报价,bào jià,báo giá,ngoài HSK3
+T08-014,Thi công xây dựng,人工费,rén gōng fèi,tiền công,ngoài HSK3
+T08-015,Thi công xây dựng,材料费,cái liào fèi,tiền vật liệu,ngoài HSK3
+T08-016,Thi công xây dựng,插座,chā zuò,ổ cắm,ngoài HSK3
+T08-017,Thi công xây dựng,工期,gōng qī,tiến độ thi công,ngoài HSK3
+T08-018,Thi công xây dựng,推迟,tuī chí,"lùi lại, hoãn",ngoài HSK3
+T08-019,Thi công xây dựng,开工,kāi gōng,khởi công,ngoài HSK3
+T08-020,Thi công xây dựng,完工,wán gōng,hoàn công,ngoài HSK3
+T08-021,Thi công xây dựng,中期,zhōng qī,giữa kỳ,ngoài HSK3
+T08-022,Thi công xây dựng,通风,tōng fēng,thông gió,ngoài HSK3
+T08-023,Thi công xây dựng,重新,chóng xīn,làm lại,2
+T09-001,Sửa đồ văn phòng,修理,xiū lǐ,sửa chữa,ngoài HSK3
+T09-002,Sửa đồ văn phòng,师傅,shī fu,"bác thợ, anh tài",ngoài HSK3
+T09-003,Sửa đồ văn phòng,漏水,lòu shuǐ,rò nước,ngoài HSK3
+T09-004,Sửa đồ văn phòng,停电,tíng diàn,mất điện,ngoài HSK3
+T09-005,Sửa đồ văn phòng,投影仪,tóu yǐng yí,máy chiếu,ngoài HSK3
+T09-006,Sửa đồ văn phòng,门锁,mén suǒ,khoá cửa,ngoài HSK3
+T09-007,Sửa đồ văn phòng,复印机,fù yìn jī,máy photo,ngoài HSK3
+T09-008,Sửa đồ văn phòng,卡住,kǎ zhù,bị kẹt,ngoài HSK3
+T09-009,Sửa đồ văn phòng,墨,mò,mực,ngoài HSK3
+T09-010,Sửa đồ văn phòng,滴水,dī shuǐ,nhỏ nước,ngoài HSK3
+T09-011,Sửa đồ văn phòng,零件,líng jiàn,linh kiện,ngoài HSK3
+T09-012,Sửa đồ văn phòng,保修期,bǎo xiū qī,thời hạn bảo hành,ngoài HSK3
+T09-013,Sửa đồ văn phòng,免费,miǎn fèi,miễn phí,ngoài HSK3
+T09-014,Sửa đồ văn phòng,电源,diàn yuán,nguồn điện,ngoài HSK3
+T09-015,Sửa đồ văn phòng,关掉,guān diào,tắt,ngoài HSK3
+T09-016,Sửa đồ văn phòng,水管,shuǐ guǎn,ống nước,ngoài HSK3
+T09-017,Sửa đồ văn phòng,上门费,shàng mén fèi,phí đến tận nơi,ngoài HSK3
+T09-018,Sửa đồ văn phòng,电路,diàn lù,đường điện,ngoài HSK3
+T09-019,Sửa đồ văn phòng,设置,shè zhì,cài đặt,ngoài HSK3
+T09-020,Sửa đồ văn phòng,派人,pài rén,cử người,ngoài HSK3
+T10-001,Vận chuyển đồ đạc,搬家公司,bān jiā gōng sī,công ty chuyển nhà,ngoài HSK3
+T10-002,Vận chuyển đồ đạc,货车,huò chē,xe tải,ngoài HSK3
+T10-003,Vận chuyển đồ đạc,箱子,xiāng zi,thùng,ngoài HSK3
+T10-004,Vận chuyển đồ đạc,搬走,bān zǒu,dọn đi,ngoài HSK3
+T10-005,Vận chuyển đồ đạc,包好,bāo hǎo,gói kỹ,ngoài HSK3
+T10-006,Vận chuyển đồ đạc,拆开,chāi kāi,tháo rời,ngoài HSK3
+T10-007,Vận chuyển đồ đạc,扔掉,rēng diào,vứt đi,ngoài HSK3
+T10-008,Vận chuyển đồ đạc,包裹,bāo guǒ,bưu kiện,ngoài HSK3
+T10-009,Vận chuyển đồ đạc,电视,diàn shì,ti vi,1
+T10-010,Vận chuyển đồ đạc,搬家费,bān jiā fèi,phí chuyển nhà,ngoài HSK3
+T10-011,Vận chuyển đồ đạc,郡,jùn,quận (ở TP.HCM),ngoài HSK3
+T10-012,Vận chuyển đồ đạc,点一下,diǎn yí xià,"đếm lại, kiểm đếm",ngoài HSK3
+T11-001,Đàm phán giá,打折,dǎ zhé,giảm giá,ngoài HSK3
+T11-002,Đàm phán giá,打九折,dǎ jiǔ zhé,giảm 10%,ngoài HSK3
+T11-003,Đàm phán giá,考虑,kǎo lǜ,cân nhắc,ngoài HSK3
+T11-004,Đàm phán giá,最低,zuì dī,thấp nhất,ngoài HSK3
+T11-005,Đàm phán giá,市场价,shì chǎng jià,giá thị trường,ngoài HSK3
+T11-006,Đàm phán giá,让一步,ràng yí bù,nhượng một bước,ngoài HSK3
+T11-007,Đàm phán giá,免,miǎn,miễn,ngoài HSK3
+T11-008,Đàm phán giá,合作愉快,hé zuò yú kuài,hợp tác vui vẻ,ngoài HSK3
+T11-009,Đàm phán giá,没办法,méi bàn fǎ,"hết cách, chịu thôi",ngoài HSK3
+T12-001,Giao thông đô thị,堵车,dǔ chē,kẹt xe,ngoài HSK3
+T12-002,Giao thông đô thị,摩托车,mó tuō chē,xe máy,ngoài HSK3
+T12-003,Giao thông đô thị,迟到,chí dào,đến muộn,ngoài HSK3
+T12-004,Giao thông đô thị,打车,dǎ chē,bắt taxi,1
+T12-005,Giao thông đô thị,叫车,jiào chē,gọi xe,ngoài HSK3
+T12-006,Giao thông đô thị,单行道,dān xíng dào,đường một chiều,ngoài HSK3
+T12-007,Giao thông đô thị,头盔,tóu kuī,mũ bảo hiểm,ngoài HSK3
+T12-008,Giao thông đô thị,戴,dài,"đội, đeo",ngoài HSK3
+T12-009,Giao thông đô thị,下车,xià chē,xuống xe,1
+T12-010,Giao thông đô thị,打表,dǎ biǎo,tính theo đồng hồ (taxi),ngoài HSK3
+T12-011,Giao thông đô thị,火车站,huǒ chē zhàn,ga tàu hoả,ngoài HSK3
+T12-012,Giao thông đô thị,大学城,dà xué chéng,làng đại học,ngoài HSK3
+T12-013,Giao thông đô thị,交通事故,jiāo tōng shì gù,tai nạn giao thông,ngoài HSK3
+T12-014,Giao thông đô thị,厉害,lì hai,"dữ dội, ghê gớm",ngoài HSK3
+T12-015,Giao thông đô thị,不然,bù rán,nếu không thì,ngoài HSK3
+T00-001,Dùng chung,账,zhàng,"sổ sách, tài khoản",ngoài HSK3
+T00-002,Dùng chung,签,qiān,ký,ngoài HSK3
+T00-003,Dùng chung,填,tián,điền,ngoài HSK3
+T00-004,Dùng chung,堵,dǔ,"tắc, kẹt",ngoài HSK3
+T00-005,Dùng chung,定,dìng,"chốt, quyết định",ngoài HSK3
+T00-006,Dùng chung,指定,zhǐ dìng,"chỉ định, quy định",ngoài HSK3
+T00-007,Dùng chung,开窗,kāi chuāng,mở cửa sổ,ngoài HSK3
+T00-008,Dùng chung,打扫,dǎ sǎo,dọn dẹp,ngoài HSK3
+T00-009,Dùng chung,王,wáng,họ Vương,ngoài HSK3
+T00-010,Dùng chung,同一,tóng yī,cùng một,ngoài HSK3
+T00-011,Dùng chung,说一声,shuō yì shēng,báo một tiếng,ngoài HSK3

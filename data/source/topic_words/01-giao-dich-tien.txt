@@ -1,0 +1,58 @@
+# Từ vựng chủ đề 01 — Giao dịch tiền
+# W|ID từ|chữ Hán                         từ thuộc chủ đề (thứ tự = thứ tự nghe)
+# E|ID câu|ID từ|câu|nghĩa Việt|nghĩa Anh|ngữ pháp   câu của từ (sinh bằng scripts/generate.py)
+
+W|H3-763|现金
+E|01-E001|H3-763|我可以用现金付钱吗？|Tôi có thể trả bằng tiền mặt không?|Can I pay in cash?|用 + N + 动词
+E|01-E002|H3-763|月底现金不够，可以刷卡吗？|Cuối tháng không đủ tiền mặt, có thể quẹt thẻ không?|I don't have enough cash at the end of the month—can I use a card?|可以…吗？
+W|T01-002|零钱
+E|01-E003|T01-002|你有零钱吗？我找不开。|Bạn có tiền lẻ không? Tôi không có tiền để thối.|Do you have small change? I can't make change.|找不开
+E|01-E004|T01-002|请给我一些零钱，现金太多。|Cho tôi ít tiền lẻ, tiền mặt nhiều quá.|Please give me some small change; I have too much cash.|请给我…
+W|T01-003|找钱
+E|01-E005|T01-003|不用找钱了，谢谢！|Không cần thối tiền đâu, cảm ơn!|No need for change, thanks!|不用…了
+E|01-E006|T01-003|请给我找钱，谢谢。|Xin thối tiền cho tôi, cảm ơn.|Please give me my change, thank you.|请 + động từ + tân ngữ
+W|T01-004|付钱
+E|01-E007|T01-004|服务费要在哪里付钱？|Phí dịch vụ phải trả tiền ở đâu?|Where do I pay the service fee?|在哪里 + 动词
+E|01-E008|T01-004|我先付钱，再拿收据。|Tôi trả tiền trước, rồi lấy biên lai.|I'll pay first, then get the receipt.|先…再…
+W|T01-005|付款
+E|01-E009|T01-005|扫码付款可以报销吗？|Quét mã thanh toán có được hoàn tiền không?|Can I get reimbursed for paying by QR code?|可以…吗？
+E|01-E010|T01-005|付款以后请给我发票。|Sau khi thanh toán xin cho tôi hoá đơn.|Please give me the invoice after payment.|以后
+W|T01-006|收据
+E|01-E011|T01-006|收据上写金额了吗？|Trên biên lai có ghi số tiền chưa?|Is the amount written on the receipt?|…了吗？
+E|01-E012|T01-006|这张收据请留下来记录。|Xin giữ lại biên lai này để ghi chép.|Please keep this receipt for the record.|留下来
+W|T01-007|发票
+E|01-E013|T01-007|月底报销需要发票。|Cuối tháng hoàn tiền cần hoá đơn.|You need an invoice for reimbursement at month's end.|需要 + N
+E|01-E014|T01-007|发票金额不对，请算账。|Số tiền trên hoá đơn không đúng, xin tính lại.|The amount on the invoice is wrong; please recalculate.|不对
+W|T01-008|扫码
+E|01-E015|T01-008|这里可以扫码付钱吗？|Ở đây có thể quét mã trả tiền không?|Can I pay by scanning the code here?|可以…吗？
+E|01-E016|T01-008|扫码以后剩下的钱是零钱。|Sau khi quét mã, tiền còn lại là tiền lẻ.|After scanning the code, the leftover money is small change.|以后
+W|T01-009|刷卡
+E|01-E017|T01-009|这里可以刷卡吗？|Ở đây có thể quẹt thẻ không?|Can I swipe a card here?|可以…吗？
+E|01-E018|T01-009|我不想刷卡，我用现金。|Tôi không muốn quẹt thẻ, tôi dùng tiền mặt.|I don't want to swipe a card; I'll use cash.|不想…
+W|T01-010|金额
+E|01-E019|T01-010|这个金额对吗？|Số tiền này đúng không?|Is this amount correct?|…对吗？
+E|01-E020|T01-010|请写清楚付款金额。|Vui lòng ghi rõ số tiền thanh toán.|Please write the payment amount clearly.|请 + động từ + rõ
+W|T01-011|服务费
+E|01-E021|T01-011|服务费是多少？|Phí dịch vụ là bao nhiêu?|How much is the service fee?|是多少？
+E|01-E022|T01-011|这个服务费太贵了。|Phí dịch vụ này đắt quá.|This service fee is too expensive.|太…了
+W|T01-012|越南盾
+E|01-E023|T01-012|一共五十万越南盾。|Tổng cộng năm trăm nghìn đồng Việt Nam.|That's five hundred thousand Vietnamese dong in total.|一共…
+E|01-E024|T01-012|你有越南盾现金吗？|Bạn có tiền mặt đồng Việt Nam không?|Do you have cash in Vietnamese dong?|有…吗？
+W|T01-013|报销
+E|01-E025|T01-013|这个可以报销吗？|Cái này có thể thanh toán lại không?|Can this be reimbursed?|可以…吗？
+E|01-E026|T01-013|记得拿发票去报销。|Nhớ lấy hóa đơn đi thanh toán lại.|Remember to take the invoice to get reimbursed.|记得 + động từ
+W|T01-014|剩下
+E|01-E027|T01-014|剩下的钱不用找了。|Tiền còn lại không cần thối.|Keep the change from the rest.|剩下的…
+E|01-E028|T01-014|付现金以后，剩下的钱不多了。|Sau khi trả tiền mặt, số tiền còn lại không nhiều.|After paying cash, there isn't much money left.|以后，剩下的…
+W|H3-315|记录
+E|01-E029|H3-315|请记录一下付款金额。|Vui lòng ghi lại số tiền thanh toán.|Please record the payment amount.|động từ + 一下
+E|01-E030|H3-315|每笔钱都要有记录。|Mỗi khoản tiền đều phải có ghi chép.|Every payment needs a record.|每…都要…
+W|T01-016|月底
+E|01-E031|T01-016|月底我们一起算账。|Cuối tháng chúng ta cùng tính sổ.|At the end of the month we'll settle accounts together.|一起 + động từ
+E|01-E032|T01-016|月底要交收据和发票。|Cuối tháng phải nộp biên lai và hóa đơn.|At the end of the month you must submit receipts and invoices.|要 + động từ
+W|T01-017|算账
+E|01-E033|T01-017|月底我们一起算账吧。|Cuối tháng chúng ta cùng tính sổ nhé.|Let's settle the accounts together at the end of the month.|一起 + động từ + 吧
+E|01-E034|T01-017|等一下，我要先算账。|Đợi một chút, tôi phải tính sổ trước đã.|Wait a moment, I need to settle the accounts first.|先…再… (rút gọn: 先 + động từ)
+W|T01-018|百分之
+E|01-E035|T01-018|服务费是百分之十。|Phí dịch vụ là mười phần trăm.|The service fee is ten percent.|A 是 百分之 + số
+E|01-E036|T01-018|现金付款能少百分之五吗？|Trả tiền mặt có bớt được năm phần trăm không?|Can I get five percent off if I pay in cash?|能…吗？

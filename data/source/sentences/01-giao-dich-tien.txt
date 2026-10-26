@@ -1,0 +1,49 @@
+# Chủ đề 01 — mẫu câu
+# S|ID|câu|nghĩa Việt|ngữ pháp   — câu đơn
+# D|ID|người nói|câu|nghĩa Việt|ngữ pháp — hội thoại; các lượt liền nhau là 1 hội thoại, dòng trống để tách
+
+S|01-S01|一共多少钱？|Tổng cộng bao nhiêu tiền?|一共 + 多少钱
+S|01-S02|这个多少钱一个？|Cái này bao nhiêu tiền một cái?|多少钱 + 一 + lượng từ
+S|01-S03|一共三百五十块。|Tổng cộng 350 tệ.|一共 + số tiền
+S|01-S04|我可以用信用卡吗？|Tôi dùng thẻ tín dụng được không?|可以…吗？
+S|01-S05|对不起，我们只收现金。|Xin lỗi, chúng tôi chỉ nhận tiền mặt.|只 + động từ
+S|01-S06|可以扫码付钱吗？|Có thể quét mã trả tiền không?|可以…吗？
+S|01-S07|我给你五百块，请找我五十。|Tôi đưa anh 500 tệ, thối lại tôi 50 nhé.|给 + người + vật
+S|01-S08|你有零钱吗？|Anh có tiền lẻ không?|有…吗？
+S|01-S09|不好意思，我没有零钱。|Ngại quá, tôi không có tiền lẻ.|没有 + danh từ
+S|01-S10|请给我一张收据。|Làm ơn đưa tôi một tờ biên lai.|lượng từ 张
+S|01-S11|这个月我花了很多钱。|Tháng này tôi tiêu rất nhiều tiền.|động từ + 了
+S|01-S12|我借了他两千块，下个月还给他。|Tôi mượn anh ấy 2.000 tệ, tháng sau trả lại.|借 / 还给
+S|01-S13|钱不够，我再去取一点儿。|Tiền không đủ, tôi đi rút thêm một ít.|不够；再 + động từ
+S|01-S14|你数一下，看看对不对。|Anh đếm thử xem có đúng không.|động từ + 一下
+S|01-S15|现在很多人不带现金了。|Bây giờ nhiều người không mang tiền mặt nữa.|不…了 (không… nữa)
+S|01-S16|用手机付钱又快又方便。|Trả tiền bằng điện thoại vừa nhanh vừa tiện.|又…又…
+S|01-S17|这些钱是我这个月的工资。|Số tiền này là lương tháng này của tôi.|这些 + danh từ
+S|01-S18|我每个月都要交房租和水电费。|Tháng nào tôi cũng phải đóng tiền nhà và điện nước.|每…都…
+S|01-S19|这笔钱什么时候能给我？|Khoản tiền này khi nào đưa tôi được?|lượng từ 笔 (khoản)
+S|01-S20|我们先付一半，剩下的下个月付。|Chúng tôi trả trước một nửa, phần còn lại tháng sau trả.|先…，剩下的…
+S|01-S21|这个价格包括服务费吗？|Giá này đã gồm phí dịch vụ chưa?|包括…吗？
+S|01-S22|服务费是另外收的。|Phí dịch vụ thu riêng.|是…的 (nhấn mạnh)
+S|01-S23|一百块人民币大概是多少越南盾？|100 nhân dân tệ khoảng bao nhiêu đồng Việt Nam?|大概 + 是 + số lượng
+S|01-S24|今天美元的价格比昨天高。|Hôm nay giá đô la Mỹ cao hơn hôm qua.|A 比 B + tính từ
+S|01-S25|我想换一些人民币。|Tôi muốn đổi một ít nhân dân tệ.|想 + động từ
+S|01-S26|这些钱你先拿着，不够再说。|Anh cầm số tiền này trước, không đủ thì tính sau.|动词 + 着；再说
+S|01-S27|那家店只收现金，不能刷卡。|Tiệm đó chỉ nhận tiền mặt, không quẹt thẻ được.|不能 + động từ
+S|01-S28|请你在这儿写上金额和日期。|Anh ghi số tiền và ngày tháng vào đây giúp.|động từ + 上
+S|01-S29|钱已经付了，这是付款记录。|Tiền đã trả rồi, đây là lịch sử thanh toán.|已经…了
+S|01-S30|我们每个月月底算一次账。|Cuối mỗi tháng chúng tôi tính sổ một lần.|động từ + 一次 + tân ngữ
+
+D|01-D1-1|A|一共多少钱？|Tổng cộng bao nhiêu?
+D|01-D1-2|B|一共两百八十块。现金还是扫码？|Tổng 280 tệ. Tiền mặt hay quét mã?|A 还是 B？
+
+D|01-D2-1|A|我给你三百，你找我二十。|Tôi đưa 300, anh thối tôi 20.
+D|01-D2-2|B|好的，这是找您的钱，请拿好。|Vâng, đây là tiền thối, anh cầm cẩn thận.|拿好
+
+D|01-D3-1|A|你能借我一千块吗？我月底还你。|Cho tôi mượn 1.000 tệ được không? Cuối tháng tôi trả.|能…吗？
+D|01-D3-2|B|没问题，你什么时候方便就什么时候还。|Không sao, lúc nào anh tiện thì trả.|什么时候…就什么时候…
+
+D|01-D4-1|A|可以开收据吗？公司要报销。|Xuất biên lai được không? Công ty cần thanh toán lại.
+D|01-D4-2|B|可以，请等一下，我马上给你开。|Được, chờ một chút, tôi xuất ngay cho anh.|马上 + động từ
+
+D|01-D5-1|A|这个价格包括服务费吗？|Giá này gồm phí dịch vụ chưa?
+D|01-D5-2|B|不包括，服务费要另外付百分之十。|Chưa gồm, phí dịch vụ trả thêm 10%.|百分之 + số

@@ -1,0 +1,43 @@
+# Từ vựng chủ đề 06 — Vị trí & đường đi
+# W|ID từ|chữ Hán                         từ thuộc chủ đề (thứ tự = thứ tự nghe)
+# E|ID câu|ID từ|câu|nghĩa Việt|nghĩa Anh|ngữ pháp   câu của từ (sinh bằng scripts/generate.py)
+
+W|T06-001|附近
+E|06-E001|T06-001|附近有公交车站吗？|Gần đây có trạm xe buýt không?|Is there a bus stop nearby?|有…吗？
+E|06-E002|T06-001|商场附近有红绿灯。|Gần trung tâm thương mại có đèn giao thông.|There's a traffic light near the mall.|名词 + 附近有…
+W|T06-002|位置
+E|06-E003|T06-002|这个位置很方便。|Vị trí này rất thuận tiện.|This location is very convenient.|这个 + 名词 + 很 + 形容词
+E|06-E004|T06-002|商场的位置在市中心。|Vị trí của trung tâm thương mại ở trung tâm thành phố.|The mall's location is in the city center.|A 的位置在 B
+W|T06-003|路口
+E|06-E005|T06-003|路口有红绿灯，请过马路。|Ở ngã tư có đèn giao thông, hãy qua đường.|There's a traffic light at the intersection, please cross the road.|请 + 动词
+E|06-E006|T06-003|到下一个路口往南走。|Đến ngã tư tiếp theo thì đi về phía nam.|At the next intersection, go south.|到…往…走
+W|T06-004|红绿灯
+E|06-E007|T06-004|红绿灯前面就是南门。|Phía trước đèn giao thông chính là cổng nam.|The south gate is just past the traffic light.|…前面就是…
+E|06-E008|T06-004|看到红绿灯再往右走。|Thấy đèn giao thông rồi đi tiếp sang phải.|When you see the traffic light, then turn right.|…再…
+W|T06-005|商场
+E|06-E009|T06-005|商场在市中心，很近。|Trung tâm thương mại ở trung tâm thành phố, rất gần.|The mall is in the city center, very close.|在 + 地点，很 + 形容词
+E|06-E010|T06-005|请问，商场怎么走？|Xin hỏi, đi đến trung tâm thương mại thế nào?|Excuse me, how do I get to the mall?|怎么走？
+W|T06-006|市中心
+E|06-E011|T06-006|从这里到市中心远吗？|Từ đây đến trung tâm thành phố có xa không?|Is it far from here to the city center?|从…到…远吗？
+E|06-E012|T06-006|市中心坐三号线很方便。|Đi trung tâm thành phố bằng tuyến số ba rất tiện.|Taking Line 3 to the city center is very convenient.|坐 + 号线 + 很方便
+W|T06-007|号线
+E|06-E013|T06-007|坐二号线到商场，很快。|Đi tuyến số hai đến trung tâm thương mại, rất nhanh.|Take Line 2 to the mall, it's quick.|坐 + 号线 + 到…
+E|06-E014|T06-007|出口附近有一号线吗？|Gần lối ra có tuyến số một không?|Is Line 1 near the exit?|…附近有…吗？
+W|H2-067|出口
+E|06-E015|H2-067|南门出口在路的尽头。|Lối ra cổng nam ở cuối đường.|The south gate exit is at the end of the road.|在…的尽头
+E|06-E016|H2-067|请问，出口在哪边？|Xin hỏi, lối ra ở phía nào?|Excuse me, which side is the exit on?|在哪边？
+W|T06-009|过马路
+E|06-E017|T06-009|过马路前要看红绿灯。|Trước khi qua đường phải xem đèn giao thông.|Look at the traffic light before crossing the road.|前（trước khi）
+E|06-E018|T06-009|请从南门过马路到商场。|Hãy qua đường từ cổng nam đến trung tâm thương mại.|Please cross the road from the south gate to the mall.|从…到…
+W|T06-010|尽头
+E|06-E019|T06-010|这条路的尽头有公交车站。|Cuối con đường này có trạm xe buýt.|There is a bus stop at the end of this road.|…的尽头有…
+E|06-E020|T06-010|走到路口尽头就是出口吗？|Đi đến cuối ngã tư là lối ra phải không?|Is the exit at the end of the intersection?|就是…吗？
+W|T06-011|南门
+E|06-E021|T06-011|商场南门附近有地铁站。|Gần cổng nam trung tâm thương mại có ga tàu điện ngầm.|There is a subway station near the mall's south gate.|附近有
+E|06-E022|T06-011|请在南门等我，别走远。|Hãy đợi tôi ở cổng nam, đừng đi xa.|Please wait for me at the south gate, don't go far.|别 + động từ
+W|T06-012|地址
+E|06-E023|T06-012|请把这个地址发给我。|Hãy gửi địa chỉ này cho tôi.|Please send me this address.|把…给…
+E|06-E024|T06-012|你知道商场的地址吗？|Bạn có biết địa chỉ của trung tâm thương mại không?|Do you know the mall's address?|知道…吗？
+W|T06-013|公交车站
+E|06-E025|T06-013|公交车站离南门远不远？|Trạm xe buýt cách cổng nam có xa không?|Is the bus stop far from the south gate?|离…远不远？
+E|06-E026|T06-013|从出口走到公交车站要五分钟。|Đi từ lối ra đến trạm xe buýt mất năm phút.|It takes five minutes to walk from the exit to the bus stop.|从…到…要…

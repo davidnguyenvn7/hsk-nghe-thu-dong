@@ -1,0 +1,49 @@
+# Chủ đề 12 — mẫu câu
+# S|ID|câu|nghĩa Việt|ngữ pháp   — câu đơn
+# D|ID|người nói|câu|nghĩa Việt|ngữ pháp — hội thoại; các lượt liền nhau là 1 hội thoại, dòng trống để tách
+
+S|12-S01|早上八点路上经常堵车。|8 giờ sáng đường thường xuyên kẹt xe.|经常 + động từ
+S|12-S02|坐地铁比坐出租车快。|Đi metro nhanh hơn đi taxi.|A 比 B + tính từ
+S|12-S03|师傅，请在前面的路口停车。|Bác tài ơi, dừng xe ở ngã tư phía trước giúp.|在 + nơi + 停车
+S|12-S04|在越南，很多人骑摩托车上班。|Ở Việt Nam, nhiều người đi xe máy đi làm.|骑 + xe + 上班
+S|12-S05|下一站是市中心。|Trạm kế tiếp là trung tâm thành phố.|下一站
+S|12-S06|别着急，我们不会迟到的。|Đừng sốt ruột, chúng ta sẽ không trễ đâu.|别 + V；不会…的
+S|12-S07|这里可以停车吗？|Ở đây đỗ xe được không?|可以…吗？
+S|12-S08|我坐公共汽车去，要换一次车。|Tôi đi xe buýt, phải đổi xe một lần.|động từ + 一次
+S|12-S09|路上的车越来越多了。|Xe trên đường càng ngày càng nhiều.|越来越 + tính từ
+S|12-S10|你怎么来的？|Anh đến bằng gì vậy?|怎么 + V + 的 (phương thức)
+S|12-S11|我是坐地铁来的。|Tôi đi metro đến.|是…的 (phương thức)
+S|12-S12|我用手机叫了一辆车。|Tôi gọi một chiếc xe bằng điện thoại.|用 + công cụ + động từ
+S|12-S13|司机说还有五分钟到。|Tài xế nói còn 5 phút nữa đến.|还有 + thời gian
+S|12-S14|请问，这辆公交车去机场吗？|Xin hỏi, xe buýt này có đi sân bay không?|去 + nơi + 吗
+S|12-S15|地铁票多少钱一张？|Vé metro bao nhiêu tiền một vé?|多少钱 + 一张
+S|12-S16|下雨的时候更容易堵车。|Khi trời mưa càng dễ kẹt xe.|…的时候 + 更
+S|12-S17|今天路上堵得很厉害。|Hôm nay đường kẹt rất nặng.|动词 + 得 + 很厉害
+S|12-S18|红灯的时候要停下来。|Đèn đỏ phải dừng lại.|动词 + 下来
+S|12-S19|这条路是单行道，不能开进去。|Đường này là đường một chiều, không chạy vào được.|不能 + 开进去
+S|12-S20|骑摩托车一定要戴头盔。|Đi xe máy nhất định phải đội mũ bảo hiểm.|一定要 + động từ
+S|12-S21|晚上下班的时候，地铁里人很多。|Giờ tan làm buổi tối, trong metro rất đông người.|…的时候
+S|12-S22|我们早点儿出发吧，不然会迟到。|Mình xuất phát sớm chút đi, không thì sẽ trễ.|不然 (nếu không)
+S|12-S23|你在哪儿下车？|Anh xuống xe ở đâu?|在 + nơi + 下车
+S|12-S24|我在下一站下车。|Tôi xuống ở trạm kế tiếp.|在…下车
+S|12-S25|从这儿坐车到公司要四十分钟。|Từ đây đi xe đến công ty mất 40 phút.|从…到…要 + thời gian
+S|12-S26|开车去比坐地铁慢多了。|Lái xe đi chậm hơn đi metro nhiều.|比…tính từ + 多了
+S|12-S27|这个城市的地铁很方便，也很便宜。|Metro ở thành phố này rất tiện, cũng rất rẻ.|也很 + tính từ
+S|12-S28|停车费一个小时二十块。|Phí đỗ xe một tiếng 20 tệ.|số tiền + 一个小时
+S|12-S29|前面出了交通事故，我们换一条路吧。|Phía trước xảy ra tai nạn, mình đổi đường khác nhé.|出了 + 事故
+S|12-S30|师傅，麻烦开快一点儿，我有点儿急。|Bác tài, phiền chạy nhanh chút, tôi hơi gấp.|开快一点儿
+
+D|12-D1-1|A|你怎么还没到？|Sao anh vẫn chưa tới?
+D|12-D1-2|B|路上堵车了，我大概还要二十分钟。|Đường kẹt xe, chắc tôi còn mất 20 phút nữa.|还要 + thời gian
+
+D|12-D2-1|A|去火车站坐几路公交车？|Đi ga tàu đi xe buýt tuyến mấy?
+D|12-D2-2|B|坐十八路，在第五站下车。|Đi tuyến 18, xuống ở trạm thứ năm.|在 + trạm + 下车
+
+D|12-D3-1|A|师傅，到大学城多少钱？|Bác tài, đến làng đại học bao nhiêu tiền?
+D|12-D3-2|B|打表，大概六十块左右。|Tính đồng hồ, khoảng chừng 60 tệ.|…左右
+
+D|12-D4-1|A|这里可以停车吗？|Ở đây đỗ xe được không?
+D|12-D4-2|B|不可以，停车场在前面一百米。|Không được, bãi đỗ xe ở phía trước 100 mét.
+
+D|12-D5-1|A|我们坐地铁还是打车？|Mình đi metro hay đi taxi?
+D|12-D5-2|B|现在是下班时间，坐地铁快一点儿。|Bây giờ là giờ tan tầm, đi metro nhanh hơn.|A 还是 B？

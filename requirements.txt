@@ -1,0 +1,4 @@
+pypinyin>=0.50
+jieba>=0.42
+edge-tts>=6.1
+truststore>=0.9   # dùng kho chứng chỉ của hệ điều hành (antivirus/proxy)

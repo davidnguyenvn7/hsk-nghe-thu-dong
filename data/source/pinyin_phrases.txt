@@ -1,0 +1,20 @@
+# Sửa pinyin cho cụm từ mà pypinyin đọc sai. Định dạng:  cụm từ|pin yin (cách âm tiết bằng dấu cách)
+# Thêm dòng ở đây rồi chạy lại scripts/build.py
+还给|huán gěi
+还你|huán nǐ
+多长|duō cháng
+这个|zhè ge
+那个|nà ge
+哪个|nǎ ge
+这儿|zhèr
+那儿|nàr
+哪儿|nǎr
+一会儿|yí huìr
+看看|kàn kan
+试试|shì shi
+查查|chá cha
+等等|děng deng
+说一声|shuō yì shēng
+长时间|cháng shí jiān
+地下一层|dì xià yī céng
+一楼|yī lóu

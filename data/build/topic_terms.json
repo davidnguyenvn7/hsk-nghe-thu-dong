@@ -1,0 +1,2152 @@
+[
+ {
+  "id": "T01-001",
+  "topic": "01",
+  "hanzi": "现金",
+  "pinyin": "xiàn jīn",
+  "vi": "tiền mặt",
+  "en": "",
+  "level": 3,
+  "same_as": "H3-763"
+ },
+ {
+  "id": "T01-002",
+  "topic": "01",
+  "hanzi": "零钱",
+  "pinyin": "líng qián",
+  "vi": "tiền lẻ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T01-003",
+  "topic": "01",
+  "hanzi": "找钱",
+  "pinyin": "zhǎo qián",
+  "vi": "thối tiền",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T01-004",
+  "topic": "01",
+  "hanzi": "付钱",
+  "pinyin": "fù qián",
+  "vi": "trả tiền",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T01-005",
+  "topic": "01",
+  "hanzi": "付款",
+  "pinyin": "fù kuǎn",
+  "vi": "thanh toán",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T01-006",
+  "topic": "01",
+  "hanzi": "收据",
+  "pinyin": "shōu jù",
+  "vi": "biên lai",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T01-007",
+  "topic": "01",
+  "hanzi": "发票",
+  "pinyin": "fā piào",
+  "vi": "hoá đơn",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T01-008",
+  "topic": "01",
+  "hanzi": "扫码",
+  "pinyin": "sǎo mǎ",
+  "vi": "quét mã",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T01-009",
+  "topic": "01",
+  "hanzi": "刷卡",
+  "pinyin": "shuā kǎ",
+  "vi": "quẹt thẻ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T01-010",
+  "topic": "01",
+  "hanzi": "金额",
+  "pinyin": "jīn é",
+  "vi": "số tiền",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T01-011",
+  "topic": "01",
+  "hanzi": "服务费",
+  "pinyin": "fú wù fèi",
+  "vi": "phí dịch vụ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T01-012",
+  "topic": "01",
+  "hanzi": "越南盾",
+  "pinyin": "yuè nán dùn",
+  "vi": "đồng Việt Nam",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T01-013",
+  "topic": "01",
+  "hanzi": "报销",
+  "pinyin": "bào xiāo",
+  "vi": "thanh toán lại (chi phí công)",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T01-014",
+  "topic": "01",
+  "hanzi": "剩下",
+  "pinyin": "shèng xià",
+  "vi": "còn lại",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T01-015",
+  "topic": "01",
+  "hanzi": "记录",
+  "pinyin": "jì lù",
+  "vi": "ghi chép, lịch sử",
+  "en": "",
+  "level": 3,
+  "same_as": "H3-315"
+ },
+ {
+  "id": "T01-016",
+  "topic": "01",
+  "hanzi": "月底",
+  "pinyin": "yuè dǐ",
+  "vi": "cuối tháng",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T01-017",
+  "topic": "01",
+  "hanzi": "算账",
+  "pinyin": "suàn zhàng",
+  "vi": "tính sổ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T01-018",
+  "topic": "01",
+  "hanzi": "百分之",
+  "pinyin": "bǎi fēn zhī",
+  "vi": "phần trăm",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T02-001",
+  "topic": "02",
+  "hanzi": "转账",
+  "pinyin": "zhuǎn zhàng",
+  "vi": "chuyển khoản",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T02-002",
+  "topic": "02",
+  "hanzi": "账号",
+  "pinyin": "zhàng hào",
+  "vi": "số tài khoản",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T02-003",
+  "topic": "02",
+  "hanzi": "账户",
+  "pinyin": "zhàng hù",
+  "vi": "tài khoản",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T02-004",
+  "topic": "02",
+  "hanzi": "到账",
+  "pinyin": "dào zhàng",
+  "vi": "tiền về tài khoản",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T02-005",
+  "topic": "02",
+  "hanzi": "取钱",
+  "pinyin": "qǔ qián",
+  "vi": "rút tiền",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T02-006",
+  "topic": "02",
+  "hanzi": "存钱",
+  "pinyin": "cún qián",
+  "vi": "gửi tiền",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T02-007",
+  "topic": "02",
+  "hanzi": "密码",
+  "pinyin": "mì mǎ",
+  "vi": "mật khẩu",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T02-008",
+  "topic": "02",
+  "hanzi": "手续费",
+  "pinyin": "shǒu xù fèi",
+  "vi": "phí giao dịch",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T02-009",
+  "topic": "02",
+  "hanzi": "截图",
+  "pinyin": "jié tú",
+  "vi": "ảnh chụp màn hình",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T02-010",
+  "topic": "02",
+  "hanzi": "收款人",
+  "pinyin": "shōu kuǎn rén",
+  "vi": "người nhận tiền",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T02-011",
+  "topic": "02",
+  "hanzi": "确认",
+  "pinyin": "què rèn",
+  "vi": "xác nhận",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T02-012",
+  "topic": "02",
+  "hanzi": "填写",
+  "pinyin": "tián xiě",
+  "vi": "điền (mẫu)",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T02-013",
+  "topic": "02",
+  "hanzi": "业务",
+  "pinyin": "yè wù",
+  "vi": "nghiệp vụ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T02-014",
+  "topic": "02",
+  "hanzi": "自动",
+  "pinyin": "zì dòng",
+  "vi": "tự động",
+  "en": "",
+  "level": 3,
+  "same_as": "H3-938"
+ },
+ {
+  "id": "T02-015",
+  "topic": "02",
+  "hanzi": "保管",
+  "pinyin": "bǎo guǎn",
+  "vi": "giữ gìn, bảo quản",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-001",
+  "topic": "03",
+  "hanzi": "房租",
+  "pinyin": "fáng zū",
+  "vi": "tiền thuê nhà",
+  "en": "",
+  "level": 3,
+  "same_as": "H3-183"
+ },
+ {
+  "id": "T03-002",
+  "topic": "03",
+  "hanzi": "房东",
+  "pinyin": "fáng dōng",
+  "vi": "chủ nhà",
+  "en": "",
+  "level": 3,
+  "same_as": "H3-181"
+ },
+ {
+  "id": "T03-003",
+  "topic": "03",
+  "hanzi": "押金",
+  "pinyin": "yā jīn",
+  "vi": "tiền cọc",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-004",
+  "topic": "03",
+  "hanzi": "押一付三",
+  "pinyin": "yā yī fù sān",
+  "vi": "cọc một trả ba",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-005",
+  "topic": "03",
+  "hanzi": "合同",
+  "pinyin": "hé tong",
+  "vi": "hợp đồng",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-006",
+  "topic": "03",
+  "hanzi": "签合同",
+  "pinyin": "qiān hé tong",
+  "vi": "ký hợp đồng",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-007",
+  "topic": "03",
+  "hanzi": "包括",
+  "pinyin": "bāo kuò",
+  "vi": "bao gồm",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-008",
+  "topic": "03",
+  "hanzi": "水电费",
+  "pinyin": "shuǐ diàn fèi",
+  "vi": "tiền điện nước",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-009",
+  "topic": "03",
+  "hanzi": "物业费",
+  "pinyin": "wù yè fèi",
+  "vi": "phí quản lý",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-010",
+  "topic": "03",
+  "hanzi": "网费",
+  "pinyin": "wǎng fèi",
+  "vi": "tiền mạng",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-011",
+  "topic": "03",
+  "hanzi": "退租",
+  "pinyin": "tuì zū",
+  "vi": "trả nhà (chấm dứt thuê)",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-012",
+  "topic": "03",
+  "hanzi": "到期",
+  "pinyin": "dào qī",
+  "vi": "hết hạn",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-013",
+  "topic": "03",
+  "hanzi": "预算",
+  "pinyin": "yù suàn",
+  "vi": "ngân sách",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-014",
+  "topic": "03",
+  "hanzi": "以内",
+  "pinyin": "yǐ nèi",
+  "vi": "trong vòng",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-015",
+  "topic": "03",
+  "hanzi": "中介",
+  "pinyin": "zhōng jiè",
+  "vi": "môi giới",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-016",
+  "topic": "03",
+  "hanzi": "中介费",
+  "pinyin": "zhōng jiè fèi",
+  "vi": "phí môi giới",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-017",
+  "topic": "03",
+  "hanzi": "宠物",
+  "pinyin": "chǒng wù",
+  "vi": "thú cưng",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-018",
+  "topic": "03",
+  "hanzi": "租金",
+  "pinyin": "zū jīn",
+  "vi": "tiền thuê",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-019",
+  "topic": "03",
+  "hanzi": "涨",
+  "pinyin": "zhǎng",
+  "vi": "tăng (giá)",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-020",
+  "topic": "03",
+  "hanzi": "看房",
+  "pinyin": "kàn fáng",
+  "vi": "xem nhà",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-021",
+  "topic": "03",
+  "hanzi": "预约",
+  "pinyin": "yù yuē",
+  "vi": "đặt hẹn",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T03-022",
+  "topic": "03",
+  "hanzi": "另算",
+  "pinyin": "lìng suàn",
+  "vi": "tính riêng",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T04-001",
+  "topic": "04",
+  "hanzi": "工位",
+  "pinyin": "gōng wèi",
+  "vi": "chỗ ngồi làm việc",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T04-002",
+  "topic": "04",
+  "hanzi": "平方米",
+  "pinyin": "píng fāng mǐ",
+  "vi": "mét vuông",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T04-003",
+  "topic": "04",
+  "hanzi": "会议室",
+  "pinyin": "huì yì shì",
+  "vi": "phòng họp",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T04-004",
+  "topic": "04",
+  "hanzi": "人事部",
+  "pinyin": "rén shì bù",
+  "vi": "phòng nhân sự",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T04-005",
+  "topic": "04",
+  "hanzi": "加班",
+  "pinyin": "jiā bān",
+  "vi": "làm thêm giờ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T04-006",
+  "topic": "04",
+  "hanzi": "下班",
+  "pinyin": "xià bān",
+  "vi": "tan làm",
+  "en": "",
+  "level": 1,
+  "same_as": null
+ },
+ {
+  "id": "T04-007",
+  "topic": "04",
+  "hanzi": "材料",
+  "pinyin": "cái liào",
+  "vi": "tài liệu; vật liệu",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T04-008",
+  "topic": "04",
+  "hanzi": "打印机",
+  "pinyin": "dǎ yìn jī",
+  "vi": "máy in",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T04-009",
+  "topic": "04",
+  "hanzi": "网络",
+  "pinyin": "wǎng luò",
+  "vi": "mạng",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T04-010",
+  "topic": "04",
+  "hanzi": "抽烟",
+  "pinyin": "chōu yān",
+  "vi": "hút thuốc",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T04-011",
+  "topic": "04",
+  "hanzi": "招",
+  "pinyin": "zhāo",
+  "vi": "tuyển (người)",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T04-012",
+  "topic": "04",
+  "hanzi": "客户",
+  "pinyin": "kè hù",
+  "vi": "khách hàng",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T04-013",
+  "topic": "04",
+  "hanzi": "办公楼",
+  "pinyin": "bàn gōng lóu",
+  "vi": "toà văn phòng",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T04-014",
+  "topic": "04",
+  "hanzi": "连上",
+  "pinyin": "lián shàng",
+  "vi": "kết nối vào",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T04-015",
+  "topic": "04",
+  "hanzi": "键",
+  "pinyin": "jiàn",
+  "vi": "phím, nút",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-001",
+  "topic": "05",
+  "hanzi": "公寓",
+  "pinyin": "gōng yù",
+  "vi": "căn hộ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-002",
+  "topic": "05",
+  "hanzi": "两室一厅",
+  "pinyin": "liǎng shì yì tīng",
+  "vi": "hai phòng ngủ một phòng khách",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-003",
+  "topic": "05",
+  "hanzi": "卧室",
+  "pinyin": "wò shì",
+  "vi": "phòng ngủ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-004",
+  "topic": "05",
+  "hanzi": "主卧室",
+  "pinyin": "zhǔ wò shì",
+  "vi": "phòng ngủ chính",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-005",
+  "topic": "05",
+  "hanzi": "客厅",
+  "pinyin": "kè tīng",
+  "vi": "phòng khách",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-006",
+  "topic": "05",
+  "hanzi": "厨房",
+  "pinyin": "chú fáng",
+  "vi": "nhà bếp",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-007",
+  "topic": "05",
+  "hanzi": "书房",
+  "pinyin": "shū fáng",
+  "vi": "phòng làm việc, phòng sách",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-008",
+  "topic": "05",
+  "hanzi": "阳台",
+  "pinyin": "yáng tái",
+  "vi": "ban công",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-009",
+  "topic": "05",
+  "hanzi": "窗户",
+  "pinyin": "chuāng hu",
+  "vi": "cửa sổ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-010",
+  "topic": "05",
+  "hanzi": "冰箱",
+  "pinyin": "bīng xiāng",
+  "vi": "tủ lạnh",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-011",
+  "topic": "05",
+  "hanzi": "衣柜",
+  "pinyin": "yī guì",
+  "vi": "tủ quần áo",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-012",
+  "topic": "05",
+  "hanzi": "热水器",
+  "pinyin": "rè shuǐ qì",
+  "vi": "bình nóng lạnh",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-013",
+  "topic": "05",
+  "hanzi": "电器",
+  "pinyin": "diàn qì",
+  "vi": "đồ điện",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-014",
+  "topic": "05",
+  "hanzi": "晒",
+  "pinyin": "shài",
+  "vi": "phơi",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-015",
+  "topic": "05",
+  "hanzi": "小区",
+  "pinyin": "xiǎo qū",
+  "vi": "khu dân cư",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-016",
+  "topic": "05",
+  "hanzi": "游泳池",
+  "pinyin": "yóu yǒng chí",
+  "vi": "hồ bơi",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-017",
+  "topic": "05",
+  "hanzi": "健身房",
+  "pinyin": "jiàn shēn fáng",
+  "vi": "phòng gym",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-018",
+  "topic": "05",
+  "hanzi": "邻居",
+  "pinyin": "lín jū",
+  "vi": "hàng xóm",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-019",
+  "topic": "05",
+  "hanzi": "垃圾",
+  "pinyin": "lā jī",
+  "vi": "rác",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-020",
+  "topic": "05",
+  "hanzi": "快递",
+  "pinyin": "kuài dì",
+  "vi": "hàng chuyển phát",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T05-021",
+  "topic": "05",
+  "hanzi": "装修",
+  "pinyin": "zhuāng xiū",
+  "vi": "sửa sang, hoàn thiện nội thất",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T06-001",
+  "topic": "06",
+  "hanzi": "附近",
+  "pinyin": "fù jìn",
+  "vi": "gần đây",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T06-002",
+  "topic": "06",
+  "hanzi": "位置",
+  "pinyin": "wèi zhì",
+  "vi": "vị trí",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T06-003",
+  "topic": "06",
+  "hanzi": "路口",
+  "pinyin": "lù kǒu",
+  "vi": "ngã tư, giao lộ",
+  "en": "",
+  "level": 1,
+  "same_as": null
+ },
+ {
+  "id": "T06-004",
+  "topic": "06",
+  "hanzi": "红绿灯",
+  "pinyin": "hóng lǜ dēng",
+  "vi": "đèn giao thông",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T06-005",
+  "topic": "06",
+  "hanzi": "商场",
+  "pinyin": "shāng chǎng",
+  "vi": "trung tâm thương mại",
+  "en": "",
+  "level": 1,
+  "same_as": null
+ },
+ {
+  "id": "T06-006",
+  "topic": "06",
+  "hanzi": "市中心",
+  "pinyin": "shì zhōng xīn",
+  "vi": "trung tâm thành phố",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T06-007",
+  "topic": "06",
+  "hanzi": "号线",
+  "pinyin": "hào xiàn",
+  "vi": "tuyến (metro)",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T06-008",
+  "topic": "06",
+  "hanzi": "出口",
+  "pinyin": "chū kǒu",
+  "vi": "lối ra",
+  "en": "",
+  "level": 2,
+  "same_as": "H2-067"
+ },
+ {
+  "id": "T06-009",
+  "topic": "06",
+  "hanzi": "过马路",
+  "pinyin": "guò mǎ lù",
+  "vi": "qua đường",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T06-010",
+  "topic": "06",
+  "hanzi": "尽头",
+  "pinyin": "jìn tóu",
+  "vi": "cuối (đường)",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T06-011",
+  "topic": "06",
+  "hanzi": "南门",
+  "pinyin": "nán mén",
+  "vi": "cổng nam",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T06-012",
+  "topic": "06",
+  "hanzi": "地址",
+  "pinyin": "dì zhǐ",
+  "vi": "địa chỉ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T06-013",
+  "topic": "06",
+  "hanzi": "公交车站",
+  "pinyin": "gōng jiāo chē zhàn",
+  "vi": "trạm xe buýt",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-001",
+  "topic": "07",
+  "hanzi": "大楼",
+  "pinyin": "dà lóu",
+  "vi": "toà nhà, cao ốc",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-002",
+  "topic": "07",
+  "hanzi": "栋",
+  "pinyin": "dòng",
+  "vi": "(lượng từ) toà, căn",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-003",
+  "topic": "07",
+  "hanzi": "电梯",
+  "pinyin": "diàn tī",
+  "vi": "thang máy",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-004",
+  "topic": "07",
+  "hanzi": "货梯",
+  "pinyin": "huò tī",
+  "vi": "thang hàng",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-005",
+  "topic": "07",
+  "hanzi": "楼梯",
+  "pinyin": "lóu tī",
+  "vi": "cầu thang",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-006",
+  "topic": "07",
+  "hanzi": "写字楼",
+  "pinyin": "xiě zì lóu",
+  "vi": "cao ốc văn phòng",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-007",
+  "topic": "07",
+  "hanzi": "物业",
+  "pinyin": "wù yè",
+  "vi": "ban quản lý toà nhà",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-008",
+  "topic": "07",
+  "hanzi": "停车位",
+  "pinyin": "tíng chē wèi",
+  "vi": "chỗ đỗ xe",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-009",
+  "topic": "07",
+  "hanzi": "地下",
+  "pinyin": "dì xià",
+  "vi": "tầng hầm, dưới đất",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-010",
+  "topic": "07",
+  "hanzi": "访客",
+  "pinyin": "fǎng kè",
+  "vi": "khách đến thăm",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-011",
+  "topic": "07",
+  "hanzi": "登记",
+  "pinyin": "dēng jì",
+  "vi": "đăng ký",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-012",
+  "topic": "07",
+  "hanzi": "大厅",
+  "pinyin": "dà tīng",
+  "vi": "sảnh",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-013",
+  "topic": "07",
+  "hanzi": "饮水机",
+  "pinyin": "yǐn shuǐ jī",
+  "vi": "máy nước uống",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-014",
+  "topic": "07",
+  "hanzi": "玻璃",
+  "pinyin": "bō li",
+  "vi": "kính",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-015",
+  "topic": "07",
+  "hanzi": "顶楼",
+  "pinyin": "dǐng lóu",
+  "vi": "tầng thượng",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-016",
+  "topic": "07",
+  "hanzi": "餐厅",
+  "pinyin": "cān tīng",
+  "vi": "nhà hàng",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-017",
+  "topic": "07",
+  "hanzi": "安全出口",
+  "pinyin": "ān quán chū kǒu",
+  "vi": "lối thoát hiểm",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-018",
+  "topic": "07",
+  "hanzi": "走廊",
+  "pinyin": "zǒu láng",
+  "vi": "hành lang",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-019",
+  "topic": "07",
+  "hanzi": "楼道",
+  "pinyin": "lóu dào",
+  "vi": "hành lang cầu thang",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-020",
+  "topic": "07",
+  "hanzi": "区域",
+  "pinyin": "qū yù",
+  "vi": "khu vực",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T07-021",
+  "topic": "07",
+  "hanzi": "公共区域",
+  "pinyin": "gōng gòng qū yù",
+  "vi": "khu vực chung",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-001",
+  "topic": "08",
+  "hanzi": "施工",
+  "pinyin": "shī gōng",
+  "vi": "thi công",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-002",
+  "topic": "08",
+  "hanzi": "工人",
+  "pinyin": "gōng rén",
+  "vi": "công nhân, thợ",
+  "en": "",
+  "level": 1,
+  "same_as": null
+ },
+ {
+  "id": "T08-003",
+  "topic": "08",
+  "hanzi": "墙",
+  "pinyin": "qiáng",
+  "vi": "tường",
+  "en": "",
+  "level": 2,
+  "same_as": "H2-417"
+ },
+ {
+  "id": "T08-004",
+  "topic": "08",
+  "hanzi": "承重墙",
+  "pinyin": "chéng zhòng qiáng",
+  "vi": "tường chịu lực",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-005",
+  "topic": "08",
+  "hanzi": "拆",
+  "pinyin": "chāi",
+  "vi": "tháo, đập bỏ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-006",
+  "topic": "08",
+  "hanzi": "拆掉",
+  "pinyin": "chāi diào",
+  "vi": "đập bỏ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-007",
+  "topic": "08",
+  "hanzi": "地板",
+  "pinyin": "dì bǎn",
+  "vi": "sàn nhà",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-008",
+  "topic": "08",
+  "hanzi": "木地板",
+  "pinyin": "mù dì bǎn",
+  "vi": "sàn gỗ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-009",
+  "topic": "08",
+  "hanzi": "瓷砖",
+  "pinyin": "cí zhuān",
+  "vi": "gạch men",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-010",
+  "topic": "08",
+  "hanzi": "铺",
+  "pinyin": "pū",
+  "vi": "lát, trải",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-011",
+  "topic": "08",
+  "hanzi": "刷",
+  "pinyin": "shuā",
+  "vi": "sơn, quét",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-012",
+  "topic": "08",
+  "hanzi": "防水",
+  "pinyin": "fáng shuǐ",
+  "vi": "chống thấm",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-013",
+  "topic": "08",
+  "hanzi": "报价",
+  "pinyin": "bào jià",
+  "vi": "báo giá",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-014",
+  "topic": "08",
+  "hanzi": "人工费",
+  "pinyin": "rén gōng fèi",
+  "vi": "tiền công",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-015",
+  "topic": "08",
+  "hanzi": "材料费",
+  "pinyin": "cái liào fèi",
+  "vi": "tiền vật liệu",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-016",
+  "topic": "08",
+  "hanzi": "插座",
+  "pinyin": "chā zuò",
+  "vi": "ổ cắm",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-017",
+  "topic": "08",
+  "hanzi": "工期",
+  "pinyin": "gōng qī",
+  "vi": "tiến độ thi công",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-018",
+  "topic": "08",
+  "hanzi": "推迟",
+  "pinyin": "tuī chí",
+  "vi": "lùi lại, hoãn",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-019",
+  "topic": "08",
+  "hanzi": "开工",
+  "pinyin": "kāi gōng",
+  "vi": "khởi công",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-020",
+  "topic": "08",
+  "hanzi": "完工",
+  "pinyin": "wán gōng",
+  "vi": "hoàn công",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-021",
+  "topic": "08",
+  "hanzi": "中期",
+  "pinyin": "zhōng qī",
+  "vi": "giữa kỳ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-022",
+  "topic": "08",
+  "hanzi": "通风",
+  "pinyin": "tōng fēng",
+  "vi": "thông gió",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T08-023",
+  "topic": "08",
+  "hanzi": "重新",
+  "pinyin": "chóng xīn",
+  "vi": "làm lại",
+  "en": "",
+  "level": 2,
+  "same_as": "H2-719"
+ },
+ {
+  "id": "T09-001",
+  "topic": "09",
+  "hanzi": "修理",
+  "pinyin": "xiū lǐ",
+  "vi": "sửa chữa",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-002",
+  "topic": "09",
+  "hanzi": "师傅",
+  "pinyin": "shī fu",
+  "vi": "bác thợ, anh tài",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-003",
+  "topic": "09",
+  "hanzi": "漏水",
+  "pinyin": "lòu shuǐ",
+  "vi": "rò nước",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-004",
+  "topic": "09",
+  "hanzi": "停电",
+  "pinyin": "tíng diàn",
+  "vi": "mất điện",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-005",
+  "topic": "09",
+  "hanzi": "投影仪",
+  "pinyin": "tóu yǐng yí",
+  "vi": "máy chiếu",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-006",
+  "topic": "09",
+  "hanzi": "门锁",
+  "pinyin": "mén suǒ",
+  "vi": "khoá cửa",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-007",
+  "topic": "09",
+  "hanzi": "复印机",
+  "pinyin": "fù yìn jī",
+  "vi": "máy photo",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-008",
+  "topic": "09",
+  "hanzi": "卡住",
+  "pinyin": "kǎ zhù",
+  "vi": "bị kẹt",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-009",
+  "topic": "09",
+  "hanzi": "墨",
+  "pinyin": "mò",
+  "vi": "mực",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-010",
+  "topic": "09",
+  "hanzi": "滴水",
+  "pinyin": "dī shuǐ",
+  "vi": "nhỏ nước",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-011",
+  "topic": "09",
+  "hanzi": "零件",
+  "pinyin": "líng jiàn",
+  "vi": "linh kiện",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-012",
+  "topic": "09",
+  "hanzi": "保修期",
+  "pinyin": "bǎo xiū qī",
+  "vi": "thời hạn bảo hành",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-013",
+  "topic": "09",
+  "hanzi": "免费",
+  "pinyin": "miǎn fèi",
+  "vi": "miễn phí",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-014",
+  "topic": "09",
+  "hanzi": "电源",
+  "pinyin": "diàn yuán",
+  "vi": "nguồn điện",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-015",
+  "topic": "09",
+  "hanzi": "关掉",
+  "pinyin": "guān diào",
+  "vi": "tắt",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-016",
+  "topic": "09",
+  "hanzi": "水管",
+  "pinyin": "shuǐ guǎn",
+  "vi": "ống nước",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-017",
+  "topic": "09",
+  "hanzi": "上门费",
+  "pinyin": "shàng mén fèi",
+  "vi": "phí đến tận nơi",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-018",
+  "topic": "09",
+  "hanzi": "电路",
+  "pinyin": "diàn lù",
+  "vi": "đường điện",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-019",
+  "topic": "09",
+  "hanzi": "设置",
+  "pinyin": "shè zhì",
+  "vi": "cài đặt",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T09-020",
+  "topic": "09",
+  "hanzi": "派人",
+  "pinyin": "pài rén",
+  "vi": "cử người",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T10-001",
+  "topic": "10",
+  "hanzi": "搬家公司",
+  "pinyin": "bān jiā gōng sī",
+  "vi": "công ty chuyển nhà",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T10-002",
+  "topic": "10",
+  "hanzi": "货车",
+  "pinyin": "huò chē",
+  "vi": "xe tải",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T10-003",
+  "topic": "10",
+  "hanzi": "箱子",
+  "pinyin": "xiāng zi",
+  "vi": "thùng",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T10-004",
+  "topic": "10",
+  "hanzi": "搬走",
+  "pinyin": "bān zǒu",
+  "vi": "dọn đi",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T10-005",
+  "topic": "10",
+  "hanzi": "包好",
+  "pinyin": "bāo hǎo",
+  "vi": "gói kỹ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T10-006",
+  "topic": "10",
+  "hanzi": "拆开",
+  "pinyin": "chāi kāi",
+  "vi": "tháo rời",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T10-007",
+  "topic": "10",
+  "hanzi": "扔掉",
+  "pinyin": "rēng diào",
+  "vi": "vứt đi",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T10-008",
+  "topic": "10",
+  "hanzi": "包裹",
+  "pinyin": "bāo guǒ",
+  "vi": "bưu kiện",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T10-009",
+  "topic": "10",
+  "hanzi": "电视",
+  "pinyin": "diàn shì",
+  "vi": "ti vi",
+  "en": "",
+  "level": 1,
+  "same_as": null
+ },
+ {
+  "id": "T10-010",
+  "topic": "10",
+  "hanzi": "搬家费",
+  "pinyin": "bān jiā fèi",
+  "vi": "phí chuyển nhà",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T10-011",
+  "topic": "10",
+  "hanzi": "郡",
+  "pinyin": "jùn",
+  "vi": "quận (ở TP.HCM)",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T10-012",
+  "topic": "10",
+  "hanzi": "点一下",
+  "pinyin": "diǎn yí xià",
+  "vi": "đếm lại, kiểm đếm",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T11-001",
+  "topic": "11",
+  "hanzi": "打折",
+  "pinyin": "dǎ zhé",
+  "vi": "giảm giá",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T11-002",
+  "topic": "11",
+  "hanzi": "打九折",
+  "pinyin": "dǎ jiǔ zhé",
+  "vi": "giảm 10%",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T11-003",
+  "topic": "11",
+  "hanzi": "考虑",
+  "pinyin": "kǎo lǜ",
+  "vi": "cân nhắc",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T11-004",
+  "topic": "11",
+  "hanzi": "最低",
+  "pinyin": "zuì dī",
+  "vi": "thấp nhất",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T11-005",
+  "topic": "11",
+  "hanzi": "市场价",
+  "pinyin": "shì chǎng jià",
+  "vi": "giá thị trường",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T11-006",
+  "topic": "11",
+  "hanzi": "让一步",
+  "pinyin": "ràng yí bù",
+  "vi": "nhượng một bước",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T11-007",
+  "topic": "11",
+  "hanzi": "免",
+  "pinyin": "miǎn",
+  "vi": "miễn",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T11-008",
+  "topic": "11",
+  "hanzi": "合作愉快",
+  "pinyin": "hé zuò yú kuài",
+  "vi": "hợp tác vui vẻ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T11-009",
+  "topic": "11",
+  "hanzi": "没办法",
+  "pinyin": "méi bàn fǎ",
+  "vi": "hết cách, chịu thôi",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T12-001",
+  "topic": "12",
+  "hanzi": "堵车",
+  "pinyin": "dǔ chē",
+  "vi": "kẹt xe",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T12-002",
+  "topic": "12",
+  "hanzi": "摩托车",
+  "pinyin": "mó tuō chē",
+  "vi": "xe máy",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T12-003",
+  "topic": "12",
+  "hanzi": "迟到",
+  "pinyin": "chí dào",
+  "vi": "đến muộn",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T12-004",
+  "topic": "12",
+  "hanzi": "打车",
+  "pinyin": "dǎ chē",
+  "vi": "bắt taxi",
+  "en": "",
+  "level": 1,
+  "same_as": null
+ },
+ {
+  "id": "T12-005",
+  "topic": "12",
+  "hanzi": "叫车",
+  "pinyin": "jiào chē",
+  "vi": "gọi xe",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T12-006",
+  "topic": "12",
+  "hanzi": "单行道",
+  "pinyin": "dān xíng dào",
+  "vi": "đường một chiều",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T12-007",
+  "topic": "12",
+  "hanzi": "头盔",
+  "pinyin": "tóu kuī",
+  "vi": "mũ bảo hiểm",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T12-008",
+  "topic": "12",
+  "hanzi": "戴",
+  "pinyin": "dài",
+  "vi": "đội, đeo",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T12-009",
+  "topic": "12",
+  "hanzi": "下车",
+  "pinyin": "xià chē",
+  "vi": "xuống xe",
+  "en": "",
+  "level": 1,
+  "same_as": null
+ },
+ {
+  "id": "T12-010",
+  "topic": "12",
+  "hanzi": "打表",
+  "pinyin": "dǎ biǎo",
+  "vi": "tính theo đồng hồ (taxi)",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T12-011",
+  "topic": "12",
+  "hanzi": "火车站",
+  "pinyin": "huǒ chē zhàn",
+  "vi": "ga tàu hoả",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T12-012",
+  "topic": "12",
+  "hanzi": "大学城",
+  "pinyin": "dà xué chéng",
+  "vi": "làng đại học",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T12-013",
+  "topic": "12",
+  "hanzi": "交通事故",
+  "pinyin": "jiāo tōng shì gù",
+  "vi": "tai nạn giao thông",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T12-014",
+  "topic": "12",
+  "hanzi": "厉害",
+  "pinyin": "lì hai",
+  "vi": "dữ dội, ghê gớm",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T12-015",
+  "topic": "12",
+  "hanzi": "不然",
+  "pinyin": "bù rán",
+  "vi": "nếu không thì",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T00-001",
+  "topic": "00",
+  "hanzi": "账",
+  "pinyin": "zhàng",
+  "vi": "sổ sách, tài khoản",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T00-002",
+  "topic": "00",
+  "hanzi": "签",
+  "pinyin": "qiān",
+  "vi": "ký",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T00-003",
+  "topic": "00",
+  "hanzi": "填",
+  "pinyin": "tián",
+  "vi": "điền",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T00-004",
+  "topic": "00",
+  "hanzi": "堵",
+  "pinyin": "dǔ",
+  "vi": "tắc, kẹt",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T00-005",
+  "topic": "00",
+  "hanzi": "定",
+  "pinyin": "dìng",
+  "vi": "chốt, quyết định",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T00-006",
+  "topic": "00",
+  "hanzi": "指定",
+  "pinyin": "zhǐ dìng",
+  "vi": "chỉ định, quy định",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T00-007",
+  "topic": "00",
+  "hanzi": "开窗",
+  "pinyin": "kāi chuāng",
+  "vi": "mở cửa sổ",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T00-008",
+  "topic": "00",
+  "hanzi": "打扫",
+  "pinyin": "dǎ sǎo",
+  "vi": "dọn dẹp",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T00-009",
+  "topic": "00",
+  "hanzi": "王",
+  "pinyin": "wáng",
+  "vi": "họ Vương",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T00-010",
+  "topic": "00",
+  "hanzi": "同一",
+  "pinyin": "tóng yī",
+  "vi": "cùng một",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ },
+ {
+  "id": "T00-011",
+  "topic": "00",
+  "hanzi": "说一声",
+  "pinyin": "shuō yì shēng",
+  "vi": "báo một tiếng",
+  "en": "",
+  "level": 0,
+  "same_as": null
+ }
+]

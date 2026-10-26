@@ -1,0 +1,49 @@
+# Chủ đề 07 — mẫu câu
+# S|ID|câu|nghĩa Việt|ngữ pháp   — câu đơn
+# D|ID|người nói|câu|nghĩa Việt|ngữ pháp — hội thoại; các lượt liền nhau là 1 hội thoại, dòng trống để tách
+
+S|07-S01|这栋大楼一共有三十层。|Toà nhà này có tổng cộng 30 tầng.|lượng từ 栋
+S|07-S02|我们的办公室在十五楼。|Văn phòng chúng tôi ở tầng 15.|số + 楼
+S|07-S03|大楼里有四部电梯。|Trong toà nhà có bốn thang máy.|lượng từ 部
+S|07-S04|这栋楼是去年建好的，很新。|Toà này xây xong năm ngoái, rất mới.|是…的 (thời gian)
+S|07-S05|门口二十四小时都有保安。|Cửa ra vào có bảo vệ 24 giờ.|thời gian + 都
+S|07-S06|一楼是商店，二楼以上是办公室。|Tầng 1 là cửa hàng, từ tầng 2 trở lên là văn phòng.|…以上
+S|07-S07|物业费每平方米多少钱？|Phí quản lý mỗi mét vuông bao nhiêu?|每 + đơn vị
+S|07-S08|电梯坏了，我们走楼梯吧。|Thang máy hỏng rồi, mình đi cầu thang nhé.|…吧 (đề nghị)
+S|07-S09|这栋楼比旁边那栋高多了。|Toà này cao hơn toà bên cạnh nhiều.|比…tính từ + 多了
+S|07-S10|大楼的停车场在地下一层和二层。|Bãi xe của toà nhà ở tầng hầm 1 và 2.|地下 + số + 层
+S|07-S11|这是一栋A级写字楼。|Đây là một toà văn phòng hạng A.|写字楼 (cao ốc văn phòng)
+S|07-S12|进大楼要刷卡。|Vào toà nhà phải quẹt thẻ.|要 + động từ
+S|07-S13|访客要在一楼登记。|Khách đến thăm phải đăng ký ở tầng 1.|在 + nơi + động từ
+S|07-S14|大楼晚上十点关门。|Toà nhà đóng cửa lúc 10 giờ tối.|thời gian + động từ
+S|07-S15|每层都有洗手间和饮水机。|Tầng nào cũng có nhà vệ sinh và máy nước uống.|每…都…
+S|07-S16|这栋楼的外面是玻璃的。|Mặt ngoài toà nhà này bằng kính.|是…的 (chất liệu)
+S|07-S17|大楼旁边有一个小公园。|Bên cạnh toà nhà có một công viên nhỏ.|旁边 + 有
+S|07-S18|楼下的大厅很大，很漂亮。|Sảnh dưới lầu rất rộng, rất đẹp.|很…，很…
+S|07-S19|这栋楼一共有多少个单元？|Toà này tổng cộng bao nhiêu căn?|多少个
+S|07-S20|物业办公室在一楼左边。|Văn phòng ban quản lý ở bên trái tầng 1.|在 + nơi + phương vị
+S|07-S21|这栋楼有二十年了，有点儿旧。|Toà này 20 năm rồi, hơi cũ.|有 + thời gian + 了
+S|07-S22|大楼每年检查一次电梯。|Toà nhà kiểm tra thang máy mỗi năm một lần.|每年 + động từ + 一次
+S|07-S23|顶楼有一个餐厅，可以看到全城。|Tầng thượng có một nhà hàng, nhìn được toàn thành phố.|可以 + 看到
+S|07-S24|楼上楼下都是我们公司的。|Trên lầu dưới lầu đều là của công ty chúng tôi.|都是…的
+S|07-S25|这栋楼的位置很好，就在大路边。|Toà này vị trí rất đẹp, ngay mặt đường lớn.|就在
+S|07-S26|大楼的电是二十四小时的。|Điện của toà nhà có 24/24.|是…的
+S|07-S27|安全出口在走廊的两边。|Lối thoát hiểm ở hai bên hành lang.|在…的两边
+S|07-S28|请不要在楼道里放东西。|Xin đừng để đồ trong hành lang.|不要 + 在 + nơi + động từ
+S|07-S29|这栋楼什么时候建成的？|Toà nhà này xây xong khi nào?|什么时候 + V 的？
+S|07-S30|因为大楼很新，所以租金比较高。|Vì toà nhà mới nên tiền thuê khá cao.|因为…所以…
+
+D|07-D1-1|A|这栋楼有几部电梯？|Toà này có mấy thang máy?
+D|07-D1-2|B|六部，两部是货梯。|Sáu cái, hai cái là thang chở hàng.
+
+D|07-D2-1|A|晚上来加班能进大楼吗？|Tối đến làm thêm có vào toà nhà được không?
+D|07-D2-2|B|可以，刷卡就能进，十点以后要登记。|Được, quẹt thẻ là vào được, sau 10 giờ phải đăng ký.|就能
+
+D|07-D3-1|A|物业费包括什么？|Phí quản lý bao gồm những gì?
+D|07-D3-2|B|包括保安、打扫和公共区域的电费。|Gồm bảo vệ, vệ sinh và tiền điện khu vực chung.|包括…
+
+D|07-D4-1|A|大楼有停车位吗？|Toà nhà có chỗ đỗ xe không?
+D|07-D4-2|B|有，在地下二层，每个月八百块。|Có, ở tầng hầm 2, mỗi tháng 800 tệ.
+
+D|07-D5-1|A|这栋楼是什么时候建的？|Toà này xây khi nào?
+D|07-D5-2|B|是二零一八年建好的，去年刚装修过。|Xây xong năm 2018, năm ngoái vừa sửa sang lại.|刚 + động từ + 过

@@ -1,0 +1,3 @@
+# Ép bộ tách từ (jieba) tách đúng khi nó gộp sai. Định dạng: phần1|phần2[|phần3]
+# Ví dụ: 可以来 bị tách thành 可 / 以来 → thêm dòng 可以|来
+可以|来

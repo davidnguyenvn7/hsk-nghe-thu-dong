@@ -1,0 +1,49 @@
+# Chủ đề 04 — mẫu câu
+# S|ID|câu|nghĩa Việt|ngữ pháp   — câu đơn
+# D|ID|người nói|câu|nghĩa Việt|ngữ pháp — hội thoại; các lượt liền nhau là 1 hội thoại, dòng trống để tách
+
+S|04-S01|这个办公室有多大？|Văn phòng này rộng bao nhiêu?|有多 + tính từ？
+S|04-S02|办公室一共一百二十平方米。|Văn phòng tổng cộng 120 mét vuông.|一共 + số
+S|04-S03|这里可以放二十个工位。|Ở đây đặt được 20 chỗ làm việc.|可以 + động từ
+S|04-S04|经理正在开会，请等一下。|Giám đốc đang họp, xin chờ một chút.|正在 + động từ
+S|04-S05|我们公司九点上班，六点下班。|Công ty chúng tôi 9 giờ vào làm, 6 giờ tan làm.|giờ + động từ
+S|04-S06|这个办公室又安静又干净。|Văn phòng này vừa yên tĩnh vừa sạch sẽ.|又…又…
+S|04-S07|会议室在三楼。|Phòng họp ở tầng 3.|在 + nơi
+S|04-S08|办公室里有桌子、椅子和空调。|Trong văn phòng có bàn, ghế và máy lạnh.|nơi + 有 + vật
+S|04-S09|周末可以来办公室加班吗？|Cuối tuần có thể đến văn phòng làm thêm không?|来 + nơi + việc
+S|04-S10|请问人事部在哪儿？|Xin hỏi phòng nhân sự ở đâu?|在哪儿？
+S|04-S11|这个会议室能坐二十个人。|Phòng họp này ngồi được 20 người.|能 + động từ + số lượng
+S|04-S12|下午两点在大会议室开会。|2 giờ chiều họp ở phòng họp lớn.|thời gian + 在 + nơi + việc
+S|04-S13|开会以前请把材料打印好。|Trước khi họp hãy in sẵn tài liệu.|把 + vật + động từ + 好
+S|04-S14|打印机在办公室的后面。|Máy in ở phía sau văn phòng.|…的后面
+S|04-S15|我的电脑放在哪张桌子上？|Máy tính của tôi đặt trên bàn nào?|放在…上
+S|04-S16|这是你的工位，旁边是小王。|Đây là chỗ ngồi của bạn, bên cạnh là Tiểu Vương.|旁边是…
+S|04-S17|办公室的网络密码是多少？|Mật khẩu mạng của văn phòng là gì?|是多少？
+S|04-S18|请大家下班以前关好空调和灯。|Mọi người tắt máy lạnh và đèn trước khi về nhé.|动词 + 好
+S|04-S19|我们需要一个能坐十个人的办公室。|Chúng tôi cần một văn phòng ngồi được 10 người.|能 + V 的 + danh từ
+S|04-S20|这个办公室阳光很好，很亮。|Văn phòng này nhiều nắng, rất sáng.|很 + tính từ
+S|04-S21|办公室里不能抽烟。|Trong văn phòng không được hút thuốc.|不能 + động từ
+S|04-S22|新同事下周一来报到。|Đồng nghiệp mới thứ hai tuần sau đến nhận việc.|来 + 报到
+S|04-S23|经理让我把这个文件发给大家。|Giám đốc bảo tôi gửi tài liệu này cho mọi người.|让 + người + làm gì
+S|04-S24|我今天要早点儿下班，有事情。|Hôm nay tôi phải về sớm một chút, có việc.|早点儿 + động từ
+S|04-S25|这个月我们部门要招三个人。|Tháng này bộ phận chúng tôi cần tuyển ba người.|要 + động từ
+S|04-S26|请你安排一下明天的会议。|Anh sắp xếp giúp cuộc họp ngày mai.|安排一下
+S|04-S27|会议改到下午三点了。|Cuộc họp đổi sang 3 giờ chiều rồi.|改到 + thời gian
+S|04-S28|办公室每天晚上都有人打扫。|Tối nào văn phòng cũng có người dọn dẹp.|每天…都…
+S|04-S29|这里离客户的公司比较近。|Ở đây tương đối gần công ty khách hàng.|离…比较近
+S|04-S30|我们打算明年换一个更大的办公室。|Năm sau chúng tôi định đổi văn phòng lớn hơn.|更 + tính từ
+
+D|04-D1-1|A|请问王经理在吗？|Xin hỏi giám đốc Vương có ở đây không?
+D|04-D1-2|B|他正在开会，您可以等十分钟吗？|Anh ấy đang họp, anh chờ 10 phút được không?|正在 + động từ
+
+D|04-D2-1|A|会议室现在有人用吗？|Phòng họp bây giờ có ai dùng không?
+D|04-D2-2|B|有，三点以后就空了。|Có, sau 3 giờ thì trống.|以后 + 就
+
+D|04-D3-1|A|这台打印机怎么用？|Máy in này dùng thế nào?
+D|04-D3-2|B|先把电脑连上网络，再按这个键。|Kết nối máy tính vào mạng trước, rồi bấm nút này.|先…再…
+
+D|04-D4-1|A|我的工位在哪儿？|Chỗ ngồi của tôi ở đâu?
+D|04-D4-2|B|在窗户旁边，第二张桌子。|Cạnh cửa sổ, cái bàn thứ hai.|第 + số
+
+D|04-D5-1|A|明天的会议几点开始？|Cuộc họp ngày mai mấy giờ bắt đầu?
+D|04-D5-2|B|上午九点半，请大家不要迟到。|9 giờ rưỡi sáng, mọi người đừng đến trễ.|不要 + động từ

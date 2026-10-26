@@ -1,0 +1,49 @@
+# Từ vựng chủ đề 04 — Văn phòng
+# W|ID từ|chữ Hán                         từ thuộc chủ đề (thứ tự = thứ tự nghe)
+# E|ID câu|ID từ|câu|nghĩa Việt|nghĩa Anh|ngữ pháp   câu của từ (sinh bằng scripts/generate.py)
+
+W|T04-001|工位
+E|04-E001|T04-001|我的工位在会议室旁边。|Chỗ ngồi làm việc của tôi ở cạnh phòng họp.|My workstation is next to the meeting room.|在…旁边
+E|04-E002|T04-001|你帮我打扫一下工位吧。|Bạn giúp tôi dọn chỗ ngồi làm việc một chút nhé.|Please help me clean up my workstation.|động từ + 一下
+W|T04-002|平方米
+E|04-E003|T04-002|这个办公楼有多少平方米？|Tòa nhà văn phòng này rộng bao nhiêu mét vuông?|How many square meters is this office building?|多少 + 平方米
+E|04-E004|T04-002|办公室只有二十平方米。|Văn phòng chỉ có hai mươi mét vuông.|The office is only twenty square meters.|只有…
+W|T04-003|会议室
+E|04-E005|T04-003|会议室在网络那边。|Phòng họp ở phía bên kia mạng.|The meeting room is over there by the network.|在…那边
+E|04-E006|T04-003|客户在会议室等你。|Khách hàng đang đợi bạn ở phòng họp.|The client is waiting for you in the meeting room.|在 + địa điểm + 等
+W|T04-004|人事部
+E|04-E007|T04-004|人事部在二楼。|Phòng nhân sự ở tầng hai.|The HR department is on the second floor.|在 + số tầng
+E|04-E008|T04-004|你去人事部拿材料吧。|Bạn đến phòng nhân sự lấy tài liệu đi.|Go to HR to get the materials.|去 + địa điểm + 拿
+W|T04-005|加班
+E|04-E009|T04-005|今天我要加班到九点。|Hôm nay tôi phải làm thêm giờ đến chín giờ.|Today I have to work overtime until nine.|加班到…
+E|04-E010|T04-005|你为什么总是加班？|Tại sao bạn lúc nào cũng làm thêm giờ?|Why are you always working overtime?|为什么…？
+W|T04-006|下班
+E|04-E011|T04-006|下班以后我们一起去吃饭吧。|Sau khi tan làm chúng ta cùng đi ăn nhé.|Let's go eat together after work.|以后…吧
+E|04-E012|T04-006|他五点下班，你呢？|Anh ấy tan làm lúc năm giờ, còn bạn?|He gets off work at five, and you?|…呢？
+W|T04-007|材料
+E|04-E013|T04-007|这些材料请给客户。|Tài liệu này xin đưa cho khách hàng.|Please give these materials to the client.|请 + động từ
+E|04-E014|T04-007|材料在打印机上。|Tài liệu ở trên máy in.|The materials are on the printer.|在…上
+W|T04-008|打印机
+E|04-E015|T04-008|打印机连上网了吗？|Máy in đã kết nối mạng chưa?|Is the printer connected to the network?|…了吗？
+E|04-E016|T04-008|这个打印机不能用。|Máy in này không dùng được.|This printer doesn't work.|不能用
+W|T04-009|网络
+E|04-E017|T04-009|会议室网络不好，我们换地方吧。|Mạng ở phòng họp không tốt, mình đổi chỗ đi.|The network in the meeting room is bad, let's change places.|吧 (rủ rê)
+E|04-E018|T04-009|网络太慢，打印机也用不了。|Mạng chậm quá, máy in cũng không dùng được.|The network is too slow, and the printer doesn't work either.|太…了
+W|T04-010|抽烟
+E|04-E019|T04-010|办公楼里不能抽烟。|Trong toà văn phòng không được hút thuốc.|You can't smoke in the office building.|不能 + động từ
+E|04-E020|T04-010|你加班的时候别抽烟，好吗？|Lúc anh tăng ca đừng hút thuốc, được không?|Don't smoke when you work overtime, okay?|别…，好吗？
+W|T04-011|招
+E|04-E021|T04-011|人事部这个月招三个人。|Tháng này phòng nhân sự tuyển ba người.|The HR department is hiring three people this month.|数量词 + 人
+E|04-E022|T04-011|你们还招人吗？我想问一下。|Các anh còn tuyển người không? Tôi muốn hỏi chút.|Are you still hiring? I'd like to ask.|还…吗？
+W|T04-012|客户
+E|04-E023|T04-012|客户下午来会议室，请准备材料。|Chiều khách hàng đến phòng họp, xin chuẩn bị tài liệu.|The client is coming to the meeting room this afternoon, please prepare the materials.|请 + động từ
+E|04-E024|T04-012|我今天要见客户，得早下班。|Hôm nay tôi phải gặp khách hàng nên phải về sớm.|I have to meet a client today, so I need to leave work early.|得 (phải)
+W|T04-013|办公楼
+E|04-E025|T04-013|这栋办公楼真大，有多少平方米？|Toà văn phòng này to thật, rộng bao nhiêu mét vuông?|This office building is really big, how many square meters is it?|多少 + lượng từ
+E|04-E026|T04-013|我们的办公楼在市中心。|Toà văn phòng của chúng tôi ở trung tâm thành phố.|Our office building is in the city center.|在 + địa điểm
+W|T04-014|连上
+E|04-E027|T04-014|网络连上了吗？我这台上不了网。|Đã kết nối mạng chưa? Máy tôi không lên mạng được.|Is the network connected? Mine can't get online.|động từ + 了 + 吗
+E|04-E028|T04-014|你按这个键就能连上网络。|Anh bấm phím này là kết nối được mạng.|Press this key and you'll connect to the network.|就 (thì/là)
+W|T04-015|键
+E|04-E029|T04-015|你按一下这个键，打印机就开了。|Anh bấm phím này một cái là máy in mở.|Press this key once and the printer turns on.|động từ + 一下
+E|04-E030|T04-015|这个键坏了，网络连不上。|Phím này hỏng rồi, không kết nối được mạng.|This key is broken, so the network won't connect.|kết quả bổ ngữ 连不上

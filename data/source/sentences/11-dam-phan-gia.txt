@@ -1,0 +1,49 @@
+# Chủ đề 11 — mẫu câu
+# S|ID|câu|nghĩa Việt|ngữ pháp   — câu đơn
+# D|ID|người nói|câu|nghĩa Việt|ngữ pháp — hội thoại; các lượt liền nhau là 1 hội thoại, dòng trống để tách
+
+S|11-S01|太贵了，能便宜一点儿吗？|Đắt quá, bớt chút được không?|能 + tính từ + 一点儿吗？
+S|11-S02|这是最低价格了。|Đây là giá thấp nhất rồi.|最 + tính từ
+S|11-S03|如果我租两年，可以打九折吗？|Nếu tôi thuê hai năm, giảm 10% được không?|打九折 = giảm 10%
+S|11-S04|旁边那套比这套便宜五百块。|Căn bên cạnh rẻ hơn căn này 500 tệ.|A 比 B + tính từ + số lượng
+S|11-S05|八千块一个月，你看怎么样？|8.000 tệ một tháng, anh thấy sao?|你看怎么样？
+S|11-S06|我要考虑一下，明天告诉你。|Tôi cần cân nhắc, mai trả lời anh.|động từ + 一下
+S|11-S07|我们各让一步吧。|Mỗi bên nhường một bước nhé.|各 + động từ
+S|11-S08|价格差不多，我同意。|Giá cũng tạm được, tôi đồng ý.|差不多
+S|11-S09|虽然价格有点儿高，但是位置很好。|Tuy giá hơi cao nhưng vị trí rất đẹp.|虽然…但是…
+S|11-S10|这个价格比市场价高。|Giá này cao hơn giá thị trường.|A 比 B + tính từ
+S|11-S11|你们最低能给多少？|Các anh thấp nhất có thể để bao nhiêu?|最低 + 能
+S|11-S12|如果我们一次付一年，能不能再便宜点儿？|Nếu chúng tôi trả một lần cả năm, có thể rẻ thêm chút không?|能不能 + 再
+S|11-S13|这个价格我们不能接受。|Giá này chúng tôi không thể chấp nhận.|不能 + 接受
+S|11-S14|我们的预算只有这么多。|Ngân sách của chúng tôi chỉ có chừng này.|只有 + 这么多
+S|11-S15|别的公司给我们的价格更低。|Công ty khác báo giá cho chúng tôi thấp hơn.|更 + tính từ
+S|11-S16|价格可以商量。|Giá có thể thương lượng.|可以 + 商量
+S|11-S17|我们已经给你最好的价格了。|Chúng tôi đã cho anh giá tốt nhất rồi.|已经…了
+S|11-S18|如果价格合适，我们马上签合同。|Nếu giá phù hợp, chúng tôi ký hợp đồng ngay.|如果…，马上…
+S|11-S19|能不能免第一个月的房租？|Có thể miễn tiền thuê tháng đầu không?|能不能 + động từ
+S|11-S20|免费送一个停车位怎么样？|Tặng miễn phí một chỗ đỗ xe thì sao?|…怎么样？
+S|11-S21|这个条件我要问一下老板。|Điều kiện này tôi phải hỏi ông chủ.|问一下 + người
+S|11-S22|价格不能再低了，但是可以送家具。|Giá không thể thấp hơn nữa, nhưng có thể tặng nội thất.|不能再…了
+S|11-S23|一年以后房租不涨，可以吗？|Sau một năm không tăng tiền thuê, được không?|…，可以吗？
+S|11-S24|我们最多只能涨百分之三。|Chúng tôi tăng nhiều nhất chỉ được 3%.|最多 + 只能
+S|11-S25|你说的价格太低了，我们没办法。|Giá anh nói thấp quá, chúng tôi chịu thôi.|没办法
+S|11-S26|这样吧，八千二，不能再少了。|Thế này đi, 8.200, không bớt được nữa.|这样吧
+S|11-S27|好吧，就按你说的价格。|Thôi được, theo giá anh nói.|就按 + …
+S|11-S28|价格定了，我们写在合同里。|Giá chốt rồi, chúng ta ghi vào hợp đồng.|写在 + nơi
+S|11-S29|我觉得这个价格很公平。|Tôi thấy giá này rất công bằng.|觉得 + mệnh đề
+S|11-S30|谢谢你的理解，合作愉快！|Cảm ơn anh đã thông cảm, hợp tác vui vẻ!|合作愉快
+
+D|11-D1-1|A|一个月九千，太贵了。|Một tháng 9.000, đắt quá.
+D|11-D1-2|B|那您觉得多少合适？|Vậy anh thấy bao nhiêu thì hợp lý?|多少 + 合适
+
+D|11-D2-1|A|八千怎么样？我们租两年。|8.000 thì sao? Chúng tôi thuê hai năm.
+D|11-D2-2|B|八千太低了，八千五吧。|8.000 thấp quá, 8.500 đi.|…吧
+
+D|11-D3-1|A|我们各让一步，八千三，可以吗？|Mỗi bên nhường một bước, 8.300, được không?
+D|11-D3-2|B|好吧，但是押金要两个月。|Thôi được, nhưng tiền cọc phải hai tháng.|好吧，但是…
+
+D|11-D4-1|A|价格能再低一点儿吗？|Giá có thể thấp thêm chút không?
+D|11-D4-2|B|价格不能再低了，但是可以送一个车位。|Giá không thấp hơn được nữa, nhưng có thể tặng một chỗ đỗ xe.|不能再…了
+
+D|11-D5-1|A|我需要跟老板商量一下。|Tôi cần bàn với sếp một chút.|跟 + người + 商量
+D|11-D5-2|B|没问题，这个价格我给您留到周五。|Không vấn đề, giá này tôi giữ cho anh đến thứ sáu.|留到 + thời gian

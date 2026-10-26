@@ -1,0 +1,634 @@
+# Câu ví dụ HSK3 (sinh bằng scripts/generate.py):  từ|câu|nghĩa Việt|nghĩa Anh
+加工|这个房子要加工一下。|Căn nhà này cần sửa sang lại một chút.|This apartment needs a bit of work done on it.
+加快|请加快办理手续。|Xin hãy đẩy nhanh việc làm thủ tục.|Please speed up the paperwork.
+加强|我们要加强安全管理。|Chúng ta phải tăng cường quản lý an toàn.|We need to strengthen safety management.
+家具|新房子还没有家具。|Nhà mới vẫn chưa có đồ nội thất.|The new place doesn't have furniture yet.
+家属|家属可以一起去看房。|Người nhà có thể cùng đi xem nhà.|Family members can come view the apartment together.
+价格|这个价格有点高。|Giá này hơi cao.|This price is a bit high.
+价钱|我们先谈谈价钱吧。|Chúng ta nói về giá tiền trước nhé.|Let's talk about the price first.
+家乡|我家乡离这儿很远。|Quê tôi cách đây rất xa.|My hometown is very far from here.
+价值|这套房子的价值很高。|Căn nhà này có giá trị rất cao.|This apartment is worth a lot.
+架|楼里新装了两架电梯。|Trong tòa nhà vừa lắp hai chiếc thang máy.|Two new elevators were installed in the building.
+坚持|他每天坚持走路去上班。|Ngày nào anh ấy cũng kiên trì đi bộ đi làm.|He insists on walking to work every day.
+坚决|我坚决不同意这个价格。|Tôi kiên quyết không đồng ý giá này.|I firmly disagree with this price.
+坚强|她一个人住也很坚强。|Cô ấy sống một mình nhưng rất kiên cường.|She lives alone and is very strong.
+简单|手续很简单，一天就好。|Thủ tục rất đơn giản, một ngày là xong.|The paperwork is simple, it takes one day.
+简直|这房子简直太贵了！|Căn nhà này đúng là quá đắt!|This apartment is simply too expensive!
+建|前面在建一个新的商场。|Phía trước đang xây một trung tâm thương mại mới.|A new shopping mall is being built ahead.
+建成|新楼明年就能建成。|Tòa nhà mới sang năm là xây xong.|The new building will be finished next year.
+建立|公司建立了新的规定。|Công ty đã lập ra quy định mới.|The company set up new rules.
+建设|这个城市建设得很快。|Thành phố này xây dựng rất nhanh.|This city is being built up very fast.
+建议|我有一个好建议。|Tôi có một đề xuất hay.|I have a good suggestion.
+将近|我在这儿住了将近三年。|Tôi sống ở đây gần ba năm rồi.|I've lived here for nearly three years.
+将来|将来我想买自己的房子。|Tương lai tôi muốn mua nhà riêng.|In the future I want to buy my own place.
+交费|房租要在五号前交费。|Tiền nhà phải nộp phí trước ngày năm.|The rent must be paid before the fifth.
+交警|那个交警认识我。|Cảnh sát giao thông đó quen tôi.|That traffic police officer knows me.
+交流|我们常和客户交流。|Chúng tôi thường trao đổi với khách hàng.|We often communicate with clients.
+交往|他和同事交往很多。|Anh ấy qua lại nhiều với đồng nghiệp.|He interacts a lot with his colleagues.
+交易|这笔交易很顺利。|Giao dịch này rất thuận lợi.|This transaction went smoothly.
+较|这个小区较安静。|Khu này tương đối yên tĩnh.|This neighborhood is relatively quiet.
+教材|公司买了新教材。|Công ty đã mua giáo trình mới.|The company bought new teaching materials.
+教练|教练在楼下等我们。|Huấn luyện viên đang đợi chúng tôi ở dưới nhà.|The coach is waiting for us downstairs.
+接待|我在门口接待客人。|Tôi tiếp đón khách ở cửa.|I receive guests at the door.
+接近|地铁站接近我们小区。|Ga tàu điện gần khu chúng tôi.|The subway station is close to our neighborhood.
+节约|我们要节约用水。|Chúng ta phải tiết kiệm nước.|We need to save water.
+结婚|他们下个月要结婚了。|Họ sẽ kết hôn vào tháng sau.|They are getting married next month.
+结实|这张桌子很结实。|Cái bàn này rất chắc chắn.|This table is very sturdy.
+结束|会议三点结束了。|Cuộc họp kết thúc lúc ba giờ.|The meeting ended at three.
+解决|这个问题已经解决了。|Vấn đề này đã được giải quyết rồi.|This problem has already been solved.
+结合|我们要结合大家的意见。|Chúng ta cần kết hợp ý kiến của mọi người.|We need to combine everyone's opinions.
+解开|请把外套解开吧。|Bạn cởi áo khoác ra đi.|Please take off your jacket.
+金|这个手机是金的吗？|Cái điện thoại này bằng vàng à?|Is this phone made of gold?
+金牌|他跑步得了金牌。|Anh ấy chạy bộ được huy chương vàng.|He won a gold medal in running.
+仅|这里仅有一个房间。|Ở đây chỉ có một phòng.|There is only one room here.
+仅仅|我仅仅迟到了五分钟。|Tôi chỉ đến muộn có năm phút.|I was only five minutes late.
+尽量|请你尽量早点来公司。|Bạn cố gắng đến công ty sớm nhé.|Please try to come to the office early.
+紧急|这是紧急情况，请快一点！|Đây là tình huống khẩn cấp, xin nhanh lên!|This is an emergency, please hurry up!
+紧张|最近工作很紧张。|Dạo này công việc rất căng thẳng.|Work has been very stressful lately.
+近期|近期房租会涨吗？|Thời gian tới tiền thuê nhà có tăng không?|Will rent go up in the near future?
+紧|时间太紧，我们快走吧。|Thời gian gấp quá, chúng ta đi nhanh đi.|Time is too tight, let's go quickly.
+进步|你的中文进步很大！|Tiếng Trung của bạn tiến bộ nhiều quá！|Your Chinese has improved a lot!
+进展|房子的事有进展了吗？|Chuyện căn nhà có tiến triển chưa？|Any progress on the apartment?
+京剧|周末我们去看京剧吧。|Cuối tuần chúng ta đi xem Kinh kịch nhé.|Let's go see Beijing opera this weekend.
+经济|这个城市经济发展很快。|Kinh tế thành phố này phát triển rất nhanh.|This city's economy is growing fast.
+经历|我经历过一次搬家。|Tôi đã từng trải qua một lần chuyển nhà.|I've been through a move once.
+经营|她经营一家小公司。|Cô ấy kinh doanh một công ty nhỏ.|She runs a small company.
+进一步|我想进一步看看这个房子。|Tôi muốn xem thêm về căn nhà này.|I want to take a further look at this apartment.
+经验|他卖房子很有经验。|Anh ấy bán nhà rất có kinh nghiệm.|He is very experienced at selling houses.
+精彩|昨天的比赛真精彩！|Trận đấu hôm qua thật đặc sắc!|Yesterday's match was really exciting!
+精神|他今天精神很好。|Hôm nay tinh thần anh ấy rất tốt.|He's in good spirits today.
+景色|楼上的景色很好看。|Phong cảnh trên lầu rất đẹp.|The view from upstairs is beautiful.
+警察|警察在楼下等我们。|Cảnh sát đang đợi chúng ta ở dưới nhà.|The police are waiting for us downstairs.
+静|办公室里很静。|Trong văn phòng rất yên tĩnh.|It's very quiet in the office.
+久|我在这儿住很久了。|Tôi sống ở đây lâu rồi.|I've lived here for a long time.
+旧|这房子有点旧。|Ngôi nhà này hơi cũ.|This house is a bit old.
+救|他打电话救了那个人。|Anh ấy gọi điện cứu người đó.|He called and saved that person.
+就是|这就是我的新办公室。|Đây chính là văn phòng mới của tôi.|This is exactly my new office.
+具体|请你说得具体一点。|Bạn nói cụ thể một chút nhé.|Please say it a bit more specifically.
+具有|这个房子具有很大的优势。|Căn nhà này có ưu thế rất lớn.|This house has great advantages.
+剧场|剧场旁边有一个地铁站。|Bên cạnh nhà hát có một ga tàu điện ngầm.|There is a subway station next to the theater.
+据说|据说这个小区很安静。|Nghe nói khu dân cư này rất yên tĩnh.|It is said this neighborhood is very quiet.
+决定|我们决定租这个房子。|Chúng tôi quyết định thuê căn nhà này.|We decided to rent this house.
+就业|我哥哥去年开始就业了。|Anh trai tôi năm ngoái bắt đầu đi làm rồi.|My older brother started working last year.
+举办|公司下周举办一个活动。|Tuần sau công ty tổ chức một hoạt động.|The company is holding an event next week.
+决赛|明天的决赛你去看吗？|Trận chung kết ngày mai bạn có đi xem không?|Are you going to watch tomorrow's final?
+决心|我决心今年买房子。|Tôi quyết tâm mua nhà trong năm nay.|I'm determined to buy a house this year.
+绝对|这个房子绝对安静。|Căn nhà này tuyệt đối yên tĩnh.|This apartment is absolutely quiet.
+咖啡|开会前我想喝杯咖啡。|Trước khi họp tôi muốn uống một ly cà phê.|I want a cup of coffee before the meeting.
+开发|他们在开发新的小区。|Họ đang phát triển một khu dân cư mới.|They are developing a new residential area.
+开放|这个公园几点开放？|Công viên này mở cửa lúc mấy giờ?|What time does this park open?
+开始|会议三点开始。|Cuộc họp bắt đầu lúc ba giờ.|The meeting starts at three.
+开业|楼下新开的店明天开业。|Cửa hàng mới mở dưới nhà mai khai trương.|The new shop downstairs opens tomorrow.
+开展|公司下个月开展新工作。|Công ty tháng sau triển khai công việc mới.|The company starts new work next month.
+看起来|这个房子看起来很大。|Căn nhà này nhìn có vẻ rất lớn.|This house looks quite big.
+看上去|他看上去有点累。|Anh ấy trông có vẻ hơi mệt.|He looks a bit tired.
+考验|这是对我们的大考验。|Đây là thử thách lớn với chúng tôi.|This is a big challenge for us.
+科技|科技让城市生活更方便。|Khoa học công nghệ làm cuộc sống thành phố tiện hơn.|Technology makes city life more convenient.
+可靠|这个人很可靠。|Người này rất đáng tin cậy.|This person is very reliable.
+可乐|我要一杯可乐。|Tôi muốn một cốc coca cola.|I want a glass of cola.
+克服|我们一起克服困难。|Chúng ta cùng nhau khắc phục khó khăn.|We overcome the difficulties together.
+客观|这个看法很客观。|Cách nhìn này rất khách quan.|This view is very objective.
+课程|今天的课程几点开始？|Khóa học hôm nay mấy giờ bắt đầu?|What time does today's course start?
+空|房间里没有空桌子。|Trong phòng không có bàn trống.|There are no empty desks in the room.
+空调|办公室的空调太冷了。|Máy lạnh trong văn phòng lạnh quá.|The office air conditioner is too cold.
+空儿|你有空儿帮我看看吗？|Bạn có thời gian rảnh giúp tôi xem không?|Do you have time to take a look for me?
+恐怕|今天恐怕要下雨。|E rằng hôm nay sẽ mưa.|I'm afraid it will rain today.
+裤子|这条裤子有点儿长。|Cái quần này hơi dài.|These pants are a bit long.
+快速|请快速回我的邮件。|Xin nhanh chóng trả lời email của tôi.|Please reply to my email quickly.
+困|我有点儿困，想喝咖啡。|Tôi hơi buồn ngủ, muốn uống cà phê.|I'm a bit sleepy and want some coffee.
+困难|找房子有点儿困难。|Tìm nhà hơi khó khăn.|Finding an apartment is a bit difficult.
+浪费|别浪费时间，快开会吧。|Đừng lãng phí thời gian, mau họp đi.|Don't waste time, let's start the meeting.
+老板|我们老板今天不在。|Hôm nay ông chủ của chúng tôi không có ở đây.|Our boss isn't here today.
+老太太|那个老太太住在三楼。|Bà cụ đó sống ở tầng ba.|That old lady lives on the third floor.
+老头儿|这个老头儿每天去公园。|Ông cụ này ngày nào cũng đi công viên.|This old man goes to the park every day.
+老百姓|老百姓也关心房子的事。|Dân thường cũng quan tâm chuyện nhà cửa.|Ordinary people also care about housing matters.
+乐|他找到房子，心里很乐。|Anh ấy tìm được nhà, trong lòng rất vui.|He found a place, and he's very happy inside.
+乐队|这个乐队在楼下唱歌。|Ban nhạc này đang hát ở dưới nhà.|This band is singing downstairs.
+类|这类的房子很贵。|Loại nhà này rất đắt.|Houses of this kind are expensive.
+类似|这两个房子很类似。|Hai căn nhà này rất giống nhau.|These two houses are very similar.
+离婚|他们去年离婚了。|Họ đã ly hôn năm ngoái.|They got divorced last year.
+里面|办公室里面很安静。|Bên trong văn phòng rất yên tĩnh.|It's very quiet inside the office.
+理发|我下午要去理发。|Chiều nay tôi phải đi cắt tóc.|I'm going to get a haircut this afternoon.
+理解|我理解你的问题。|Tôi hiểu vấn đề của bạn.|I understand your problem.
+乐观|他对找工作很乐观。|Anh ấy rất lạc quan về việc tìm việc làm.|He is very optimistic about finding a job.
+理论|这个理论太难，我听不懂。|Lý luận này khó quá, tôi nghe không hiểu.|This theory is too hard; I don't understand it.
+理由|你迟到的理由是什么？|Lý do bạn đến muộn là gì?|What's your reason for being late?
+力|我今天的力用完了。|Hôm nay sức lực của tôi dùng hết rồi.|I've used up all my strength today.
+力量|大家一起做，力量更大。|Mọi người cùng làm thì sức mạnh lớn hơn.|When everyone works together, the strength is greater.
+立刻|请你立刻回办公室。|Bạn hãy lập tức về văn phòng.|Please go back to the office immediately.
+连|他连房租都交不起。|Anh ấy ngay cả tiền thuê nhà cũng không trả nổi.|He can't even afford the rent.
+连忙|房东连忙说房子还在。|Chủ nhà vội vàng nói nhà vẫn còn.|The landlord hurriedly said the apartment was still available.
+利用|我们可以利用周末去看房。|Chúng ta có thể tận dụng cuối tuần để đi xem nhà.|We can use the weekend to go look at apartments.
+连续|他连续加了三天班。|Anh ấy tăng ca liên tục ba ngày.|He worked overtime three days in a row.
+连续剧|我晚上在家看连续剧。|Buổi tối tôi ở nhà xem phim bộ.|I watch TV series at home in the evening.
+联合|两家公司联合办活动。|Hai công ty liên hợp tổ chức hoạt động.|The two companies jointly hold an event.
+联合国|他在联合国工作。|Anh ấy làm việc ở Liên Hợp Quốc.|He works at the United Nations.
+联系|有事请跟我联系。|Có việc gì xin liên hệ với tôi.|Please contact me if anything comes up.
+凉水|请给我一杯凉水。|Xin cho tôi một cốc nước lạnh.|Please give me a glass of cold water.
+领|我去公司领工资。|Tôi đến công ty nhận lương.|I'm going to the company to get my salary.
+领导|领导今天不在办公室。|Hôm nay lãnh đạo không có ở văn phòng.|The boss isn't in the office today.
+领先|这家公司比别家领先。|Công ty này dẫn đầu so với công ty khác.|This company is ahead of the others.
+留学|我妹妹明年去中国留学。|Em gái tôi năm sau đi du học Trung Quốc.|My younger sister is going to study in China next year.
+龙|公园里有一个大龙灯。|Trong công viên có một chiếc đèn lồng hình rồng lớn.|There is a big dragon lantern in the park.
+录|请把会议内容录下来。|Hãy ghi lại nội dung cuộc họp.|Please record the meeting content.
+录音|我要听一下昨天的录音。|Tôi muốn nghe lại bản ghi âm hôm qua.|I want to listen to yesterday's recording.
+另外|另外，我还想租一个房子。|Ngoài ra, tôi còn muốn thuê một căn nhà.|Besides, I also want to rent a place.
+另一方面|另一方面，这里也很方便。|Mặt khác, ở đây cũng rất tiện.|On the other hand, it's very convenient here too.
+路线|这条路线的车很多。|Tuyến đường này có nhiều xe.|There are many buses on this route.
+旅馆|火车站旁边有一家小旅馆。|Bên cạnh ga tàu có một nhà nghỉ nhỏ.|There is a small hotel next to the train station.
+旅行社|我在旅行社工作，很忙。|Tôi làm ở công ty du lịch, rất bận.|I work at a travel agency, and I'm very busy.
+绿茶|开会的时候我想喝绿茶。|Lúc họp tôi muốn uống trà xanh.|I want to drink green tea during the meeting.
+乱|我的房间太乱了，不好意思。|Phòng tôi bừa bãi quá, xin lỗi nhé.|My room is too messy, sorry.
+落后|这个小区的房子有点落后。|Nhà trong khu này hơi lạc hậu.|The houses in this neighborhood are a bit outdated.
+麻烦|麻烦你帮我开一下门。|Phiền bạn mở cửa giúp tôi một chút.|Could you please open the door for me?
+马|公园里有人骑马，很少见。|Trong công viên có người cưỡi ngựa, hiếm thấy.|Someone is riding a horse in the park; that's rare.
+满足|这个房子能满足我们的需要。|Căn nhà này có thể đáp ứng nhu cầu của chúng tôi.|This house can meet our needs.
+慢慢|电梯很慢，请慢慢等。|Thang máy chậm lắm, xin từ từ chờ.|The elevator is slow, please wait patiently.
+毛病|这个空调有点毛病。|Cái điều hòa này có chút lỗi.|This air conditioner has a little problem.
+没用|这个旧手机没用了。|Cái điện thoại cũ này vô dụng rồi.|This old phone is useless now.
+媒体|媒体说了房子的事。|Truyền thông đã nói về chuyện căn nhà.|The media talked about the housing issue.
+每|我每天坐地铁上班。|Mỗi ngày tôi đi tàu điện đi làm.|I take the subway to work every day.
+美|这个小区的花很美。|Hoa trong khu này đẹp quá.|The flowers in this neighborhood are beautiful.
+美好|祝你们生活美好！|Chúc các bạn cuộc sống tốt đẹp!|Wishing you a wonderful life!
+美丽|这个城市非常美丽。|Thành phố này rất xinh đẹp.|This city is very beautiful.
+美食|这条街有很多美食。|Con phố này có rất nhiều món ngon.|This street has a lot of good food.
+美术|我女儿很喜欢美术。|Con gái tôi rất thích mỹ thuật.|My daughter really likes art.
+美元|这套房子要五十万美元。|Căn nhà này giá năm trăm nghìn đô la Mỹ.|This apartment costs five hundred thousand US dollars.
+迷|弟弟是个电影迷。|Em trai tôi là người hâm mộ phim.|My younger brother is a movie fan.
+面对|我们要面对这个问题。|Chúng ta phải đối mặt với vấn đề này.|We have to face this problem.
+面积|这个办公室面积不大。|Diện tích văn phòng này không lớn.|This office isn't big in area.
+民间|这是民间的小故事。|Đây là một câu chuyện nhỏ dân gian.|This is a little folk story.
+民族|中国有五十多个民族。|Trung Quốc có hơn năm mươi dân tộc.|China has more than fifty ethnic groups.
+明确|合同的要求很明确。|Yêu cầu của hợp đồng rất rõ ràng.|The contract requirements are very clear.
+明显|房租明显比以前贵了。|Tiền thuê nhà rõ rệt đắt hơn trước.|The rent is clearly more expensive than before.
+命运|房子改变了他的命运。|Căn nhà đã thay đổi số phận của anh ấy.|The house changed his fate.
+某|某个办公室的灯还亮着。|Đèn của một văn phòng nào đó vẫn còn sáng.|The light in some office is still on.
+母亲|我母亲住在老小区。|Mẹ tôi sống ở khu chung cư cũ.|My mother lives in an old neighborhood.
+木头|这张桌子是木头的。|Cái bàn này làm bằng gỗ.|This table is made of wood.
+目前|目前公司缺一个经理。|Hiện nay công ty thiếu một quản lý.|Currently the company is short of a manager.
+目标|我今年的目标是学中文。|Mục tiêu năm nay của tôi là học tiếng Trung.|My goal this year is to learn Chinese.
+奶茶|下班后我们去买奶茶吧。|Tan làm chúng ta đi mua trà sữa nhé.|Let's go buy milk tea after work.
+男子|那个男子在楼下等车。|Người đàn ông đó đang đợi xe ở dưới nhà.|That man is waiting for a car downstairs.
+南部|公司在城市南部，很近。|Công ty ở phía nam thành phố, rất gần.|The company is in the south of the city, very close.
+难道|难道你不住在这附近吗？|Lẽ nào bạn không sống gần đây à?|Don't you live near here?
+难度|这份工作难度不太大。|Công việc này độ khó không lớn lắm.|This job isn't very difficult.
+内|请在三天内交房子。|Vui lòng giao nhà trong vòng ba ngày.|Please hand over the apartment within three days.
+内容|合同的内容我看过了。|Tôi đã xem nội dung hợp đồng rồi.|I've read the contents of the contract.
+内心|他内心很想回家。|Trong lòng anh ấy rất muốn về nhà.|Deep down, he really wants to go home.
+能不能|你能不能帮我搬家？|Bạn có thể giúp tôi chuyển nhà không?|Can you help me move house?
+能力|他的工作能力很强。|Năng lực làm việc của anh ấy rất tốt.|His work ability is very strong.
+年初|年初我换了新房子。|Đầu năm tôi đã đổi nhà mới.|At the start of the year I moved to a new place.
+年代|这个房子是八十年代的。|Căn nhà này là của thập niên tám mươi.|This house is from the eighties.
+年底|年底公司很忙。|Cuối năm công ty rất bận.|The company is very busy at the end of the year.
+年纪|他年纪不大，房子不小。|Anh ấy tuổi không lớn, nhà không nhỏ.|He is young, but his home is not small.
+念|请念一下这个地址。|Xin đọc địa chỉ này một chút.|Please read this address out loud.
+牛|楼下的牛肉面很好吃。|Mì bò dưới nhà rất ngon.|The beef noodles downstairs are delicious.
+农村|我爸爸在农村有房子。|Bố tôi có nhà ở nông thôn.|My dad has a house in the countryside.
+农民|这个农民在城里卖菜。|Người nông dân này bán rau ở thành phố.|This farmer sells vegetables in the city.
+农业|我们公司做农业生意。|Công ty chúng tôi làm kinh doanh nông nghiệp.|Our company does agricultural business.
+暖和|办公室里很暖和。|Trong văn phòng rất ấm áp.|It's nice and warm in the office.
+拍|请帮我拍几张房间的照片。|Xin giúp tôi chụp vài tấm ảnh căn phòng.|Please help me take a few photos of the room.
+排名|这个小区排名第一。|Khu dân cư này xếp hạng nhất.|This residential area ranks first.
+牌子|门口有一个大牌子。|Ở cổng có một biển hiệu lớn.|There's a big sign at the entrance.
+女子|那个女子是我的同事。|Người phụ nữ đó là đồng nghiệp của tôi.|That woman is my colleague.
+派|公司派我去上海工作。|Công ty cử tôi đi Thượng Hải làm việc.|The company sent me to work in Shanghai.
+判断|我判断这个房子不错。|Tôi phán đoán căn nhà này khá tốt.|I judge that this house is pretty good.
+跑步|我每天早上在公园跑步。|Mỗi sáng tôi chạy bộ ở công viên.|I run in the park every morning.
+配|这件衣服配你的裤子很好。|Chiếc áo này phối với quần của bạn rất hợp.|This top goes well with your pants.
+配合|大家配合一下，快点搬家！|Mọi người phối hợp một chút, chuyển nhà nhanh lên!|Everyone work together, let's move out quickly!
+批评|老板批评我上班太晚。|Sếp phê bình tôi đi làm quá muộn.|The boss criticized me for coming to work too late.
+批准|经理批准了我的请假。|Quản lý đã phê duyệt đơn xin nghỉ của tôi.|The manager approved my leave request.
+胖|你家的猫有点儿胖。|Con mèo nhà bạn hơi béo.|Your cat is a little fat.
+皮|这个皮椅子很舒服。|Cái ghế da này rất thoải mái.|This leather chair is very comfortable.
+皮包|他的皮包在桌子上。|Cặp da của anh ấy ở trên bàn.|His leather bag is on the table.
+啤酒|下班后我们去喝啤酒吧。|Tan làm chúng ta đi uống bia nhé.|Let's go drink beer after work.
+票价|地铁票价不太贵。|Giá vé tàu điện không đắt lắm.|The subway ticket price isn't too expensive.
+评价|客人对他的评价很好。|Khách hàng đánh giá anh ấy rất tốt.|Customers rate him very well.
+苹果|我每天吃一个苹果。|Mỗi ngày tôi ăn một quả táo.|I eat an apple every day.
+破坏|请不要破坏公共东西。|Xin đừng phá hoại đồ công cộng.|Please don't damage public property.
+破|我的手机破了，要买新的。|Điện thoại của tôi bị hỏng rồi, phải mua cái mới.|My phone is broken, I need to buy a new one.
+普遍|现在网上看房很普遍。|Bây giờ xem nhà trên mạng rất phổ biến.|Looking at homes online is very common now.
+普及|手机付款已经很普及了。|Thanh toán bằng điện thoại đã rất phổ cập rồi.|Paying by phone is already very widespread.
+期|这期房子下个月交。|Kỳ nhà này sẽ giao vào tháng sau.|This phase of the housing will be handed over next month.
+齐|人还没来齐，等一下。|Người chưa đến đủ, đợi chút.|Everyone isn't here yet, wait a moment.
+其次|先看地点，其次看价格。|Xem vị trí trước, tiếp theo là xem giá.|Look at the location first, then the price.
+其实|其实这个房子不太贵。|Thật ra căn nhà này không đắt lắm.|Actually this apartment isn't very expensive.
+奇怪|这个楼里有点奇怪。|Trong tòa nhà này hơi kỳ lạ.|It's a bit strange in this building.
+气候|这里的气候很舒服。|Khí hậu ở đây rất dễ chịu.|The climate here is very comfortable.
+千万|出门前千万要关灯。|Trước khi ra khỏi nhà nhất định phải tắt đèn.|Be sure to turn off the lights before you leave.
+前后|房子前后都有公园。|Trước sau nhà đều có công viên.|There are parks in front of and behind the house.
+前进|请一直向前进，别停。|Xin cứ tiến thẳng về phía trước, đừng dừng.|Please keep moving forward and don't stop.
+前面|地铁站在楼的前面。|Ga tàu điện ngầm ở phía trước tòa nhà.|The subway station is in front of the building.
+前往|我们明天前往新办公室。|Ngày mai chúng tôi đi đến văn phòng mới.|We're heading to the new office tomorrow.
+强|这里的网络信号很强。|Tín hiệu mạng ở đây rất mạnh.|The network signal here is very strong.
+强大|这家公司现在很强大。|Công ty này bây giờ rất lớn mạnh.|This company is very strong now.
+强调|老板强调明天要早到。|Sếp nhấn mạnh ngày mai phải đến sớm.|The boss stressed that we must arrive early tomorrow.
+强烈|这个房子的阳光很强烈。|Ánh nắng của căn nhà này rất mạnh.|The sunlight in this house is very strong.
+桥|公司旁边有一座桥。|Bên cạnh công ty có một cây cầu.|There is a bridge next to the company.
+巧|真巧，你也住这儿！|Thật trùng hợp, bạn cũng sống ở đây!|What a coincidence, you live here too!
+亲|他是我的亲哥哥。|Anh ấy là anh trai ruột của tôi.|He is my biological older brother.
+亲切|房东说话很亲切。|Chủ nhà nói chuyện rất thân thiết.|The landlord speaks very warmly.
+亲人|周末我和亲人一起吃饭。|Cuối tuần tôi ăn cơm cùng người thân.|I have a meal with my family on the weekend.
+亲自|经理亲自来看房子。|Giám đốc đích thân đến xem nhà.|The manager came to see the house in person.
+情感|他对这个城市有情感。|Anh ấy có tình cảm với thành phố này.|He has feelings for this city.
+情况|房子的情况怎么样？|Tình hình căn nhà thế nào?|How is the situation with the house?
+请教|我想请教您一个问题。|Tôi muốn thỉnh giáo anh một câu hỏi.|I'd like to ask you a question.
+庆祝|我们庆祝一下新办公室！|Chúng ta ăn mừng văn phòng mới một chút nhé!|Let's celebrate the new office!
+球迷|他是很有名的球迷。|Anh ấy là một người hâm mộ bóng đá rất nổi tiếng.|He is a very famous football fan.
+区|我住在城东区。|Tôi sống ở quận phía đông thành phố.|I live in the east district of the city.
+区别|这两个房间有区别吗？|Hai căn phòng này có khác biệt không?|Is there a difference between these two rooms?
+取消|明天的会议取消了。|Cuộc họp ngày mai đã bị hủy.|Tomorrow's meeting has been cancelled.
+去世|他的爷爷去年去世了。|Ông của anh ấy đã qua đời năm ngoái.|His grandfather passed away last year.
+全场|全场都在等他说话。|Cả khán phòng đều đang chờ anh ấy nói.|The whole room was waiting for him to speak.
+全面|我们要做一次全面检查。|Chúng ta cần làm một lần kiểm tra toàn diện.|We need to do a thorough check.
+全球|这家公司全球都有房子。|Công ty này có nhà ở khắp toàn cầu.|This company has properties all over the world.
+缺|这个房间缺一个桌子。|Phòng này thiếu một cái bàn.|This room is missing a table.
+缺点|这个房子的缺点是不大。|Khuyết điểm của căn nhà này là không lớn.|The downside of this apartment is that it's small.
+缺少|我们缺少一个工作人员。|Chúng tôi thiếu một nhân viên.|We are short of one staff member.
+确保|请确保门是关好的。|Hãy đảm bảo cửa đã đóng kỹ.|Please make sure the door is closed properly.
+确定|你确定明天开会吗？|Bạn có chắc mai họp không?|Are you sure about the meeting tomorrow?
+确实|这个房子确实很贵。|Căn nhà này quả thật rất đắt.|This house is indeed very expensive.
+裙子|她穿着新裙子去上班。|Cô ấy mặc váy mới đi làm.|She wears a new dress to work.
+群|楼下来了一群看房的人。|Dưới nhà có một nhóm người đến xem nhà.|A group of people came downstairs to look at apartments.
+热爱|他很热爱这份工作。|Anh ấy rất yêu tha thiết công việc này.|He truly loves this job.
+热烈|大家热烈欢迎新同事。|Mọi người nhiệt liệt chào đón đồng nghiệp mới.|Everyone warmly welcomes the new colleague.
+人才|公司很需要这样的人才。|Công ty rất cần nhân tài như thế này.|The company really needs talent like this.
+人工|人工太贵，我们买机器吧。|Nhân công đắt quá, chúng ta mua máy đi.|Labor is too expensive; let's buy machines.
+人类|人类需要干净的水和空气。|Nhân loại cần nước và không khí sạch.|Humans need clean water and air.
+人民|这里的人民很友好。|Người dân ở đây rất thân thiện.|The people here are very friendly.
+人民币|我可以用人民币付吗？|Tôi có thể trả bằng nhân dân tệ không?|Can I pay in RMB?
+人群|地铁里人群很多。|Trong tàu điện ngầm rất đông người.|There's a big crowd in the subway.
+人生|人生不容易，要努力。|Đời người không dễ, phải cố gắng.|Life isn't easy; you have to work hard.
+人员|公司人员不多。|Công ty không có nhiều nhân viên.|The company doesn't have many staff.
+认出|我认出他了。|Tôi đã nhận ra anh ấy rồi.|I recognized him.
+认得|你认得这个人吗？|Bạn có quen người này không?|Do you know this person?
+认可|大家都认可他的工作。|Mọi người đều công nhận công việc của anh ấy.|Everyone approves of his work.
+任|他任经理已经两年了。|Anh ấy đã làm giám đốc được hai năm rồi.|He has been the manager for two years.
+任何|这里没有任何问题。|Ở đây không có bất kỳ vấn đề nào.|There are no problems at all here.
+任务|今天的任务很多。|Hôm nay có nhiều nhiệm vụ.|There are many tasks today.
+仍|房子仍很贵。|Nhà vẫn còn rất đắt.|Houses are still very expensive.
+仍然|他仍然住在城里。|Anh ấy vẫn sống trong thành phố.|He still lives in the city.
+日常|日常的工作不太难。|Công việc hằng ngày không khó lắm.|Daily work isn't too hard.
+容易|租房子很容易。|Thuê nhà rất dễ.|Renting a house is very easy.
+如何|你觉得这个房子如何？|Bạn thấy căn nhà này như thế nào?|What do you think of this house?
+散步|晚饭后我们去楼下散步。|Sau bữa tối chúng tôi xuống dưới nhà đi dạo.|After dinner we go for a walk downstairs.
+沙发|沙发放在客厅的左边。|Ghế sofa đặt ở bên trái phòng khách.|The sofa is on the left side of the living room.
+沙子|楼下的路上有很多沙子。|Trên đường dưới nhà có nhiều cát.|There's a lot of sand on the road downstairs.
+伤|他的手在办公室受伤了。|Tay anh ấy bị thương ở văn phòng.|His hand got hurt at the office.
+伤心|她没租到房子，很伤心。|Cô ấy không thuê được nhà, rất đau lòng.|She couldn't rent a place and is very sad.
+商品|这个商店的商品不太贵。|Hàng hóa của cửa hàng này không đắt lắm.|The goods in this shop aren't too expensive.
+商业|这是城里最大的商业中心。|Đây là trung tâm thương mại lớn nhất thành phố.|This is the biggest commercial center in the city.
+上来|电梯坏了，你走上来吧。|Thang máy hỏng rồi, bạn đi bộ lên đây nhé.|The elevator is broken, come up on foot.
+上去|电梯坏了，我们走上去吧。|Thang máy hỏng rồi, chúng ta đi bộ lên đi.|The elevator is broken, let's walk up.
+上升|这个月的房租在上升。|Tiền thuê nhà tháng này đang tăng lên.|Rent is going up this month.
+设备|这个房间的设备都是新的。|Thiết bị trong phòng này đều mới.|The equipment in this room is all new.
+设计|这个房子的设计很好看。|Thiết kế của căn nhà này rất đẹp.|The design of this house is very nice.
+设立|公司明年要设立新部门。|Công ty năm sau sẽ thành lập bộ phận mới.|The company will set up a new department next year.
+社会|城市社会变化很快。|Xã hội thành thị thay đổi rất nhanh.|Urban society is changing fast.
+上面|书在桌子上面。|Sách ở trên bàn.|The book is on the table.
+上衣|这件上衣很便宜。|Cái áo này rất rẻ.|This top is very cheap.
+身份证|办房子要带身份证。|Làm giấy tờ nhà phải mang căn cước.|You need your ID card to handle housing paperwork.
+深|这条河很深，小心点。|Con sông này sâu lắm, cẩn thận nhé.|This river is deep, be careful.
+深刻|他说的话让我印象很深刻。|Lời anh ấy nói khiến tôi rất ấn tượng sâu sắc.|What he said left a deep impression on me.
+升|房租明年会升一点。|Sang năm tiền thuê nhà sẽ tăng một chút.|The rent will go up a little next year.
+生产|这个工厂生产房子的门。|Nhà máy này sản xuất cửa cho nhà ở.|This factory makes doors for houses.
+生存|在大城市生存不容易。|Sinh tồn ở thành phố lớn không dễ.|Surviving in a big city isn't easy.
+生动|他讲的故事很生动。|Câu chuyện anh ấy kể rất sinh động.|The story he told was very vivid.
+深入|我想深入看看这个房子。|Tôi muốn xem kỹ căn nhà này.|I want to take a close look at this apartment.
+生命|生命比房子更重要。|Sinh mệnh quan trọng hơn căn nhà.|Life is more important than a house.
+生意|他做房子的生意。|Anh ấy làm việc buôn bán nhà.|He is in the house business.
+生长|这些花在阳台生长。|Những bông hoa này sinh trưởng ở ban công.|These flowers grow on the balcony.
+声明|公司发了一个声明。|Công ty đã ra một tuyên bố.|The company issued a statement.
+胜|这次比赛我们胜了。|Trận đấu lần này chúng tôi đã thắng.|We won this match.
+胜利|大家一起工作就是胜利。|Mọi người cùng làm việc là thắng lợi.|Everyone working together is a victory.
+失去|他失去了工作。|Anh ấy đã mất đi công việc.|He lost his job.
+石头|门口有一块大石头。|Trước cửa có một hòn đá lớn.|There is a big stone at the entrance.
+石油|石油的价格又涨了。|Giá dầu mỏ lại tăng rồi.|The price of oil has gone up again.
+时|下班时人非常多。|Lúc tan làm người rất đông.|There are a lot of people when work lets out.
+时代|现在是网络时代。|Bây giờ là thời đại mạng.|Now is the internet era.
+时刻|这是最重要的时刻。|Đây là thời khắc quan trọng nhất.|This is the most important moment.
+实际上|实际上他没来上班。|Trên thực tế anh ấy không đến làm.|Actually, he didn't come to work.
+实力|这家公司的实力很强。|Thực lực của công ty này rất mạnh.|This company is very strong.
+实行|公司下个月实行新办法。|Tháng sau công ty thực hiện cách làm mới.|The company implements a new method next month.
+实验|他在楼里做实验。|Anh ấy làm thí nghiệm trong tòa nhà.|He is doing an experiment in the building.
+实验室|他在实验室工作。|Anh ấy làm việc trong phòng thí nghiệm.|He works in the laboratory.
+使|这件事使我很累。|Việc này khiến tôi rất mệt.|This makes me very tired.
+始终|他始终很认真。|Anh ấy từ đầu đến cuối rất nghiêm túc.|He is serious from beginning to end.
+世纪|这是二十一世纪。|Đây là thế kỷ hai mươi mốt.|This is the twenty-first century.
+世界|世界很大，我想看看。|Thế giới rất lớn, tôi muốn đi xem.|The world is big; I want to see it.
+世界杯|我们晚上看世界杯。|Buổi tối chúng tôi xem World Cup.|We watch the World Cup in the evening.
+市场|新房子离市场很近。|Nhà mới rất gần chợ.|The new house is close to the market.
+食品|超市的食品很便宜。|Thực phẩm ở siêu thị rất rẻ.|The food at the supermarket is cheap.
+事故|楼里出了事故，大家别进去。|Trong tòa nhà có sự cố, mọi người đừng vào.|There was an accident in the building, don't go in.
+事件|这个事件公司还在查。|Sự kiện này công ty vẫn đang điều tra.|The company is still looking into this incident.
+事实|事实很清楚，房子是空的。|Sự thật rất rõ, căn nhà trống.|The fact is clear: the apartment is empty.
+事实上|事实上，房租已经涨了。|Thực tế là tiền thuê nhà đã tăng rồi.|In fact, the rent has already gone up.
+事业|他在这儿做事业，很忙。|Anh ấy làm sự nghiệp ở đây, rất bận.|He is building his career here and is very busy.
+试题|老师给的试题不太难。|Đề thi thầy giáo cho không khó lắm.|The test questions the teacher gave aren't too hard.
+试验|这个新方法先做试验。|Cách mới này thử nghiệm trước đã.|Let's test this new method first.
+室|办公室在三楼，很安静。|Phòng làm việc ở tầng ba, rất yên tĩnh.|The office is on the third floor and very quiet.
+适合|这个房子很适合一家人住。|Căn nhà này rất phù hợp cho một gia đình ở.|This apartment is very suitable for a family to live in.
+适应|他还没适应新的办公室。|Anh ấy chưa thích nghi với văn phòng mới.|He hasn't gotten used to the new office yet.
+适用|这个规定只适用新房子。|Quy định này chỉ áp dụng cho nhà mới.|This rule only applies to new apartments.
+收费|这个停车场怎么收费？|Bãi đỗ xe này thu phí thế nào?|How does this parking lot charge?
+收看|我们晚上收看新闻。|Buổi tối chúng tôi xem thời sự.|We watch the news in the evening.
+收听|我每天收听天气预报。|Tôi nghe dự báo thời tiết mỗi ngày.|I listen to the weather forecast every day.
+收音机|老人的收音机声音很大。|Cái radio của ông cụ kêu to lắm.|The old man's radio is very loud.
+手续|买房子的手续很多。|Thủ tục mua nhà rất nhiều.|There are a lot of procedures for buying a house.
+手指|我的手指有点冷。|Ngón tay của tôi hơi lạnh.|My fingers are a bit cold.
+首都|首都有很多大公司。|Thủ đô có nhiều công ty lớn.|The capital has many big companies.
+首先|首先，请写你的名字。|Trước tiên, hãy viết tên của bạn.|First, please write your name.
+受|这个房子很受欢迎。|Căn nhà này rất được ưa chuộng.|This house is very popular.
+受伤|他工作的时候受伤了。|Anh ấy bị thương khi làm việc.|He got hurt while working.
+书架|书架在门旁边。|Giá sách ở cạnh cửa.|The bookshelf is next to the door.
+输|这场比赛我们输了。|Trận đấu này chúng tôi thua rồi.|We lost this match.
+输入|请在这里输入密码。|Vui lòng nhập mật khẩu ở đây.|Please enter the password here.
+熟人|这个小区我有熟人。|Khu này tôi có người quen.|I have an acquaintance in this neighborhood.
+属|我属马，你呢？|Tôi tuổi ngựa, còn bạn?|I was born in the Year of the Horse, and you?
+属于|这个房子属于公司。|Căn nhà này thuộc về công ty.|This house belongs to the company.
+数量|房子数量不太多。|Số lượng nhà không nhiều lắm.|The number of houses isn't very large.
+双|我要买一双鞋。|Tôi muốn mua một đôi giày.|I want to buy a pair of shoes.
+双方|双方明天见面谈。|Hai bên mai gặp nhau bàn.|Both sides will meet tomorrow to talk.
+思想|他的思想很新。|Tư tưởng của anh ấy rất mới.|His thinking is very modern.
+束|她买了一束花。|Cô ấy mua một bó hoa.|She bought a bunch of flowers.
+死|外面太冷，花都死了。|Bên ngoài lạnh quá, hoa đều chết rồi.|It's too cold outside; all the flowers died.
+速度|这个电梯的速度很快。|Tốc độ của thang máy này rất nhanh.|This elevator's speed is very fast.
+随|请随我来办公室看看。|Mời đi theo tôi đến văn phòng xem.|Please come with me to look at the office.
+所|这所房子离地铁很近。|Ngôi nhà này rất gần tàu điện ngầm.|This house is close to the subway.
+所长|他的所长是跟人谈话。|Sở trường của anh ấy là nói chuyện với người khác.|His strength is talking with people.
+台|办公室里有两台电脑。|Trong văn phòng có hai cái máy tính.|There are two computers in the office.
+谈|我想跟你谈房子的事。|Tôi muốn bàn với bạn chuyện căn nhà.|I want to talk with you about the house.
+谈话|经理在跟客人谈话。|Giám đốc đang nói chuyện với khách.|The manager is talking with a guest.
+谈判|今天的谈判很顺利。|Cuộc đàm phán hôm nay rất thuận lợi.|Today's negotiation went very smoothly.
+汤|中午我想喝点儿汤。|Buổi trưa tôi muốn uống chút canh.|I'd like some soup at noon.
+糖|咖啡里要放糖吗？|Cà phê có cần cho đường không?|Do you want sugar in your coffee?
+特色|这条街很有特色。|Con phố này rất có nét riêng.|This street has a lot of character.
+提前|明天我要提前下班。|Mai tôi phải tan làm sớm.|Tomorrow I need to leave work early.
+提问|大家有问题可以提问。|Mọi người có câu hỏi thì có thể đặt câu hỏi.|If anyone has questions, feel free to ask.
+题目|这个题目不太难。|Đề bài này không khó lắm.|This topic isn't too difficult.
+体会|我慢慢体会到他的意思。|Tôi dần hiểu ra ý của anh ấy.|I gradually came to understand what he meant.
+体验|我想体验一下这里的地铁。|Tôi muốn trải nghiệm tàu điện ngầm ở đây một chút.|I want to experience the subway here.
+天空|今天天空很蓝，空气也好。|Hôm nay bầu trời rất xanh, không khí cũng tốt.|The sky is very blue today, and the air is good too.
+甜|这家店的咖啡有点儿甜。|Cà phê ở quán này hơi ngọt.|The coffee at this shop is a bit sweet.
+跳|小狗在楼下跳来跳去。|Con chó nhỏ nhảy qua nhảy lại dưới nhà.|The little dog is jumping around downstairs.
+跳高|他在学校跳高比赛得了第一。|Cậu ấy đứng nhất cuộc thi nhảy cao ở trường.|He won first place in the school high jump contest.
+跳舞|晚上广场上有人跳舞。|Buổi tối có người nhảy múa ở quảng trường.|In the evening, some people dance in the square.
+跳远|我弟弟跳远跳得很远。|Em trai tôi nhảy xa rất xa.|My younger brother jumps very far in the long jump.
+体现|这个小区体现了城市的变化。|Khu dân cư này thể hiện sự thay đổi của thành phố.|This neighborhood reflects the city's changes.
+铁|这个门是铁的，很重。|Cửa này bằng sắt, nặng lắm.|This door is made of iron, it's very heavy.
+铁路|铁路旁边有一个新小区。|Bên cạnh đường sắt có một khu dân cư mới.|There's a new housing estate next to the railway.
+听力|每天听中文，听力会好。|Nghe tiếng Trung mỗi ngày thì khả năng nghe sẽ tốt hơn.|If you listen to Chinese every day, your listening will improve.
+听众|他的听众都是公司的同事。|Thính giả của anh ấy đều là đồng nghiệp trong công ty.|His audience is all colleagues from the company.
+停止|电梯坏了，请停止使用。|Thang máy hỏng rồi, xin ngừng sử dụng.|The elevator is broken, please stop using it.
+通常|我通常八点到办公室。|Tôi thường đến văn phòng lúc tám giờ.|I usually get to the office at eight.
+通信|这里的手机通信不太好。|Liên lạc điện thoại ở đây không được tốt lắm.|Mobile communication here isn't very good.
+同意|房东同意我们养猫。|Chủ nhà đồng ý cho chúng tôi nuôi mèo.|The landlord agrees to let us keep a cat.
+痛|我的头很痛，想回家。|Tôi đau đầu lắm, muốn về nhà.|My head hurts a lot; I want to go home.
+痛苦|他搬家以后很痛苦。|Anh ấy rất đau khổ sau khi chuyển nhà.|He was very miserable after moving house.
+头脑|他的头脑很清楚。|Đầu óc anh ấy rất rõ ràng.|His mind is very clear.
+突出|这个楼的颜色很突出。|Màu của tòa nhà này rất nổi bật.|The color of this building really stands out.
+突然|外面突然下雨了！|Bên ngoài đột nhiên mưa rồi!|It suddenly started raining outside!
+图|请给我一张城市图。|Xin cho tôi một bản đồ thành phố.|Please give me a city map.
+图画|墙上有一张图画。|Trên tường có một bức tranh vẽ.|There is a picture on the wall.
+土|门口有很多土。|Trước cửa có nhiều đất.|There is a lot of dirt at the entrance.
+团结|大家团结起来，工作更快。|Mọi người đoàn kết lại thì công việc nhanh hơn.|If everyone unites, work goes faster.
+团体|这个团体在楼上开会。|Đoàn thể này đang họp ở tầng trên.|This group is having a meeting upstairs.
+推动|新经理推动了很多变化。|Người quản lý mới đã thúc đẩy nhiều thay đổi.|The new manager pushed forward many changes.
+推广|我们要推广这个新房子。|Chúng tôi cần quảng bá căn nhà mới này.|We need to promote this new house.
+推开|请把门推开，里面有人。|Hãy đẩy cửa ra, bên trong có người.|Please push the door open, someone is inside.
+退|这个房子可以退吗？|Căn nhà này có thể trả lại không?|Can this house be returned?
+团|我们公司有一个旅行团。|Công ty chúng tôi có một đoàn du lịch.|Our company has a tour group.
+推进|这个工作要快点推进。|Công việc này cần đẩy mạnh nhanh lên.|This work needs to be pushed forward quickly.
+退出|请先退出这个群。|Làm ơn thoát khỏi nhóm này trước.|Please leave this group first.
+退休|我爸爸明年退休。|Bố tôi năm sau nghỉ hưu.|My dad retires next year.
+外交|他在外交部门工作。|Anh ấy làm việc ở bộ phận ngoại giao.|He works in the foreign affairs department.
+外面|外面下大雨了。|Bên ngoài mưa to rồi.|It's raining hard outside.
+外文|这份外文文件很难懂。|Tài liệu ngoại ngữ này khó hiểu quá.|This foreign-language document is hard to understand.
+完美|这个房子很完美。|Căn nhà này rất hoàn hảo.|This house is perfect.
+完善|我们要完善这个计划。|Chúng ta cần hoàn thiện kế hoạch này.|We need to improve this plan.
+完整|请给我一份完整的名单。|Làm ơn cho tôi một danh sách đầy đủ.|Please give me a complete list.
+玩具|孩子的玩具在客厅里。|Đồ chơi của trẻ con ở trong phòng khách.|The child's toys are in the living room.
+往往|周末路上往往很堵。|Cuối tuần đường thường hay tắc.|The roads are often very congested on weekends.
+危害|抽烟对身体有危害。|Hút thuốc có hại cho sức khỏe.|Smoking is harmful to your health.
+危险|这里开车很危险。|Lái xe ở đây rất nguy hiểm.|Driving here is very dangerous.
+围|很多人围在门口看。|Nhiều người vây quanh cửa xem.|Many people gathered around the door to watch.
+伟大|这是一件伟大的工作。|Đây là một công việc vĩ đại.|This is a great job.
+卫生|我们要注意卫生。|Chúng ta phải chú ý vệ sinh.|We need to pay attention to hygiene.
+卫生间|卫生间在办公室右边。|Nhà vệ sinh ở bên phải văn phòng.|The restroom is on the right side of the office.
+为了|为了工作，他搬到城里。|Vì công việc, anh ấy chuyển vào thành phố.|For work, he moved into the city.
+温暖|这个房间很温暖。|Căn phòng này rất ấm áp.|This room is very warm.
+文化|城市文化很有意思。|Văn hóa thành phố rất thú vị.|City culture is very interesting.
+文件|请把文件放在桌子上。|Hãy đặt tài liệu lên bàn.|Please put the documents on the table.
+文明|我们要做文明的人。|Chúng ta phải là người văn minh.|We should be civilized people.
+文学|他很喜欢中国文学。|Anh ấy rất thích văn học Trung Quốc.|He really likes Chinese literature.
+文章|这篇文章写得很长。|Bài viết này viết rất dài.|This article is written very long.
+文字|这些文字我看不懂。|Những chữ này tôi không hiểu.|I don't understand these characters.
+握手|他跟我握手，说很高兴认识我。|Anh ấy bắt tay tôi và nói rất vui được gặp tôi.|He shook my hand and said he was glad to meet me.
+屋子|这个屋子太小，放不下大桌子。|Căn phòng này quá nhỏ, không đặt được cái bàn lớn.|This room is too small to fit a big table.
+武器|警察不让人带武器进车站。|Cảnh sát không cho người ta mang vũ khí vào nhà ga.|The police don't allow people to bring weapons into the station.
+武术|我儿子每个周末都去学武术。|Con trai tôi cuối tuần nào cũng đi học võ thuật.|My son goes to learn martial arts every weekend.
+舞台|她第一次站在舞台上唱歌。|Lần đầu cô ấy đứng trên sân khấu hát.|She sang on stage for the first time.
+希望|我希望明年能买到新房子。|Tôi hy vọng năm sau có thể mua được nhà mới.|I hope I can buy a new house next year.
+系|他在大学的中文系工作。|Anh ấy làm việc ở khoa tiếng Trung của trường đại học.|He works in the Chinese department at the university.
+西部|城市的西部有很多新房子。|Phía tây thành phố có rất nhiều nhà mới.|There are many new houses in the west of the city.
+下来|请下来看一下房子。|Hãy xuống đây xem nhà một chút.|Please come down and take a look at the apartment.
+下面|下面还有一套房子。|Bên dưới vẫn còn một căn nhà.|There is one more apartment downstairs.
+下去|电梯坏了，走下去吧。|Thang máy hỏng rồi, đi bộ xuống đi.|The elevator is broken, let's walk down.
+先进|这个办公室很先进。|Văn phòng này rất tiên tiến.|This office is very advanced.
+显得|房间显得很大。|Căn phòng có vẻ rất rộng.|The room looks quite big.
+显然|显然他今天不在。|Rõ ràng hôm nay anh ấy không có ở đây.|Clearly he is not here today.
+显示|电脑显示没有房子。|Máy tính hiển thị không có nhà.|The computer shows there are no listings.
+现场|请来现场看房子。|Mời đến xem nhà tại chỗ.|Please come see the apartment on site.
+现代|这个小区的房子很现代。|Nhà ở khu này rất hiện đại.|The apartments in this neighborhood are very modern.
+现代化|我们的城市越来越现代化了。|Thành phố của chúng ta ngày càng hiện đại hóa.|Our city is becoming more and more modernized.
+现金|请问可以用现金付吗？|Xin hỏi có thể trả bằng tiền mặt không?|Excuse me, can I pay in cash?
+现象|堵车是常见的现象。|Tắc đường là hiện tượng thường gặp.|Traffic jams are a common phenomenon.
+线|这条地铁线很方便。|Tuyến tàu điện ngầm này rất tiện.|This subway line is very convenient.
+相比|相比去年，房租涨了。|So với năm ngoái, tiền thuê nhà đã tăng.|Compared with last year, the rent has gone up.
+相当|这个办公室相当安静。|Văn phòng này khá là yên tĩnh.|This office is quite quiet.
+现实|这个房子很现实。|Căn nhà này rất thực tế.|This house is very realistic.
+相关|这件事跟房子相关。|Việc này liên quan đến nhà ở.|This matter is related to housing.
+相互|邻居要相互帮助。|Hàng xóm phải giúp đỡ lẫn nhau.|Neighbors should help each other.
+相似|这两个房子很相似。|Hai căn nhà này rất giống nhau.|These two houses are very similar.
+香|这杯咖啡很香。|Ly cà phê này rất thơm.|This cup of coffee smells great.
+香蕉|我早上吃了一个香蕉。|Sáng nay tôi ăn một quả chuối.|I ate a banana this morning.
+消费|这个月消费太多了。|Tháng này tiêu dùng nhiều quá.|I spent too much this month.
+消息|我有一个好消息。|Tôi có một tin tốt.|I have good news.
+消失|我的手机不见了，好像消失了！|Điện thoại của tôi không thấy đâu, hình như biến mất rồi!|My phone is gone, it seems to have disappeared!
+效果|这个新灯效果很好。|Cái đèn mới này hiệu quả rất tốt.|This new lamp works very well.
+写作|他每天在办公室写作。|Anh ấy viết văn ở văn phòng mỗi ngày.|He writes every day at the office.
+信封|请把信封放在桌子上。|Xin để phong bì trên bàn.|Please put the envelope on the desk.
+信任|老板很信任他。|Ông chủ rất tin tưởng anh ấy.|The boss trusts him a lot.
+行李|我的行李在房间里。|Hành lý của tôi ở trong phòng.|My luggage is in the room.
+形成|大家慢慢形成了习惯。|Mọi người dần dần hình thành thói quen.|Everyone gradually formed a habit.
+形式|这个形式不太方便。|Hình thức này không tiện lắm.|This format isn't very convenient.
+心|我心里有点儿累。|Trong lòng tôi hơi mệt.|I feel a bit tired inside.
+形象|这个房子的形象不太好。|Hình ảnh của căn nhà này không được tốt lắm.|The image of this house isn't very good.
+形状|这个房间的形状很奇怪。|Hình dạng của căn phòng này rất lạ.|The shape of this room is very strange.
+幸福|家人在一起就很幸福。|Gia đình ở bên nhau là rất hạnh phúc.|Being together with family is very happy.
+幸运|你真幸运，找到好工作！|Bạn thật may mắn, tìm được việc tốt!|You're really lucky to find a good job!
+性|这个工作的安全性很高。|Tính an toàn của công việc này rất cao.|The safety of this job is very high.
+性别|请在这里写你的性别。|Hãy viết giới tính của bạn ở đây.|Please write your gender here.
+性格|她的性格很好，同事都喜欢她。|Tính cách của cô ấy rất tốt, đồng nghiệp đều thích cô ấy.|Her personality is great; her colleagues all like her.
+修|房东明天来修空调。|Chủ nhà mai đến sửa điều hòa.|The landlord is coming to fix the air conditioner tomorrow.
+修改|合同要修改一下。|Hợp đồng cần sửa một chút.|The contract needs a small change.
+需求|客户的需求很清楚。|Nhu cầu của khách hàng rất rõ.|The client's needs are very clear.
+需要|办公室需要两个人。|Văn phòng cần hai người.|The office needs two people.
+宣布|经理宣布了新房子的价格。|Giám đốc đã công bố giá căn nhà mới.|The manager announced the price of the new house.
+宣传|他们在小区里做宣传。|Họ làm tuyên truyền trong khu dân cư.|They are doing promotion in the neighborhood.
+选手|这个选手很有名。|Tuyển thủ này rất nổi tiếng.|This athlete is very famous.
+学费|这个学校的学费不便宜。|Học phí của trường này không rẻ.|The tuition at this school is not cheap.
+血|他去医院查血了。|Anh ấy đến bệnh viện xét nghiệm máu rồi.|He went to the hospital for a blood test.
+训练|公司每天早上训练新员工。|Công ty huấn luyện nhân viên mới mỗi sáng.|The company trains new employees every morning.
+压|这个箱子别压，里面有杯子。|Đừng đè lên cái hộp này, bên trong có cốc.|Don't press on this box, there are cups inside.
+压力|最近工作压力很大。|Dạo này áp lực công việc rất lớn.|Work pressure has been heavy lately.
+烟|办公室里不能抽烟。|Không được hút thuốc trong văn phòng.|You can't smoke in the office.
+演|他要在晚会上演一个老师。|Anh ấy sẽ diễn vai một thầy giáo trong buổi tiệc.|He will play a teacher at the evening party.
+演唱|她喜欢在台上演唱。|Cô ấy thích biểu diễn hát trên sân khấu.|She likes to sing on stage.
+演唱会|周末我们去看演唱会。|Cuối tuần chúng tôi đi xem buổi hòa nhạc.|We're going to a concert this weekend.
+眼前|眼前的楼很高。|Tòa nhà trước mắt rất cao.|The building in front of us is very tall.
+演员|那个演员住在我们小区。|Diễn viên đó sống ở khu chung cư của chúng tôi.|That actor lives in our neighborhood.
+羊|楼下有人养了两只羊。|Dưới nhà có người nuôi hai con dê.|Someone downstairs keeps two sheep.
+阳光|这个房间阳光很好。|Phòng này có ánh nắng rất đẹp.|This room gets great sunlight.
+要是|要是下雨，我们就在家。|Nếu trời mưa thì chúng tôi ở nhà.|If it rains, we'll stay home.
+一方面|一方面房租贵，一方面太远。|Một mặt tiền thuê đắt, một mặt lại quá xa.|On one hand the rent is high, on the other it's too far.
+一切|办公室一切都准备好了。|Mọi thứ ở văn phòng đều đã chuẩn bị xong.|Everything in the office is ready.
+衣架|请把衣架放在门后面。|Hãy để móc áo ở sau cửa.|Please put the hangers behind the door.
+演出|广场上有一个小演出。|Trên quảng trường có một buổi biểu diễn nhỏ.|There is a small performance in the square.
+已|房子已租出去了。|Căn nhà đã cho thuê rồi.|The house has already been rented out.
+以来|上班以来我没请过假。|Từ khi đi làm đến nay tôi chưa xin nghỉ phép lần nào.|Since I started working, I haven't taken any leave.
+意外|办公室出了点意外。|Văn phòng có chút sự cố.|There was a small accident at the office.
+意义|这份工作很有意义。|Công việc này rất có ý nghĩa.|This job is very meaningful.
+因此|路太远，因此我坐地铁。|Đường xa quá, vì vậy tôi đi tàu điện ngầm.|The road is too far, so I take the subway.
+银牌|他比赛得了银牌。|Cậu ấy được huy chương bạc trong cuộc thi.|He won a silver medal in the competition.
+艺术|这个艺术小区很漂亮。|Khu chung cư nghệ thuật này rất đẹp.|This artsy neighborhood is very pretty.
+银|这个银的杯子是新的。|Cái cốc bằng bạc này là mới.|This silver cup is new.
+印象|这个小区给我印象很好。|Khu dân cư này để lại cho tôi ấn tượng rất tốt.|This neighborhood gives me a very good impression.
+应当|你应当先给房东打电话。|Bạn nên gọi cho chủ nhà trước.|You should call the landlord first.
+应用|这个应用可以找房子。|Ứng dụng này có thể tìm nhà.|This app can help you find a house.
+迎接|我们去门口迎接客人吧。|Chúng ta ra cửa đón khách nhé.|Let's go to the door to welcome the guests.
+营养|午饭要吃得有营养。|Bữa trưa phải ăn cho có dinh dưỡng.|Lunch should be nutritious.
+赢|我们队今天赢了两场。|Đội của chúng tôi hôm nay thắng hai trận.|Our team won two games today.
+影视|他弟弟在影视公司上班。|Em trai anh ấy làm ở công ty phim ảnh.|His younger brother works at a film company.
+优点|这个房子的优点是很安静。|Ưu điểm của căn nhà này là rất yên tĩnh.|The advantage of this house is that it's very quiet.
+优势|这个房子的优势是离地铁近。|Ưu thế của căn nhà này là gần tàu điện ngầm.|The advantage of this apartment is that it's close to the subway.
+由|这件事由小王负责。|Việc này do Tiểu Vương phụ trách.|This matter is handled by Xiao Wang.
+由于|由于下雨，会议改到明天。|Do trời mưa, cuộc họp đổi sang ngày mai.|Because of the rain, the meeting is moved to tomorrow.
+邮件|我早上收到三封邮件。|Sáng nay tôi nhận được ba email.|I received three emails this morning.
+邮箱|我的邮箱在楼下门口。|Hộp thư của tôi ở cửa dưới nhà.|My mailbox is at the entrance downstairs.
+游|周末我们去公园游一游。|Cuối tuần chúng tôi đi dạo chơi ở công viên.|On the weekend we'll take a stroll in the park.
+邮票|我要买三张邮票。|Tôi muốn mua ba con tem.|I want to buy three stamps.
+游戏|这个游戏我不太会。|Trò chơi này tôi không biết chơi lắm.|I'm not very good at this game.
+游泳|小区里有游泳的地方吗？|Trong khu chung cư có chỗ bơi không?|Is there a place to swim in the neighborhood?
+有的是|公司里年轻人有的是。|Trong công ty thiếu gì người trẻ.|There are plenty of young people at the company.
+有利|这个房子对上班很有利。|Căn nhà này rất có lợi cho việc đi làm.|This apartment is very convenient for commuting.
+有效|这个办法很有效。|Cách này rất hiệu quả.|This method is very effective.
+预报|天气预报说明天有雨。|Dự báo thời tiết nói mai có mưa.|The weather forecast says it will rain tomorrow.
+预防|我们要预防感冒。|Chúng ta phải phòng ngừa cảm cúm.|We need to prevent catching a cold.
+预计|房子预计下个月能住。|Dự kiến tháng sau có thể ở được nhà.|The apartment is expected to be ready next month.
+预习|晚上我要预习生词。|Tối nay tôi phải chuẩn bị từ mới.|Tonight I need to preview the new words.
+员|他是公司的新员工。|Anh ấy là nhân viên mới của công ty.|He is a new employee of the company.
+员工|公司有五十个员工。|Công ty có năm mươi nhân viên.|The company has fifty employees.
+愿望|我的愿望是买房子。|Nguyện vọng của tôi là mua nhà.|My wish is to buy a house.
+约|我约了人看房子。|Tôi đã hẹn người đi xem nhà.|I made an appointment to look at an apartment.
+运输|公司做运输工作。|Công ty làm công việc vận chuyển.|The company does transport work.
+早已|他早已回家了。|Anh ấy đã về nhà từ lâu rồi.|He went home long ago.
+造|他们造了很多新房子。|Họ đã làm ra rất nhiều nhà mới.|They built many new houses.
+杂志|这本杂志是我的。|Cuốn tạp chí này là của tôi.|This magazine is mine.
+造成|堵车造成了迟到。|Tắc đường đã gây ra việc đến muộn.|The traffic jam caused the lateness.
+责任|这是我的责任。|Đây là trách nhiệm của tôi.|This is my responsibility.
+增加|房租增加了两百块。|Tiền thuê nhà đã tăng thêm hai trăm tệ.|The rent went up by two hundred yuan.
+展开|我们明天展开讨论。|Ngày mai chúng tôi sẽ triển khai thảo luận.|We will start the discussion tomorrow.
+张|请给我一张纸。|Xin hãy cho tôi một tờ giấy.|Please give me a sheet of paper.
+长城|周末我们去长城吧。|Cuối tuần chúng ta đi Vạn Lý Trường Thành nhé.|Let's go to the Great Wall this weekend.
+长处|他的长处是做事快。|Điểm mạnh của anh ấy là làm việc nhanh.|His strong point is that he works fast.
+增长|今年工资增长不多。|Năm nay lương tăng không nhiều.|Wages didn't grow much this year.
+长期|这是长期合同，不能改。|Đây là hợp đồng dài hạn, không thể sửa.|This is a long-term contract; it can't be changed.
+照|请照这张表填一下。|Xin hãy điền theo tờ mẫu này.|Please fill it in according to this form.
+者|房东者要明天来。|Người cho thuê nhà mai sẽ đến.|The landlord will come tomorrow.
+争|别争了，先看合同。|Đừng tranh cãi nữa, xem hợp đồng trước đã.|Stop arguing; look at the contract first.
+争取|我要争取这个工作。|Tôi phải phấn đấu lấy công việc này.|I want to fight for this job.
+整|我整了一天办公室。|Tôi dọn văn phòng cả một ngày.|I tidied the office all day.
+整个|整个小区都停电了。|Cả khu dân cư đều mất điện rồi.|The whole neighborhood has a power outage.
+真实|这个房子的照片很真实。|Ảnh của căn nhà này rất chân thực.|The photos of this house are very realistic.
+整理|我下午整理房间。|Chiều nay tôi dọn dẹp phòng.|I'll tidy up the room this afternoon.
+整齐|桌子上很整齐。|Trên bàn rất ngăn nắp.|The desk is very neat.
+整体|整体看，房子不错。|Nhìn tổng thể, căn nhà khá tốt.|Overall, the house is not bad.
+整天|他整天在办公室。|Anh ấy ở văn phòng cả ngày.|He is in the office all day.
+整整|我等了整整一个小时。|Tôi đã đợi tròn một tiếng.|I waited a full hour.
+正式|明天有正式会议。|Mai có cuộc họp chính thức.|There's a formal meeting tomorrow.
+证|请给我看你的证。|Cho tôi xem giấy chứng nhận của bạn.|Please show me your certificate.
+证件|办房子要带证件。|Làm giấy tờ nhà phải mang giấy tờ.|Bring your documents to handle the house paperwork.
+证据|我没有证据，不能说他。|Tôi không có bằng chứng, không thể nói anh ấy.|I don't have evidence, so I can't blame him.
+证明|请给我一份工作证明。|Xin cho tôi một giấy chứng nhận công việc.|Please give me a proof of employment.
+支|我买了两支笔。|Tôi đã mua hai cây bút.|I bought two pens.
+支付|房租可以手机支付吗？|Tiền thuê nhà có thể thanh toán bằng điện thoại không?|Can I pay the rent by phone?
+直|这条路很直，一直走。|Con đường này rất thẳng, cứ đi thẳng.|This road is very straight, just keep going.
+直播|晚上我在家看直播。|Buổi tối tôi ở nhà xem livestream.|In the evening I watch livestreams at home.
+支持|大家都支持这个新房子。|Mọi người đều ủng hộ ngôi nhà mới này.|Everyone supports this new house.
+直到|我一直在公司直到九点。|Tôi ở công ty cho đến chín giờ.|I stayed at the office until nine.
+值|这套房子很值。|Căn nhà này rất đáng giá.|This apartment is really worth it.
+值得|这个房子值得买。|Căn nhà này đáng mua.|This apartment is worth buying.
+职工|公司职工都在开会。|Công nhân viên công ty đều đang họp.|All the company staff are in a meeting.
+职业|你的职业是什么？|Nghề nghiệp của bạn là gì?|What is your occupation?
+只是|房子好，只是太贵。|Nhà tốt, chỉ là quá đắt.|The place is nice, it's just too expensive.
+只有|办公室里只有我。|Trong văn phòng chỉ có tôi.|There is only me in the office.
+指|他指着那栋楼。|Anh ấy chỉ vào tòa nhà đó.|He is pointing at that building.
+只好|没有车，只好走路。|Không có xe, đành phải đi bộ.|I don't have a car, so I have to walk.
+指出|他指出了合同里的问题。|Anh ấy đã chỉ ra vấn đề trong hợp đồng.|He pointed out the problem in the contract.
+至今|这个小区至今没有物业。|Khu này đến nay vẫn chưa có ban quản lý.|This neighborhood still has no property management to this day.
+至少|房租至少每月两千块。|Tiền thuê nhà ít nhất hai nghìn tệ một tháng.|The rent is at least two thousand yuan a month.
+志愿|我的志愿是当一名医生。|Nguyện vọng của tôi là trở thành bác sĩ.|My aspiration is to become a doctor.
+制定|公司制定了新的上班时间。|Công ty đã đề ra giờ làm việc mới.|The company set new working hours.
+指导|老师指导我写汉字。|Giáo viên hướng dẫn tôi viết chữ Hán.|The teacher guides me in writing Chinese characters.
+志愿者|他在车站做志愿者。|Anh ấy làm tình nguyện viên ở bến xe.|He works as a volunteer at the station.
+制度|这个制度对大家很好。|Chế độ này rất tốt cho mọi người.|This system is very good for everyone.
+制造|这个工厂制造手机。|Nhà máy này chế tạo điện thoại.|This factory makes phones.
+中部|我家在城市中部。|Nhà tôi ở giữa thành phố.|My home is in the middle of the city.
+中华民族|中华民族有很多节日。|Dân tộc Trung Hoa có nhiều ngày lễ.|The Chinese nation has many festivals.
+终于|房子终于租好了！|Cuối cùng cũng thuê được nhà rồi!|The apartment is finally rented!
+钟|墙上的钟坏了。|Đồng hồ trên tường hỏng rồi.|The clock on the wall is broken.
+种子|这些种子明天种。|Những hạt giống này mai trồng.|These seeds will be planted tomorrow.
+种|这种房子很贵。|Loại nhà này rất đắt.|This kind of house is very expensive.
+制作|他们制作了很多新房子。|Họ đã làm rất nhiều nhà mới.|They made a lot of new houses.
+重大|这是公司的重大决定。|Đây là quyết định trọng đại của công ty.|This is a major decision for the company.
+周围|我家周围很安静。|Xung quanh nhà tôi rất yên tĩnh.|It's very quiet around my home.
+猪|市场里有人卖猪。|Trong chợ có người bán lợn.|Someone is selling pigs at the market.
+主持|主任主持今天的会。|Chủ nhiệm chủ trì cuộc họp hôm nay.|The director is chairing today's meeting.
+主动|他工作很主动。|Anh ấy làm việc rất chủ động.|He is very proactive at work.
+主任|王主任在办公室吗？|Chủ nhiệm Vương có ở văn phòng không?|Is Director Wang in the office?
+主意|你的主意很好！|Ý kiến của bạn rất hay!|Your idea is great!
+主张|大家不同意这个主张。|Mọi người không đồng ý với chủ trương này.|Everyone disagrees with this proposal.
+注意|请注意，电梯坏了。|Xin chú ý, thang máy bị hỏng rồi.|Please note, the elevator is broken.
+祝|祝你们新家快乐！|Chúc mừng nhà mới của các bạn vui vẻ!|Wishing you happiness in your new home!
+抓|他抓不住这个机会。|Anh ấy không nắm được cơ hội này.|He can't grab this opportunity.
+专家|公司请了一个专家。|Công ty đã mời một chuyên gia.|The company hired an expert.
+专门|这是专门给你做的。|Cái này làm riêng cho bạn.|This was made specially for you.
+专题|下午有一个专题会议。|Chiều nay có một cuộc họp chuyên đề.|There is a special-topic meeting this afternoon.
+抓住|请抓住我的手，别怕。|Hãy nắm lấy tay tôi, đừng sợ.|Please hold my hand, don't be afraid.
+专业|你的专业是什么？|Chuyên ngành của bạn là gì?|What is your major?
+转|请在这里向左转。|Xin hãy rẽ trái ở đây.|Please turn left here.
+转变|他的想法有了转变。|Suy nghĩ của anh ấy đã có chuyển biến.|His thinking has changed.
+状况|房子的状况很好。|Tình trạng của căn nhà rất tốt.|The condition of the house is very good.
+状态|他今天状态不太好。|Hôm nay trạng thái của anh ấy không được tốt lắm.|He is not in a good state today.
+追|他在后面追公共汽车。|Anh ấy đang đuổi theo xe buýt ở phía sau.|He is chasing the bus behind.
+准|这个时间准不准？|Giờ này có chính xác không?|Is this time accurate?
+资金|公司资金不太够。|Vốn của công ty không đủ lắm.|The company doesn't have quite enough funds.
+资格|你有资格住这儿吗？|Bạn có tư cách ở đây không?|Are you qualified to live here?
+自从|自从搬家，我上班很近。|Từ khi chuyển nhà, tôi đi làm rất gần.|Since I moved, my commute to work is very short.
+自动|这个门是自动的。|Cái cửa này là tự động.|This door is automatic.
+自觉|大家要自觉排队。|Mọi người phải tự giác xếp hàng.|Everyone should line up on their own.
+自然|房间很自然，很舒服。|Căn phòng rất tự nhiên, rất thoải mái.|The room feels very natural and comfortable.
+自身|你要注意自身安全。|Bạn phải chú ý an toàn của bản thân.|You should pay attention to your own safety.
+自主|公司让我自主安排时间。|Công ty để tôi tự chủ sắp xếp thời gian.|The company lets me arrange my time independently.
+子女|他们有一个子女。|Họ có một người con.|They have one child.
+总|他总在公司加班。|Anh ấy luôn tăng ca ở công ty.|He is always working overtime at the office.
+总结|请你总结今天的会议。|Bạn hãy tổng kết cuộc họp hôm nay.|Please summarize today's meeting.
+总是|他上班总是很早。|Anh ấy luôn đi làm rất sớm.|He is always early for work.
+足够|这个房子足够大。|Căn nhà này đủ lớn.|This house is big enough.
+组合|这个组合很合适。|Sự kết hợp này rất phù hợp.|This combination works well.
+左右|房租三千块左右。|Tiền thuê nhà khoảng ba nghìn tệ.|The rent is around three thousand yuan.
+作品|这是他的新作品。|Đây là tác phẩm mới của anh ấy.|This is his new work.
+作者|这本书的作者是谁？|Tác giả của cuốn sách này là ai?|Who is the author of this book?
+足球|他很喜欢看足球。|Anh ấy rất thích xem bóng đá.|He really likes watching soccer.
+做客|周末我去朋友家做客。|Cuối tuần tôi đến nhà bạn làm khách.|This weekend I'm going to a friend's home as a guest.

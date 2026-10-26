@@ -1,0 +1,31 @@
+# Từ vựng chủ đề 11 — Đàm phán giá
+# W|ID từ|chữ Hán                         từ thuộc chủ đề (thứ tự = thứ tự nghe)
+# E|ID câu|ID từ|câu|nghĩa Việt|nghĩa Anh|ngữ pháp   câu của từ (sinh bằng scripts/generate.py)
+
+W|T11-001|打折
+E|11-E001|T11-001|这个房子可以打折吗？|Căn nhà này có thể giảm giá không?|Can this apartment get a discount?|可以…吗？
+E|11-E002|T11-001|市场价不打折，我们没办法。|Giá thị trường không giảm giá, chúng tôi không có cách nào.|Market price has no discount, we can't do anything about it.|没办法
+W|T11-002|打九折
+E|11-E003|T11-002|可以打九折吗？我马上决定。|Có thể giảm mười phần trăm không? Tôi quyết định ngay.|Can you take ten percent off? I'll decide right away.|可以…吗？
+E|11-E004|T11-002|打九折我们就合作。|Giảm mười phần trăm thì chúng tôi hợp tác.|If you take ten percent off, we'll work together.|…就…
+W|T11-003|考虑
+E|11-E005|T11-003|请让我考虑一下，好吗？|Xin để tôi cân nhắc một chút, được không?|Please let me think about it, okay?|让 + ai + động từ + 一下
+E|11-E006|T11-003|这个价格我要考虑考虑。|Giá này tôi phải cân nhắc đã.|I need to think about this price.|động từ + 考虑考虑
+W|T11-004|最低
+E|11-E007|T11-004|这个已经是最低的了。|Cái này đã là mức thấp nhất rồi.|This is already the lowest.|已经是…了
+E|11-E018|T11-004|这个价格是最低的了。|Giá này là thấp nhất rồi.|This price is the lowest.|是…的
+W|T11-005|市场价
+E|11-E008|T11-005|市场价是多少？我们看一下。|Giá thị trường là bao nhiêu? Chúng ta xem thử.|What's the market price? Let's take a look.|…是多少？
+E|11-E009|T11-005|我们的价格比市场价低。|Giá của chúng tôi thấp hơn giá thị trường.|Our price is lower than the market price.|A 比 B + tính từ
+W|T11-006|让一步
+E|11-E010|T11-006|你让一步，我也让一步。|Anh nhượng một bước, tôi cũng nhượng một bước.|You give a little, and I'll give a little too.|A 让一步，B 也让一步
+E|11-E011|T11-006|为了让一步，我们打九折。|Để nhượng một bước, chúng tôi giảm mười phần trăm.|To make a concession, we'll take ten percent off.|为了…，…
+W|T11-007|免
+E|11-E012|T11-007|免一个月租金，可以吗？|Miễn một tháng tiền thuê, được không?|Can you waive one month's rent?|免 + danh từ
+E|11-E013|T11-007|免停车费，我们就合作愉快。|Miễn phí gửi xe thì chúng ta hợp tác vui vẻ.|If parking is free, we'll have a happy cooperation.|…就…
+W|T11-008|合作愉快
+E|11-E014|T11-008|价格可以，祝我们合作愉快！|Giá được, chúc chúng ta hợp tác vui vẻ!|The price works, here's to a happy cooperation!|祝…
+E|11-E015|T11-008|打九折，合作愉快！|Giảm mười phần trăm, hợp tác vui vẻ!|Ten percent off, happy cooperation!|câu rút gọn
+W|T11-009|没办法
+E|11-E016|T11-009|这个价格我们没办法再低了。|Giá này chúng tôi không thể giảm thêm được nữa.|We really can't go any lower than this price.|没办法 + động từ (không thể...)
+E|11-E017|T11-009|打九折？那真的没办法。|Giảm mười phần trăm à? Cái đó thật sự không được rồi.|Ten percent off? That's really not possible.|名词短语 + 那真的没办法

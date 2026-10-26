@@ -1,0 +1,49 @@
+# Chủ đề 06 — mẫu câu
+# S|ID|câu|nghĩa Việt|ngữ pháp   — câu đơn
+# D|ID|người nói|câu|nghĩa Việt|ngữ pháp — hội thoại; các lượt liền nhau là 1 hội thoại, dòng trống để tách
+
+S|06-S01|这里离地铁站很近，走路五分钟。|Chỗ này gần ga metro, đi bộ 5 phút.|A 离 B + 近/远
+S|06-S02|公寓附近有超市和医院。|Gần căn hộ có siêu thị và bệnh viện.|附近 + 有
+S|06-S03|大楼就在银行对面。|Toà nhà nằm ngay đối diện ngân hàng.|在 + nơi + phương vị
+S|06-S04|一直往前走，到第二个路口往右走。|Đi thẳng, đến ngã tư thứ hai rẽ phải.|往 + hướng + 走
+S|06-S05|从这儿到机场要多长时间？|Từ đây ra sân bay mất bao lâu?|从…到…
+S|06-S06|开车大概二十分钟。|Lái xe khoảng 20 phút.|大概 + số
+S|06-S07|这个地方交通很方便。|Chỗ này giao thông rất thuận tiện.|很 + tính từ
+S|06-S08|停车场在大楼的后面。|Bãi đỗ xe ở phía sau toà nhà.|…的后面
+S|06-S09|学校在公园和银行中间。|Trường học nằm giữa công viên và ngân hàng.|在 A 和 B 中间
+S|06-S10|请问，去市中心怎么走？|Xin hỏi, đi trung tâm thành phố thế nào?|去 + nơi + 怎么走？
+S|06-S11|过了红绿灯就到了。|Qua đèn giao thông là tới.|过了…就…
+S|06-S12|大楼的门口有一个公交车站。|Trước cửa toà nhà có một trạm xe buýt.|nơi + 有 + 一个…
+S|06-S13|这条路的左边是商场，右边是公园。|Bên trái con đường này là trung tâm thương mại, bên phải là công viên.|…是…
+S|06-S14|那个大楼离这儿不太远。|Toà nhà đó cách đây không xa lắm.|不太 + tính từ
+S|06-S15|走路去可能要十五分钟左右。|Đi bộ có lẽ mất khoảng 15 phút.|…左右
+S|06-S16|你到了路口给我打电话。|Anh đến ngã tư thì gọi cho tôi.|到了…
+S|06-S17|往东走两百米就是。|Đi về phía đông 200 mét là tới.|往 + hướng + 走 + khoảng cách
+S|06-S18|这个小区在河的东边。|Khu chung cư này ở phía đông con sông.|在…的东边
+S|06-S19|从机场坐出租车到这里大概一百块。|Từ sân bay đi taxi đến đây khoảng 100 tệ.|从…到…
+S|06-S20|公寓的位置很好，去哪儿都方便。|Vị trí căn hộ rất đẹp, đi đâu cũng tiện.|去哪儿都…
+S|06-S21|附近有很多饭馆和咖啡店。|Gần đây có rất nhiều quán ăn và quán cà phê.|很多 + danh từ
+S|06-S22|我们公司在二号线和三号线中间。|Công ty chúng tôi nằm giữa tuyến 2 và tuyến 3.|号线 (tuyến)
+S|06-S23|你过马路的时候要小心。|Khi băng qua đường anh phải cẩn thận.|…的时候
+S|06-S24|我在大楼的南门等你。|Tôi đợi anh ở cổng nam toà nhà.|在 + nơi + 等
+S|06-S25|从这里能看到市中心。|Từ đây có thể nhìn thấy trung tâm thành phố.|能 + 看到
+S|06-S26|这个地址我找不到，你能发个位置给我吗？|Địa chỉ này tôi tìm không ra, anh gửi định vị cho tôi được không?|找不到；发个 + danh từ
+S|06-S27|医院就在这条街的尽头。|Bệnh viện ở ngay cuối con phố này.|在…的尽头
+S|06-S28|这里到最近的地铁站有一公里。|Từ đây đến ga metro gần nhất 1 km.|到…有 + khoảng cách
+S|06-S29|下了地铁，从三号出口出来。|Xuống metro thì ra từ cửa số 3.|从…出来
+S|06-S30|这个地方虽然有点儿远，但是很安静。|Chỗ này tuy hơi xa nhưng rất yên tĩnh.|虽然…但是…
+
+D|06-D1-1|A|请问，地铁站在哪儿？|Xin hỏi, ga metro ở đâu?
+D|06-D1-2|B|一直往前走，第一个路口往左走就到了。|Đi thẳng, ngã tư đầu tiên rẽ trái là tới.|往 + hướng + 走
+
+D|06-D2-1|A|从这儿到你们公司远吗？|Từ đây đến công ty anh có xa không?
+D|06-D2-2|B|不远，坐地铁三站，大概十分钟。|Không xa, đi metro ba trạm, khoảng 10 phút.|lượng từ 站
+
+D|06-D3-1|A|附近有银行吗？|Gần đây có ngân hàng không?
+D|06-D3-2|B|有，就在超市旁边。|Có, ngay cạnh siêu thị.|就在 + nơi
+
+D|06-D4-1|A|你到哪儿了？|Anh đến đâu rồi?
+D|06-D4-2|B|我已经到大楼门口了，你下来吧。|Tôi đến cửa toà nhà rồi, anh xuống đi.|已经…了；下来
+
+D|06-D5-1|A|这个位置交通方便吗？|Vị trí này giao thông thuận tiện không?
+D|06-D5-2|B|很方便，门口就有公交车站和地铁站。|Rất tiện, ngay cửa có trạm xe buýt và ga metro.

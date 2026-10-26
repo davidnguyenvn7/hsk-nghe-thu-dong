@@ -1,0 +1,92 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "sentences.json — mẫu câu theo chủ đề",
+ "type": "array",
+ "items": {
+  "type": "object",
+  "required": [
+   "id",
+   "topic",
+   "type",
+   "zh",
+   "pinyin",
+   "vi",
+   "tokens",
+   "max_level"
+  ],
+  "properties": {
+   "id": {
+    "type": "string",
+    "pattern": "^\\d{2}-(S\\d{2,3}|D\\d+-\\d+|E\\d{3,4})$"
+   },
+   "topic": {
+    "type": "string"
+   },
+   "type": {
+    "enum": [
+     "S",
+     "D",
+     "E"
+    ]
+   },
+   "dialogue": {
+    "type": [
+     "string",
+     "null"
+    ]
+   },
+   "speaker": {
+    "type": [
+     "string",
+     "null"
+    ]
+   },
+   "zh": {
+    "type": "string"
+   },
+   "pinyin": {
+    "type": "string"
+   },
+   "vi": {
+    "type": "string"
+   },
+   "grammar": {
+    "type": "string"
+   },
+   "tokens": {
+    "type": "array",
+    "description": "[từ, pinyin, cấp] — cấp 1–3 HSK, 4 từ chuyên ngành, 0 chưa biết, null dấu câu",
+    "items": {
+     "type": "array",
+     "prefixItems": [
+      {
+       "type": "string"
+      },
+      {
+       "type": "string"
+      },
+      {
+       "type": [
+        "integer",
+        "null"
+       ]
+      }
+     ]
+    }
+   },
+   "max_level": {
+    "type": "integer",
+    "description": "cấp cao nhất trong câu; 4 = có từ chuyên ngành; 5 = có từ chưa biết"
+   },
+   "beyond_hsk3": {
+    "type": "array",
+    "items": {
+     "type": "string"
+    }
+   },
+   "src": {
+    "type": "string"
+   }
+  }
+ }
+}

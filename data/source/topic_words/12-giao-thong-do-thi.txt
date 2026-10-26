@@ -1,0 +1,49 @@
+# Từ vựng chủ đề 12 — Giao thông đô thị
+# W|ID từ|chữ Hán                         từ thuộc chủ đề (thứ tự = thứ tự nghe)
+# E|ID câu|ID từ|câu|nghĩa Việt|nghĩa Anh|ngữ pháp   câu của từ (sinh bằng scripts/generate.py)
+
+W|T12-001|堵车
+E|12-E001|T12-001|早上堵车，我迟到了。|Sáng nay kẹt xe, tôi đến muộn.|There was a traffic jam this morning, so I was late.|堵车，我迟到了（结果）
+E|12-E002|T12-001|现在堵车，不然我们打车吧？|Bây giờ đang kẹt xe, hay là chúng ta bắt taxi nhé?|There's a traffic jam now, so how about we take a taxi?|不然…吧
+W|T12-002|摩托车
+E|12-E003|T12-002|摩托车不能上单行道。|Xe máy không được đi vào đường một chiều.|Motorcycles can't go onto a one-way street.|不能 + 动词
+E|12-E004|T12-002|你骑摩托车要戴头盔。|Bạn đi xe máy phải đội mũ bảo hiểm.|You have to wear a helmet when you ride a motorcycle.|要 + 动词
+W|T12-003|迟到
+E|12-E005|T12-003|堵车太厉害，我又迟到了。|Kẹt xe kinh khủng quá, tôi lại đến muộn rồi.|The traffic jam was terrible, and I was late again.|太…了
+E|12-E006|T12-003|打车吧，不然会迟到。|Bắt taxi đi, không thì sẽ đến muộn.|Let's take a taxi, otherwise we'll be late.|不然会…
+W|T12-004|打车
+E|12-E007|T12-004|从这里打车到火车站远吗？|Từ đây bắt taxi đến ga tàu có xa không?|Is it far to take a taxi from here to the train station?|从…到…
+E|12-E008|T12-004|下雨了，我们打车回去吧。|Trời mưa rồi, chúng ta bắt taxi về đi.|It's raining, let's take a taxi back.|…吧（建议）
+W|T12-005|叫车
+E|12-E009|T12-005|你叫车了吗？快一点！|Bạn gọi xe chưa? Nhanh lên!|Have you called a car? Hurry up!|…了吗
+E|12-E010|T12-005|太晚了，我叫车回家。|Muộn quá rồi, tôi gọi xe về nhà.|It's too late, I'll call a car to go home.|太…了
+W|T12-006|单行道
+E|12-E011|T12-006|这是单行道，不能往那边走。|Đây là đường một chiều, không đi được về phía đó.|This is a one-way street; you can't go that way.|不能 + 动词
+E|12-E012|T12-006|单行道在哪儿下车？|Đường một chiều thì xuống xe ở đâu?|Where do we get off on the one-way street?|在哪儿 + 动词
+W|T12-007|头盔
+E|12-E013|T12-007|骑摩托车一定要戴头盔。|Đi xe máy nhất định phải đội mũ bảo hiểm.|You must wear a helmet when riding a motorcycle.|一定要 + 动词
+E|12-E014|T12-007|我的头盔在办公室，忘了拿。|Mũ bảo hiểm của tôi ở văn phòng, quên lấy rồi.|My helmet is at the office; I forgot to take it.|忘了 + 动词
+W|T12-008|戴
+E|12-E015|T12-008|你戴头盔了吗？小心交通事故。|Bạn đội mũ bảo hiểm chưa? Cẩn thận tai nạn giao thông.|Did you put on your helmet? Be careful of traffic accidents.|…了吗
+E|12-E016|T12-008|坐摩托车要戴头盔，不然很危险。|Ngồi xe máy phải đội mũ bảo hiểm, không thì rất nguy hiểm.|You have to wear a helmet when riding a motorcycle, otherwise it's very dangerous.|要…，不然…
+W|T12-009|下车
+E|12-E017|T12-009|你在火车站下车吗？|Bạn xuống xe ở ga tàu hỏa à?|Are you getting off at the train station?|在 + địa điểm + 下车
+E|12-E018|T12-009|请在前面的单行道下车。|Xin hãy xuống xe ở đường một chiều phía trước.|Please get off at the one-way street ahead.|请 + 在… + 下车
+W|T12-010|打表
+E|12-E019|T12-010|打车要打表，不然太贵。|Đi taxi phải tính theo đồng hồ, nếu không thì đắt lắm.|When you take a taxi, use the meter, otherwise it's too expensive.|要…，不然…
+E|12-E020|T12-010|这个出租车打表了吗？|Xe taxi này đã bật đồng hồ tính tiền chưa?|Has this taxi started the meter?|…了吗？
+W|T12-011|火车站
+E|12-E021|T12-011|从火车站到大学城远吗？|Từ ga tàu hỏa đến làng đại học có xa không?|Is it far from the train station to the university town?|从…到…远吗？
+E|12-E022|T12-011|去火车站叫车比较快。|Đi ga tàu hỏa thì gọi xe sẽ nhanh hơn.|For the train station, calling a car is faster.|比较 + tính từ
+W|T12-012|大学城
+E|12-E023|T12-012|大学城那边堵车很厉害。|Bên làng đại học tắc đường dữ dội lắm.|Traffic is really bad over by the university town.|…很厉害
+E|12-E024|T12-012|坐地铁去大学城很方便。|Đi tàu điện ngầm đến làng đại học rất tiện.|Taking the metro to the university town is very convenient.|坐 + phương tiện + 去 + nơi
+W|T12-013|交通事故
+E|12-E025|T12-013|前面有交通事故，会迟到。|Phía trước có tai nạn giao thông, sẽ bị muộn.|There's a traffic accident ahead, we'll be late.|有 + danh từ，会…
+E|12-E026|T12-013|交通事故以后，路很堵。|Sau tai nạn giao thông, đường rất tắc.|After the accident, the road is very jammed.|以后，…
+W|T12-014|厉害
+E|12-E027|T12-014|早上堵车太厉害了！|Buổi sáng tắc đường dữ quá!|The morning traffic jam is really terrible!|太 + tính từ + 了
+E|12-E028|T12-014|这里堵车没那么厉害。|Ở đây tắc đường không dữ dội đến thế.|The traffic here isn't that bad.|没那么 + tính từ
+W|T12-015|不然
+E|12-E029|T12-015|戴好头盔，不然很危险。|Đội mũ bảo hiểm cho đàng hoàng, nếu không thì rất nguy hiểm.|Wear your helmet properly, otherwise it's dangerous.|…，不然…
+E|12-E030|T12-015|我们打车吧，不然会迟到。|Chúng ta đi taxi đi, nếu không sẽ muộn.|Let's take a taxi, otherwise we'll be late.|吧，不然会…
